@@ -45,7 +45,7 @@ Un narratore, sottoposto a una forma di hyper-travel, scopre che la comprensione
 
 Il sesso del narratore non è dichiarato ed esso è impegnato nell’osservazione e nell’indagine di fenomeni anomali della rete.
 
-La narrazione rimane vincolata alla prima persona ed è deliberatamente ambiguo se la voce narrante sia organica o computazionale; un sistema che si ricorsivo attraverso cicli di generazione, osservazione e raffinamento. Una configurazione iterata. Una manifestazione localmente determinata generata dall’auto-interazione dell’hypernetwork.
+La narrazione rimane vincolata alla prima persona ed è deliberatamente ambiguo se la voce narrante sia organica o computazionale; un sistema ricorsivo attraverso cicli di generazione, osservazione e raffinamento. Una configurazione iterata. Una manifestazione localmente determinata generata dall’auto-interazione dell’hypernetwork.
 
 Il narratore non può stabilire con certezza se sia cosciente, se le sue esperienze siano autentiche o se tale distinzione abbia significato. Nonostante questa ambiguità, la sua apparente umanità rimane convincente.
 

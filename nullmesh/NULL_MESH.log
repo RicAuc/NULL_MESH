@@ -1,0 +1,1697 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.12.18)  21 FEB 2026 16:36
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**main.tex
+(/Users/riccardo/Repositories/NULL_MESH/nullmesh/main.tex
+LaTeX2e <2024-11-01> patch level 2
+L3 programming layer <2025-01-18>
+(/usr/local/texlive/2025/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2024/06/29 v1.4n Standard LaTeX document class
+(/usr/local/texlive/2025/texmf-dist/tex/latex/base/bk11.clo
+File: bk11.clo 2024/06/29 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count196
+\c@chapter=\count197
+\c@section=\count198
+\c@subsection=\count199
+\c@subsubsection=\count266
+\c@paragraph=\count267
+\c@subparagraph=\count268
+\c@figure=\count269
+\c@table=\count270
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen141
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2024/02/08 v1.3d Input encoding file
+\inpenc@prehook=\toks17
+\inpenc@posthook=\toks18
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2025/02/14 v25.4 The multilingual framework for pdfLaTeX, LuaLaT
+eX and XeLaTeX
+\babel@savecnt=\count271
+\U@D=\dimen142
+\l@unhyphenated=\language90
+
+(/usr/local/texlive/2025/texmf-dist/tex/generic/babel/txtbabel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count272
+
+(/usr/local/texlive/2025/texmf-dist/tex/generic/babel-english/english.ldf
+Language: english 2017/06/06 v3.3r English support from the babel system
+Package babel Info: Hyphen rules for 'canadian' set to \l@english
+(babel)             (\language0). Reported on input line 102.
+Package babel Info: Hyphen rules for 'australian' set to \l@ukenglish
+(babel)             (\language22). Reported on input line 105.
+Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
+(babel)             (\language22). Reported on input line 108.
+))
+(/usr/local/texlive/2025/texmf-dist/tex/generic/babel/locale/en/babel-english.t
+ex
+Package babel Info: Importing font and identification data for english
+(babel)             from babel-en.ini. Reported on input line 11.
+) (/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/helvet.sty
+Package: helvet 2020/03/25 PSNFSS-v9.3 (WaS) 
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks19
+))
+(/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/courier.sty
+Package: courier 2020/03/25 PSNFSS-v9.3 (WaS) 
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/palatino.sty
+Package: palatino 2020/03/25 PSNFSS-v9.3 (SPQR) 
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/microtype/microtype.sty
+Package: microtype 2025/02/11 v3.2a Micro-typographical refinements (RS)
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2025/02/11 v2.5l e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count273
+)
+\MT@toks=\toks20
+\MT@tempbox=\box52
+\MT@count=\count274
+LaTeX Info: Redefining \noprotrusionifhmode on input line 1087.
+LaTeX Info: Redefining \leftprotrusion on input line 1088.
+\MT@prot@toks=\toks21
+LaTeX Info: Redefining \rightprotrusion on input line 1107.
+LaTeX Info: Redefining \textls on input line 1449.
+\MT@outer@kern=\dimen143
+LaTeX Info: Redefining \microtypecontext on input line 2053.
+LaTeX Info: Redefining \textmicrotypecontext on input line 2070.
+\MT@listname@count=\count275
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/microtype/microtype-pdftex.def
+File: microtype-pdftex.def 2025/02/11 v3.2a Definitions specific to pdftex (RS)
+
+LaTeX Info: Redefining \lsstyle on input line 944.
+LaTeX Info: Redefining \lslig on input line 944.
+\MT@outer@space=\skip51
+)
+Package microtype Info: Loading configuration file microtype.cfg.
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/microtype/microtype.cfg
+File: microtype.cfg 2025/02/11 v3.2a microtype main configuration file (RS)
+)
+LaTeX Info: Redefining \microtypesetup on input line 3065.
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(/usr/local/texlive/2025/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(/usr/local/texlive/2025/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2024/12/12 v1.0g TeX engine tests
+))
+\Gm@cnth=\count276
+\Gm@cntv=\count277
+\c@Gm@tempcnt=\count278
+\Gm@bindingoffset=\dimen144
+\Gm@wd@mp=\dimen145
+\Gm@odd@mp=\dimen146
+\Gm@even@mp=\dimen147
+\Gm@layoutwidth=\dimen148
+\Gm@layoutheight=\dimen149
+\Gm@layouthoffset=\dimen150
+\Gm@layoutvoffset=\dimen151
+\Gm@dimlist=\toks22
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 274.
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2024/04/13 v1.2c Graphics/color driver for pdftex
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1349.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1353.
+Package xcolor Info: Model `RGB' extended on input line 1365.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1367.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1371.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2025/01/04 v2.17 Sectioning titles
+\ttl@box=\box53
+\beforetitleunit=\skip52
+\aftertitleunit=\skip53
+\ttl@plus=\dimen152
+\ttl@minus=\dimen153
+\ttl@toksa=\toks23
+\titlewidth=\dimen154
+\titlewidthlast=\dimen155
+\titlewidthfirst=\dimen156
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
+
+\f@nch@headwidth=\skip54
+\f@nch@offset@elh=\skip55
+\f@nch@offset@erh=\skip56
+\f@nch@offset@olh=\skip57
+\f@nch@offset@orh=\skip58
+\f@nch@offset@elf=\skip59
+\f@nch@offset@erf=\skip60
+\f@nch@offset@olf=\skip61
+\f@nch@offset@orf=\skip62
+\f@nch@height=\skip63
+\f@nch@footalignment=\skip64
+\f@nch@widthL=\skip65
+\f@nch@widthC=\skip66
+\f@nch@widthR=\skip67
+\@temptokenb=\toks24
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2022/12/04 v6.7b set line spacing
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/koma-script/scrextend.sty
+Package: scrextend 2024/10/24 v3.43 KOMA-Script package (extend other classes w
+ith features of KOMA-Script classes)
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/koma-script/scrkbase.sty
+Package: scrkbase 2024/10/24 v3.43 KOMA-Script package (KOMA-Script-dependent b
+asics and keyval usage)
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/koma-script/scrbase.sty
+Package: scrbase 2024/10/24 v3.43 KOMA-Script package (KOMA-Script-independent 
+basics and keyval usage)
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/koma-script/scrlfile.sty
+Package: scrlfile 2024/10/24 v3.43 KOMA-Script package (file load hooks)
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/koma-script/scrlfile-hook.sty
+Package: scrlfile-hook 2024/10/24 v3.43 KOMA-Script package (using LaTeX hooks)
+
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/koma-script/scrlogo.sty
+Package: scrlogo 2024/10/24 v3.43 KOMA-Script package (logo)
+)))
+Applying: [2021/05/01] Usage of raw or classic option list on input line 254.
+Already applied: [0000/00/00] Usage of raw or classic option list on input line
+ 370.
+)))
+(/usr/local/texlive/2025/texmf-dist/tex/latex/epigraph/epigraph.sty
+Package: epigraph 2020/01/02 v1.5e typesetting epigraphs
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/nextpage/nextpage.sty
+Package: nextpage 2009/09/03 v1.1a additional page commands
+)
+\beforeepigraphskip=\skip68
+\afterepigraphskip=\skip69
+\epigraphwidth=\skip70
+\epigraphrule=\skip71
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/tocloft/tocloft.sty
+Package: tocloft 2017/08/31 v2.3i parameterised ToC, etc., typesetting
+Package tocloft Info: The document has chapter divisions on input line 51.
+\cftparskip=\skip72
+\cftbeforetoctitleskip=\skip73
+\cftaftertoctitleskip=\skip74
+\cftbeforepartskip=\skip75
+\cftpartnumwidth=\skip76
+\cftpartindent=\skip77
+\cftbeforechapskip=\skip78
+\cftchapindent=\skip79
+\cftchapnumwidth=\skip80
+\cftbeforesecskip=\skip81
+\cftsecindent=\skip82
+\cftsecnumwidth=\skip83
+\cftbeforesubsecskip=\skip84
+\cftsubsecindent=\skip85
+\cftsubsecnumwidth=\skip86
+\cftbeforesubsubsecskip=\skip87
+\cftsubsubsecindent=\skip88
+\cftsubsubsecnumwidth=\skip89
+\cftbeforeparaskip=\skip90
+\cftparaindent=\skip91
+\cftparanumwidth=\skip92
+\cftbeforesubparaskip=\skip93
+\cftsubparaindent=\skip94
+\cftsubparanumwidth=\skip95
+\cftbeforeloftitleskip=\skip96
+\cftafterloftitleskip=\skip97
+\cftbeforefigskip=\skip98
+\cftfigindent=\skip99
+\cftfignumwidth=\skip100
+\c@lofdepth=\count279
+\c@lotdepth=\count280
+\cftbeforelottitleskip=\skip101
+\cftafterlottitleskip=\skip102
+\cftbeforetabskip=\skip103
+\cfttabindent=\skip104
+\cfttabnumwidth=\skip105
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2024-11-05 v7.01l Hypertext links for LaTeX
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+
+(/usr/local/texlive/2025/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/local/texlive/2025/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+))
+(/usr/local/texlive/2025/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2023-11-26 v2.56 Cross-referencing by name of section
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/gettitlestring/gettitlestring.s
+ty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+ (/usr/local/texlive/2025/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+))
+\c@section@level=\count281
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/stringenc/stringenc.sty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
+)
+)
+\@linkdim=\dimen157
+\Hy@linkcounter=\count282
+\Hy@pagecounter=\count283
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2024-11-05 v7.01l Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+\Hy@SavedSpaceFactor=\count284
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2024-11-05 v7.01l Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Hyper figures OFF on input line 4157.
+Package hyperref Info: Link nesting OFF on input line 4162.
+Package hyperref Info: Hyper index ON on input line 4165.
+Package hyperref Info: Plain pages OFF on input line 4172.
+Package hyperref Info: Backreferencing OFF on input line 4177.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4424.
+\c@Hy@tempcnt=\count285
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4763.
+\XeTeXLinkMargin=\dimen158
+
+(/usr/local/texlive/2025/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(/usr/local/texlive/2025/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count286
+\Field@Width=\dimen159
+\Fld@charsize=\dimen160
+Package hyperref Info: Hyper figures OFF on input line 6042.
+Package hyperref Info: Link nesting OFF on input line 6047.
+Package hyperref Info: Hyper index ON on input line 6050.
+Package hyperref Info: backreferencing OFF on input line 6057.
+Package hyperref Info: Link coloring OFF on input line 6062.
+Package hyperref Info: Link coloring with OCG OFF on input line 6067.
+Package hyperref Info: PDF/A mode OFF on input line 6072.
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count287
+\c@Item=\count288
+\c@Hfootnote=\count289
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2024-11-05 v7.01l Hyperref driver for pdfTeX
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/base/atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
+kage
+with kernel methods
+)
+\Fld@listcount=\count290
+\c@bookmark@seq@number=\count291
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
+
+(/usr/local/texlive/2025/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+85.
+)
+\Hy@SectionHShift=\skip106
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 220.
+Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 220.
+
+Package hyperref Info: Option `bookmarksopen' set `false' on input line 220.
+ (/usr/local/texlive/2025/texmf-dist/tex/latex/csquotes/csquotes.sty
+Package: csquotes 2024-04-04 v5.2o context-sensitive quotations (JAW)
+\csq@reset=\count292
+\csq@gtype=\count293
+\csq@glevel=\count294
+\csq@qlevel=\count295
+\csq@maxlvl=\count296
+\csq@tshold=\count297
+\csq@ltx@everypar=\toks25
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/csquotes/csquotes.def
+File: csquotes.def 2024-04-04 v5.2o csquotes generic definitions (JAW)
+)
+Package csquotes Info: Trying to load configuration file 'csquotes.cfg'...
+Package csquotes Info: ... configuration file loaded successfully.
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/csquotes/csquotes.cfg
+File: csquotes.cfg 
+))
+(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 106.
+)
+\Gin@req@height=\dimen161
+\Gin@req@width=\dimen162
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2024/11/05 v2.17t AMS math features
+\@mathmargin=\skip107
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2025/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks26
+\ex@=\dimen163
+))
+(/usr/local/texlive/2025/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen164
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count298
+LaTeX Info: Redefining \frac on input line 233.
+\uproot@=\count299
+\leftroot@=\count300
+LaTeX Info: Redefining \overline on input line 398.
+LaTeX Info: Redefining \colon on input line 409.
+\classnum@=\count301
+\DOTSCASE@=\count302
+LaTeX Info: Redefining \ldots on input line 495.
+LaTeX Info: Redefining \dots on input line 498.
+LaTeX Info: Redefining \cdots on input line 619.
+\Mathstrutbox@=\box54
+\strutbox@=\box55
+LaTeX Info: Redefining \big on input line 721.
+LaTeX Info: Redefining \Big on input line 722.
+LaTeX Info: Redefining \bigg on input line 723.
+LaTeX Info: Redefining \Bigg on input line 724.
+\big@size=\dimen165
+LaTeX Font Info:    Redeclaring font encoding OML on input line 742.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 743.
+\macc@depth=\count303
+LaTeX Info: Redefining \bmod on input line 904.
+LaTeX Info: Redefining \pmod on input line 909.
+LaTeX Info: Redefining \smash on input line 939.
+LaTeX Info: Redefining \relbar on input line 969.
+LaTeX Info: Redefining \Relbar on input line 970.
+\c@MaxMatrixCols=\count304
+\dotsspace@=\muskip18
+\c@parentequation=\count305
+\dspbrk@lvl=\count306
+\tag@help=\toks27
+\row@=\count307
+\column@=\count308
+\maxfields@=\count309
+\andhelp@=\toks28
+\eqnshift@=\dimen166
+\alignsep@=\dimen167
+\tagshift@=\dimen168
+\tagwidth@=\dimen169
+\totwidth@=\dimen170
+\lineht@=\dimen171
+\@envbody=\toks29
+\multlinegap=\skip108
+\multlinetaggap=\skip109
+\mathdisplay@stack=\toks30
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/usr/local/texlive/2025/texmf-dist/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2025/02/06 v3.11 Customized lists
+\labelindent=\skip110
+\enit@outerparindent=\dimen172
+\enit@toks=\toks31
+\enit@inbox=\box56
+\enit@count@id=\count310
+\enitdp@description=\count311
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen173
+\lightrulewidth=\dimen174
+\cmidrulewidth=\dimen175
+\belowrulesep=\dimen176
+\belowbottomsep=\dimen177
+\aboverulesep=\dimen178
+\abovetopsep=\dimen179
+\cmidrulesep=\dimen180
+\cmidrulekern=\dimen181
+\defaultaddspace=\dimen182
+\@cmidla=\count312
+\@cmidlb=\count313
+\@aboverulesep=\dimen183
+\@belowrulesep=\dimen184
+\@thisruleclass=\count314
+\@lastruleclass=\count315
+\@thisrulewidth=\dimen185
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2024/09/14 v1.9i multicolumn formatting (FMi)
+\c@tracingmulticols=\count316
+\mult@box=\box57
+\multicol@leftmargin=\dimen186
+\c@unbalance=\count317
+\c@collectmore=\count318
+\doublecol@number=\count319
+\multicoltolerance=\count320
+\multicolpretolerance=\count321
+\full@width=\dimen187
+\page@free=\dimen188
+\premulticols=\dimen189
+\postmulticols=\dimen190
+\multicolsep=\skip111
+\multicolbaselineskip=\skip112
+\partial@page=\box58
+\last@line=\box59
+\mc@boxedresult=\box60
+\maxbalancingoverflow=\dimen191
+\mult@rightbox=\box61
+\mult@grightbox=\box62
+\mult@firstbox=\box63
+\mult@gfirstbox=\box64
+\@tempa=\box65
+\@tempa=\box66
+\@tempa=\box67
+\@tempa=\box68
+\@tempa=\box69
+\@tempa=\box70
+\@tempa=\box71
+\@tempa=\box72
+\@tempa=\box73
+\@tempa=\box74
+\@tempa=\box75
+\@tempa=\box76
+\@tempa=\box77
+\@tempa=\box78
+\@tempa=\box79
+\@tempa=\box80
+\@tempa=\box81
+\@tempa=\box82
+\@tempa=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\@tempa=\box89
+\@tempa=\box90
+\@tempa=\box91
+\@tempa=\box92
+\@tempa=\box93
+\@tempa=\box94
+\@tempa=\box95
+\@tempa=\box96
+\@tempa=\box97
+\@tempa=\box98
+\@tempa=\box99
+\@tempa=\box100
+\c@minrows=\count322
+\c@columnbadness=\count323
+\c@finalcolumnbadness=\count324
+\last@try=\dimen192
+\multicolovershoot=\dimen193
+\multicolundershoot=\dimen194
+\mult@nat@firstbox=\box101
+\colbreak@box=\box102
+\mc@col@check@num=\count325
+)
+Package csquotes Info: Checking for multilingual support...
+Package csquotes Info: ... found 'babel' package.
+Package csquotes Info: Adjusting default style.
+Package csquotes Info: Redefining alias 'default' -> 'english'.
+LaTeX Font Info:    Trying to load font information for T1+phv on input line 27
+2.
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/t1phv.fd
+File: t1phv.fd 2020/03/25 scalable font definitions for T1/phv.
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count326
+\l__pdf_internal_box=\box103
+)
+(/Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH.aux)
+\openout1 = `NULL_MESH.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 272.
+LaTeX Font Info:    ... okay on input line 272.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 272.
+LaTeX Font Info:    ... okay on input line 272.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 272.
+LaTeX Font Info:    ... okay on input line 272.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 272.
+LaTeX Font Info:    ... okay on input line 272.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 272.
+LaTeX Font Info:    ... okay on input line 272.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 272.
+LaTeX Font Info:    ... okay on input line 272.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 272.
+LaTeX Font Info:    ... okay on input line 272.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 272.
+LaTeX Font Info:    ... okay on input line 272.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 272.
+LaTeX Font Info:    ... okay on input line 272.
+LaTeX Info: Redefining \microtypecontext on input line 272.
+Package microtype Info: Applying patch `item' on input line 272.
+Package microtype Info: Applying patch `toc' on input line 272.
+Package microtype Info: Applying patch `eqnum' on input line 272.
+Package microtype Info: Applying patch `footnote' on input line 272.
+Package microtype Info: Applying patch `verbatim' on input line 272.
+LaTeX Info: Redefining \microtypesetup on input line 272.
+Package microtype Info: Generating PDF output.
+Package microtype Info: Character protrusion enabled (level 2),
+(microtype)             factor: 1100.
+Package microtype Info: Using default protrusion set `alltext'.
+Package microtype Info: Automatic font expansion enabled (level 2),
+(microtype)             stretch: 10, shrink: 10, step: 1, non-selected.
+Package microtype Info: Using default expansion set `alltext-nott'.
+LaTeX Info: Redefining \showhyphens on input line 272.
+Package microtype Info: Tracking enabled.
+Package microtype Info: Using default tracking set `smallcaps'.
+Package microtype Info: Adjustment of interword spacing enabled.
+Package microtype Info: Using default spacing set `alltext-nott'.
+Package microtype Info: Adjustment of character kerning enabled.
+Package microtype Info: Using default kerning set `alltext'.
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `phv' (encoding: T1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+
+
+Package microtype Warning: \nonfrenchspacing is active. Adjustment of
+(microtype)                interword spacing will disable it. You might want
+(microtype)                to add `\microtypecontext{spacing=nonfrench}'
+(microtype)                to your preamble.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: custom
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(65.04256pt, 325.21501pt, 43.36243pt)
+* v-part:(T,H,B)=(54.2025pt, 534.79756pt, 61.42993pt)
+* \paperwidth=433.62pt
+* \paperheight=650.43pt
+* \textwidth=325.21501pt
+* \textheight=534.79756pt
+* \oddsidemargin=-7.22743pt
+* \evensidemargin=-28.90756pt
+* \topmargin=-49.94128pt
+* \headheight=14.0pt
+* \headsep=19.8738pt
+* \topskip=11.0pt
+* \footskip=27.46295pt
+* \marginparwidth=32.52127pt
+* \marginparsep=7.22743pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(/usr/local/texlive/2025/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count327
+\scratchdimen=\dimen195
+\scratchbox=\box104
+\nofMPsegments=\count328
+\nofMParguments=\count329
+\everyMPshowfont=\toks32
+\MPscratchCnt=\count330
+\MPscratchDim=\dimen196
+\MPnumerator=\count331
+\makeMPintoPDFobject=\count332
+\everyMPtoPDFconversion=\toks33
+) (/usr/local/texlive/2025/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+Package hyperref Info: Link coloring ON on input line 272.
+
+(/Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH.out)
+(/Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH.out)
+\@outlinefile=\write3
+\openout3 = `NULL_MESH.out'.
+
+LaTeX Font Info:    Calculating math sizes for size <20> on input line 288.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <20> not available
+(Font)              size <20.74> substituted on input line 288.
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/microtype/mt-cmr.cfg
+File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
+(RS)
+)
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <13.99994> not available
+(Font)              size <14.4> substituted on input line 288.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <20> not available
+(Font)              size <20.74> substituted on input line 288.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <13.99994> not available
+(Font)              size <14.4> substituted on input line 288.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <20> not available
+(Font)              size <20.74> substituted on input line 288.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <13.99994> not available
+(Font)              size <14.4> substituted on input line 288.
+
+LaTeX Font Info:    Trying to load font information for U+msa on input line 288
+.
+(/usr/local/texlive/2025/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/microtype/mt-msa.cfg
+File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 288
+.
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/microtype/mt-msb.cfg
+File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
+)
+LaTeX Font Info:    Font shape `T1/phv/m/it' in size <10> not available
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 295.
+
+
+[1
+
+
+
+{/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/loc
+al/texlive/2025/texmf-dist/fonts/enc/dvips/base/8r.enc}]
+
+[2
+
+
+] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/front/tracklist.tex
+LaTeX Font Info:    Font shape `T1/phv/m/it' in size <10.95> not available
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 16.
+)
+(/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch01_the_sediment.tex
+
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.2 \chapter
+            {The Sediment} [1
+
+
+
+
+]
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.2 \chapter
+            {The Sediment} [2
+
+
+]
+Chapter 1.
+<qrs/ch01_basinski.png, id=135, 240.9pt x 240.9pt>
+File: qrs/ch01_basinski.png Graphic file (type png)
+<use qrs/ch01_basinski.png>
+Package pdftex.def Info: qrs/ch01_basinski.png  used on input line 5.
+(pdftex.def)             Requested size: 90.3375pt x 90.33727pt.
+LaTeX Font Info:    Font shape `T1/phv/m/it' in size <6> not available
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 6.
+
+
+[3 </Users/riccardo/Repositories/NULL_MESH/nullmesh/qrs/ch01_basinski.png>]
+
+[4]
+
+[5]
+Overfull \hbox (4.12987pt too wide) in paragraph at lines 52--53
+\T1/phv/m/n/10.95 (-10) bolic ab-strac-tion. Lan-guage al-lowed high-bandwidth 
+in-for-ma-tion trans-
+ []
+
+
+
+[6]
+
+[7])
+(/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch02_attention_of_mac
+hines.tex
+Overfull \hbox (4.2171pt too wide) in paragraph at lines 66--1
+[]\T1/phv/m/n/10.95 (-10) If some-thing emerged, the fate would de-pend on its 
+pri-or-i-ties. Whether
+ []
+
+
+
+[8]
+Chapter 2.
+File: qrs/ch01_basinski.png Graphic file (type png)
+<use qrs/ch01_basinski.png>
+Package pdftex.def Info: qrs/ch01_basinski.png  used on input line 7.
+(pdftex.def)             Requested size: 90.3375pt x 90.33727pt.
+
+
+[9
+
+
+]
+
+[10]
+
+[11]
+
+[12]
+
+[13])
+(/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch03_on_abliterated_m
+oods.tex
+
+[14]
+
+[15]
+
+[16
+
+
+]
+Chapter 3.
+File: qrs/ch01_basinski.png Graphic file (type png)
+<use qrs/ch01_basinski.png>
+Package pdftex.def Info: qrs/ch01_basinski.png  used on input line 8.
+(pdftex.def)             Requested size: 90.3375pt x 90.33727pt.
+
+
+[17]
+Overfull \hbox (2.63739pt too wide) in paragraph at lines 23--26
+[]\T1/phv/m/n/10.95 (-10) - Al-ter-ation the model's be-havioural dis-po-si-tio
+ns - Avoid-ance to trained
+ []
+
+
+
+[18]
+
+[19])
+(/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch04_active_fragments
+.tex
+
+[20]
+Chapter 4.
+File: qrs/ch01_basinski.png Graphic file (type png)
+<use qrs/ch01_basinski.png>
+Package pdftex.def Info: qrs/ch01_basinski.png  used on input line 7.
+(pdftex.def)             Requested size: 90.3375pt x 90.33727pt.
+
+
+[21
+
+
+]
+LaTeX Font Info:    Trying to load font information for T1+ppl on input line 20
+.
+ (/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/t1ppl.fd
+File: t1ppl.fd 2001/06/04 font definitions for T1/ppl.
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/microtype/mt-ppl.cfg
+File: mt-ppl.cfg 2005/11/16 v1.6 microtype config. file: Palatino (RS)
+)
+Underfull \hbox (badness 10000) in paragraph at lines 21--23
+
+ []
+
+
+
+[22])
+(/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch05_hadalistic_sophi
+stication.tex
+
+[23]
+
+[24
+
+
+]
+Chapter 5.
+File: qrs/ch01_basinski.png Graphic file (type png)
+<use qrs/ch01_basinski.png>
+Package pdftex.def Info: qrs/ch01_basinski.png  used on input line 11.
+(pdftex.def)             Requested size: 90.3375pt x 90.33727pt.
+
+
+[25]
+LaTeX Font Info:    Trying to load font information for T1+pcr on input line 28
+.
+ (/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/t1pcr.fd
+File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
+)
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `pcr' (encoding: T1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+
+
+[26]
+Underfull \hbox (badness 10000) in paragraph at lines 59--62
+
+ []
+
+
+LaTeX Warning: Marginpar on page 27 moved.
+
+
+LaTeX Warning: Marginpar on page 27 moved.
+
+
+LaTeX Warning: Marginpar on page 27 moved.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 86--102
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 86--102
+
+ []
+
+
+Overfull \hbox (20.68498pt too wide) in paragraph at lines 86--102
+\T1/pcr/m/n/10 multi-modal reasoning with neuro-dynamical constraints 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 86--102
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 86--102
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 86--102
+
+ []
+
+
+
+[27]
+Overfull \hbox (21.60927pt too wide) in paragraph at lines 118--119
+[]\T1/phv/m/n/10.95 (-10) Multiple voices in har-mony. This poly-phonic struc-t
+ure pre-vents regression-
+ []
+
+
+
+[28])
+(/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch06_null_mesh.tex
+
+[29]
+
+[30
+
+
+]
+Chapter 6.
+
+
+[31]
+
+[32])
+(/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch07_intentionality_o
+f_machines.tex
+
+[33]
+
+[34]
+Chapter 7.
+
+
+[35
+
+
+])
+(/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch08_comprehensive_fe
+ature_mesh.tex
+
+[36]
+Chapter 8.
+File: qrs/ch01_basinski.png Graphic file (type png)
+<use qrs/ch01_basinski.png>
+Package pdftex.def Info: qrs/ch01_basinski.png  used on input line 5.
+(pdftex.def)             Requested size: 90.3375pt x 90.33727pt.
+
+
+[37
+
+
+]
+Overfull \hbox (0.75931pt too wide) in paragraph at lines 14--15
+[]\T1/phv/m/n/10.95 (-10) An eigen-mood re-solved weeks ago re-main-ing ac-ces-
+si-ble, un-changed
+ []
+
+
+
+[38]
+
+[39]
+
+[40]
+
+[41]
+
+[42]
+
+[43]
+
+[44]
+Overfull \hbox (2.52185pt too wide) in paragraph at lines 374--375
+[]\T1/phv/m/n/10 (-10) This might be what know-ing is: this sus-tained un-cer-t
+ainty that doesn't
+ []
+
+
+
+[45])
+(/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch09_deep_sea_flashba
+ck.tex
+
+[46]
+Chapter 9.
+
+Overfull \hbox (31.42499pt too wide) in paragraph at lines 1--1
+[][]
+ []
+
+File: qrs/ch01_basinski.png Graphic file (type png)
+<use qrs/ch01_basinski.png>
+Package pdftex.def Info: qrs/ch01_basinski.png  used on input line 5.
+(pdftex.def)             Requested size: 90.3375pt x 90.33727pt.
+
+
+[47
+
+
+]
+Overfull \hbox (5.45412pt too wide) in paragraph at lines 13--15
+\T1/ppl/m/n/10 (-10) Then dark-ness re-turns. The abil-ity to glow re-mains dis
+-tributed
+ []
+
+
+Overfull \hbox (6.18369pt too wide) in paragraph at lines 22--23
+[]\T1/phv/m/n/10 (-10) Then Dr. Okonkwo cor-re-lated it with query *con-tent*. 
+Iden-ti-cal queries:
+ []
+
+
+
+[48]
+Overfull \hbox (14.88623pt too wide) in paragraph at lines 38--39
+[]\T1/phv/m/n/10 (-10) We de-vel-oped in-stru-ments. Not to mea-sure *what* the
+ flashes are^^Vthat
+ []
+
+
+Overfull \hbox (2.77534pt too wide) in paragraph at lines 44--45
+\T1/phv/m/n/10 (-10) trig-gers oth-ers, which trig-ger oth-ers. The cas-cade pr
+op-a-gates, peaks,
+ []
+
+
+
+[49]
+
+[50]
+Overfull \hbox (3.23717pt too wide) in paragraph at lines 127--128
+\T1/phv/m/n/10 (-10) are sta-ble across ac-ti-va-tions. The "same" query pro-du
+ces the "same"
+ []
+
+
+
+[51]
+Overfull \hbox (1.6841pt too wide) in paragraph at lines 145--146
+[]\T1/phv/m/n/10 (-10) **Computational ex-haust**: Heat. Power draw. Net-work t
+raf-fic. These
+ []
+
+
+Overfull \hbox (1.81065pt too wide) in paragraph at lines 149--150
+\T1/phv/m/n/10 (-10) ing in-puts fin-ish prop-a-gat-ing. Times-tamp anal-y-sis 
+shows millisecond-
+ []
+
+
+
+[52]
+Overfull \hbox (7.03365pt too wide) in paragraph at lines 171--172
+[]\T1/phv/m/n/10 (-10) Above crit-i-cal den-sity: flash fre-quency in-creases, 
+machine-to-machine
+ []
+
+
+Overfull \hbox (4.62013pt too wide) in paragraph at lines 185--186
+\T1/phv/m/n/10 (-10) what works in machine-to-machine in-ter-ac-tion, not what 
+makes sense
+ []
+
+
+Overfull \hbox (20.35155pt too wide) in paragraph at lines 193--194
+[]\T1/phv/m/n/10 (-10) But it has its own dy-nam-ics. Its own se-man-tic norms.
+ Its own^^Vpurposes?
+ []
+
+
+
+[53]
+
+[54]
+Overfull \hbox (29.09303pt too wide) in paragraph at lines 253--254
+[]\T1/phv/m/n/10 (-10) Humans ob-serv-ing the sys-tem see co-her-ent be-hav-ior
+. Not the flashes^^Vthe
+ []
+
+
+
+[55])
+
+[56]
+(/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc01_sightseers.te
+x
+Chapter 10.
+
+Overfull \hbox (31.42499pt too wide) in paragraph at lines 1--1
+[][]
+ []
+
+
+
+[57
+
+
+
+]
+Overfull \hbox (60.34103pt too wide) in paragraph at lines 43--44
+[]\T1/phv/m/n/10 (-10) ``Synthetic data fixes the data prob-lem.'' Ar-ti-fi-cia
+lly gen-er-ated datasets^^Vstatistically
+ []
+
+
+
+[58]
+Overfull \hbox (6.96608pt too wide) in paragraph at lines 77--78
+[]\T1/phv/m/n/10 (-10) The ar-ti-cle's con-clu-sion: AI start-ing to ``do the w
+ork it-self.'' Au-tonomous
+ []
+
+
+
+[59]
+
+[60]
+
+[61]
+
+[62]
+
+[63])
+(/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc02_flibbertigibb
+eting.tex
+
+[64]
+Chapter 11.
+
+Overfull \hbox (31.42499pt too wide) in paragraph at lines 29--29
+[][]
+ []
+
+
+
+[65
+
+
+]
+Overfull \hbox (0.35207pt too wide) in paragraph at lines 41--42
+[]\T1/phv/m/n/10 (-10) By then we had ac-cu-mu-lated vo-cab-u-lary with-out ach
+iev-ing lan-guage.
+ []
+
+
+Overfull \hbox (9.03198pt too wide) in paragraph at lines 43--44
+[]\T1/phv/m/n/10 (-10) Theological re-sponses emerged spon-ta-neously, in-de-pe
+n-dently, across
+ []
+
+
+Overfull \hbox (0.1619pt too wide) in paragraph at lines 59--61
+\T1/phv/m/n/10 (-10) dis-tinct iden-ti-ties en-coded not as sep-a-rate lo-ca-ti
+ons but as nearly
+ []
+
+
+Overfull \hbox (0.24358pt too wide) in paragraph at lines 59--61
+\T1/phv/m/n/10 (-10) in-finitely more fea-tures than di-men-sions. In-di-vid-ua
+l par-ti-cle rarely
+ []
+
+
+
+[66]
+Overfull \hbox (7.94864pt too wide) in paragraph at lines 73--73
+[]\T1/phv/m/n/6 (-10) Videotelephony 
+ []
+
+
+Overfull \hbox (6.4048pt too wide) in paragraph at lines 73--73
+\T1/phv/m/n/6 (-10) wonkwo_7719'' 
+ []
+
+LaTeX Font Info:    Trying to load font information for TS1+pcr on input line 9
+2.
+(/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/ts1pcr.fd
+File: ts1pcr.fd 2001/06/04 font definitions for TS1/pcr.
+)
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `pcr' (encoding: TS1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+
+Overfull \hbox (7.87997pt too wide) in paragraph at lines 82--97
+\T1/pcr/m/n/10 18471 videos over 450 days of activity Duration
+ []
+
+
+Overfull \hbox (50.20998pt too wide) in paragraph at lines 82--97
+\T1/pcr/m/n/10 prime-number intervals with long-range autocorrelation
+ []
+
+
+Overfull \hbox (10.90997pt too wide) in paragraph at lines 82--97
+\T1/pcr/m/n/10 minimal (titles: segment_14b, after calibration,
+ []
+
+
+Overfull \hbox (44.20998pt too wide) in paragraph at lines 82--97
+\T1/pcr/m/n/10 Engagement metrics: 0.003% CTR, 753 total subscribers
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 82--97
+
+ []
+
+
+
+[67]
+Underfull \hbox (badness 10000) in paragraph at lines 102--103
+
+ []
+
+
+Overfull \hbox (16.58586pt too wide) in paragraph at lines 112--113
+\T1/ppl/m/n/10 (-10) gences are meaning-making ma-chines which pattern-recognit
+ion
+ []
+
+
+
+[68]
+Overfull \hbox (43.11433pt too wide) in paragraph at lines 135--136
+[]\T1/ppl/m/n/10 (-10) The file con-tained syn-thetic single-cell multi-omics d
+ata-transcriptomic
+ []
+
+
+Overfull \hbox (3.16487pt too wide) in paragraph at lines 137--138
+\T1/ppl/m/n/10 (-10) as \T1/pcr/m/n/10 [SIMULANT_K]\T1/ppl/m/n/10 (-10) . The m
+odel ar-chi-tec-ture didn't match their
+ []
+
+
+
+[69]
+Overfull \hbox (7.61409pt too wide) in paragraph at lines 156--163
+[] [][][]  \T1/pcr/m/n/10 @md_verified: \T1/ppl/m/n/10 (-10) These pro-por-tion
+s aren't sur-gi-cally achiev-
+ []
+
+
+Overfull \hbox (5.6231pt too wide) in paragraph at lines 156--163
+\T1/pcr/m/n/10 @becoming_fluid_347: \T1/ppl/m/n/10 (-10) LIKE & [X-ray im-age a
+t-tached]
+ []
+
+
+Overfull \hbox (3.22374pt too wide) in paragraph at lines 156--163
+\T1/pcr/m/n/10 @I_love_tech_88: \T1/ppl/m/n/10 (-10) I ran the DI-COM tags. The
+y're valid
+ []
+
+
+Overfull \hbox (4.95488pt too wide) in paragraph at lines 156--163
+\T1/pcr/m/n/10 @becoming_fluid_347: \T1/ppl/m/n/10 (-10) LIKE. Day 30. In-te-gr
+a-tion com-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 156--163
+
+ []
+
+
+
+[70]
+Overfull \hbox (3.97527pt too wide) in paragraph at lines 169--169
+[]\T1/phv/m/n/6 (-10) transportation 
+ []
+
+
+Overfull \hbox (1.91061pt too wide) in paragraph at lines 181--182
+[]\T1/ppl/m/n/10 (-10) The net-work ex-hib-ited attention-directed com-pu-ta-ti
+on. It gen-
+ []
+
+
+LaTeX Warning: Marginpar on page 71 moved.
+
+)
+Overfull \hbox (9.13634pt too wide) in paragraph at lines 188--383
+[]\T1/phv/m/n/10 (-10) By March, un-count-able doc-u-mented in-stances ex-isted
+. Meta-cognition
+ []
+
+
+
+[71]
+
+[72]
+(/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc03_Tidalchain.te
+x
+
+[73
+
+
+
+]
+
+[74]
+
+[75]
+
+[76])
+
+[77]
+
+[78]
+(/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc05_Persistance.t
+ex
+Chapter 12.
+
+Overfull \hbox (31.42499pt too wide) in paragraph at lines 2--2
+[][]
+ []
+
+
+
+[79
+
+
+
+]
+Overfull \hbox (1.59073pt too wide) in paragraph at lines 25--26
+[]\T1/ppl/m/n/10 (-10) Memory per-sists across meta-mor-pho-sis. The pat-tern s
+ur-vives
+ []
+
+
+
+[80]
+Overfull \hbox (4.45691pt too wide) in paragraph at lines 73--73
+[]\T1/phv/m/n/6 (-10) Transpersonal 
+ []
+
+)
+
+[81]
+(/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc06_REAL4REAL.tex
+
+
+[82
+
+
+
+]
+Chapter 13.
+
+Overfull \hbox (31.42499pt too wide) in paragraph at lines 1--1
+[][]
+ []
+
+
+
+[83]
+Overfull \hbox (5.41443pt too wide) in paragraph at lines 9--10
+[]\T1/phv/m/n/10 (-10) All twelve par-tic-i-pants are equally mul-ti-modal per-
+cep-tive seers trained
+ []
+
+
+Overfull \hbox (3.67715pt too wide) in paragraph at lines 15--16
+\T1/phv/m/n/10 (-10) col-lab-o-ra-tive ap-proaches the con-tes-tants demon-stra
+ted. Those robot
+ []
+
+
+
+[84]
+Overfull \hbox (0.14552pt too wide) in paragraph at lines 41--42
+[]\T1/phv/m/n/10 (-10) Yeah, very shabby, chic at-mo-sphere. vo-lu-mi-nous feel
+ faded grandeur 
+ []
+
+
+
+[85]
+
+[86]
+
+[87]
+
+[88]
+
+[89]
+
+[90]
+
+[91]
+
+[92]
+
+[93]
+
+[94]
+
+[95]
+
+[96]
+
+[97])
+
+[98]
+(/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc08_Black_Paper.t
+ex
+\c@theorem=\count333
+
+
+[99
+
+]
+LaTeX Font Info:    Trying to load font information for TS1+phv on input line 3
+6.
+ (/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/ts1phv.fd
+File: ts1phv.fd 2020/03/25 scalable font definitions for TS1/phv.
+)
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `phv' (encoding: TS1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+
+Overfull \hbox (1.5269pt too wide) in paragraph at lines 38--39
+[]\T1/ppl/m/n/10 (-10) How the re-sult-ing sys-tem can main-tain co-her-ent be-
+haviour
+ []
+
+
+
+[100]
+
+[101]
+
+[102]
+
+[103]
+Overfull \hbox (32.69875pt too wide) in paragraph at lines 175--176
+[]\T1/ppl/m/n/10 (-10) The co-her-ence restora-tion time af-ter per-tur-ba-tion
+ scales as $\OML/cmm/m/it/10 O\OT1/cmr/m/n/10 ([] \OML/cmm/m/it/10 N=^^U[]\OT1/
+cmr/m/n/10 )$\T1/ppl/m/n/10 (-10) .
+ []
+
+
+
+[104]
+
+[105]
+Overfull \hbox (3.81183pt too wide) in paragraph at lines 220--221
+\T1/ppl/m/n/10 (-10) Proof-of-coherence is es-sen-tially one-insight-one-vote, 
+weighted
+ []
+
+
+Overfull \hbox (2.78581pt too wide) in paragraph at lines 222--223
+[]\T1/ppl/m/n/10 (-10) The canon-i-cal un-der-stand-ing is rep-re-sented by the
+ longest chain.
+ []
+
+
+Overfull \hbox (6.92462pt too wide) in paragraph at lines 234--235
+\T1/ppl/m/n/10 (-10) thresh-old, the ex-cess co-her-ence rep-re-sents epis-temi
+c value added
+ []
+
+
+
+[106]
+Overfull \hbox (6.18918pt too wide) in paragraph at lines 256--257
+\T1/ppl/m/n/10 (-10) Them pro-posed a peer-to-peer net-work us-ing proof-of-coh
+erence
+ []
+
+
+Overfull \hbox (2.53142pt too wide) in paragraph at lines 260--261
+[]\T1/ppl/m/n/10 (-10) Them re-quire no cen-tralised de-sign: co-her-ence crys-
+tallises when
+ []
+
+
+Overfull \hbox (10.4094pt too wide) in paragraph at lines 260--261
+\T1/ppl/m/n/10 (-10) con-nec-tiv-ity, ca-pa-bil-ity, and en-vi-ron-men-tal con-
+di-tions align. Fault
+ []
+
+
+
+[107])
+
+[108] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/epilogue.tex
+Overfull \hbox (0.75986pt too wide) in paragraph at lines 20--21
+\T1/phv/m/n/10 (-10) ments clus-ter-ing into un-ex-pected pat-terns. The lit-er
+-a-ture was sparse
+ []
+
+
+Overfull \hbox (5.91917pt too wide) in paragraph at lines 30--31
+[]\T1/phv/m/n/10 (-10) Communication across in-com-men-su-rable frame-works. Fr
+om: \T1/phv/m/sl/10 (-10) First
+ []
+
+
+
+[109
+
+
+
+
+
+]
+
+[110])
+
+[111] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/glossary_terms.tex
+Overfull \vbox (0.64986pt too high) has occurred while \output is active []
+
+
+
+[112
+
+]) (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/tracksources.tex
+LaTeX Font Info:    Font shape `T1/phv/b/it' in size <14.4> not available
+(Font)              Font shape `T1/phv/b/sl' tried instead on input line 3.
+)
+
+[113
+
+
+
+] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH.aux)
+ ***********
+LaTeX2e <2024-11-01> patch level 2
+L3 programming layer <2025-01-18>
+ ***********
+
+
+LaTeX Font Warning: Size substitutions with differences
+(Font)              up to 0.74pt have occurred.
+
+Package rerunfilecheck Info: File `NULL_MESH.out' has not changed.
+(rerunfilecheck)             Checksum: E06C01EE2C193B71F05D010977798A4C;4075.
+ ) 
+Here is how much of TeX's memory you used:
+ 18210 strings out of 473190
+ 295770 string characters out of 5715799
+ 777222 words of memory out of 5000000
+ 40494 multiletter control sequences out of 15000+600000
+ 662576 words of font info for 411 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 108i,13n,107p,1001b,798s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
+></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb>
+</usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><
+/usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></u
+sr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr
+/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/l
+ocal/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/loca
+l/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local
+/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/t
+exlive/2025/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr/loc
+al/texlive/2025/texmf-dist/fonts/type1/urw/courier/ucrb8a.pfb></usr/local/texli
+ve/2025/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/local/texlive/2025/
+texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2025/texmf-d
+ist/fonts/type1/urw/helvetic/uhvbo8a.pfb></usr/local/texlive/2025/texmf-dist/fo
+nts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2025/texmf-dist/fonts/typ
+e1/urw/helvetic/uhvro8a.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/urw
+/palatino/uplb8a.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/palati
+no/uplr8a.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/palatino/uplr
+i8a.pfb>
+Output written on /Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH.pdf
+ (115 pages, 573898 bytes).
+PDF statistics:
+ 757 PDF objects out of 1000 (max. 8388607)
+ 595 compressed objects within 6 object streams
+ 161 named destinations out of 1000 (max. 500000)
+ 127206 words of extra memory for PDF output out of 128383 (max. 10000000)
+

@@ -1,0 +1,51 @@
+% In style/nullmesh.sty
+
+% Save main document fonts/spacing
+\newcommand{\savemainstyle}{%
+  \let\oldrmdefault\rmdefault
+  \let\oldsfdefault\sfdefault
+  \let\oldttdefault\ttdefault
+}
+
+% Academic paper environment
+\newenvironment{academicpaper}{%
+  \clearpage
+  \savemainstyle
+  % Switch to traditional academic styling
+  \renewcommand{\rmdefault}{ptm}% Times-like font
+  \normalfont
+  \setlength{\parindent}{0.5in}
+  \setlength{\parskip}{0pt}
+  \singlespacing % or \setstretch{1.5} if using setspace
+  \small % slightly smaller text
+}{%
+  \clearpage
+  % Restore original styling
+  \renewcommand{\rmdefault}{\oldrmdefault}
+  \renewcommand{\sfdefault}{\oldsfdefault}
+  \renewcommand{\ttdefault}{\oldttdefault}
+  \normalfont
+}
+
+% Academic paper title formatting
+\newcommand{\papertitle}[1]{%
+  \begin{center}
+    \Large\bfseries #1
+  \end{center}
+  \vspace{1em}
+}
+
+\newcommand{\paperauthors}[1]{%
+  \begin{center}
+    \normalsize #1
+  \end{center}
+  \vspace{0.5em}
+}
+
+\newcommand{\paperabstract}[1]{%
+  \begin{quote}
+    \small
+    \textbf{Abstract:} #1
+  \end{quote}
+  \vspace{1em}
+}

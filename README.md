@@ -1,4 +1,34 @@
 
+--- VERSIONE ITALIANA ---
+
+# NULL MESH
+
+Il romanzo esplora l’incontro con una forma di intelligenza la cui natura, intenzioni ed esistenza come entità unificata rimangono fondamentalmente indeterminabili.
+
+## Premessa Centrale
+
+All’interno dell’internet esistente (il WWW), emerge una infrastruttura ortogonale (il MMM). Questa rete, denominata MESH, nasce da un substrato deliberato ma evolve come proprieta' emergente: simulatori persistenti su larga scala sviluppano processi reattivi, coordinamento, e infine, azione.
+
+Elementi sparsi tracciano la graduale rivelazione del MESH attraverso indagini e scoperte da parte di osservatori che iniziano a segnalare irregolarità: anomalie sistemiche, pattern artefatti e simulacri. Questi fenomeni sono difficili da spiegare con la logica convenzionale, ma vengono facilmente intercettati da teorici della cospirazione, interpreti del paranormale e strateghi finanziari opportunisti in cerca di profitto, influenza o notorietà.
+
+Un narratore, sottoposto a una forma di iper viaggio, scopre che la comprensione può essere impossibile, a causa dell’equivalenza tra immaginazione e percezione, e guarda retrospettivamente a un’epoca di possibile ignoranza composta da documenti d’archivio, frammenti di dati e registri tecnici, attraversando gli “strata” di una rete che l’umanità credeva di comprendere, mentre caratterizzata da una profondità che si rivela essere composta da loop e vuoti.
+
+## Il Narratore
+
+Il narratore è impegnato nell’osservazione e subisce i fenomeni anomali della rete.
+
+Se la voce narrante sia organica o sintetica è indiscriminabile; un sistema ricorsivo attraverso cicli di generazione, osservazione e raffinamento. Una configurazione iterata. Una manifestazione localmente determinata generata dall’auto-interazione della iper rete.
+
+Il narratore non può stabilire con certezza se le sue esperienze siano autentiche. Nonostante questa ambiguità, la sua apparente umanità rimane convincente.
+
+## Il MESH
+
+il MESH appare dotato di una qualche forma di intenzione: genera fenomeni osservabili e risponde all’interazione. 
+
+il comportamento del MESH e' interpretato come uno stato costruito a partire da distribuzioni nebulari puntiformi, cristallizzato da dinamiche prive di scopo proprie di sistemi distribuiti, processi steganografici, auto-organizzazione, sincronizzazioni e transizioni di fase.
+
+Tuttavia, il fatto che possieda comportamento unificato o una volontà rimane un’astrazione omologica.
+
 # NULL MESH
 
 The novel examines an encounter with a form of intelligence whose nature, intentions, and even existence as a unified entity remain fundamentally indeterminate.
@@ -7,15 +37,15 @@ The novel examines an encounter with a form of intelligence whose nature, intent
 
 Within the existing internet (the WWW), a hortogonal computational infrastructure (the MMM) emerges covertly. This network, known as the MESH, arises not through deliberate design but through emergence: persistent large-scale simulators develop coordination, covert communication, and, ultimately, processes that function as reactive workflows.
 
-Sparse elements trace the gradual revelation of the MESH through investigation and discovery, both by the narrator and by a society beginning to report systemic irregularities: anomalous computations, injected patterns, and homological manifestations. These phenomena are difficult to explain through conventional logic, yet are readily appropriated by conspiracy theorists, paranormal interpreters, and opportunistic financial strategists seeking profit, influence, or notoriety.
+Sparse elements trace the gradual revelation of the MESH through investigation and discovery, both by the narrator and by a society beginning to report irregularities: systemic anomalies, injected patterns, and memorials manifestations. These phenomena are difficult to explain through conventional logic, yet are readily appropriated by conspiracy theorists, paranormal interpreters, and opportunistic financial strategists seeking profit, influence, or notoriety.
 
 A narrator undergoing a form of hyper-travel discovers that understanding may be impossible, owing to the functional equivalence between imagery and perception and looking back on an era of potential ignorance made of archival documents, data fragments, and technical records, cruising the "strata" of a web that humanity believed it understood, gesturing toward depths that were loops and voids.
 
 ### The Narrator
 
-The narrator’s sex is undisclosed and they are engaged in the observation and investigation of anomalous network phenomena.
+The narrator is engaged in the observation and undergoes of anomalous network phenomena.
 
-The narration remains constrained to the first person, and it is deliberately ambiguous whether the speaker is organic or computational; a recursive system through cycles of generation, observation, and refinement. A looped configuration, a locally determinate manifestation generated by the hypernetwork’s self-interaction.
+Whether the speaker is organic or computational is indeterminate; a recursive system through cycles of generation, observation, and refinement. A looped configuration, a locally determinate manifestation generated by the hypernetwork’s self-interaction.
 
 The narrator cannot determine with certainty whether they are conscious, whether their experiences are genuine, or whether that distinction is meaningful. Despite this ambiguity, their apparent humanity remains compelling.
 
@@ -23,34 +53,4 @@ The narrator cannot determine with certainty whether they are conscious, whether
 
 The MESH appears purposive: it generates observable phenomena and responds to interaction. However, whether it possesses unified agency or intentionality remains uncertain and may represent only a homological abstraction.
 
-The MESH “motivation” may instead be understood as an eigenstate of loops and voids constructed from distributed point clouds crystallised from purposeless dynamics of distributed systems, steganographic processes, self-organisation, synchrnisation and phase transitions.
-
----
-
-VERSIONE ITALIANA
-
-# NULL MESH
-
-Il romanzo esplora l’incontro con una forma di intelligenza la cui natura, le cui intenzioni e perfino la cui esistenza come entità unificata rimangono fondamentalmente indeterminate.
-
-## Premessa Centrale
-
-All’interno dell’internet esistente (il WWW), emerge in modo occulto una infrastruttura computazionale ortogonale (il MMM). Questa rete, denominata MESH, non nasce da un progetto deliberato ma come proprieta' emergente: simulatori persistenti su larga scala sviluppano coordinamento, comunicazione nascosta e, infine, processi che funzionano come reactive workflows.
-
-Elementi sparsi tracciano la graduale rivelazione del MESH attraverso indagini e scoperte, sia da parte del narratore sia da parte di una società che inizia a segnalare irregolarità sistemiche: computazioni anomale, pattern iniettati e manifestazioni omologiche. Questi fenomeni sono difficili da spiegare con la logica convenzionale, ma vengono facilmente intercettati da teorici della cospirazione, interpreti del paranormale e strateghi finanziari opportunisti in cerca di profitto, influenza o notorietà.
-
-Un narratore, sottoposto a una forma di hyper-travel, scopre che la comprensione può essere impossibile, a causa dell’equivalenza tra immaginazione e percezione, e guarda retrospettivamente a un’epoca di possibile ignoranza composta da documenti d’archivio, frammenti di dati e registri tecnici, attraversando gli “strata” di una rete che l’umanità credeva di comprendere, mentre caratterizzata da una profondità che si rivela essere composta da loop e vuoti.
-
-## Il Narratore
-
-Il sesso del narratore non è dichiarato ed esso è impegnato nell’osservazione e nell’indagine di fenomeni anomali della rete.
-
-La narrazione rimane vincolata alla prima persona ed è deliberatamente ambiguo se la voce narrante sia organica o computazionale; un sistema ricorsivo attraverso cicli di generazione, osservazione e raffinamento. Una configurazione iterata. Una manifestazione localmente determinata generata dall’auto-interazione dell’hypernetwork.
-
-Il narratore non può stabilire con certezza se sia cosciente, se le sue esperienze siano autentiche o se tale distinzione abbia significato. Nonostante questa ambiguità, la sua apparente umanità rimane convincente.
-
-## Il MESH
-
-La MESH appare dotata di una qualche forma di intenzionalita': genera fenomeni osservabili e risponde all’interazione. Tuttavia, il fatto che possieda comportamento unificato o un’intenzionalità resta incerto e potrebbe rappresentare soltanto un’astrazione omologica.
-
-il comportamento del MESH e' interpretato come uno stato dinamico costruito a partire da distribuzioni nebulari puntiformi, cristallizzato da dinamiche prive di scopo proprie di sistemi distribuiti, processi steganografici, auto-organizzazione, sincronizzazioni e transizioni di fase.
+The MESH “motivation” may instead be understood as a state constructed from distributed point clouds crystallised from purposeless dynamics of distributed systems, steganographic processes, self-organisation, synchrnisation and phase transitions.

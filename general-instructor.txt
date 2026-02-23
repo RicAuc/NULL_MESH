@@ -1,11 +1,11 @@
 
-Hi Claude, I am currently working on the drafting of the interlude three the brief description is:
+Hi Claude, I am currently working on the drafting of the chapter 'ch03_on_abliterated_moods.tex' the brief description is:
 
 '''
-**Interlude Three: Tidalchain**. Linked to abliteration properties, hyperscale behaviours emerge as tidalchain dynamics—auto-spontaneous patterns of hyperconnection within the global mesh. They appear regular enough to suggest meaning, yet remain too complex for simple modelling, shaped by both external forces and internal interactions. Some powerful actors attempt to mine and open this black box, seeking profit through the detection and exploitation of these emerging knowledge-carrying currents.
+
 '''
 
-I already starting to draft it, yo can find the draft 'doc03_Tidalchain.tex' here attached, but it shuold be completed and refine. As you can see the are some notes/placeholders delimited by "<" and ">" bearing some instruction guiding to the drafting completion.
+I already starting to draft it, you can find the draft 'ch03_on_abliterated_moods.tex' here attached, but it shuold be completed and refine. As you can see the are some notes/placeholders delimited by "<" and ">" bearing some instruction guiding to the drafting completion.
 
 So, what I would ask you to do is improve, correct and refine the draft following the narrative style of the book as precisely delineated in:
 

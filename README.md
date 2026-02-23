@@ -29,6 +29,7 @@ il comportamento del MESH e' interpretato come uno stato costruito a partire da 
 
 Tuttavia, il fatto che possieda comportamento unificato o una volontà rimane un’astrazione omologica.
 
+
 --- ORIGINAL ---
 
 # NULL MESH

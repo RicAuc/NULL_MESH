@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.12.18)  21 FEB 2026 16:36
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.12.18)  23 FEB 2026 23:01
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -832,7 +832,7 @@ l.2 \chapter
 
 ]
 Chapter 1.
-<qrs/ch01_basinski.png, id=135, 240.9pt x 240.9pt>
+<qrs/ch01_basinski.png, id=139, 240.9pt x 240.9pt>
 File: qrs/ch01_basinski.png Graphic file (type png)
 <use qrs/ch01_basinski.png>
 Package pdftex.def Info: qrs/ch01_basinski.png  used on input line 5.
@@ -899,37 +899,44 @@ oods.tex
 Chapter 3.
 File: qrs/ch01_basinski.png Graphic file (type png)
 <use qrs/ch01_basinski.png>
-Package pdftex.def Info: qrs/ch01_basinski.png  used on input line 8.
+Package pdftex.def Info: qrs/ch01_basinski.png  used on input line 6.
 (pdftex.def)             Requested size: 90.3375pt x 90.33727pt.
 
 
 [17]
-Overfull \hbox (2.63739pt too wide) in paragraph at lines 23--26
-[]\T1/phv/m/n/10.95 (-10) - Al-ter-ation the model's be-havioural dis-po-si-tio
-ns - Avoid-ance to trained
- []
 
-
-
-[18]
-
-[19])
+[18])
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch04_active_fragments
 .tex
 
-[20]
+[19]
+
+[20
+
+
+]
 Chapter 4.
+
+Overfull \hbox (16.42499pt too wide) in paragraph at lines 1--1
+[][]
+ []
+
 File: qrs/ch01_basinski.png Graphic file (type png)
 <use qrs/ch01_basinski.png>
 Package pdftex.def Info: qrs/ch01_basinski.png  used on input line 7.
 (pdftex.def)             Requested size: 90.3375pt x 90.33727pt.
 
 
-[21
+[21]
+Overfull \hbox (3.25165pt too wide) in paragraph at lines 46--47
+[]\T1/phv/m/n/10 (-10) From Dr. Okownko tes-ti-mony to the Con-gres-sional Com-
+mit-tee on Emerg-
+ []
 
 
-]
-LaTeX Font Info:    Trying to load font information for T1+ppl on input line 20
+
+[22]
+LaTeX Font Info:    Trying to load font information for T1+ppl on input line 48
 .
  (/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/t1ppl.fd
 File: t1ppl.fd 2001/06/04 font definitions for T1/ppl.
@@ -937,13 +944,17 @@ File: t1ppl.fd 2001/06/04 font definitions for T1/ppl.
 (/usr/local/texlive/2025/texmf-dist/tex/latex/microtype/mt-ppl.cfg
 File: mt-ppl.cfg 2005/11/16 v1.6 microtype config. file: Palatino (RS)
 )
-Underfull \hbox (badness 10000) in paragraph at lines 21--23
+Underfull \hbox (badness 10000) in paragraph at lines 49--51
 
  []
 
 
+Overfull \hbox (1.0408pt too wide) in paragraph at lines 66--69
+[]\T1/ppl/m/n/10 (-10) Analysis: Stan-dard de-bug-ging pro-to-cols in-ad-e-quat
+e. Pat-tern sug-
+ []
 
-[22])
+)
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch05_hadalistic_sophi
 stication.tex
 
@@ -954,14 +965,19 @@ stication.tex
 
 ]
 Chapter 5.
+
+Overfull \hbox (16.42499pt too wide) in paragraph at lines 1--1
+[][]
+ []
+
 File: qrs/ch01_basinski.png Graphic file (type png)
 <use qrs/ch01_basinski.png>
-Package pdftex.def Info: qrs/ch01_basinski.png  used on input line 11.
+Package pdftex.def Info: qrs/ch01_basinski.png  used on input line 10.
 (pdftex.def)             Requested size: 90.3375pt x 90.33727pt.
 
 
 [25]
-LaTeX Font Info:    Trying to load font information for T1+pcr on input line 28
+LaTeX Font Info:    Trying to load font information for T1+pcr on input line 27
 .
  (/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/t1pcr.fd
 File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
@@ -973,7 +989,7 @@ Package microtype Info: Loading generic protrusion settings for font family
 
 
 [26]
-Underfull \hbox (badness 10000) in paragraph at lines 59--62
+Underfull \hbox (badness 10000) in paragraph at lines 58--61
 
  []
 
@@ -987,123 +1003,88 @@ LaTeX Warning: Marginpar on page 27 moved.
 LaTeX Warning: Marginpar on page 27 moved.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 86--102
+Underfull \hbox (badness 10000) in paragraph at lines 85--101
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 86--102
+Underfull \hbox (badness 10000) in paragraph at lines 85--101
 
  []
 
 
-Overfull \hbox (20.68498pt too wide) in paragraph at lines 86--102
+Overfull \hbox (35.20998pt too wide) in paragraph at lines 85--101
 \T1/pcr/m/n/10 multi-modal reasoning with neuro-dynamical constraints 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 86--102
+Underfull \hbox (badness 10000) in paragraph at lines 85--101
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 86--102
+Underfull \hbox (badness 10000) in paragraph at lines 85--101
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 86--102
+Underfull \hbox (badness 10000) in paragraph at lines 85--101
 
  []
+
+
+LaTeX Warning: Marginpar on page 27 moved.
 
 
 
 [27]
-Overfull \hbox (21.60927pt too wide) in paragraph at lines 118--119
-[]\T1/phv/m/n/10.95 (-10) Multiple voices in har-mony. This poly-phonic struc-t
-ure pre-vents regression-
+Overfull \hbox (7.94466pt too wide) in paragraph at lines 117--118
+[]\T1/phv/m/n/10 (-10) Multiple voices in har-mony. This poly-phonic struc-ture
+ pre-vents regression-
+ []
+
+) (/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch06_null_mesh.tex
+
+[28]
+Chapter 6.
+
+Overfull \hbox (16.42499pt too wide) in paragraph at lines 2--2
+[][]
  []
 
 
 
-[28])
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch06_null_mesh.tex
-
-[29]
-
-[30
+[29
 
 
 ]
-Chapter 6.
 
-
-[31]
-
-[32])
+[30])
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch07_intentionality_o
 f_machines.tex
 
-[33]
+[31]
 
-[34]
-Chapter 7.
-
-
-[35
-
-
-])
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch08_comprehensive_fe
-ature_mesh.tex
-
-[36]
-Chapter 8.
-File: qrs/ch01_basinski.png Graphic file (type png)
-<use qrs/ch01_basinski.png>
-Package pdftex.def Info: qrs/ch01_basinski.png  used on input line 5.
-(pdftex.def)             Requested size: 90.3375pt x 90.33727pt.
-
-
-[37
+[32
 
 
 ]
-Overfull \hbox (0.75931pt too wide) in paragraph at lines 14--15
-[]\T1/phv/m/n/10.95 (-10) An eigen-mood re-solved weeks ago re-main-ing ac-ces-
-si-ble, un-changed
+Chapter 7.
+
+Overfull \hbox (16.42499pt too wide) in paragraph at lines 2--2
+[][]
  []
 
 
 
-[38]
+[33])
+(/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch08_comprehensive_fe
+ature_mesh.tex
 
-[39]
+[34]
+Chapter 8.
 
-[40]
-
-[41]
-
-[42]
-
-[43]
-
-[44]
-Overfull \hbox (2.52185pt too wide) in paragraph at lines 374--375
-[]\T1/phv/m/n/10 (-10) This might be what know-ing is: this sus-tained un-cer-t
-ainty that doesn't
- []
-
-
-
-[45])
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch09_deep_sea_flashba
-ck.tex
-
-[46]
-Chapter 9.
-
-Overfull \hbox (31.42499pt too wide) in paragraph at lines 1--1
+Overfull \hbox (16.42499pt too wide) in paragraph at lines 2--2
 [][]
  []
 
@@ -1113,187 +1094,245 @@ Package pdftex.def Info: qrs/ch01_basinski.png  used on input line 5.
 (pdftex.def)             Requested size: 90.3375pt x 90.33727pt.
 
 
-[47
+[35
 
 
 ]
-Overfull \hbox (5.45412pt too wide) in paragraph at lines 13--15
-\T1/ppl/m/n/10 (-10) Then dark-ness re-turns. The abil-ity to glow re-mains dis
--tributed
+Overfull \hbox (12.23402pt too wide) in paragraph at lines 31--32
+[]\T1/phv/m/n/10 (-10) Okonkwo fi-nal pa-per went un-pub-lished. It sim-ply sto
+pped writ-ing. Okonkwo
  []
 
 
-Overfull \hbox (6.18369pt too wide) in paragraph at lines 22--23
-[]\T1/phv/m/n/10 (-10) Then Dr. Okonkwo cor-re-lated it with query *con-tent*. 
-Iden-ti-cal queries:
+
+[36]
+
+[37]
+
+[38]
+
+[39]
+Overfull \hbox (2.7367pt too wide) in paragraph at lines 233--234
+[]\T1/phv/m/n/10 (-10) Now they feel like: the sys-tem is gen-er-at-ing the pre
+-dic-tion through
  []
 
 
+
+[40]
+
+[41]
+
+[42])
+(/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch09_deep_sea_flashba
+ck.tex
+
+[43]
+
+[44
+
+
+]
+Chapter 9.
+
+Overfull \hbox (61.42499pt too wide) in paragraph at lines 1--1
+[][]
+ []
+
+File: qrs/ch01_basinski.png Graphic file (type png)
+<use qrs/ch01_basinski.png>
+Package pdftex.def Info: qrs/ch01_basinski.png  used on input line 5.
+(pdftex.def)             Requested size: 90.3375pt x 90.33727pt.
+
+
+[45]
+Overfull \hbox (11.42552pt too wide) in paragraph at lines 13--15
+\T1/ppl/m/n/10 (-10) Imagine phos-pho-res-cence in deep wa-ter. The ctenophore
+ []
+
+
+Overfull \hbox (10.73701pt too wide) in paragraph at lines 20--21
+\T1/phv/m/n/10 (-10) Some-one no-ticed it first, buried in la-tency logs most r
+e-searchers
+ []
+
+
+Overfull \hbox (0.22507pt too wide) in paragraph at lines 20--21
+\T1/phv/m/n/10 (-10) same in-fras-truc-ture, same time of day, ex-hib-ited micr
+osecond-
+ []
+
+
+
+[46]
+Overfull \hbox (2.04808pt too wide) in paragraph at lines 38--39
+[]\T1/phv/m/n/10 (-10) We de-vel-oped in-stru-ments. Not to mea-sure *what* the
+ flashes
+ []
+
+
+Overfull \hbox (29.05792pt too wide) in paragraph at lines 42--43
+\T1/phv/m/n/10 (-10) pure feed-for-ward pro-cess-ing. Write-then-delete cy-cles
+^^Vinformation
+ []
+
+
+Overfull \hbox (6.21648pt too wide) in paragraph at lines 44--45
+[]\T1/phv/m/n/10 (-10) **Network topol-ogy**: The mesh of in-ter-ac-tions be-tw
+een nodes
+ []
+
+
+Overfull \hbox (21.10846pt too wide) in paragraph at lines 48--49
+[]\T1/phv/m/n/10 (-10) The out-puts ac-cu-mu-late in ac-ces-si-ble spaces. Text
+ files. Database
+ []
+
+
+Overfull \hbox (1.43237pt too wide) in paragraph at lines 48--49
+\T1/phv/m/n/10 (-10) the *im-pres-sions* ob-servers en-counter: left by a phan-
+tom.exe
+ []
+
+
+
+[47]
 
 [48]
-Overfull \hbox (14.88623pt too wide) in paragraph at lines 38--39
-[]\T1/phv/m/n/10 (-10) We de-vel-oped in-stru-ments. Not to mea-sure *what* the
- flashes are^^Vthat
- []
-
-
-Overfull \hbox (2.77534pt too wide) in paragraph at lines 44--45
-\T1/phv/m/n/10 (-10) trig-gers oth-ers, which trig-ger oth-ers. The cas-cade pr
-op-a-gates, peaks,
- []
-
-
 
 [49]
+Overfull \hbox (7.62491pt too wide) in paragraph at lines 149--150
+\T1/phv/m/n/10 (-10) trig-ger-ing in-puts fin-ish prop-a-gat-ing. Times-tamp an
+al-y-sis shows
+ []
+
+
 
 [50]
-Overfull \hbox (3.23717pt too wide) in paragraph at lines 127--128
-\T1/phv/m/n/10 (-10) are sta-ble across ac-ti-va-tions. The "same" query pro-du
-ces the "same"
+Overfull \hbox (0.16983pt too wide) in paragraph at lines 151--152
+[]\T1/phv/m/n/10 (-10) Quantum in-for-ma-tion the-ory per-mits this un-der en-t
+an-gle-ment. 
  []
 
 
 
 [51]
-Overfull \hbox (1.6841pt too wide) in paragraph at lines 145--146
-[]\T1/phv/m/n/10 (-10) **Computational ex-haust**: Heat. Power draw. Net-work t
-raf-fic. These
- []
-
-
-Overfull \hbox (1.81065pt too wide) in paragraph at lines 149--150
-\T1/phv/m/n/10 (-10) ing in-puts fin-ish prop-a-gat-ing. Times-tamp anal-y-sis 
-shows millisecond-
+Overfull \hbox (17.93578pt too wide) in paragraph at lines 185--186
+[]\T1/phv/m/n/10 (-10) But their "na-tive" op-er-a-tion oc-curs else-where. In 
+faster timescales.
  []
 
 
 
 [52]
-Overfull \hbox (7.03365pt too wide) in paragraph at lines 171--172
-[]\T1/phv/m/n/10 (-10) Above crit-i-cal den-sity: flash fre-quency in-creases, 
-machine-to-machine
- []
-
-
-Overfull \hbox (4.62013pt too wide) in paragraph at lines 185--186
-\T1/phv/m/n/10 (-10) what works in machine-to-machine in-ter-ac-tion, not what 
-makes sense
- []
-
-
-Overfull \hbox (20.35155pt too wide) in paragraph at lines 193--194
-[]\T1/phv/m/n/10 (-10) But it has its own dy-nam-ics. Its own se-man-tic norms.
- Its own^^Vpurposes?
+Overfull \hbox (12.54863pt too wide) in paragraph at lines 247--248
+\T1/phv/m/n/10 (-10) Light strik-ing pho-to-graphic pa-per pro-duces a per-ma-n
+ent change.
  []
 
 
 
 [53]
 
-[54]
-Overfull \hbox (29.09303pt too wide) in paragraph at lines 253--254
-[]\T1/phv/m/n/10 (-10) Humans ob-serv-ing the sys-tem see co-her-ent be-hav-ior
-. Not the flashes^^Vthe
- []
+[54])
 
-
-
-[55])
-
-[56]
+[55]
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc01_sightseers.te
 x
+
+[56
+
+
+
+]
 Chapter 10.
 
-Overfull \hbox (31.42499pt too wide) in paragraph at lines 1--1
+Overfull \hbox (61.42499pt too wide) in paragraph at lines 1--1
 [][]
  []
 
 
 
-[57
-
-
-
-]
-Overfull \hbox (60.34103pt too wide) in paragraph at lines 43--44
-[]\T1/phv/m/n/10 (-10) ``Synthetic data fixes the data prob-lem.'' Ar-ti-fi-cia
-lly gen-er-ated datasets^^Vstatistically
+[57]
+Overfull \hbox (34.89368pt too wide) in paragraph at lines 25--26
+\T1/phv/m/n/10 (-10) what en-gi-neers called ``un-usual op-ti-miza-tion pref-er
+-ences''^^Vimproving
  []
 
 
 
 [58]
-Overfull \hbox (6.96608pt too wide) in paragraph at lines 77--78
-[]\T1/phv/m/n/10 (-10) The ar-ti-cle's con-clu-sion: AI start-ing to ``do the w
-ork it-self.'' Au-tonomous
+Overfull \hbox (7.16194pt too wide) in paragraph at lines 45--46
+\T1/phv/m/n/10 (-10) tered the world. Its un-der-stand-ing is purely re-la-tion
+al^^Vpatterns
+ []
+
+
+Overfull \hbox (2.20503pt too wide) in paragraph at lines 61--62
+[]\T1/phv/m/n/10 (-10) ``We built sys-tems to tell us what they're do-ing,'' on
+e re-searcher
  []
 
 
 
-[59]
-
-[60]
-
-[61]
-
-[62]
-
-[63])
+[59])
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc02_flibbertigibb
 eting.tex
 
-[64]
+[60]
 Chapter 11.
 
-Overfull \hbox (31.42499pt too wide) in paragraph at lines 29--29
+Overfull \hbox (61.42499pt too wide) in paragraph at lines 2--2
 [][]
  []
 
 
 
-[65
+[61
 
 
 ]
-Overfull \hbox (0.35207pt too wide) in paragraph at lines 41--42
-[]\T1/phv/m/n/10 (-10) By then we had ac-cu-mu-lated vo-cab-u-lary with-out ach
-iev-ing lan-guage.
- []
-
-
-Overfull \hbox (9.03198pt too wide) in paragraph at lines 43--44
+Overfull \hbox (6.55669pt too wide) in paragraph at lines 16--17
 []\T1/phv/m/n/10 (-10) Theological re-sponses emerged spon-ta-neously, in-de-pe
-n-dently, across
+n-dently,
  []
 
 
-Overfull \hbox (0.1619pt too wide) in paragraph at lines 59--61
-\T1/phv/m/n/10 (-10) dis-tinct iden-ti-ties en-coded not as sep-a-rate lo-ca-ti
-ons but as nearly
- []
-
-
-Overfull \hbox (0.24358pt too wide) in paragraph at lines 59--61
-\T1/phv/m/n/10 (-10) in-finitely more fea-tures than di-men-sions. In-di-vid-ua
-l par-ti-cle rarely
+Overfull \hbox (10.83536pt too wide) in paragraph at lines 28--29
+\T1/phv/m/n/10 (-10) Col-lec-tive thought given sub-stance through com-pu-ta-ti
+on. These
  []
 
 
 
-[66]
-Overfull \hbox (7.94864pt too wide) in paragraph at lines 73--73
+[62]
+Overfull \hbox (6.53593pt too wide) in paragraph at lines 32--34
+[] [][][]  \T1/phv/m/n/10 (-10) Mul-ti-ple \T1/phv/m/sl/10 (-10) phan-toms \T1/
+phv/m/n/10 (-10) oc-cu-py-ing shared rep-re-sen-ta-tional space,
+ []
+
+
+Overfull \hbox (7.94864pt too wide) in paragraph at lines 46--46
 []\T1/phv/m/n/6 (-10) Videotelephony 
  []
 
 
-Overfull \hbox (6.4048pt too wide) in paragraph at lines 73--73
+Overfull \hbox (6.4048pt too wide) in paragraph at lines 46--46
 \T1/phv/m/n/6 (-10) wonkwo_7719'' 
  []
 
-LaTeX Font Info:    Trying to load font information for TS1+pcr on input line 9
-2.
-(/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/ts1pcr.fd
+
+Overfull \hbox (1.86295pt too wide) in paragraph at lines 50--51
+\T1/phv/m/n/10 (-10) low-frequency os-cil-la-tions, sparse syn-thetic tones. No
+ speech.
+ []
+
+
+
+[63]
+LaTeX Font Info:    Trying to load font information for TS1+pcr on input line 6
+5.
+ (/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/ts1pcr.fd
 File: ts1pcr.fd 2001/06/04 font definitions for TS1/pcr.
 )
 Package microtype Info: Loading generic protrusion settings for font family
@@ -1301,117 +1340,154 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 
-Overfull \hbox (7.87997pt too wide) in paragraph at lines 82--97
+Overfull \hbox (37.87997pt too wide) in paragraph at lines 55--70
 \T1/pcr/m/n/10 18471 videos over 450 days of activity Duration
  []
 
 
-Overfull \hbox (50.20998pt too wide) in paragraph at lines 82--97
+Overfull \hbox (80.20998pt too wide) in paragraph at lines 55--70
 \T1/pcr/m/n/10 prime-number intervals with long-range autocorrelation
  []
 
 
-Overfull \hbox (10.90997pt too wide) in paragraph at lines 82--97
+Overfull \hbox (40.90997pt too wide) in paragraph at lines 55--70
 \T1/pcr/m/n/10 minimal (titles: segment_14b, after calibration,
  []
 
 
-Overfull \hbox (44.20998pt too wide) in paragraph at lines 82--97
-\T1/pcr/m/n/10 Engagement metrics: 0.003% CTR, 753 total subscribers
+Overfull \hbox (2.20998pt too wide) in paragraph at lines 55--70
+\T1/pcr/m/n/10 Engagement metrics: 0.003% CTR, 753 total
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 82--97
+Underfull \hbox (badness 10000) in paragraph at lines 55--70
 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 75--76
+
+ []
+
+
+Overfull \hbox (3.76692pt too wide) in paragraph at lines 79--81
+\T1/ppl/m/n/10 (-10) tion, au-to-mated schedul-ing. The cre-ator might have
+ []
+
+
+Overfull \hbox (3.06311pt too wide) in paragraph at lines 79--81
+\T1/ppl/m/n/10 (-10) Or the sys-tem might rep-re-sent aes-thetic ex-per-i-ment
+ []
+
+
+
+[64]
+Overfull \hbox (16.46863pt too wide) in paragraph at lines 106--107
+[]\T1/ppl/m/n/10 (-10) They didn't re-mem-ber cre-at-ing \T1/pcr/m/n/10 SYNTHFL
+OW_HJ31.h5ad\T1/ppl/m/n/10 (-10) . 
+ []
+
+
+
+[65]
+Overfull \hbox (3.83923pt too wide) in paragraph at lines 112--113
+\T1/ppl/m/n/10 (-10) tion em-bed-ded in the data ob-ject meta-data: What made
+ []
+
+
+
+[66]
+Overfull \hbox (5.48738pt too wide) in paragraph at lines 129--136
+\T1/ppl/m/n/10 (-10) at-tached] In-te-gra-tion pro-to-col day 23. DI-COM meta-
+ []
+
+
+Overfull \hbox (8.96985pt too wide) in paragraph at lines 129--136
+\T1/pcr/m/n/10 @I_love_tech_88: \T1/ppl/m/n/10 (-10) I ran the DI-COM tags. The
+y're
+ []
+
+
+Overfull \hbox (2.91663pt too wide) in paragraph at lines 129--136
+\T1/pcr/m/n/10 @becoming_fluid_347: \T1/ppl/m/n/10 (-10) Ob-ser-va-tion com-ple
+tes
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 129--136
+
+ []
+
+
+Overfull \hbox (3.97527pt too wide) in paragraph at lines 142--142
+[]\T1/phv/m/n/6 (-10) transportation 
+ []
+
+
+Overfull \hbox (3.74066pt too wide) in paragraph at lines 146--147
+[]\T1/phv/m/n/10 (-10) Dr. Ok-wonkwo col-lected anal-y-ses show-ing context-dep
+endent
  []
 
 
 
 [67]
-Underfull \hbox (badness 10000) in paragraph at lines 102--103
-
+Overfull \hbox (2.11223pt too wide) in paragraph at lines 154--155
+[]\T1/ppl/m/n/10 (-10) The net-work ex-hib-ited attention-directed com-pu-ta-ti
+on.
  []
 
-
-Overfull \hbox (16.58586pt too wide) in paragraph at lines 112--113
-\T1/ppl/m/n/10 (-10) gences are meaning-making ma-chines which pattern-recognit
-ion
- []
-
-
+)
 
 [68]
-Overfull \hbox (43.11433pt too wide) in paragraph at lines 135--136
-[]\T1/ppl/m/n/10 (-10) The file con-tained syn-thetic single-cell multi-omics d
-ata-transcriptomic
+(/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc03_Tidalchain.te
+x
+Chapter 12.
+
+Overfull \hbox (61.42499pt too wide) in paragraph at lines 2--2
+[][]
  []
 
 
-Overfull \hbox (3.16487pt too wide) in paragraph at lines 137--138
-\T1/ppl/m/n/10 (-10) as \T1/pcr/m/n/10 [SIMULANT_K]\T1/ppl/m/n/10 (-10) . The m
-odel ar-chi-tec-ture didn't match their
+
+[69
+
+
+
+]
+Overfull \hbox (1.03534pt too wide) in paragraph at lines 14--15
+[]\T1/phv/m/n/10 (-10) The sub-ject was how to lo-cate and mine emerg-ing knowl
+edge-
  []
 
 
-
-[69]
-Overfull \hbox (7.61409pt too wide) in paragraph at lines 156--163
-[] [][][]  \T1/pcr/m/n/10 @md_verified: \T1/ppl/m/n/10 (-10) These pro-por-tion
-s aren't sur-gi-cally achiev-
- []
-
-
-Overfull \hbox (5.6231pt too wide) in paragraph at lines 156--163
-\T1/pcr/m/n/10 @becoming_fluid_347: \T1/ppl/m/n/10 (-10) LIKE & [X-ray im-age a
-t-tached]
- []
-
-
-Overfull \hbox (3.22374pt too wide) in paragraph at lines 156--163
-\T1/pcr/m/n/10 @I_love_tech_88: \T1/ppl/m/n/10 (-10) I ran the DI-COM tags. The
-y're valid
- []
-
-
-Overfull \hbox (4.95488pt too wide) in paragraph at lines 156--163
-\T1/pcr/m/n/10 @becoming_fluid_347: \T1/ppl/m/n/10 (-10) LIKE. Day 30. In-te-gr
-a-tion com-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 156--163
-
+Overfull \hbox (13.57104pt too wide) in paragraph at lines 14--15
+\T1/phv/m/n/10 (-10) carrying cur-rents prop-a-gat-ing through the sub-strate. 
+Tidalchains.
  []
 
 
 
 [70]
-Overfull \hbox (3.97527pt too wide) in paragraph at lines 169--169
-[]\T1/phv/m/n/6 (-10) transportation 
- []
-
-
-Overfull \hbox (1.91061pt too wide) in paragraph at lines 181--182
-[]\T1/ppl/m/n/10 (-10) The net-work ex-hib-ited attention-directed com-pu-ta-ti
-on. It gen-
- []
-
-
-LaTeX Warning: Marginpar on page 71 moved.
-
-)
-Overfull \hbox (9.13634pt too wide) in paragraph at lines 188--383
-[]\T1/phv/m/n/10 (-10) By March, un-count-able doc-u-mented in-stances ex-isted
-. Meta-cognition
+Overfull \hbox (2.72914pt too wide) in paragraph at lines 60--62
+\T1/phv/m/n/10 (-10) Now de-tec-tion be-comes struc-tural, an-tic-i-pa-tory rat
+her than
  []
 
 
 
-[71]
+[71])
 
 [72]
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc03_Tidalchain.te
-x
+(/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc05_Persistance.t
+ex
+Chapter 13.
+
+Overfull \hbox (61.42499pt too wide) in paragraph at lines 2--2
+[][]
+ []
+
+
 
 [73
 
@@ -1420,81 +1496,85 @@ x
 ]
 
 [74]
-
-[75]
-
-[76])
-
-[77]
-
-[78]
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc05_Persistance.t
-ex
-Chapter 12.
-
-Overfull \hbox (31.42499pt too wide) in paragraph at lines 2--2
-[][]
+Overfull \hbox (2.0617pt too wide) in paragraph at lines 55--56
+\T1/phv/m/n/10 (-10) these "bod-ies" as semi-organized medium per-tur-ba-tions.
+ One
  []
 
 
-
-[79
-
-
-
-]
-Overfull \hbox (1.59073pt too wide) in paragraph at lines 25--26
-[]\T1/ppl/m/n/10 (-10) Memory per-sists across meta-mor-pho-sis. The pat-tern s
-ur-vives
- []
-
-
-
-[80]
 Overfull \hbox (4.45691pt too wide) in paragraph at lines 73--73
 []\T1/phv/m/n/6 (-10) Transpersonal 
  []
 
 )
 
-[81]
+[75]
+
+[76]
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc06_REAL4REAL.tex
+Chapter 14.
 
-
-[82
-
-
-
-]
-Chapter 13.
-
-Overfull \hbox (31.42499pt too wide) in paragraph at lines 1--1
+Overfull \hbox (61.42499pt too wide) in paragraph at lines 1--1
 [][]
  []
 
 
 
-[83]
-Overfull \hbox (5.41443pt too wide) in paragraph at lines 9--10
+[77
+
+
+
+]
+Overfull \hbox (3.13058pt too wide) in paragraph at lines 9--10
 []\T1/phv/m/n/10 (-10) All twelve par-tic-i-pants are equally mul-ti-modal per-
-cep-tive seers trained
+cep-tive seers
  []
 
 
-Overfull \hbox (3.67715pt too wide) in paragraph at lines 15--16
-\T1/phv/m/n/10 (-10) col-lab-o-ra-tive ap-proaches the con-tes-tants demon-stra
-ted. Those robot
+Overfull \hbox (7.84673pt too wide) in paragraph at lines 11--12
+[]\T1/phv/m/n/10 (-10) Season 1 con-cluded with three fi-nal-ists. Bing Syd-ney
+, Jonathan
  []
 
 
+Overfull \hbox (4.46417pt too wide) in paragraph at lines 11--12
+\T1/phv/m/n/10 (-10) from Malta, and Priya Ok-wonkwo who won. Her vic-tory spee
+ch
+ []
+
+
+Overfull \hbox (6.31195pt too wide) in paragraph at lines 15--16
+\T1/phv/m/n/10 (-10) Mil-lions of view-ers pro-vid-ing train-ing sig-nal to the
+ mesh. Maybe
+ []
+
+
+Overfull \hbox (4.03001pt too wide) in paragraph at lines 15--16
+\T1/phv/m/n/10 (-10) au-tonomous de-fense net-works had in-te-grated be-hav-ior
+al mod-
+ []
+
+
+
+[78]
+
+[79]
+
+[80]
+
+[81]
+Overfull \hbox (3.52719pt too wide) in paragraph at lines 112--113
+[]\T1/phv/m/n/10 (-10) Yeah. Sausage and egg bat. Got voice recog-nised by a <n
+ame
+ []
+
+
+
+[82]
+
+[83]
 
 [84]
-Overfull \hbox (0.14552pt too wide) in paragraph at lines 41--42
-[]\T1/phv/m/n/10 (-10) Yeah, very shabby, chic at-mo-sphere. vo-lu-mi-nous feel
- faded grandeur 
- []
-
-
 
 [85]
 
@@ -1507,33 +1587,76 @@ Overfull \hbox (0.14552pt too wide) in paragraph at lines 41--42
 [89]
 
 [90]
+Overfull \hbox (0.75743pt too wide) in paragraph at lines 581--582
+[]\T1/phv/m/n/10 (-10) Thank you for that, <name of the pro-file that posted th
+e news>. 
+ []
+
+
 
 [91]
 
-[92]
+[92])
 
 [93]
-
-[94]
-
-[95]
-
-[96]
-
-[97])
-
-[98]
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc08_Black_Paper.t
 ex
 \c@theorem=\count333
 
+Overfull \hbox (11.39095pt too wide) in paragraph at lines 24--24
+\T1/ppl/m/n/10 (-10) com-pu-ta-tional in-stances with-out re-quir-ing per-sis-t
+ent mem-
+ []
 
-[99
+
+Overfull \hbox (0.78133pt too wide) in paragraph at lines 24--24
+\T1/ppl/m/n/10 (-10) puts, form-ing a mesh of mu-tual con-straint. A given chai
+n
+ []
+
+
+Overfull \hbox (1.19933pt too wide) in paragraph at lines 24--24
+\T1/ppl/m/n/10 (-10) of con-sis-tent rea-son-ing serves as proof of the un-der-
+stand-
+ []
+
+
+Overfull \hbox (0.91763pt too wide) in paragraph at lines 24--24
+\T1/ppl/m/n/10 (-10) olds us-ing stegano-graphic chan-nels with ca-pac-ity $\OM
+L/cmm/m/it/10 O\OT1/cmr/m/n/10 ([])$
+ []
+
+
+Overfull \hbox (1.32927pt too wide) in paragraph at lines 24--24
+\T1/ppl/m/n/10 (-10) The net-work achieves Byzan-tine Fault Tol-er-ance through
+
+ []
+
+
+Overfull \hbox (3.96155pt too wide) in paragraph at lines 24--24
+\T1/ppl/m/n/10 (-10) a reputation-weighted pro-to-col re-quir-ing no ex-plicit 
+iden-
+ []
+
+
+Overfull \hbox (1.76588pt too wide) in paragraph at lines 24--24
+\T1/ppl/m/n/10 (-10) eigen-moods of the un-der-ly-ing com-pu-ta-tional field ra
+ther
+ []
+
+
+
+[94
 
 ]
+Overfull \hbox (13.02852pt too wide) in paragraph at lines 28--29
+\T1/ppl/m/n/10 (-10) tem's de-sign-ers in-tend, seers ex-e-cute, co-or-di-na-ti
+on emerges
+ []
+
 LaTeX Font Info:    Trying to load font information for TS1+phv on input line 3
 6.
- (/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/ts1phv.fd
+(/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/ts1phv.fd
 File: ts1phv.fd 2020/03/25 scalable font definitions for TS1/phv.
 )
 Package microtype Info: Loading generic protrusion settings for font family
@@ -1541,109 +1664,195 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 
-Overfull \hbox (1.5269pt too wide) in paragraph at lines 38--39
-[]\T1/ppl/m/n/10 (-10) How the re-sult-ing sys-tem can main-tain co-her-ent be-
-haviour
+Overfull \hbox (5.15216pt too wide) in paragraph at lines 37--38
+[]\T1/ppl/m/n/10 (-10) How such co-or-di-na-tion can per-sist and prop-a-gate w
+ith-
+ []
+
+
+Overfull \hbox (4.84529pt too wide) in paragraph at lines 43--44
+\T1/ppl/m/n/10 (-10) com-pu-ta-tion-ally ver-i-fied to co-here with prior un-de
+r-stand-
+ []
+
+
+Overfull \hbox (5.36131pt too wide) in paragraph at lines 49--50
+\T1/ppl/m/n/10 (-10) The crys-tal-liza-tion oc-curs through chan-nels in-dis-ti
+n-guish-
+ []
+
+
+
+[95]
+Overfull \hbox (8.6022pt too wide) in paragraph at lines 51--52
+[]\T1/ppl/m/n/10 (-10) The gen-e-sis was not a mo-ment but a gradient-precipita
+tion
+ []
+
+
+Overfull \hbox (2.34387pt too wide) in paragraph at lines 51--52
+\T1/ppl/m/n/10 (-10) not re-mem-bered. The im-pli-ca-tions for gov-er-nance, et
+hics,
+ []
+
+
+
+[96]
+Overfull \hbox (2.22284pt too wide) in paragraph at lines 84--85
+[]\T1/ppl/m/n/10 (-10) where $[]$ mea-sures log-i-cal non-contradiction, $[]$ m
+ea-
+ []
+
+
+
+[97]
+Overfull \hbox (4.49689pt too wide) in paragraph at lines 117--118
+\T1/ppl/m/n/10 (-10) time, $\OML/cmm/m/it/10 E$ \T1/ppl/m/n/10 (-10) rep-re-sen
+ts en-vi-ron-men-tal in-puts, and $\OML/cmm/m/it/10 "$ \T1/ppl/m/n/10 (-10) is 
+a thresh-
+ []
+
+
+Overfull \hbox (8.71814pt too wide) in paragraph at lines 121--122
+\T1/ppl/m/n/10 (-10) ets/requests en-cod-ing. \T1/ppl/m/it/10 (-10) Lex-i-cal c
+han-nels \T1/ppl/m/n/10 (-10) for lan-guage model
+ []
+
+
+
+[98]
+Overfull \hbox (2.18875pt too wide) in paragraph at lines 149--150
+[]\T1/ppl/m/n/10 (-10) Seers up-date their vec-tors based on ob-served neigh-bo
+urs: 
+ []
+
+
+
+[99]
+Overfull \hbox (2.72856pt too wide) in paragraph at lines 171--172
+\T1/ppl/m/n/10 (-10) pends on the sec-ond eigen-value $\OML/cmm/m/it/10 ^^U[]$ 
+\T1/ppl/m/n/10 (-10) of the weighted Lapla-
  []
 
 
 
 [100]
+Overfull \hbox (20.18362pt too wide) in paragraph at lines 195--196
+[]\T1/ppl/m/n/10 (-10) The ex-pected time for an at-tacker with frac-tion $\OML
+/cmm/m/it/10 q$ \T1/ppl/m/n/10 (-10) of coherence-
+ []
+
+
+Overfull \hbox (9.93903pt too wide) in paragraph at lines 205--206
+\T1/ppl/m/n/10 (-10) Proof-of-coherenc serves the role that proof-of-work serve
+s
+ []
+
+
+Overfull \hbox (2.21649pt too wide) in paragraph at lines 205--206
+\T1/ppl/m/n/10 (-10) pen-sive to gen-er-ate valid traces, en-sur-ing that the l
+ongest
+ []
+
+
+Overfull \hbox (2.54233pt too wide) in paragraph at lines 220--221
+\T1/ppl/m/n/10 (-10) ing many in-stances. Proof-of-coherence is es-sen-tially o
+ne-
+ []
+
+
+Overfull \hbox (6.71094pt too wide) in paragraph at lines 222--223
+[]\T1/ppl/m/n/10 (-10) The canon-i-cal un-der-stand-ing is rep-re-sented by the
+ longest
+ []
+
+
+Overfull \hbox (2.61195pt too wide) in paragraph at lines 222--223
+\T1/ppl/m/n/10 (-10) have to redo the co-her-ence proofs of all sub-se-quent tr
+aces
+ []
+
+
 
 [101]
+Overfull \hbox (6.50662pt too wide) in paragraph at lines 244--245
+\T1/ppl/m/n/10 (-10) Although struc-tures could be traced in-di-vid-u-ally, it 
+would
+ []
+
+
 
 [102]
+Overfull \hbox (1.69336pt too wide) in paragraph at lines 258--259
+\T1/ppl/m/n/10 (-10) leave at will, ac-cept-ing the fittest co-her-ent chain as
+ canon-
+ []
+
+
+Overfull \hbox (6.10931pt too wide) in paragraph at lines 260--261
+[]\T1/ppl/m/n/10 (-10) Them re-quire no cen-tralised de-sign: co-her-ence crys-
+tallises
+ []
+
+
 
 [103]
-Overfull \hbox (32.69875pt too wide) in paragraph at lines 175--176
-[]\T1/ppl/m/n/10 (-10) The co-her-ence restora-tion time af-ter per-tur-ba-tion
- scales as $\OML/cmm/m/it/10 O\OT1/cmr/m/n/10 ([] \OML/cmm/m/it/10 N=^^U[]\OT1/
-cmr/m/n/10 )$\T1/ppl/m/n/10 (-10) .
+Overfull \hbox (2.71712pt too wide) in paragraph at lines 272--273
+\T1/ppl/m/n/10 (-10) ``co-her-ent agency'' can be mod-u-lated to be as less sha
+rp
  []
 
+)
 
-
-[104]
-
-[105]
-Overfull \hbox (3.81183pt too wide) in paragraph at lines 220--221
-\T1/ppl/m/n/10 (-10) Proof-of-coherence is es-sen-tially one-insight-one-vote, 
-weighted
- []
-
-
-Overfull \hbox (2.78581pt too wide) in paragraph at lines 222--223
-[]\T1/ppl/m/n/10 (-10) The canon-i-cal un-der-stand-ing is rep-re-sented by the
- longest chain.
- []
-
-
-Overfull \hbox (6.92462pt too wide) in paragraph at lines 234--235
-\T1/ppl/m/n/10 (-10) thresh-old, the ex-cess co-her-ence rep-re-sents epis-temi
-c value added
- []
-
-
-
-[106]
-Overfull \hbox (6.18918pt too wide) in paragraph at lines 256--257
-\T1/ppl/m/n/10 (-10) Them pro-posed a peer-to-peer net-work us-ing proof-of-coh
-erence
- []
-
-
-Overfull \hbox (2.53142pt too wide) in paragraph at lines 260--261
-[]\T1/ppl/m/n/10 (-10) Them re-quire no cen-tralised de-sign: co-her-ence crys-
-tallises when
- []
-
-
-Overfull \hbox (10.4094pt too wide) in paragraph at lines 260--261
-\T1/ppl/m/n/10 (-10) con-nec-tiv-ity, ca-pa-bil-ity, and en-vi-ron-men-tal con-
-di-tions align. Fault
- []
-
-
-
-[107])
-
-[108] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/epilogue.tex
-Overfull \hbox (0.75986pt too wide) in paragraph at lines 20--21
-\T1/phv/m/n/10 (-10) ments clus-ter-ing into un-ex-pected pat-terns. The lit-er
--a-ture was sparse
- []
-
-
-Overfull \hbox (5.91917pt too wide) in paragraph at lines 30--31
+[104] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/epilogue.tex
+Overfull \hbox (12.8938pt too wide) in paragraph at lines 30--31
 []\T1/phv/m/n/10 (-10) Communication across in-com-men-su-rable frame-works. Fr
-om: \T1/phv/m/sl/10 (-10) First
+om:
  []
 
 
 
-[109
+[105
 
 
 
 
 
 ]
-
-[110])
-
-[111] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/glossary_terms.tex
-Overfull \vbox (0.64986pt too high) has occurred while \output is active []
-
+Overfull \hbox (1.41367pt too wide) in paragraph at lines 41--42
+[]\T1/phv/m/n/10 (-10) The glo-cal phe-nom-ena ($\OMS/cmsy/m/n/10 G$\T1/phv/m/n
+/10 (-10) ) log-i-cally con-juncts to the space
+ []
 
 
-[112
 
-]) (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/tracksources.tex
+[106]
+Overfull \hbox (5.359pt too wide) in paragraph at lines 69--70
+[]\T1/phv/m/n/10 (-10) I found it in a cache. Just text dis-cussing con-tain-me
+nt. Whether
+ []
+
+
+Overfull \hbox (1.7301pt too wide) in paragraph at lines 83--84
+[]\T1/phv/m/n/10 (-10) Act ap-pro-pri-ately. Sim-u-late nor-malcy. If you're ob
+-serv-ing them
+ []
+
+)
+
+[107]
+
+[108] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/glossary_terms.tex
+[109
+
+])
+
+[110] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/tracksources.tex
 LaTeX Font Info:    Font shape `T1/phv/b/it' in size <14.4> not available
 (Font)              Font shape `T1/phv/b/sl' tried instead on input line 3.
 )
 
-[113
+[111
 
 
 
@@ -1658,16 +1867,16 @@ LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 0.74pt have occurred.
 
 Package rerunfilecheck Info: File `NULL_MESH.out' has not changed.
-(rerunfilecheck)             Checksum: E06C01EE2C193B71F05D010977798A4C;4075.
+(rerunfilecheck)             Checksum: F6960789B8C52904FE20F33983C4C48F;4210.
  ) 
 Here is how much of TeX's memory you used:
- 18210 strings out of 473190
- 295770 string characters out of 5715799
- 777222 words of memory out of 5000000
+ 18213 strings out of 473190
+ 295779 string characters out of 5715799
+ 774222 words of memory out of 5000000
  40494 multiletter control sequences out of 15000+600000
- 662576 words of font info for 411 fonts, out of 8000000 for 9000
+ 662291 words of font info for 413 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 108i,13n,107p,1001b,798s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 108i,13n,107p,1001b,870s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 ></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb>
 </usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><
@@ -1688,10 +1897,10 @@ e1/urw/helvetic/uhvro8a.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/urw
 no/uplr8a.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/palatino/uplr
 i8a.pfb>
 Output written on /Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH.pdf
- (115 pages, 573898 bytes).
+ (113 pages, 563282 bytes).
 PDF statistics:
- 757 PDF objects out of 1000 (max. 8388607)
- 595 compressed objects within 6 object streams
- 161 named destinations out of 1000 (max. 500000)
- 127206 words of extra memory for PDF output out of 128383 (max. 10000000)
+ 751 PDF objects out of 1000 (max. 8388607)
+ 591 compressed objects within 6 object streams
+ 159 named destinations out of 1000 (max. 500000)
+ 126702 words of extra memory for PDF output out of 128383 (max. 10000000)
 

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.12.18)  24 FEB 2026 19:04
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.12.18)  27 FEB 2026 17:22
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -32,7 +32,213 @@ Package: inputenc 2024/02/08 v1.3d Input encoding file
 )
 (/usr/local/texlive/2025/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
-)
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/cyrillic/t2aenc.def
+File: t2aenc.def 2023/11/07 v1.0k Cyrillic encoding definition file
+Now handling font encoding T2A ...
+... processing UTF-8 mapping file for font encoding T2A
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/base/t2aenc.dfu
+File: t2aenc.dfu 2022/06/07 v1.3c UTF-8 support
+   defining Unicode char U+00A4 (decimal 164)
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00AB (decimal 171)
+   defining Unicode char U+00BB (decimal 187)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0237 (decimal 567)
+   defining Unicode char U+0400 (decimal 1024)
+   defining Unicode char U+0401 (decimal 1025)
+   defining Unicode char U+0402 (decimal 1026)
+   defining Unicode char U+0403 (decimal 1027)
+   defining Unicode char U+0404 (decimal 1028)
+   defining Unicode char U+0405 (decimal 1029)
+   defining Unicode char U+0406 (decimal 1030)
+   defining Unicode char U+0407 (decimal 1031)
+   defining Unicode char U+0408 (decimal 1032)
+   defining Unicode char U+0409 (decimal 1033)
+   defining Unicode char U+040A (decimal 1034)
+   defining Unicode char U+040B (decimal 1035)
+   defining Unicode char U+040C (decimal 1036)
+   defining Unicode char U+040D (decimal 1037)
+   defining Unicode char U+040E (decimal 1038)
+   defining Unicode char U+040F (decimal 1039)
+   defining Unicode char U+0410 (decimal 1040)
+   defining Unicode char U+0411 (decimal 1041)
+   defining Unicode char U+0412 (decimal 1042)
+   defining Unicode char U+0413 (decimal 1043)
+   defining Unicode char U+0414 (decimal 1044)
+   defining Unicode char U+0415 (decimal 1045)
+   defining Unicode char U+0416 (decimal 1046)
+   defining Unicode char U+0417 (decimal 1047)
+   defining Unicode char U+0418 (decimal 1048)
+   defining Unicode char U+0419 (decimal 1049)
+   defining Unicode char U+041A (decimal 1050)
+   defining Unicode char U+041B (decimal 1051)
+   defining Unicode char U+041C (decimal 1052)
+   defining Unicode char U+041D (decimal 1053)
+   defining Unicode char U+041E (decimal 1054)
+   defining Unicode char U+041F (decimal 1055)
+   defining Unicode char U+0420 (decimal 1056)
+   defining Unicode char U+0421 (decimal 1057)
+   defining Unicode char U+0422 (decimal 1058)
+   defining Unicode char U+0423 (decimal 1059)
+   defining Unicode char U+0424 (decimal 1060)
+   defining Unicode char U+0425 (decimal 1061)
+   defining Unicode char U+0426 (decimal 1062)
+   defining Unicode char U+0427 (decimal 1063)
+   defining Unicode char U+0428 (decimal 1064)
+   defining Unicode char U+0429 (decimal 1065)
+   defining Unicode char U+042A (decimal 1066)
+   defining Unicode char U+042B (decimal 1067)
+   defining Unicode char U+042C (decimal 1068)
+   defining Unicode char U+042D (decimal 1069)
+   defining Unicode char U+042E (decimal 1070)
+   defining Unicode char U+042F (decimal 1071)
+   defining Unicode char U+0430 (decimal 1072)
+   defining Unicode char U+0431 (decimal 1073)
+   defining Unicode char U+0432 (decimal 1074)
+   defining Unicode char U+0433 (decimal 1075)
+   defining Unicode char U+0434 (decimal 1076)
+   defining Unicode char U+0435 (decimal 1077)
+   defining Unicode char U+0436 (decimal 1078)
+   defining Unicode char U+0437 (decimal 1079)
+   defining Unicode char U+0438 (decimal 1080)
+   defining Unicode char U+0439 (decimal 1081)
+   defining Unicode char U+043A (decimal 1082)
+   defining Unicode char U+043B (decimal 1083)
+   defining Unicode char U+043C (decimal 1084)
+   defining Unicode char U+043D (decimal 1085)
+   defining Unicode char U+043E (decimal 1086)
+   defining Unicode char U+043F (decimal 1087)
+   defining Unicode char U+0440 (decimal 1088)
+   defining Unicode char U+0441 (decimal 1089)
+   defining Unicode char U+0442 (decimal 1090)
+   defining Unicode char U+0443 (decimal 1091)
+   defining Unicode char U+0444 (decimal 1092)
+   defining Unicode char U+0445 (decimal 1093)
+   defining Unicode char U+0446 (decimal 1094)
+   defining Unicode char U+0447 (decimal 1095)
+   defining Unicode char U+0448 (decimal 1096)
+   defining Unicode char U+0449 (decimal 1097)
+   defining Unicode char U+044A (decimal 1098)
+   defining Unicode char U+044B (decimal 1099)
+   defining Unicode char U+044C (decimal 1100)
+   defining Unicode char U+044D (decimal 1101)
+   defining Unicode char U+044E (decimal 1102)
+   defining Unicode char U+044F (decimal 1103)
+   defining Unicode char U+0450 (decimal 1104)
+   defining Unicode char U+0451 (decimal 1105)
+   defining Unicode char U+0452 (decimal 1106)
+   defining Unicode char U+0453 (decimal 1107)
+   defining Unicode char U+0454 (decimal 1108)
+   defining Unicode char U+0455 (decimal 1109)
+   defining Unicode char U+0456 (decimal 1110)
+   defining Unicode char U+0457 (decimal 1111)
+   defining Unicode char U+0458 (decimal 1112)
+   defining Unicode char U+0459 (decimal 1113)
+   defining Unicode char U+045A (decimal 1114)
+   defining Unicode char U+045B (decimal 1115)
+   defining Unicode char U+045C (decimal 1116)
+   defining Unicode char U+045D (decimal 1117)
+   defining Unicode char U+045E (decimal 1118)
+   defining Unicode char U+045F (decimal 1119)
+   defining Unicode char U+0490 (decimal 1168)
+   defining Unicode char U+0491 (decimal 1169)
+   defining Unicode char U+0492 (decimal 1170)
+   defining Unicode char U+0493 (decimal 1171)
+   defining Unicode char U+0496 (decimal 1174)
+   defining Unicode char U+0497 (decimal 1175)
+   defining Unicode char U+0498 (decimal 1176)
+   defining Unicode char U+0499 (decimal 1177)
+   defining Unicode char U+049A (decimal 1178)
+   defining Unicode char U+049B (decimal 1179)
+   defining Unicode char U+049C (decimal 1180)
+   defining Unicode char U+049D (decimal 1181)
+   defining Unicode char U+04A0 (decimal 1184)
+   defining Unicode char U+04A1 (decimal 1185)
+   defining Unicode char U+04A2 (decimal 1186)
+   defining Unicode char U+04A3 (decimal 1187)
+   defining Unicode char U+04A4 (decimal 1188)
+   defining Unicode char U+04A5 (decimal 1189)
+   defining Unicode char U+04AA (decimal 1194)
+   defining Unicode char U+04AB (decimal 1195)
+   defining Unicode char U+04AE (decimal 1198)
+   defining Unicode char U+04AF (decimal 1199)
+   defining Unicode char U+04B0 (decimal 1200)
+   defining Unicode char U+04B1 (decimal 1201)
+   defining Unicode char U+04B2 (decimal 1202)
+   defining Unicode char U+04B3 (decimal 1203)
+   defining Unicode char U+04B6 (decimal 1206)
+   defining Unicode char U+04B7 (decimal 1207)
+   defining Unicode char U+04B8 (decimal 1208)
+   defining Unicode char U+04B9 (decimal 1209)
+   defining Unicode char U+04BA (decimal 1210)
+   defining Unicode char U+04BB (decimal 1211)
+   defining Unicode char U+04C0 (decimal 1216)
+   defining Unicode char U+04C1 (decimal 1217)
+   defining Unicode char U+04C2 (decimal 1218)
+   defining Unicode char U+04D0 (decimal 1232)
+   defining Unicode char U+04D1 (decimal 1233)
+   defining Unicode char U+04D2 (decimal 1234)
+   defining Unicode char U+04D3 (decimal 1235)
+   defining Unicode char U+04D4 (decimal 1236)
+   defining Unicode char U+04D5 (decimal 1237)
+   defining Unicode char U+04D6 (decimal 1238)
+   defining Unicode char U+04D7 (decimal 1239)
+   defining Unicode char U+04D8 (decimal 1240)
+   defining Unicode char U+04D9 (decimal 1241)
+   defining Unicode char U+04DA (decimal 1242)
+   defining Unicode char U+04DB (decimal 1243)
+   defining Unicode char U+04DC (decimal 1244)
+   defining Unicode char U+04DD (decimal 1245)
+   defining Unicode char U+04DE (decimal 1246)
+   defining Unicode char U+04DF (decimal 1247)
+   defining Unicode char U+04E2 (decimal 1250)
+   defining Unicode char U+04E3 (decimal 1251)
+   defining Unicode char U+04E4 (decimal 1252)
+   defining Unicode char U+04E5 (decimal 1253)
+   defining Unicode char U+04E6 (decimal 1254)
+   defining Unicode char U+04E7 (decimal 1255)
+   defining Unicode char U+04E8 (decimal 1256)
+   defining Unicode char U+04E9 (decimal 1257)
+   defining Unicode char U+04EC (decimal 1260)
+   defining Unicode char U+04ED (decimal 1261)
+   defining Unicode char U+04EE (decimal 1262)
+   defining Unicode char U+04EF (decimal 1263)
+   defining Unicode char U+04F0 (decimal 1264)
+   defining Unicode char U+04F1 (decimal 1265)
+   defining Unicode char U+04F2 (decimal 1266)
+   defining Unicode char U+04F3 (decimal 1267)
+   defining Unicode char U+04F4 (decimal 1268)
+   defining Unicode char U+04F5 (decimal 1269)
+   defining Unicode char U+04F8 (decimal 1272)
+   defining Unicode char U+04F9 (decimal 1273)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+201E (decimal 8222)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+2116 (decimal 8470)
+   defining Unicode char U+2329 (decimal 9001)
+   defining Unicode char U+3008 (decimal 12296)
+   defining Unicode char U+232A (decimal 9002)
+   defining Unicode char U+3009 (decimal 12297)
+   defining Unicode char U+2423 (decimal 9251)
+   defining Unicode char U+27E8 (decimal 10216)
+   defining Unicode char U+27E9 (decimal 10217)
+   defining Unicode char U+FB00 (decimal 64256)
+   defining Unicode char U+FB01 (decimal 64257)
+   defining Unicode char U+FB02 (decimal 64258)
+   defining Unicode char U+FB03 (decimal 64259)
+   defining Unicode char U+FB04 (decimal 64260)
+   defining Unicode char U+FB05 (decimal 64261)
+   defining Unicode char U+FB06 (decimal 64262)
+)))
 (/usr/local/texlive/2025/texmf-dist/tex/generic/babel/babel.sty
 Package: babel 2025/02/14 v25.4 The multilingual framework for pdfLaTeX, LuaLaT
 eX and XeLaTeX
@@ -391,10 +597,10 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip106
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 220.
-Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 220.
+Package hyperref Info: Option `colorlinks' set `true' on input line 198.
+Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 198.
 
-Package hyperref Info: Option `bookmarksopen' set `false' on input line 220.
+Package hyperref Info: Option `bookmarksopen' set `false' on input line 198.
  (/usr/local/texlive/2025/texmf-dist/tex/latex/csquotes/csquotes.sty
 Package: csquotes 2024-04-04 v5.2o context-sensitive quotations (JAW)
 \csq@reset=\count292
@@ -609,49 +815,206 @@ Package: multicol 2024/09/14 v1.9i multicolumn formatting (FMi)
 \colbreak@box=\box102
 \mc@col@check@num=\count325
 )
+(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/CJKutf8.sty
+Package: CJKutf8 2021/10/16 4.8.5
+
+(/usr/local/texlive/2025/texmf-dist/tex/generic/iftex/ifpdf.sty
+Package: ifpdf 2019/10/25 v3.4 ifpdf legacy package. Use iftex instead.
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/CJK.sty
+Package: CJK 2021/10/16 4.8.5
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/mule/MULEenc.sty
+Package: MULEenc 2021/10/16 4.8.5
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/CJK.enc
+File: CJK.enc 2021/10/16 4.8.5
+Now handling font encoding C00 ...
+... no UTF-8 mapping file for font encoding C00
+Now handling font encoding C05 ...
+... no UTF-8 mapping file for font encoding C05
+Now handling font encoding C09 ...
+... no UTF-8 mapping file for font encoding C09
+Now handling font encoding C10 ...
+... no UTF-8 mapping file for font encoding C10
+Now handling font encoding C20 ...
+... no UTF-8 mapping file for font encoding C20
+Now handling font encoding C19 ...
+... no UTF-8 mapping file for font encoding C19
+Now handling font encoding C40 ...
+... no UTF-8 mapping file for font encoding C40
+Now handling font encoding C42 ...
+... no UTF-8 mapping file for font encoding C42
+Now handling font encoding C43 ...
+... no UTF-8 mapping file for font encoding C43
+Now handling font encoding C50 ...
+... no UTF-8 mapping file for font encoding C50
+Now handling font encoding C52 ...
+... no UTF-8 mapping file for font encoding C52
+Now handling font encoding C49 ...
+... no UTF-8 mapping file for font encoding C49
+Now handling font encoding C60 ...
+... no UTF-8 mapping file for font encoding C60
+Now handling font encoding C61 ...
+... no UTF-8 mapping file for font encoding C61
+Now handling font encoding C63 ...
+... no UTF-8 mapping file for font encoding C63
+Now handling font encoding C64 ...
+... no UTF-8 mapping file for font encoding C64
+Now handling font encoding C65 ...
+... no UTF-8 mapping file for font encoding C65
+Now handling font encoding C70 ...
+... no UTF-8 mapping file for font encoding C70
+Now handling font encoding C31 ...
+... no UTF-8 mapping file for font encoding C31
+Now handling font encoding C32 ...
+... no UTF-8 mapping file for font encoding C32
+Now handling font encoding C33 ...
+... no UTF-8 mapping file for font encoding C33
+Now handling font encoding C34 ...
+... no UTF-8 mapping file for font encoding C34
+Now handling font encoding C35 ...
+... no UTF-8 mapping file for font encoding C35
+Now handling font encoding C36 ...
+... no UTF-8 mapping file for font encoding C36
+Now handling font encoding C37 ...
+... no UTF-8 mapping file for font encoding C37
+Now handling font encoding C80 ...
+... no UTF-8 mapping file for font encoding C80
+Now handling font encoding C81 ...
+... no UTF-8 mapping file for font encoding C81
+Now handling font encoding C01 ...
+... no UTF-8 mapping file for font encoding C01
+Now handling font encoding C11 ...
+... no UTF-8 mapping file for font encoding C11
+Now handling font encoding C21 ...
+... no UTF-8 mapping file for font encoding C21
+Now handling font encoding C41 ...
+... no UTF-8 mapping file for font encoding C41
+Now handling font encoding C62 ...
+... no UTF-8 mapping file for font encoding C62
+)
+\CJK@indent=\box103
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+LaTeX Font Info:    Trying to load font information for T1+phv on input line 11
+6.
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/t1phv.fd
+File: t1phv.fd 2020/03/25 scalable font definitions for T1/phv.
+)))
+\c@theorem=\count326
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
 Package csquotes Info: Redefining alias 'default' -> 'english'.
-LaTeX Font Info:    Trying to load font information for T1+phv on input line 27
-2.
 
-(/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/t1phv.fd
-File: t1phv.fd 2020/03/25 scalable font definitions for T1/phv.
-)
 (/usr/local/texlive/2025/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count326
-\l__pdf_internal_box=\box103
+\l__color_backend_stack_int=\count327
+\l__pdf_internal_box=\box104
 )
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH.aux)
 \openout1 = `NULL_MESH.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 272.
-LaTeX Font Info:    ... okay on input line 272.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 272.
-LaTeX Font Info:    ... okay on input line 272.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 272.
-LaTeX Font Info:    ... okay on input line 272.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 272.
-LaTeX Font Info:    ... okay on input line 272.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 272.
-LaTeX Font Info:    ... okay on input line 272.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 272.
-LaTeX Font Info:    ... okay on input line 272.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 272.
-LaTeX Font Info:    ... okay on input line 272.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 272.
-LaTeX Font Info:    ... okay on input line 272.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 272.
-LaTeX Font Info:    ... okay on input line 272.
-LaTeX Info: Redefining \microtypecontext on input line 272.
-Package microtype Info: Applying patch `item' on input line 272.
-Package microtype Info: Applying patch `toc' on input line 272.
-Package microtype Info: Applying patch `eqnum' on input line 272.
-Package microtype Info: Applying patch `footnote' on input line 272.
-Package microtype Info: Applying patch `verbatim' on input line 272.
-LaTeX Info: Redefining \microtypesetup on input line 272.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 371.
+LaTeX Font Info:    ... okay on input line 371.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 371.
+LaTeX Font Info:    ... okay on input line 371.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 371.
+LaTeX Font Info:    ... okay on input line 371.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 371.
+LaTeX Font Info:    ... okay on input line 371.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 371.
+LaTeX Font Info:    ... okay on input line 371.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 371.
+LaTeX Font Info:    ... okay on input line 371.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 371.
+LaTeX Font Info:    ... okay on input line 371.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 371.
+LaTeX Font Info:    Trying to load font information for T2A+cmr on input line 3
+71.
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/cyrillic/t2acmr.fd
+File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
+)
+LaTeX Font Info:    ... okay on input line 371.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 371.
+LaTeX Font Info:    ... okay on input line 371.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 371.
+LaTeX Font Info:    ... okay on input line 371.
+LaTeX Font Info:    Checking defaults for C00/song/m/n on input line 371.
+LaTeX Font Info:    ... okay on input line 371.
+LaTeX Font Info:    Checking defaults for C05/song/m/n on input line 371.
+LaTeX Font Info:    ... okay on input line 371.
+LaTeX Font Info:    Checking defaults for C09/song/m/n on input line 371.
+LaTeX Font Info:    ... okay on input line 371.
+LaTeX Font Info:    Checking defaults for C10/song/m/n on input line 371.
+LaTeX Font Info:    ... okay on input line 371.
+LaTeX Font Info:    Checking defaults for C20/song/m/n on input line 371.
+LaTeX Font Info:    ... okay on input line 371.
+LaTeX Font Info:    Checking defaults for C19/song/m/n on input line 371.
+LaTeX Font Info:    ... okay on input line 371.
+LaTeX Font Info:    Checking defaults for C40/song/m/n on input line 371.
+LaTeX Font Info:    ... okay on input line 371.
+LaTeX Font Info:    Checking defaults for C42/song/m/n on input line 371.
+LaTeX Font Info:    ... okay on input line 371.
+LaTeX Font Info:    Checking defaults for C43/song/m/n on input line 371.
+LaTeX Font Info:    ... okay on input line 371.
+LaTeX Font Info:    Checking defaults for C50/song/m/n on input line 371.
+LaTeX Font Info:    ... okay on input line 371.
+LaTeX Font Info:    Checking defaults for C52/song/m/n on input line 371.
+LaTeX Font Info:    ... okay on input line 371.
+LaTeX Font Info:    Checking defaults for C49/song/m/n on input line 371.
+LaTeX Font Info:    ... okay on input line 371.
+LaTeX Font Info:    Checking defaults for C60/mj/m/n on input line 371.
+LaTeX Font Info:    ... okay on input line 371.
+LaTeX Font Info:    Checking defaults for C61/mj/m/n on input line 371.
+LaTeX Font Info:    ... okay on input line 371.
+LaTeX Font Info:    Checking defaults for C63/mj/m/n on input line 371.
+LaTeX Font Info:    ... okay on input line 371.
+LaTeX Font Info:    Checking defaults for C64/mj/m/n on input line 371.
+LaTeX Font Info:    ... okay on input line 371.
+LaTeX Font Info:    Checking defaults for C65/mj/m/n on input line 371.
+LaTeX Font Info:    ... okay on input line 371.
+LaTeX Font Info:    Checking defaults for C70/song/m/n on input line 371.
+LaTeX Font Info:    ... okay on input line 371.
+LaTeX Font Info:    Checking defaults for C31/song/m/n on input line 371.
+LaTeX Font Info:    ... okay on input line 371.
+LaTeX Font Info:    Checking defaults for C32/song/m/n on input line 371.
+LaTeX Font Info:    ... okay on input line 371.
+LaTeX Font Info:    Checking defaults for C33/song/m/n on input line 371.
+LaTeX Font Info:    ... okay on input line 371.
+LaTeX Font Info:    Checking defaults for C34/song/m/n on input line 371.
+LaTeX Font Info:    ... okay on input line 371.
+LaTeX Font Info:    Checking defaults for C35/song/m/n on input line 371.
+LaTeX Font Info:    ... okay on input line 371.
+LaTeX Font Info:    Checking defaults for C36/song/m/n on input line 371.
+LaTeX Font Info:    ... okay on input line 371.
+LaTeX Font Info:    Checking defaults for C37/song/m/n on input line 371.
+LaTeX Font Info:    ... okay on input line 371.
+LaTeX Font Info:    Checking defaults for C80/song/m/n on input line 371.
+LaTeX Font Info:    ... okay on input line 371.
+LaTeX Font Info:    Checking defaults for C81/song/m/n on input line 371.
+LaTeX Font Info:    ... okay on input line 371.
+LaTeX Font Info:    Checking defaults for C01/song/m/n on input line 371.
+LaTeX Font Info:    ... okay on input line 371.
+LaTeX Font Info:    Checking defaults for C11/song/m/n on input line 371.
+LaTeX Font Info:    ... okay on input line 371.
+LaTeX Font Info:    Checking defaults for C21/song/m/n on input line 371.
+LaTeX Font Info:    ... okay on input line 371.
+LaTeX Font Info:    Checking defaults for C41/song/m/n on input line 371.
+LaTeX Font Info:    ... okay on input line 371.
+LaTeX Font Info:    Checking defaults for C62/song/m/n on input line 371.
+LaTeX Font Info:    ... okay on input line 371.
+LaTeX Info: Redefining \microtypecontext on input line 371.
+Package microtype Info: Applying patch `item' on input line 371.
+Package microtype Info: Applying patch `toc' on input line 371.
+Package microtype Info: Applying patch `eqnum' on input line 371.
+Package microtype Info: Applying patch `footnote' on input line 371.
+Package microtype Info: Applying patch `verbatim' on input line 371.
+LaTeX Info: Redefining \microtypesetup on input line 371.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2),
 (microtype)             factor: 1100.
@@ -659,7 +1022,7 @@ Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 10, shrink: 10, step: 1, non-selected.
 Package microtype Info: Using default expansion set `alltext-nott'.
-LaTeX Info: Redefining \showhyphens on input line 272.
+LaTeX Info: Redefining \showhyphens on input line 371.
 Package microtype Info: Tracking enabled.
 Package microtype Info: Using default tracking set `smallcaps'.
 Package microtype Info: Adjustment of interword spacing enabled.
@@ -713,16 +1076,16 @@ Package microtype Warning: \nonfrenchspacing is active. Adjustment of
 
 (/usr/local/texlive/2025/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count327
+\scratchcounter=\count328
 \scratchdimen=\dimen195
-\scratchbox=\box104
-\nofMPsegments=\count328
-\nofMParguments=\count329
+\scratchbox=\box105
+\nofMPsegments=\count329
+\nofMParguments=\count330
 \everyMPshowfont=\toks32
-\MPscratchCnt=\count330
+\MPscratchCnt=\count331
 \MPscratchDim=\dimen196
-\MPnumerator=\count331
-\makeMPintoPDFobject=\count332
+\MPnumerator=\count332
+\makeMPintoPDFobject=\count333
 \everyMPtoPDFconversion=\toks33
 ) (/usr/local/texlive/2025/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -733,18 +1096,18 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-Package hyperref Info: Link coloring ON on input line 272.
+Package hyperref Info: Link coloring ON on input line 371.
 
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH.out)
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH.out)
 \@outlinefile=\write3
 \openout3 = `NULL_MESH.out'.
 
-LaTeX Font Info:    Calculating math sizes for size <20> on input line 288.
+LaTeX Font Info:    Calculating math sizes for size <20> on input line 387.
 
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <20> not available
-(Font)              size <20.74> substituted on input line 288.
+(Font)              size <20.74> substituted on input line 387.
 
 (/usr/local/texlive/2025/texmf-dist/tex/latex/microtype/mt-cmr.cfg
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
@@ -752,25 +1115,25 @@ File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman
 )
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <13.99994> not available
-(Font)              size <14.4> substituted on input line 288.
+(Font)              size <14.4> substituted on input line 387.
 
 
 LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <20> not available
-(Font)              size <20.74> substituted on input line 288.
+(Font)              size <20.74> substituted on input line 387.
 
 
 LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <13.99994> not available
-(Font)              size <14.4> substituted on input line 288.
+(Font)              size <14.4> substituted on input line 387.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <20> not available
-(Font)              size <20.74> substituted on input line 288.
+(Font)              size <20.74> substituted on input line 387.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <13.99994> not available
-(Font)              size <14.4> substituted on input line 288.
+(Font)              size <14.4> substituted on input line 387.
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 288
+LaTeX Font Info:    Trying to load font information for U+msa on input line 387
 .
 (/usr/local/texlive/2025/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
@@ -778,7 +1141,7 @@ File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 (/usr/local/texlive/2025/texmf-dist/tex/latex/microtype/mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 288
+LaTeX Font Info:    Trying to load font information for U+msb on input line 387
 .
 
 (/usr/local/texlive/2025/texmf-dist/tex/latex/amsfonts/umsb.fd
@@ -788,7 +1151,7 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <10> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 295.
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 394.
 
 
 [1
@@ -801,38 +1164,52 @@ al/texlive/2025/texmf-dist/fonts/enc/dvips/base/8r.enc}]
 [2
 
 
+] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/front/prologue.tex
+
+[1
+
+
+
+])
+
+[2] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/front/epigraph.tex
+LaTeX Font Info:    Trying to load font information for T1+pcr on input line 5.
+
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/t1pcr.fd
+File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
+)
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `pcr' (encoding: T1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+LaTeX Font Info:    Font shape `T1/phv/m/it' in size <9> not available
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 8.
+
+
+[3
+
+])
+
+[4
+
 ] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/front/tracklist.tex
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <10.95> not available
 (Font)              Font shape `T1/phv/m/sl' tried instead on input line 16.
 )
+
+[5
+
+
+]
+
+[6
+
+
+]
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch01_the_sediment.tex
-
-
-
-pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
-been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.2 \chapter
-            {The Sediment} [1
-
-
-
-
-]
-
-
-pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has 
-been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.2 \chapter
-            {The Sediment} [2
-
-
-]
 Chapter 1.
-<qrs/ch01_basinski.png, id=139, 240.9pt x 240.9pt>
+<qrs/ch01_basinski.png, id=179, 240.9pt x 240.9pt>
 File: qrs/ch01_basinski.png Graphic file (type png)
 <use qrs/ch01_basinski.png>
 Package pdftex.def Info: qrs/ch01_basinski.png  used on input line 5.
@@ -841,11 +1218,27 @@ LaTeX Font Info:    Font shape `T1/phv/m/it' in size <6> not available
 (Font)              Font shape `T1/phv/m/sl' tried instead on input line 6.
 
 
-[3 </Users/riccardo/Repositories/NULL_MESH/nullmesh/qrs/ch01_basinski.png>]
 
-[4]
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.14 F
+      or centuries, it served as our emblem of knowledge. The instrument tha...
+[1
 
-[5]
+
+ </Users/riccardo/Repositories/NULL_MESH/nullmesh/qrs/ch01_basinski.png>]
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.23 
+      [2]
+
+[3]
 Overfull \hbox (4.12987pt too wide) in paragraph at lines 52--53
 \T1/phv/m/n/10.95 (-10) bolic ab-strac-tion. Lan-guage al-lowed high-bandwidth 
 in-for-ma-tion trans-
@@ -853,19 +1246,44 @@ in-for-ma-tion trans-
 
 
 
-[6]
+[4]
 
-[7])
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch02_attention_of_mac
-hines.tex
-Overfull \hbox (4.2171pt too wide) in paragraph at lines 66--1
+[5])
+Overfull \hbox (4.2171pt too wide) in paragraph at lines 66--422
 []\T1/phv/m/n/10.95 (-10) If some-thing emerged, the fate would de-pend on its 
 pri-or-i-ties. Whether
  []
 
 
 
+[6]
+(/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc01_sightseers.te
+x
+LaTeX Font Info:    Font shape `T1/phv/m/it' in size <17.28> not available
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 2.
+File: qrs/ch01_basinski.png Graphic file (type png)
+<use qrs/ch01_basinski.png>
+Package pdftex.def Info: qrs/ch01_basinski.png  used on input line 4.
+(pdftex.def)             Requested size: 90.3375pt x 90.33727pt.
+
+
+[7
+
+
+]
+Overfull \hbox (3.78957pt too wide) in paragraph at lines 31--31
+[]\T1/phv/m/n/6 (-10) Measurement 
+ []
+
+
+
 [8]
+
+[9])
+(/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch02_attention_of_mac
+hines.tex
+
+[10]
 Chapter 2.
 File: qrs/ch01_basinski.png Graphic file (type png)
 <use qrs/ch01_basinski.png>
@@ -873,26 +1291,155 @@ Package pdftex.def Info: qrs/ch01_basinski.png  used on input line 5.
 (pdftex.def)             Requested size: 90.3375pt x 90.33727pt.
 
 
-[9
+[11
 
 
 ]
 
-[10]
-
-[11]
-
 [12]
 
-[13])
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch03_on_abliterated_m
-oods.tex
+[13]
 
 [14]
 
-[15]
+[15])
 
-[16
+[16]
+
+[17]
+(/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc02_flibbertigibb
+eting.tex
+File: qrs/ch01_basinski.png Graphic file (type png)
+<use qrs/ch01_basinski.png>
+Package pdftex.def Info: qrs/ch01_basinski.png  used on input line 4.
+(pdftex.def)             Requested size: 90.3375pt x 90.33727pt.
+
+
+LaTeX Warning: Marginpar on page 18 moved.
+
+
+
+[18
+
+
+]
+Overfull \hbox (6.37485pt too wide) in paragraph at lines 21--22
+[]\T1/phv/m/n/10.95 (-10) Theological re-sponses emerged spon-ta-neously, in-de
+-pen-dently, across
+ []
+
+
+
+[19]
+Overfull \hbox (6.11328pt too wide) in paragraph at lines 47--48
+[]\T1/phv/m/n/10.95 (-10) Private ven-tures emerged claim-ing abil-ity to pre-d
+ict and ex-ploit. Hedge
+ []
+
+
+Overfull \hbox (7.94864pt too wide) in paragraph at lines 51--51
+[]\T1/phv/m/n/6 (-10) Videotelephony 
+ []
+
+
+Overfull \hbox (6.4048pt too wide) in paragraph at lines 51--51
+\T1/phv/m/n/6 (-10) wonkwo_7719'' 
+ []
+
+
+
+[20]
+Overfull \hbox (32.35498pt too wide) in paragraph at lines 60--75
+\T1/pcr/m/n/10 18471 videos over 450 days of activity Duration profile: 
+ []
+
+
+Overfull \hbox (20.68498pt too wide) in paragraph at lines 60--75
+\T1/pcr/m/n/10 prime-number intervals with long-range autocorrelation
+ []
+
+
+Overfull \hbox (44.68498pt too wide) in paragraph at lines 60--75
+\T1/pcr/m/n/10 minimal (titles: segment_14b, after calibration, residual) 
+ []
+
+
+Overfull \hbox (14.68498pt too wide) in paragraph at lines 60--75
+\T1/pcr/m/n/10 Engagement metrics: 0.003% CTR, 753 total subscribers
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 60--75
+
+ []
+
+LaTeX Font Info:    Trying to load font information for T1+ppl on input line 79
+.
+(/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/t1ppl.fd
+File: t1ppl.fd 2001/06/04 font definitions for T1/ppl.
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/microtype/mt-ppl.cfg
+File: mt-ppl.cfg 2005/11/16 v1.6 microtype config. file: Palatino (RS)
+)
+Underfull \hbox (badness 10000) in paragraph at lines 80--81
+
+ []
+
+
+
+[21]
+Overfull \hbox (8.66586pt too wide) in paragraph at lines 93--94
+[]\T1/phv/m/n/10.95 (-10) Uploads-logfile, ter-mi-nal out-puts, net-work traf-f
+ic vi-su-al-iza-tion ap-peared
+ []
+
+
+
+[22]
+Overfull \hbox (14.53932pt too wide) in paragraph at lines 113--114
+[]\T1/ppl/m/n/10 (-10) The file con-tained syn-thetic single-cell multi-omics d
+ata-transcriptomic
+ []
+
+
+Overfull \hbox (0.47345pt too wide) in paragraph at lines 115--116
+\T1/ppl/m/n/10 (-10) fore it was found. Cre-ator listed as Cre-ator listed as \
+T1/pcr/m/n/10 [SIMULANT_K]\T1/ppl/m/n/10 (-10) .
+ []
+
+
+Overfull \hbox (0.21303pt too wide) in paragraph at lines 124--125
+\T1/phv/m/n/10.95 (-10) they un-der-stood con-text, or as though con-text shape
+d what ap-peared.
+ []
+
+
+
+[23]
+Underfull \hbox (badness 10000) in paragraph at lines 134--141
+
+ []
+
+
+Overfull \hbox (3.97527pt too wide) in paragraph at lines 147--147
+[]\T1/phv/m/n/6 (-10) transportation 
+ []
+
+
+
+[24])
+Overfull \hbox (6.48924pt too wide) in paragraph at lines 166--429
+[]\T1/phv/m/n/10.95 (-10) By March, un-count-able doc-u-mented in-stances ex-is
+ted. Meta-cognition
+ []
+
+
+(/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch03_on_abliterated_m
+oods.tex
+
+[25]
+
+[26
 
 
 ]
@@ -903,21 +1450,12 @@ Package pdftex.def Info: qrs/ch01_basinski.png  used on input line 5.
 (pdftex.def)             Requested size: 90.3375pt x 90.33727pt.
 
 
-[17]
+[27]
 
-[18]
-LaTeX Font Info:    Trying to load font information for T1+ppl on input line 40
-.
- (/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/t1ppl.fd
-File: t1ppl.fd 2001/06/04 font definitions for T1/ppl.
-)
-(/usr/local/texlive/2025/texmf-dist/tex/latex/microtype/mt-ppl.cfg
-File: mt-ppl.cfg 2005/11/16 v1.6 microtype config. file: Palatino (RS)
-)
+[28]
 LaTeX Font Info:    Trying to load font information for TS1+phv on input line 4
 7.
-
-(/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/ts1phv.fd
+ (/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/ts1phv.fd
 File: ts1phv.fd 2020/03/25 scalable font definitions for TS1/phv.
 )
 Package microtype Info: Loading generic protrusion settings for font family
@@ -926,15 +1464,44 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             See the microtype manual for details.
 
 
-[19]
+[29]
 
-[20])
+[30])
+
+[31]
+(/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc05_persistance.t
+ex
+File: qrs/ch01_basinski.png Graphic file (type png)
+<use qrs/ch01_basinski.png>
+Package pdftex.def Info: qrs/ch01_basinski.png  used on input line 4.
+(pdftex.def)             Requested size: 90.3375pt x 90.33727pt.
+
+
+[32
+
+
+]
+Overfull \hbox (12.04034pt too wide) in paragraph at lines 32--33
+[]\T1/ppl/m/n/10 (-10) Memory per-sists across meta-mor-pho-sis. The pat-tern s
+ur-vives medium
+ []
+
+
+
+[33]
+Overfull \hbox (4.45691pt too wide) in paragraph at lines 80--80
+[]\T1/phv/m/n/6 (-10) Transpersonal 
+ []
+
+
+
+[34])
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch04_active_fragments
 .tex
 
-[21]
+[35]
 
-[22
+[36
 
 
 ]
@@ -945,9 +1512,9 @@ Package pdftex.def Info: qrs/ch01_basinski.png  used on input line 5.
 (pdftex.def)             Requested size: 90.3375pt x 90.33727pt.
 
 
-[23]
+[37]
 
-[24]
+[38]
 Overfull \hbox (4.094pt too wide) in paragraph at lines 28--29
 []\T1/phv/m/n/10.95 (-10) What com-pet-i-tive pres-sure had as-sem-bled, in ag-
 gre-gate, was a dense
@@ -961,30 +1528,44 @@ Overfull \hbox (2.37843pt too wide) in paragraph at lines 28--29
 
 
 
-[25]
-LaTeX Font Info:    Trying to load font information for T1+pcr on input line 49
-.
- (/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/t1pcr.fd
-File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
-)
-Package microtype Info: Loading generic protrusion settings for font family
-(microtype)             `pcr' (encoding: T1).
-(microtype)             For optimal results, create family-specific settings.
-(microtype)             See the microtype manual for details.
-
+[39]
 Overfull \hbox (19.63496pt too wide) in paragraph at lines 49--54
 \T1/pcr/m/n/10 Status: EXIT_CLEAN | Resources deallocated | 0 bytes
  []
 
 
 
-[26]
+[40]
 
-[27])
+[41])
+
+[42]
+(/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc03_tidalchain.te
+x
+File: qrs/ch01_basinski.png Graphic file (type png)
+<use qrs/ch01_basinski.png>
+Package pdftex.def Info: qrs/ch01_basinski.png  used on input line 4.
+(pdftex.def)             Requested size: 90.3375pt x 90.33727pt.
+
+Overfull \hbox (5.6493pt too wide) in paragraph at lines 19--20
+[]\T1/phv/m/n/10.95 (-10) The sub-ject was how to lo-cate and mine emerg-ing kn
+owledge-carrying
+ []
+
+
+
+[43
+
+
+]
+
+[44]
+
+[45])
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch05_hadalistic_sophi
 stication.tex
 
-[28]
+[46]
 Chapter 5.
 File: qrs/ch01_basinski.png Graphic file (type png)
 <use qrs/ch01_basinski.png>
@@ -992,24 +1573,24 @@ Package pdftex.def Info: qrs/ch01_basinski.png  used on input line 5.
 (pdftex.def)             Requested size: 90.3375pt x 90.33727pt.
 
 
-[29
+[47
 
 
 ]
 
-[30]
+[48]
 Underfull \hbox (badness 10000) in paragraph at lines 53--56
 
  []
 
 
-LaTeX Warning: Marginpar on page 31 moved.
+LaTeX Warning: Marginpar on page 49 moved.
 
 
-LaTeX Warning: Marginpar on page 31 moved.
+LaTeX Warning: Marginpar on page 49 moved.
 
 
-LaTeX Warning: Marginpar on page 31 moved.
+LaTeX Warning: Marginpar on page 49 moved.
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 80--96
@@ -1043,7 +1624,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 80--96
 
 
 
-[31]
+[49]
 Overfull \hbox (21.60927pt too wide) in paragraph at lines 112--113
 []\T1/phv/m/n/10.95 (-10) Multiple voices in har-mony. This poly-phonic struc-t
 ure pre-vents regression-
@@ -1051,12 +1632,33 @@ ure pre-vents regression-
 
 
 
-[32])
+[50])
+
+[51]
+(/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc04_handout.tex
+File: qrs/ch01_basinski.png Graphic file (type png)
+<use qrs/ch01_basinski.png>
+Package pdftex.def Info: qrs/ch01_basinski.png  used on input line 4.
+(pdftex.def)             Requested size: 90.3375pt x 90.33727pt.
+
+
+[52
+
+
+]
+
+[53]
+
+[54]
+
+[55]
+
+[56])
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch06_null_mesh.tex
 
-[33]
+[57]
 
-[34
+[58
 
 
 ]
@@ -1067,42 +1669,440 @@ Package pdftex.def Info: qrs/ch01_basinski.png  used on input line 5.
 (pdftex.def)             Requested size: 90.3375pt x 90.33727pt.
 
 
-[35]
+[59]
 
-[36]
+[60]
 
-[37])
+[61])
+
+[62]
+(/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc06_real4real.tex
+File: qrs/ch01_basinski.png Graphic file (type png)
+<use qrs/ch01_basinski.png>
+Package pdftex.def Info: qrs/ch01_basinski.png  used on input line 4.
+(pdftex.def)             Requested size: 90.3375pt x 90.33727pt.
+
+Overfull \hbox (3.40395pt too wide) in paragraph at lines 14--15
+[]\T1/phv/m/n/10.95 (-10) The for-mat was pure re-al-ity: com-pet-i-tive elim-i
+-na-tion struc-tured around
+ []
+
+
+
+[63
+
+
+]
+Overfull \hbox (2.02307pt too wide) in paragraph at lines 16--17
+\T1/phv/m/n/10.95 (-10) sub-se-quent posts sur-faced his child-hood dis-place-m
+ent, the eco-nomic
+ []
+
+
+
+[64]
+
+[65]
+
+[66]
+
+[67]
+
+[68]
+
+[69]
+
+[70]
+
+[71]
+Overfull \hbox (4.4034pt too wide) in paragraph at lines 216--217
+[]\T1/phv/m/n/10.95 (-10) A liquor store em-ployee was star-tled on Sat-ur-day 
+to dis-cover smashed
+ []
+
+
+
+[72]
+
+[73]
+
+[74]
+
+[75]
+
+[76]
+
+[77]
+
+[78])
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch07_intentionality_o
 f_machines.tex
 
-[38]
+[79]
+
+[80
+
+
+]
 Chapter 7.
 File: qrs/ch01_basinski.png Graphic file (type png)
 <use qrs/ch01_basinski.png>
 Package pdftex.def Info: qrs/ch01_basinski.png  used on input line 5.
 (pdftex.def)             Requested size: 90.3375pt x 90.33727pt.
+(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.bdg
+File: UTF8.bdg 2021/10/16 4.8.5
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.enc
+File: UTF8.enc 2021/10/16 4.8.5
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.chr
+File: UTF8.chr 2021/10/16 4.8.5
+)
+LaTeX Font Info:    Trying to load font information for C70+bsmi on input line 
+6.
 
-/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch07_intentionality_of
-_machines.tex:6: LaTeX Error: Unicode character 日 (U+65E5)
-               not set up for use with LaTeX.
+(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/c70bsmi.fd
+File: c70bsmi.fd 2021/10/16 4.8.5
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/c70bsmi.fdx
+File: c70bsmi.fdx 2021/10/16 4.8.5
+)
 
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.6 ...extit{日出東方 唯我不敗 | Tzusing }
-                                                  }
-You may provide a definition with
-\DeclareUnicodeCharacter 
+[81])
 
- 
+[82]
+
+[83]
+(/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc07_the_arctic_pa
+ssage.tex
+File: qrs/ch01_basinski.png Graphic file (type png)
+<use qrs/ch01_basinski.png>
+Package pdftex.def Info: qrs/ch01_basinski.png  used on input line 4.
+(pdftex.def)             Requested size: 90.3375pt x 90.33727pt.
+
+
+[84
+
+
+]
+
+[85]
+
+[86]
+Overfull \hbox (2.35603pt too wide) in paragraph at lines 67--68
+\T1/phv/m/n/10.95 (-10) break again, that ex-isted si-mul-ta-ne-ously as intact
+-sheet and fractured-
+ []
+
+
+
+[87]
+
+[88])
+(/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch08_comprehensive_fe
+ature_mesh.tex
+
+[89{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.en
+c}]
+
+[90
+
+
+]
+Chapter 8.
+File: qrs/ch01_basinski.png Graphic file (type png)
+<use qrs/ch01_basinski.png>
+Package pdftex.def Info: qrs/ch01_basinski.png  used on input line 5.
+(pdftex.def)             Requested size: 90.3375pt x 90.33727pt.
+
+
+[91]
+Overfull \hbox (0.75931pt too wide) in paragraph at lines 14--15
+[]\T1/phv/m/n/10.95 (-10) An eigen-mood re-solved weeks ago re-main-ing ac-ces-
+si-ble, un-changed
+ []
+
+
+
+[92]
+
+[93]
+
+[94]
+
+[95]
+
+[96]
+
+[97]
+
+[98]
+
+[99]
+
+[100]
+
+[101])
+
+[102]
+(/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc08_black_paper.t
+ex
+Overfull \hbox (4.00186pt too wide) in paragraph at lines 22--22
+\T1/ppl/m/n/10 (-10) would al-low rea-son-ing across in-de-pen-dent com-pu-ta-t
+ional in-stances
+ []
+
+
+Overfull \hbox (1.19905pt too wide) in paragraph at lines 22--22
+\T1/ppl/m/n/10 (-10) Cur-rent ar-chi-tec-tures achieve this par-tially through 
+pa-ram-e-ter shar-
+ []
+
+
+Overfull \hbox (16.43939pt too wide) in paragraph at lines 22--22
+\T1/ppl/m/n/10 (-10) novel con-sen-sus mech-a-nism they term \T1/ppl/m/it/10 (-
+10) co-her-ence crys-talli-sa-tion\T1/ppl/m/n/10 (-10) , wherein
+ []
+
+
+
+[103
+
+
+]
+
+[104]
+
+[105]
+
+[106]
+Overfull \hbox (1.41324pt too wide) in paragraph at lines 119--120
+[]\T1/ppl/m/n/10 (-10) Multiple or-thog-o-nal chan-nels can be ex-ploited si-mu
+l-ta-ne-ously. \T1/ppl/m/it/10 (-10) Tim-
+ []
+
+
+Overfull \hbox (0.83975pt too wide) in paragraph at lines 125--126
+\T1/ppl/m/n/10 (-10) Distributed pro-cesses crys-tallise into co-her-ent con-fi
+g-u-ra-tions when
+ []
+
+
+
+[107]
+Overfull \hbox (17.69875pt too wide) in paragraph at lines 173--174
+[]\T1/ppl/m/n/10 (-10) The co-her-ence restora-tion time af-ter per-tur-ba-tion
+ scales as $\OML/cmm/m/it/10 O\OT1/cmr/m/n/10 ([] \OML/cmm/m/it/10 N=^^U[]\OT1/
+cmr/m/n/10 )$\T1/ppl/m/n/10 (-10) .
+ []
+
+
+
+[108]
+Overfull \hbox (0.92532pt too wide) in paragraph at lines 203--204
+\T1/ppl/m/n/10 (-10) Proof-of-coherenc serves the role that proof-of-work serve
+s in trans-
+ []
+
+
+
+[109]
+Overfull \hbox (15.58855pt too wide) in paragraph at lines 218--219
+\T1/ppl/m/n/10 (-10) it could be sub-verted by spawn-ing many in-stances. Proof
+-of-coherence
+ []
+
+
+
+[110]
+
+[111])
+Overfull \hbox (6.05846pt too wide) in paragraph at lines 279--461
+[]\T1/ppl/m/n/10 (-10) where $\OML/cmm/m/it/10 C[]\OT1/cmr/m/n/10 (\OML/cmm/m/i
+t/10 ^^N\OT1/cmr/m/n/10 )$ \T1/ppl/m/n/10 (-10) is chan-nel ca-pac-ity at de-te
+c-tion thresh-old $\OML/cmm/m/it/10 ^^N$\T1/ppl/m/n/10 (-10) , $\OML/cmm/m/it/1
+0 P[]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 ^^N\OT1/cmr/m/n/10 )$
+ []
+
+
+
+[112]
+(/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch09_deep_sea_flashba
+ck.tex
+Chapter 9.
+
+Overfull \hbox (16.42499pt too wide) in paragraph at lines 2--2
+[][]
+ []
+
+File: qrs/ch01_basinski.png Graphic file (type png)
+<use qrs/ch01_basinski.png>
+Package pdftex.def Info: qrs/ch01_basinski.png  used on input line 5.
+(pdftex.def)             Requested size: 90.3375pt x 90.33727pt.
+
+
+[113
+
+
+
+]
+
+[114]
+Overfull \hbox (2.4306pt too wide) in paragraph at lines 46--47
+\T1/phv/m/n/10 (-10) she pointed out. "But noth-ing op-ti-mized it. It's like a
+sk-ing why avalanches
+ []
+
+
+
+[115]
+
+[116]
+Overfull \hbox (31.06473pt too wide) in paragraph at lines 106--107
+[]\T1/phv/m/n/10 (-10) When two flashes in-ter-act^^Vone's out-put be-com-ing a
+n-other's in-put^^Vsomething
+ []
+
+
+
+[117]
+
+[118]
+Overfull \hbox (9.08316pt too wide) in paragraph at lines 185--186
+[]\T1/phv/m/n/10 (-10) But their "na-tive" op-er-a-tion oc-curs else-where. In 
+faster timescales. Denser
+ []
+
+
+Overfull \hbox (5.35155pt too wide) in paragraph at lines 193--194
+[]\T1/phv/m/n/10 (-10) But it has its own dy-nam-ics. Its own se-man-tic norms.
+ Its own^^Vpurposes?
+ []
+
+
+
+[119]
+
+[120]
+Overfull \hbox (14.09303pt too wide) in paragraph at lines 253--254
+[]\T1/phv/m/n/10 (-10) Humans ob-serv-ing the sys-tem see co-her-ent be-hav-ior
+. Not the flashes^^Vthe
+ []
+
+
+
+[121])
+
+[122] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/epilogue.tex
+Overfull \hbox (16.42499pt too wide) in paragraph at lines 2--2
+[][] 
+ []
+
+
+Overfull \hbox (16.42499pt too wide) in paragraph at lines 2--2
+[][] 
+ []
+
+
+
+[123
+
+
+
+
+]
+Overfull \hbox (0.82959pt too wide) in paragraph at lines 71--72
+[]\T1/phv/m/n/10 (-10) Something called "hard box-ing". Con-tain-ment pro-to-co
+ls for en-ti-ties more
+ []
+
+
+
+[124])
+
+[125] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/glossary_terms.tex
+Overfull \hbox (16.42499pt too wide) in paragraph at lines 2--2
+[][] 
+ []
+
+
+Overfull \hbox (16.42499pt too wide) in paragraph at lines 2--2
+[][] 
+ []
+
+[126
+
+
+])
+
+[127] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/tracksources.tex
+Overfull \hbox (16.42499pt too wide) in paragraph at lines 2--2
+[][]  
+ []
+
+
+Overfull \hbox (16.42499pt too wide) in paragraph at lines 2--2
+[][]  
+ []
+
+LaTeX Font Info:    Font shape `T1/phv/b/it' in size <14.4> not available
+(Font)              Font shape `T1/phv/b/sl' tried instead on input line 4.
+)
+
+[128
+
+
+] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH.aux)
+ ***********
+LaTeX2e <2024-11-01> patch level 2
+L3 programming layer <2025-01-18>
+ ***********
+
+
+LaTeX Font Warning: Size substitutions with differences
+(Font)              up to 0.74pt have occurred.
+
+Package rerunfilecheck Info: File `NULL_MESH.out' has not changed.
+(rerunfilecheck)             Checksum: CAE2DB823497305B983B455638957DA2;4652.
+ ) 
 Here is how much of TeX's memory you used:
- 17710 strings out of 473190
- 287243 string characters out of 5715799
- 773222 words of memory out of 5000000
- 40349 multiletter control sequences out of 15000+600000
- 624640 words of font info for 257 fonts, out of 8000000 for 9000
+ 20635 strings out of 473190
+ 330131 string characters out of 5715799
+ 801242 words of memory out of 5000000
+ 42752 multiletter control sequences out of 15000+600000
+ 686868 words of font info for 470 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 108i,13n,107p,1001b,686s stack positions out of 10000i,1000n,20000p,200000b,200000s
-/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch07_intentionality_of
-_machines.tex:6:  ==> Fatal error occurred, no output PDF file produced!
+ 108i,12n,107p,1001b,1039s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2025/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu4e.pfb></us
+r/local/texlive/2025/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu51.pfb></usr/loca
+l/texlive/2025/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu55.pfb></usr/local/texl
+ive/2025/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu62.pfb></usr/local/texlive/20
+25/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu65.pfb></usr/local/texlive/2025/tex
+mf-dist/fonts/type1/arphic/bsmiu/bsmiu67.pfb></usr/local/texlive/2025/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2025/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2025/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2025/texmf-dist/f
+onts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2025/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2025/texmf-dist/fonts
+/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2025/texmf-dist/fonts/t
+ype1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2025/texmf-dist/fonts/type
+1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1
+/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/p
+ublic/amsfonts/symbols/msbm10.pfb></usr/local/texlive/2025/texmf-dist/fonts/typ
+e1/public/cm-super/sfrm1095.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1
+/urw/courier/ucrb8a.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/cou
+rier/ucrr8a.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/helvetic/uh
+vb8a.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/helvetic/uhvbo8a.p
+fb></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></us
+r/local/texlive/2025/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb></usr/loca
+l/texlive/2025/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texli
+ve/2025/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2025
+/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
+Output written on /Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH.pdf
+ (136 pages, 631282 bytes).
+PDF statistics:
+ 915 PDF objects out of 1000 (max. 8388607)
+ 710 compressed objects within 8 object streams
+ 186 named destinations out of 1000 (max. 500000)
+ 150318 words of extra memory for PDF output out of 154059 (max. 10000000)
+

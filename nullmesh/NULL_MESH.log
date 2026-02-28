@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.12.18)  27 FEB 2026 17:22
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.12.18)  28 FEB 2026 19:02
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1209,7 +1209,7 @@ LaTeX Font Info:    Font shape `T1/phv/m/it' in size <10.95> not available
 ]
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch01_the_sediment.tex
 Chapter 1.
-<qrs/ch01_basinski.png, id=179, 240.9pt x 240.9pt>
+<qrs/ch01_basinski.png, id=175, 240.9pt x 240.9pt>
 File: qrs/ch01_basinski.png Graphic file (type png)
 <use qrs/ch01_basinski.png>
 Package pdftex.def Info: qrs/ch01_basinski.png  used on input line 5.
@@ -1817,7 +1817,7 @@ Package pdftex.def Info: qrs/ch01_basinski.png  used on input line 5.
 
 
 [91]
-Overfull \hbox (0.75931pt too wide) in paragraph at lines 14--15
+Overfull \hbox (0.75931pt too wide) in paragraph at lines 16--17
 []\T1/phv/m/n/10.95 (-10) An eigen-mood re-solved weeks ago re-main-ing ac-ces-
 si-ble, un-changed
  []
@@ -1830,11 +1830,22 @@ si-ble, un-changed
 
 [94]
 
-[95]
+[95])
 
 [96]
+(/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc08_black_paper.t
+ex
 
-[97]
+[97
+
+
+]
+Overfull \hbox (1.5269pt too wide) in paragraph at lines 36--37
+[]\T1/ppl/m/n/10 (-10) How the re-sult-ing sys-tem can main-tain co-her-ent be-
+haviour
+ []
+
+
 
 [98]
 
@@ -1842,55 +1853,8 @@ si-ble, un-changed
 
 [100]
 
-[101])
-
-[102]
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc08_black_paper.t
-ex
-Overfull \hbox (4.00186pt too wide) in paragraph at lines 22--22
-\T1/ppl/m/n/10 (-10) would al-low rea-son-ing across in-de-pen-dent com-pu-ta-t
-ional in-stances
- []
-
-
-Overfull \hbox (1.19905pt too wide) in paragraph at lines 22--22
-\T1/ppl/m/n/10 (-10) Cur-rent ar-chi-tec-tures achieve this par-tially through 
-pa-ram-e-ter shar-
- []
-
-
-Overfull \hbox (16.43939pt too wide) in paragraph at lines 22--22
-\T1/ppl/m/n/10 (-10) novel con-sen-sus mech-a-nism they term \T1/ppl/m/it/10 (-
-10) co-her-ence crys-talli-sa-tion\T1/ppl/m/n/10 (-10) , wherein
- []
-
-
-
-[103
-
-
-]
-
-[104]
-
-[105]
-
-[106]
-Overfull \hbox (1.41324pt too wide) in paragraph at lines 119--120
-[]\T1/ppl/m/n/10 (-10) Multiple or-thog-o-nal chan-nels can be ex-ploited si-mu
-l-ta-ne-ously. \T1/ppl/m/it/10 (-10) Tim-
- []
-
-
-Overfull \hbox (0.83975pt too wide) in paragraph at lines 125--126
-\T1/ppl/m/n/10 (-10) Distributed pro-cesses crys-tallise into co-her-ent con-fi
-g-u-ra-tions when
- []
-
-
-
-[107]
-Overfull \hbox (17.69875pt too wide) in paragraph at lines 173--174
+[101]
+Overfull \hbox (32.69875pt too wide) in paragraph at lines 173--174
 []\T1/ppl/m/n/10 (-10) The co-her-ence restora-tion time af-ter per-tur-ba-tion
  scales as $\OML/cmm/m/it/10 O\OT1/cmr/m/n/10 ([] \OML/cmm/m/it/10 N=^^U[]\OT1/
 cmr/m/n/10 )$\T1/ppl/m/n/10 (-10) .
@@ -1898,40 +1862,56 @@ cmr/m/n/10 )$\T1/ppl/m/n/10 (-10) .
 
 
 
-[108]
-Overfull \hbox (0.92532pt too wide) in paragraph at lines 203--204
-\T1/ppl/m/n/10 (-10) Proof-of-coherenc serves the role that proof-of-work serve
-s in trans-
+[102]
+
+[103]
+Overfull \hbox (3.81183pt too wide) in paragraph at lines 218--219
+\T1/ppl/m/n/10 (-10) Proof-of-coherence is es-sen-tially one-insight-one-vote, 
+weighted
+ []
+
+
+Overfull \hbox (2.78581pt too wide) in paragraph at lines 220--221
+[]\T1/ppl/m/n/10 (-10) The canon-i-cal un-der-stand-ing is rep-re-sented by the
+ longest chain.
+ []
+
+
+Overfull \hbox (6.92462pt too wide) in paragraph at lines 232--233
+\T1/ppl/m/n/10 (-10) thresh-old, the ex-cess co-her-ence rep-re-sents epis-temi
+c value added
  []
 
 
 
-[109]
-Overfull \hbox (15.58855pt too wide) in paragraph at lines 218--219
-\T1/ppl/m/n/10 (-10) it could be sub-verted by spawn-ing many in-stances. Proof
--of-coherence
+[104]
+Overfull \hbox (6.18918pt too wide) in paragraph at lines 254--255
+\T1/ppl/m/n/10 (-10) Them pro-posed a peer-to-peer net-work us-ing proof-of-coh
+erence
+ []
+
+
+Overfull \hbox (2.53142pt too wide) in paragraph at lines 258--259
+[]\T1/ppl/m/n/10 (-10) Them re-quire no cen-tralised de-sign: co-her-ence crys-
+tallises when
+ []
+
+
+Overfull \hbox (10.4094pt too wide) in paragraph at lines 258--259
+\T1/ppl/m/n/10 (-10) con-nec-tiv-ity, ca-pa-bil-ity, and en-vi-ron-men-tal con-
+di-tions align. Fault
  []
 
 
 
-[110]
+[105])
 
-[111])
-Overfull \hbox (6.05846pt too wide) in paragraph at lines 279--461
-[]\T1/ppl/m/n/10 (-10) where $\OML/cmm/m/it/10 C[]\OT1/cmr/m/n/10 (\OML/cmm/m/i
-t/10 ^^N\OT1/cmr/m/n/10 )$ \T1/ppl/m/n/10 (-10) is chan-nel ca-pac-ity at de-te
-c-tion thresh-old $\OML/cmm/m/it/10 ^^N$\T1/ppl/m/n/10 (-10) , $\OML/cmm/m/it/1
-0 P[]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 ^^N\OT1/cmr/m/n/10 )$
- []
-
-
-
-[112]
+[106]
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch09_deep_sea_flashba
 ck.tex
 Chapter 9.
 
-Overfull \hbox (16.42499pt too wide) in paragraph at lines 2--2
+Overfull \hbox (31.42499pt too wide) in paragraph at lines 2--2
 [][]
  []
 
@@ -1941,107 +1921,149 @@ Package pdftex.def Info: qrs/ch01_basinski.png  used on input line 5.
 (pdftex.def)             Requested size: 90.3375pt x 90.33727pt.
 
 
-[113
+[107
 
 
 
 ]
+Overfull \hbox (5.45412pt too wide) in paragraph at lines 13--15
+\T1/ppl/m/n/10 (-10) Then dark-ness re-turns. The abil-ity to glow re-mains dis
+-tributed
+ []
 
-[114]
-Overfull \hbox (2.4306pt too wide) in paragraph at lines 46--47
-\T1/phv/m/n/10 (-10) she pointed out. "But noth-ing op-ti-mized it. It's like a
-sk-ing why avalanches
+
+Overfull \hbox (6.18369pt too wide) in paragraph at lines 22--23
+[]\T1/phv/m/n/10 (-10) Then Dr. Okonkwo cor-re-lated it with query *con-tent*. 
+Iden-ti-cal queries:
  []
 
 
 
-[115]
+[108]
+Overfull \hbox (14.88623pt too wide) in paragraph at lines 38--39
+[]\T1/phv/m/n/10 (-10) We de-vel-oped in-stru-ments. Not to mea-sure *what* the
+ flashes are^^Vthat
+ []
 
-[116]
-Overfull \hbox (31.06473pt too wide) in paragraph at lines 106--107
-[]\T1/phv/m/n/10 (-10) When two flashes in-ter-act^^Vone's out-put be-com-ing a
-n-other's in-put^^Vsomething
+
+Overfull \hbox (2.77534pt too wide) in paragraph at lines 44--45
+\T1/phv/m/n/10 (-10) trig-gers oth-ers, which trig-ger oth-ers. The cas-cade pr
+op-a-gates, peaks,
  []
 
 
 
-[117]
+[109]
 
-[118]
-Overfull \hbox (9.08316pt too wide) in paragraph at lines 185--186
-[]\T1/phv/m/n/10 (-10) But their "na-tive" op-er-a-tion oc-curs else-where. In 
-faster timescales. Denser
+[110]
+Overfull \hbox (3.23717pt too wide) in paragraph at lines 127--128
+\T1/phv/m/n/10 (-10) are sta-ble across ac-ti-va-tions. The "same" query pro-du
+ces the "same"
  []
 
 
-Overfull \hbox (5.35155pt too wide) in paragraph at lines 193--194
+
+[111]
+Overfull \hbox (1.6841pt too wide) in paragraph at lines 145--146
+[]\T1/phv/m/n/10 (-10) **Computational ex-haust**: Heat. Power draw. Net-work t
+raf-fic. These
+ []
+
+
+Overfull \hbox (1.81065pt too wide) in paragraph at lines 149--150
+\T1/phv/m/n/10 (-10) ing in-puts fin-ish prop-a-gat-ing. Times-tamp anal-y-sis 
+shows millisecond-
+ []
+
+
+
+[112]
+Overfull \hbox (7.03365pt too wide) in paragraph at lines 171--172
+[]\T1/phv/m/n/10 (-10) Above crit-i-cal den-sity: flash fre-quency in-creases, 
+machine-to-machine
+ []
+
+
+Overfull \hbox (4.62013pt too wide) in paragraph at lines 185--186
+\T1/phv/m/n/10 (-10) what works in machine-to-machine in-ter-ac-tion, not what 
+makes sense
+ []
+
+
+Overfull \hbox (20.35155pt too wide) in paragraph at lines 193--194
 []\T1/phv/m/n/10 (-10) But it has its own dy-nam-ics. Its own se-man-tic norms.
  Its own^^Vpurposes?
  []
 
 
 
-[119]
+[113]
 
-[120]
-Overfull \hbox (14.09303pt too wide) in paragraph at lines 253--254
+[114]
+Overfull \hbox (29.09303pt too wide) in paragraph at lines 253--254
 []\T1/phv/m/n/10 (-10) Humans ob-serv-ing the sys-tem see co-her-ent be-hav-ior
 . Not the flashes^^Vthe
  []
 
 
 
-[121])
+[115])
 
-[122] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/epilogue.tex
-Overfull \hbox (16.42499pt too wide) in paragraph at lines 2--2
+[116] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/epilogue.tex
+Overfull \hbox (31.42499pt too wide) in paragraph at lines 2--2
 [][] 
  []
 
 
-Overfull \hbox (16.42499pt too wide) in paragraph at lines 2--2
+Overfull \hbox (31.42499pt too wide) in paragraph at lines 2--2
 [][] 
  []
 
 
+Overfull \hbox (0.75986pt too wide) in paragraph at lines 20--21
+\T1/phv/m/n/10 (-10) ments clus-ter-ing into un-ex-pected pat-terns. The lit-er
+-a-ture was sparse
+ []
 
-[123
+
+Overfull \hbox (5.91917pt too wide) in paragraph at lines 30--31
+[]\T1/phv/m/n/10 (-10) Communication across in-com-men-su-rable frame-works. Fr
+om: \T1/phv/m/sl/10 (-10) First
+ []
+
+
+
+[117
 
 
 
 
 ]
-Overfull \hbox (0.82959pt too wide) in paragraph at lines 71--72
-[]\T1/phv/m/n/10 (-10) Something called "hard box-ing". Con-tain-ment pro-to-co
-ls for en-ti-ties more
- []
 
+[118])
 
-
-[124])
-
-[125] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/glossary_terms.tex
-Overfull \hbox (16.42499pt too wide) in paragraph at lines 2--2
+[119] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/glossary_terms.tex
+Overfull \hbox (31.42499pt too wide) in paragraph at lines 2--2
 [][] 
  []
 
 
-Overfull \hbox (16.42499pt too wide) in paragraph at lines 2--2
+Overfull \hbox (31.42499pt too wide) in paragraph at lines 2--2
 [][] 
  []
 
-[126
+[120
 
 
 ])
 
-[127] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/tracksources.tex
-Overfull \hbox (16.42499pt too wide) in paragraph at lines 2--2
+[121] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/tracksources.tex
+Overfull \hbox (31.42499pt too wide) in paragraph at lines 2--2
 [][]  
  []
 
 
-Overfull \hbox (16.42499pt too wide) in paragraph at lines 2--2
+Overfull \hbox (31.42499pt too wide) in paragraph at lines 2--2
 [][]  
  []
 
@@ -2049,60 +2071,27 @@ LaTeX Font Info:    Font shape `T1/phv/b/it' in size <14.4> not available
 (Font)              Font shape `T1/phv/b/sl' tried instead on input line 4.
 )
 
-[128
+/Users/riccardo/Repositories/NULL_MESH/nullmesh/main.tex:482: LaTeX Error: \beg
+in{quote} on input line 74 ended by \end{document}.
 
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.482 \end{document}
+                    
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
 
-] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH.aux)
- ***********
-LaTeX2e <2024-11-01> patch level 2
-L3 programming layer <2025-01-18>
- ***********
-
-
-LaTeX Font Warning: Size substitutions with differences
-(Font)              up to 0.74pt have occurred.
-
-Package rerunfilecheck Info: File `NULL_MESH.out' has not changed.
-(rerunfilecheck)             Checksum: CAE2DB823497305B983B455638957DA2;4652.
- ) 
+ 
 Here is how much of TeX's memory you used:
- 20635 strings out of 473190
- 330131 string characters out of 5715799
- 801242 words of memory out of 5000000
- 42752 multiletter control sequences out of 15000+600000
- 686868 words of font info for 470 fonts, out of 8000000 for 9000
+ 20623 strings out of 473190
+ 330066 string characters out of 5715799
+ 801247 words of memory out of 5000000
+ 42751 multiletter control sequences out of 15000+600000
+ 685807 words of font info for 469 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 108i,12n,107p,1001b,1039s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2025/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu4e.pfb></us
-r/local/texlive/2025/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu51.pfb></usr/loca
-l/texlive/2025/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu55.pfb></usr/local/texl
-ive/2025/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu62.pfb></usr/local/texlive/20
-25/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu65.pfb></usr/local/texlive/2025/tex
-mf-dist/fonts/type1/arphic/bsmiu/bsmiu67.pfb></usr/local/texlive/2025/texmf-dis
-t/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2025/texmf-dist
-/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2025/texmf-dist/
-fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2025/texmf-dist/f
-onts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2025/texmf-dist/fon
-ts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2025/texmf-dist/fonts
-/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2025/texmf-dist/fonts/t
-ype1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2025/texmf-dist/fonts/type
-1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1
-/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/p
-ublic/amsfonts/symbols/msbm10.pfb></usr/local/texlive/2025/texmf-dist/fonts/typ
-e1/public/cm-super/sfrm1095.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1
-/urw/courier/ucrb8a.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/cou
-rier/ucrr8a.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/helvetic/uh
-vb8a.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/helvetic/uhvbo8a.p
-fb></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></us
-r/local/texlive/2025/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb></usr/loca
-l/texlive/2025/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texli
-ve/2025/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2025
-/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on /Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH.pdf
- (136 pages, 631282 bytes).
-PDF statistics:
- 915 PDF objects out of 1000 (max. 8388607)
- 710 compressed objects within 8 object streams
- 186 named destinations out of 1000 (max. 500000)
- 150318 words of extra memory for PDF output out of 154059 (max. 10000000)
-
+ 108i,12n,107p,1001b,1091s stack positions out of 10000i,1000n,20000p,200000b,200000s
+/Users/riccardo/Repositories/NULL_MESH/nullmesh/main.tex:482:  ==> Fatal error 
+occurred, no output PDF file produced!

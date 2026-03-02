@@ -1,20 +1,15 @@
 
-Hi Claude, I am currently working on the drafting of the interlude '' the brief description is the following the the chapter is to defined yet, indeed
+Hi Claude, I am currently working on the drafting of the interlude 'ch07_intentionality_of_machines.tex' the brief description is the following the the chapter is to defined yet, indeed
 
 '''
-**Interlude Six: REAL4REAL**  <this description has to be completed with additional but not more then 60 words>
+**Chapter Seven: Intentionality of Machines** sightseers (abbreviated as seers) are agent of processes of intentionality trajectory which human-artificial nature is indeterminate, they are just part of the mesh or they are the mesh itself. <this description has to be completed with not more then 80 words>
 '''
 
-And therefore finally, chapters_interludes_str.tex has to be updated accordingly.
+And therefore finally, 'chapters_interludes_str.tex' has to be updated accordingly.
 
-I already started to draft it, you can find the draft '' but it should be completed and refine. As you can see the are some notes/placeholders delimited by "<" and ">" bearing some instruction guiding to the drafting completion.
+I already started to draft it, you can find the draft 'ch07_intentionality_of_machines.tex' but it should be completed and refine. As you can see the are some notes/placeholders delimited by "<" and ">" bearing some instruction guiding to the drafting completion.
 
-I like the content already established. So just look at the following dialogue and set it out as if it were a conversation between some of the characters mentioned above, like they’re all talking together in one of the digital rooms of the house where the reality social media show is happening. For example, it could unfold through reels, comments under posts, stories or private messages, or even digital confessionals. Then that section should be organised as: ‘Name of character’: “what the character is saying”. You’ll notice the conversation was originally transcribed from just two people, but we need to find a way to harmonise that same content and tone so it feels like it’s coming from multiple people (all the characters in the reality. The style could in some way be feels like real, poor-filtered spoken language in everyday speech. Not theatrical but also with a healthy dose slang, just how an articulate person might actually speak in a casual setting but this person, rough, and grounded in everyday speech but not an boorish, ignorant illiterate. i.e., a bit cheeky but not stupid but with smart and snarky style.
-
-Importantly, not more than 3000 words. Overwrite the current '' and also please finally complete the **Interlude Six: REAL4REAL**  <this description has to be completed with additional but not more then 60 words>
-
-Finally compile the pdf using and fix potential errors
-###
+The point of this chapter is that both the human agent and the AI agent as are artificial surrogate or ersatz of the human agency are component of the mesh. In the mesh these two became instinguishible, sightseers represent this indiscernibility. Human agents and artificial agents are blended, superimposed. In this case the intentionality (attributing purpose to observable trajectories) at the human-machine membrane, or sightseer's eigenmoods. So the concept of eigenmoods here should be elegantly, and scientifically and poetically put in context.
 
 So, what I would ask you to do is improve, correct and refine the draft following the narrative style of the book as precisely delineated in:
 
@@ -29,3 +24,5 @@ So, what I would ask you to do is improve, correct and refine the draft followin
 '''
 
 and the more general synopsis (i.e., README.md) and the within-draft instructions. Feel free to creative narrative for what concern the ideation content (also using but not overusing the typographic voices potential) but in the original in the narrative style and frame neighborhood of the novel. 
+
+Importantly, not more than 1000 words. Overwrite the current  'ch07_intentionality_of_machines.tex' and also please finally complete the '**Chapter Seven: Intentionality of Machines** sightseers (abbreviated as seers) are agent of processes of intentionality trajectory which human-artificial nature is indeterminate, they are just part of the mesh or they are the mesh itself. <this description has to be completed with not more then 80 words>'

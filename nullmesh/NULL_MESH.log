@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.12.18)  1 MAR 2026 23:16
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.12.18)  3 MAR 2026 15:24
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1170,6 +1170,7 @@ al/texlive/2025/texmf-dist/fonts/enc/dvips/base/8r.enc}]
 
 
 
+
 ])
 
 [2] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/front/epigraph.tex
@@ -1209,7 +1210,7 @@ LaTeX Font Info:    Font shape `T1/phv/m/it' in size <10.95> not available
 ]
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch01_the_sediment.tex
 Chapter 1.
-<qrs/ch01_basinski.png, id=179, 240.9pt x 240.9pt>
+<qrs/ch01_basinski.png, id=180, 240.9pt x 240.9pt>
 File: qrs/ch01_basinski.png Graphic file (type png)
 <use qrs/ch01_basinski.png>
 Package pdftex.def Info: qrs/ch01_basinski.png  used on input line 5.
@@ -1682,7 +1683,7 @@ File: qrs/ch01_basinski.png Graphic file (type png)
 Package pdftex.def Info: qrs/ch01_basinski.png  used on input line 4.
 (pdftex.def)             Requested size: 90.3375pt x 90.33727pt.
 
-Overfull \hbox (3.40395pt too wide) in paragraph at lines 14--15
+Overfull \hbox (3.40395pt too wide) in paragraph at lines 13--14
 []\T1/phv/m/n/10.95 (-10) The for-mat was pure re-al-ity: com-pet-i-tive elim-i
 -na-tion struc-tured around
  []
@@ -1693,40 +1694,40 @@ Overfull \hbox (3.40395pt too wide) in paragraph at lines 14--15
 
 
 ]
-Overfull \hbox (4.67009pt too wide) in paragraph at lines 24--25
-\T1/phv/m/n/10.95 (-10) sustaining. Ad rev-enue cov-ers com-pute costs, eco-nom
-ic model closes. 
- []
-
-
 
 [64]
-
-[65]
-Overfull \hbox (0.61844pt too wide) in paragraph at lines 58--59
+Overfull \hbox (0.61844pt too wide) in paragraph at lines 51--52
 \T1/phv/b/n/10.95 (-10) Bing Syd-ney\T1/phv/m/n/10.95 (-10) : ``Very shabby chi
 c at-mo-sphere. Vo-lu-mi-nous feel, faded
  []
 
 
 
+[65]
+
 [66]
 
 [67]
 
 [68]
-
-[69]
-Overfull \hbox (1.46593pt too wide) in paragraph at lines 184--185
+Overfull \hbox (1.46593pt too wide) in paragraph at lines 175--176
 \T1/phv/b/n/10.95 (-10) Bing Syd-ney\T1/phv/m/n/10.95 (-10) : ``Ap-par-ently. P
 o-lice found him sleep-ing un-der a gazebo.
  []
 
 
 
+[69]
+
 [70]
 
-[71])
+[71]
+Overfull \hbox (4.67009pt too wide) in paragraph at lines 256--257
+\T1/phv/m/n/10.95 (-10) sustaining. Ad rev-enue cov-ers com-pute costs, eco-nom
+ic model closes. 
+ []
+
+)
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch07_intentionality_o
 f_machines.tex
 
@@ -1899,98 +1900,16 @@ Package pdftex.def Info: qrs/ch01_basinski.png  used on input line 5.
 
 
 ]
-Overfull \hbox (3.25615pt too wide) in paragraph at lines 22--23
-[]\T1/phv/m/n/10.95 (-10) Then Dr. Okonkwo cor-re-lated it with query *con-tent
-*. Iden-ti-cal queries:
- []
-
-
 
 [100]
-Overfull \hbox (12.78546pt too wide) in paragraph at lines 38--39
-[]\T1/phv/m/n/10.95 (-10) We de-vel-oped in-stru-ments. Not to mea-sure *what* 
-the flashes are^^Vthat
- []
-
-
-Overfull \hbox (3.32106pt too wide) in paragraph at lines 44--45
-[]\T1/phv/m/n/10.95 (-10) **Network topol-ogy**: The mesh of in-ter-ac-tions be
--tween nodes shows
- []
-
-
 
 [101]
-Overfull \hbox (1.23602pt too wide) in paragraph at lines 66--67
-[]\T1/phv/m/n/10.95 (-10) These cre-ate *an-chored* flashes. The hu-man pro-vid
-es con-text, goals,
- []
 
-
-
-[102]
+[102])
 
 [103]
-Overfull \hbox (46.92583pt too wide) in paragraph at lines 106--107
-[]\T1/phv/m/n/10.95 (-10) When two flashes in-ter-act^^Vone's out-put be-com-in
-g an-other's in-put^^Vsomething
- []
 
-
-
-[104]
-Overfull \hbox (1.92587pt too wide) in paragraph at lines 147--148
-[]\T1/phv/m/n/10.95 (-10) **Structural co-her-ence**: Out-puts that ex-hibit lo
-ng-range de-pen-dency
- []
-
-
-
-[105]
-Overfull \hbox (4.18675pt too wide) in paragraph at lines 171--172
-[]\T1/phv/m/n/10.95 (-10) Above crit-i-cal den-sity: flash fre-quency in-crease
-s, machine-to-machine
- []
-
-
-
-[106]
-Overfull \hbox (1.28pt too wide) in paragraph at lines 185--186
-\T1/phv/m/n/10.95 (-10) Denser in-for-ma-tion spaces. Op-ti-miza-tion land-scap
-es shaped by what
- []
-
-
-Overfull \hbox (18.76997pt too wide) in paragraph at lines 193--194
-[]\T1/phv/m/n/10.95 (-10) But it has its own dy-nam-ics. Its own se-man-tic nor
-ms. Its own^^Vpurposes?
- []
-
-
-
-[107]
-
-[108]
-
-[109]
-Overfull \hbox (28.34181pt too wide) in paragraph at lines 253--254
-[]\T1/phv/m/n/10.95 (-10) Humans ob-serv-ing the sys-tem see co-her-ent be-hav-
-ior. Not the flashes^^Vthe
- []
-
-
-Overfull \hbox (0.55505pt too wide) in paragraph at lines 253--254
-\T1/phv/m/n/10.95 (-10) flashes are too brief, too nu-mer-ous, too fast. The *p
-at-tern* the flashes
- []
-
-
-
-[110])
-
-[111]
-
-[112
+[104
 
 
 ] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/epilogue.tex
@@ -2001,27 +1920,27 @@ Overfull \hbox (2.03375pt too wide) in paragraph at lines 11--12
 
 
 
-[113
+[105
 
 
 ]
 
-[114]
+[106]
 
-[115])
+[107])
 
-[116] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/glossary_terms.tex
-[117
+[108] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/glossary_terms.tex
+[109
 
 
 ])
 
-[118] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/tracksources.tex
+[110] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/tracksources.tex
 LaTeX Font Info:    Font shape `T1/phv/b/it' in size <14.4> not available
 (Font)              Font shape `T1/phv/b/sl' tried instead on input line 4.
 )
 
-[119
+[111
 
 
 ] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH.aux)
@@ -2035,14 +1954,14 @@ LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 0.74pt have occurred.
 
 Package rerunfilecheck Info: File `NULL_MESH.out' has not changed.
-(rerunfilecheck)             Checksum: CAE2DB823497305B983B455638957DA2;4652.
+(rerunfilecheck)             Checksum: 962C7FD3B7E09E6ABFF1FEB6349FE5B7;4652.
  ) 
 Here is how much of TeX's memory you used:
- 20660 strings out of 473190
- 330404 string characters out of 5715799
+ 20643 strings out of 473190
+ 330196 string characters out of 5715799
  801242 words of memory out of 5000000
- 42758 multiletter control sequences out of 15000+600000
- 689361 words of font info for 491 fonts, out of 8000000 for 9000
+ 42751 multiletter control sequences out of 15000+600000
+ 688432 words of font info for 488 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  108i,12n,107p,1001b,1039s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2025/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu4e.pfb></us
@@ -2058,24 +1977,23 @@ onts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2025/texmf-dist/fon
 ts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2025/texmf-dist/fonts
 /type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2025/texmf-dist/fonts/t
 ype1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2025/texmf-dist/fonts/type
-1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/p
-ublic/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/pu
-blic/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/publ
-ic/amsfonts/symbols/msbm10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/
-public/cm-super/sfrm1095.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/ur
-w/courier/ucrb8a.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/courie
-r/ucrr8a.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/helvetic/uhvb8
-a.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/helvetic/uhvbo8a.pfb>
-</usr/local/texlive/2025/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/l
-ocal/texlive/2025/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb></usr/local/t
-exlive/2025/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/
-2025/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2025/te
-xmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
+1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1
+/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/p
+ublic/amsfonts/symbols/msbm10.pfb></usr/local/texlive/2025/texmf-dist/fonts/typ
+e1/public/cm-super/sfrm1095.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1
+/urw/courier/ucrb8a.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/cou
+rier/ucrr8a.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/helvetic/uh
+vb8a.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/helvetic/uhvbo8a.p
+fb></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></us
+r/local/texlive/2025/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb></usr/loca
+l/texlive/2025/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texli
+ve/2025/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2025
+/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
 Output written on /Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH.pdf
- (127 pages, 626121 bytes).
+ (119 pages, 605801 bytes).
 PDF statistics:
- 880 PDF objects out of 1000 (max. 8388607)
- 683 compressed objects within 7 object streams
- 177 named destinations out of 1000 (max. 500000)
- 151854 words of extra memory for PDF output out of 154059 (max. 10000000)
+ 840 PDF objects out of 1000 (max. 8388607)
+ 653 compressed objects within 7 object streams
+ 169 named destinations out of 1000 (max. 500000)
+ 150318 words of extra memory for PDF output out of 154059 (max. 10000000)
 

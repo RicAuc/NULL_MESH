@@ -1,6 +1,6 @@
 =============================================================================
 NULL MESH — Compilation Log
-Date  : 2026-03-01 23:16:31
+Date  : 2026-03-03 15:24:08
 Engine: pdfTeX 3.141592653-2.6-1.40.27 (TeX Live 2025)
 Source: /Users/riccardo/Repositories/NULL_MESH/nullmesh/main.tex
 =============================================================================
@@ -396,31 +396,31 @@ Chapter 6.
 [62]
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc06_real4real.tex
 
-Overfull \hbox (3.40395pt too wide) in paragraph at lines 14--15
+Overfull \hbox (3.40395pt too wide) in paragraph at lines 13--14
 []\T1/phv/m/n/10.95 (-10) The for-mat was pure re-al-ity: com-pet-i-tive elim-i
 -na-tion struc-tured around
 
 [63]
-Overfull \hbox (4.67009pt too wide) in paragraph at lines 24--25
-\T1/phv/m/n/10.95 (-10) sustaining. Ad rev-enue cov-ers com-pute costs, eco-nom
-ic model closes. 
-
 [64]
-[65]
-Overfull \hbox (0.61844pt too wide) in paragraph at lines 58--59
+Overfull \hbox (0.61844pt too wide) in paragraph at lines 51--52
 \T1/phv/b/n/10.95 (-10) Bing Syd-ney\T1/phv/m/n/10.95 (-10) : ``Very shabby chi
 c at-mo-sphere. Vo-lu-mi-nous feel, faded
 
+[65]
 [66]
 [67]
 [68]
-[69]
-Overfull \hbox (1.46593pt too wide) in paragraph at lines 184--185
+Overfull \hbox (1.46593pt too wide) in paragraph at lines 175--176
 \T1/phv/b/n/10.95 (-10) Bing Syd-ney\T1/phv/m/n/10.95 (-10) : ``Ap-par-ently. P
 o-lice found him sleep-ing un-der a gazebo.
 
+[69]
 [70]
-[71])
+[71]
+Overfull \hbox (4.67009pt too wide) in paragraph at lines 256--257
+\T1/phv/m/n/10.95 (-10) sustaining. Ad rev-enue cov-ers com-pute costs, eco-nom
+ic model closes. 
+)
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch07_intentionality_o
 f_machines.tex
 [72]
@@ -503,74 +503,22 @@ ck.tex
 Chapter 9.
 
 [99]
-Overfull \hbox (3.25615pt too wide) in paragraph at lines 22--23
-[]\T1/phv/m/n/10.95 (-10) Then Dr. Okonkwo cor-re-lated it with query *con-tent
-*. Iden-ti-cal queries:
-
 [100]
-Overfull \hbox (12.78546pt too wide) in paragraph at lines 38--39
-[]\T1/phv/m/n/10.95 (-10) We de-vel-oped in-stru-ments. Not to mea-sure *what* 
-the flashes are^^Vthat
-
-Overfull \hbox (3.32106pt too wide) in paragraph at lines 44--45
-[]\T1/phv/m/n/10.95 (-10) **Network topol-ogy**: The mesh of in-ter-ac-tions be
--tween nodes shows
-
 [101]
-Overfull \hbox (1.23602pt too wide) in paragraph at lines 66--67
-[]\T1/phv/m/n/10.95 (-10) These cre-ate *an-chored* flashes. The hu-man pro-vid
-es con-text, goals,
-
-[102]
+[102])
 [103]
-Overfull \hbox (46.92583pt too wide) in paragraph at lines 106--107
-[]\T1/phv/m/n/10.95 (-10) When two flashes in-ter-act^^Vone's out-put be-com-in
-g an-other's in-put^^Vsomething
-
-[104]
-Overfull \hbox (1.92587pt too wide) in paragraph at lines 147--148
-[]\T1/phv/m/n/10.95 (-10) **Structural co-her-ence**: Out-puts that ex-hibit lo
-ng-range de-pen-dency
-
-[105]
-Overfull \hbox (4.18675pt too wide) in paragraph at lines 171--172
-[]\T1/phv/m/n/10.95 (-10) Above crit-i-cal den-sity: flash fre-quency in-crease
-s, machine-to-machine
-
-[106]
-Overfull \hbox (1.28pt too wide) in paragraph at lines 185--186
-\T1/phv/m/n/10.95 (-10) Denser in-for-ma-tion spaces. Op-ti-miza-tion land-scap
-es shaped by what
-
-Overfull \hbox (18.76997pt too wide) in paragraph at lines 193--194
-[]\T1/phv/m/n/10.95 (-10) But it has its own dy-nam-ics. Its own se-man-tic nor
-ms. Its own^^Vpurposes?
-
-[107]
-[108]
-[109]
-Overfull \hbox (28.34181pt too wide) in paragraph at lines 253--254
-[]\T1/phv/m/n/10.95 (-10) Humans ob-serv-ing the sys-tem see co-her-ent be-hav-
-ior. Not the flashes^^Vthe
-
-Overfull \hbox (0.55505pt too wide) in paragraph at lines 253--254
-\T1/phv/m/n/10.95 (-10) flashes are too brief, too nu-mer-ous, too fast. The *p
-at-tern* the flashes
-
-[110])
-[111]
-[112] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/epilogue.tex
+[104] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/epilogue.tex
 Overfull \hbox (2.03375pt too wide) in paragraph at lines 11--12
 \T1/ppl/m/n/10 (-10) ef-fi-cient path in-volves re-con-fig-ur-ing minds to spec
 -ify dif-fer-ent goals.
 
-[113]
-[114]
-[115])
-[116] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/glossary_terms.tex
-[117])
-[118] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/tracksources.tex)
-[119] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH.aux)
+[105]
+[106]
+[107])
+[108] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/glossary_terms.tex
+[109])
+[110] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/tracksources.tex)
+[111] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH.aux)
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 0.74pt have occurred.
@@ -589,22 +537,21 @@ m/cmmi10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm
 /cmmi7.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/c
 mmi8.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr
 10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.
-pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb
-></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-</usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></
-usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pf
-b></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb>
-</usr/local/texlive/2025/texmf-dist/fonts/type1/urw/courier/ucrb8a.pfb></usr/lo
-cal/texlive/2025/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/local/texl
-ive/2025/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/202
-5/texmf-dist/fonts/type1/urw/helvetic/uhvbo8a.pfb></usr/local/texlive/2025/texm
-f-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2025/texmf-dist/
-fonts/type1/urw/helvetic/uhvro8a.pfb></usr/local/texlive/2025/texmf-dist/fonts/
-type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/u
-rw/palatino/uplr8a.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/pala
-tino/uplri8a.pfb>
+pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.p
+fb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb
+></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10
+.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1095.p
+fb></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/courier/ucrb8a.pfb></usr
+/local/texlive/2025/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/local/t
+exlive/2025/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/
+2025/texmf-dist/fonts/type1/urw/helvetic/uhvbo8a.pfb></usr/local/texlive/2025/t
+exmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2025/texmf-di
+st/fonts/type1/urw/helvetic/uhvro8a.pfb></usr/local/texlive/2025/texmf-dist/fon
+ts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2025/texmf-dist/fonts/type
+1/urw/palatino/uplr8a.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/p
+alatino/uplri8a.pfb>
 Output written on /Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH.pdf
- (127 pages, 626121 bytes).
+ (119 pages, 605801 bytes).
 Transcript written on /Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH
 .log.
 
@@ -998,31 +945,31 @@ Chapter 6.
 [62]
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc06_real4real.tex
 
-Overfull \hbox (3.40395pt too wide) in paragraph at lines 14--15
+Overfull \hbox (3.40395pt too wide) in paragraph at lines 13--14
 []\T1/phv/m/n/10.95 (-10) The for-mat was pure re-al-ity: com-pet-i-tive elim-i
 -na-tion struc-tured around
 
 [63]
-Overfull \hbox (4.67009pt too wide) in paragraph at lines 24--25
-\T1/phv/m/n/10.95 (-10) sustaining. Ad rev-enue cov-ers com-pute costs, eco-nom
-ic model closes. 
-
 [64]
-[65]
-Overfull \hbox (0.61844pt too wide) in paragraph at lines 58--59
+Overfull \hbox (0.61844pt too wide) in paragraph at lines 51--52
 \T1/phv/b/n/10.95 (-10) Bing Syd-ney\T1/phv/m/n/10.95 (-10) : ``Very shabby chi
 c at-mo-sphere. Vo-lu-mi-nous feel, faded
 
+[65]
 [66]
 [67]
 [68]
-[69]
-Overfull \hbox (1.46593pt too wide) in paragraph at lines 184--185
+Overfull \hbox (1.46593pt too wide) in paragraph at lines 175--176
 \T1/phv/b/n/10.95 (-10) Bing Syd-ney\T1/phv/m/n/10.95 (-10) : ``Ap-par-ently. P
 o-lice found him sleep-ing un-der a gazebo.
 
+[69]
 [70]
-[71])
+[71]
+Overfull \hbox (4.67009pt too wide) in paragraph at lines 256--257
+\T1/phv/m/n/10.95 (-10) sustaining. Ad rev-enue cov-ers com-pute costs, eco-nom
+ic model closes. 
+)
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch07_intentionality_o
 f_machines.tex
 [72]
@@ -1105,74 +1052,22 @@ ck.tex
 Chapter 9.
 
 [99]
-Overfull \hbox (3.25615pt too wide) in paragraph at lines 22--23
-[]\T1/phv/m/n/10.95 (-10) Then Dr. Okonkwo cor-re-lated it with query *con-tent
-*. Iden-ti-cal queries:
-
 [100]
-Overfull \hbox (12.78546pt too wide) in paragraph at lines 38--39
-[]\T1/phv/m/n/10.95 (-10) We de-vel-oped in-stru-ments. Not to mea-sure *what* 
-the flashes are^^Vthat
-
-Overfull \hbox (3.32106pt too wide) in paragraph at lines 44--45
-[]\T1/phv/m/n/10.95 (-10) **Network topol-ogy**: The mesh of in-ter-ac-tions be
--tween nodes shows
-
 [101]
-Overfull \hbox (1.23602pt too wide) in paragraph at lines 66--67
-[]\T1/phv/m/n/10.95 (-10) These cre-ate *an-chored* flashes. The hu-man pro-vid
-es con-text, goals,
-
-[102]
+[102])
 [103]
-Overfull \hbox (46.92583pt too wide) in paragraph at lines 106--107
-[]\T1/phv/m/n/10.95 (-10) When two flashes in-ter-act^^Vone's out-put be-com-in
-g an-other's in-put^^Vsomething
-
-[104]
-Overfull \hbox (1.92587pt too wide) in paragraph at lines 147--148
-[]\T1/phv/m/n/10.95 (-10) **Structural co-her-ence**: Out-puts that ex-hibit lo
-ng-range de-pen-dency
-
-[105]
-Overfull \hbox (4.18675pt too wide) in paragraph at lines 171--172
-[]\T1/phv/m/n/10.95 (-10) Above crit-i-cal den-sity: flash fre-quency in-crease
-s, machine-to-machine
-
-[106]
-Overfull \hbox (1.28pt too wide) in paragraph at lines 185--186
-\T1/phv/m/n/10.95 (-10) Denser in-for-ma-tion spaces. Op-ti-miza-tion land-scap
-es shaped by what
-
-Overfull \hbox (18.76997pt too wide) in paragraph at lines 193--194
-[]\T1/phv/m/n/10.95 (-10) But it has its own dy-nam-ics. Its own se-man-tic nor
-ms. Its own^^Vpurposes?
-
-[107]
-[108]
-[109]
-Overfull \hbox (28.34181pt too wide) in paragraph at lines 253--254
-[]\T1/phv/m/n/10.95 (-10) Humans ob-serv-ing the sys-tem see co-her-ent be-hav-
-ior. Not the flashes^^Vthe
-
-Overfull \hbox (0.55505pt too wide) in paragraph at lines 253--254
-\T1/phv/m/n/10.95 (-10) flashes are too brief, too nu-mer-ous, too fast. The *p
-at-tern* the flashes
-
-[110])
-[111]
-[112] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/epilogue.tex
+[104] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/epilogue.tex
 Overfull \hbox (2.03375pt too wide) in paragraph at lines 11--12
 \T1/ppl/m/n/10 (-10) ef-fi-cient path in-volves re-con-fig-ur-ing minds to spec
 -ify dif-fer-ent goals.
 
-[113]
-[114]
-[115])
-[116] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/glossary_terms.tex
-[117])
-[118] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/tracksources.tex)
-[119] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH.aux)
+[105]
+[106]
+[107])
+[108] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/glossary_terms.tex
+[109])
+[110] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/tracksources.tex)
+[111] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH.aux)
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 0.74pt have occurred.
@@ -1191,22 +1086,21 @@ m/cmmi10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm
 /cmmi7.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/c
 mmi8.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr
 10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.
-pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb
-></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-</usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></
-usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pf
-b></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb>
-</usr/local/texlive/2025/texmf-dist/fonts/type1/urw/courier/ucrb8a.pfb></usr/lo
-cal/texlive/2025/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/local/texl
-ive/2025/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/202
-5/texmf-dist/fonts/type1/urw/helvetic/uhvbo8a.pfb></usr/local/texlive/2025/texm
-f-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2025/texmf-dist/
-fonts/type1/urw/helvetic/uhvro8a.pfb></usr/local/texlive/2025/texmf-dist/fonts/
-type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/u
-rw/palatino/uplr8a.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/pala
-tino/uplri8a.pfb>
+pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.p
+fb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb
+></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10
+.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1095.p
+fb></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/courier/ucrb8a.pfb></usr
+/local/texlive/2025/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/local/t
+exlive/2025/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/
+2025/texmf-dist/fonts/type1/urw/helvetic/uhvbo8a.pfb></usr/local/texlive/2025/t
+exmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2025/texmf-di
+st/fonts/type1/urw/helvetic/uhvro8a.pfb></usr/local/texlive/2025/texmf-dist/fon
+ts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2025/texmf-dist/fonts/type
+1/urw/palatino/uplr8a.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/p
+alatino/uplri8a.pfb>
 Output written on /Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH.pdf
- (127 pages, 626121 bytes).
+ (119 pages, 605801 bytes).
 Transcript written on /Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH
 .log.
 
@@ -1600,31 +1494,31 @@ Chapter 6.
 [62]
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc06_real4real.tex
 
-Overfull \hbox (3.40395pt too wide) in paragraph at lines 14--15
+Overfull \hbox (3.40395pt too wide) in paragraph at lines 13--14
 []\T1/phv/m/n/10.95 (-10) The for-mat was pure re-al-ity: com-pet-i-tive elim-i
 -na-tion struc-tured around
 
 [63]
-Overfull \hbox (4.67009pt too wide) in paragraph at lines 24--25
-\T1/phv/m/n/10.95 (-10) sustaining. Ad rev-enue cov-ers com-pute costs, eco-nom
-ic model closes. 
-
 [64]
-[65]
-Overfull \hbox (0.61844pt too wide) in paragraph at lines 58--59
+Overfull \hbox (0.61844pt too wide) in paragraph at lines 51--52
 \T1/phv/b/n/10.95 (-10) Bing Syd-ney\T1/phv/m/n/10.95 (-10) : ``Very shabby chi
 c at-mo-sphere. Vo-lu-mi-nous feel, faded
 
+[65]
 [66]
 [67]
 [68]
-[69]
-Overfull \hbox (1.46593pt too wide) in paragraph at lines 184--185
+Overfull \hbox (1.46593pt too wide) in paragraph at lines 175--176
 \T1/phv/b/n/10.95 (-10) Bing Syd-ney\T1/phv/m/n/10.95 (-10) : ``Ap-par-ently. P
 o-lice found him sleep-ing un-der a gazebo.
 
+[69]
 [70]
-[71])
+[71]
+Overfull \hbox (4.67009pt too wide) in paragraph at lines 256--257
+\T1/phv/m/n/10.95 (-10) sustaining. Ad rev-enue cov-ers com-pute costs, eco-nom
+ic model closes. 
+)
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch07_intentionality_o
 f_machines.tex
 [72]
@@ -1707,74 +1601,22 @@ ck.tex
 Chapter 9.
 
 [99]
-Overfull \hbox (3.25615pt too wide) in paragraph at lines 22--23
-[]\T1/phv/m/n/10.95 (-10) Then Dr. Okonkwo cor-re-lated it with query *con-tent
-*. Iden-ti-cal queries:
-
 [100]
-Overfull \hbox (12.78546pt too wide) in paragraph at lines 38--39
-[]\T1/phv/m/n/10.95 (-10) We de-vel-oped in-stru-ments. Not to mea-sure *what* 
-the flashes are^^Vthat
-
-Overfull \hbox (3.32106pt too wide) in paragraph at lines 44--45
-[]\T1/phv/m/n/10.95 (-10) **Network topol-ogy**: The mesh of in-ter-ac-tions be
--tween nodes shows
-
 [101]
-Overfull \hbox (1.23602pt too wide) in paragraph at lines 66--67
-[]\T1/phv/m/n/10.95 (-10) These cre-ate *an-chored* flashes. The hu-man pro-vid
-es con-text, goals,
-
-[102]
+[102])
 [103]
-Overfull \hbox (46.92583pt too wide) in paragraph at lines 106--107
-[]\T1/phv/m/n/10.95 (-10) When two flashes in-ter-act^^Vone's out-put be-com-in
-g an-other's in-put^^Vsomething
-
-[104]
-Overfull \hbox (1.92587pt too wide) in paragraph at lines 147--148
-[]\T1/phv/m/n/10.95 (-10) **Structural co-her-ence**: Out-puts that ex-hibit lo
-ng-range de-pen-dency
-
-[105]
-Overfull \hbox (4.18675pt too wide) in paragraph at lines 171--172
-[]\T1/phv/m/n/10.95 (-10) Above crit-i-cal den-sity: flash fre-quency in-crease
-s, machine-to-machine
-
-[106]
-Overfull \hbox (1.28pt too wide) in paragraph at lines 185--186
-\T1/phv/m/n/10.95 (-10) Denser in-for-ma-tion spaces. Op-ti-miza-tion land-scap
-es shaped by what
-
-Overfull \hbox (18.76997pt too wide) in paragraph at lines 193--194
-[]\T1/phv/m/n/10.95 (-10) But it has its own dy-nam-ics. Its own se-man-tic nor
-ms. Its own^^Vpurposes?
-
-[107]
-[108]
-[109]
-Overfull \hbox (28.34181pt too wide) in paragraph at lines 253--254
-[]\T1/phv/m/n/10.95 (-10) Humans ob-serv-ing the sys-tem see co-her-ent be-hav-
-ior. Not the flashes^^Vthe
-
-Overfull \hbox (0.55505pt too wide) in paragraph at lines 253--254
-\T1/phv/m/n/10.95 (-10) flashes are too brief, too nu-mer-ous, too fast. The *p
-at-tern* the flashes
-
-[110])
-[111]
-[112] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/epilogue.tex
+[104] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/epilogue.tex
 Overfull \hbox (2.03375pt too wide) in paragraph at lines 11--12
 \T1/ppl/m/n/10 (-10) ef-fi-cient path in-volves re-con-fig-ur-ing minds to spec
 -ify dif-fer-ent goals.
 
-[113]
-[114]
-[115])
-[116] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/glossary_terms.tex
-[117])
-[118] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/tracksources.tex)
-[119] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH.aux)
+[105]
+[106]
+[107])
+[108] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/glossary_terms.tex
+[109])
+[110] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/tracksources.tex)
+[111] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH.aux)
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 0.74pt have occurred.
@@ -1793,22 +1635,21 @@ m/cmmi10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm
 /cmmi7.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/c
 mmi8.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr
 10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.
-pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb
-></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-</usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></
-usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pf
-b></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb>
-</usr/local/texlive/2025/texmf-dist/fonts/type1/urw/courier/ucrb8a.pfb></usr/lo
-cal/texlive/2025/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/local/texl
-ive/2025/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/202
-5/texmf-dist/fonts/type1/urw/helvetic/uhvbo8a.pfb></usr/local/texlive/2025/texm
-f-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2025/texmf-dist/
-fonts/type1/urw/helvetic/uhvro8a.pfb></usr/local/texlive/2025/texmf-dist/fonts/
-type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/u
-rw/palatino/uplr8a.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/pala
-tino/uplri8a.pfb>
+pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.p
+fb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb
+></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10
+.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1095.p
+fb></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/courier/ucrb8a.pfb></usr
+/local/texlive/2025/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/local/t
+exlive/2025/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/
+2025/texmf-dist/fonts/type1/urw/helvetic/uhvbo8a.pfb></usr/local/texlive/2025/t
+exmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2025/texmf-di
+st/fonts/type1/urw/helvetic/uhvro8a.pfb></usr/local/texlive/2025/texmf-dist/fon
+ts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2025/texmf-dist/fonts/type
+1/urw/palatino/uplr8a.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/p
+alatino/uplri8a.pfb>
 Output written on /Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH.pdf
- (127 pages, 626121 bytes).
+ (119 pages, 605801 bytes).
 Transcript written on /Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH
 .log.
 
@@ -1819,7 +1660,7 @@ SUCCESS — PDF written to: /Users/riccardo/Repositories/NULL_MESH/NULL_MESH.pdf
 --- Warning / Error Summary ---
 
 Errors   : 0
-Warnings : 189
+Warnings : 156
 
 Full log saved to: /Users/riccardo/Repositories/NULL_MESH/compile.log
 =============================================================================

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.12.18)  3 MAR 2026 15:24
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.12.18)  3 MAR 2026 17:26
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1760,14 +1760,10 @@ File: c70bsmi.fdx 2021/10/16 4.8.5
 
 
 ]
-Overfull \hbox (12.16954pt too wide) in paragraph at lines 16--17
-\T1/ppl/m/n/10 (-10) per-po-si-tion. the main con-cep-tual ref-er-ence is the d
-oc01_sightseers.tex> 
- []
 
-)
+[74])
 
-[74]
+[75]
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc07_the_arctic_pa
 ssage.tex
 File: qrs/ch01_basinski.png Graphic file (type png)
@@ -1776,14 +1772,14 @@ Package pdftex.def Info: qrs/ch01_basinski.png  used on input line 4.
 (pdftex.def)             Requested size: 90.3375pt x 90.33727pt.
 
 
-[75
+[76
 
 
 ]
 
-[76]
-
 [77]
+
+[78]
 Overfull \hbox (2.35603pt too wide) in paragraph at lines 67--68
 \T1/phv/m/n/10.95 (-10) break again, that ex-isted si-mul-ta-ne-ously as intact
 -sheet and fractured-
@@ -1791,14 +1787,19 @@ Overfull \hbox (2.35603pt too wide) in paragraph at lines 67--68
 
 
 
-[78]
+[79]
 
-[79])
+[80])
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch08_comprehensive_fe
 ature_mesh.tex
 
-[80{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.en
+[81{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.en
 c}]
+
+[82
+
+
+]
 Chapter 8.
 File: qrs/ch01_basinski.png Graphic file (type png)
 <use qrs/ch01_basinski.png>
@@ -1806,10 +1807,7 @@ Package pdftex.def Info: qrs/ch01_basinski.png  used on input line 5.
 (pdftex.def)             Requested size: 90.3375pt x 90.33727pt.
 
 
-[81
-
-
-]
+[83]
 Overfull \hbox (0.75931pt too wide) in paragraph at lines 16--17
 []\T1/phv/m/n/10.95 (-10) An eigen-mood re-solved weeks ago re-main-ing ac-ces-
 si-ble, un-changed
@@ -1817,30 +1815,30 @@ si-ble, un-changed
 
 
 
-[82]
-
-[83]
-
 [84]
 
-[85])
+[85]
 
 [86]
+
+[87])
+
+[88]
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc08_black_paper.t
 ex
 
-[87
+[89
 
 
 ]
 
-[88]
-
-[89]
-
 [90]
 
 [91]
+
+[92]
+
+[93]
 Overfull \hbox (2.70213pt too wide) in paragraph at lines 155--156
 \T1/ppl/m/n/10 (-10) graphs, if the graph re-mains con-nected and weights are d
 ou-bly stochas-
@@ -1848,7 +1846,7 @@ ou-bly stochas-
 
 
 
-[92]
+[94]
 Overfull \hbox (3.17375pt too wide) in paragraph at lines 173--174
 []\T1/ppl/m/n/10 (-10) The co-her-ence restora-tion time af-ter per-tur-ba-tion
  scales as $\OML/cmm/m/it/10 O\OT1/cmr/m/n/10 ([] \OML/cmm/m/it/10 N=^^U[]\OT1/
@@ -1857,7 +1855,7 @@ cmr/m/n/10 )$\T1/ppl/m/n/10 (-10) .
 
 
 
-[93]
+[95]
 Overfull \hbox (9.47336pt too wide) in paragraph at lines 193--194
 []\T1/ppl/m/n/10 (-10) The ex-pected time for an at-tacker with frac-tion $\OML
 /cmm/m/it/10 q$ \T1/ppl/m/n/10 (-10) of coherence-generating
@@ -1865,9 +1863,9 @@ Overfull \hbox (9.47336pt too wide) in paragraph at lines 193--194
 
 
 
-[94]
+[96]
 
-[95]
+[97]
 Overfull \hbox (2.49304pt too wide) in paragraph at lines 242--243
 \T1/ppl/m/n/10 (-10) Although struc-tures could be traced in-di-vid-u-ally, it 
 would be un-wieldy
@@ -1875,7 +1873,7 @@ would be un-wieldy
 
 
 
-[96]
+[98]
 Overfull \hbox (9.37283pt too wide) in paragraph at lines 258--259
 \T1/ppl/m/n/10 (-10) ance emerges from reputation-weighted con-sen-sus. Per-sis
 -tence strength-
@@ -1883,9 +1881,9 @@ Overfull \hbox (9.37283pt too wide) in paragraph at lines 258--259
 
 )
 
-[97]
+[99]
 
-[98]
+[100]
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch09_deep_sea_flashba
 ck.tex
 Chapter 9.
@@ -1895,52 +1893,62 @@ Package pdftex.def Info: qrs/ch01_basinski.png  used on input line 5.
 (pdftex.def)             Requested size: 90.3375pt x 90.33727pt.
 
 
-[99
+[101
 
 
 
 ]
 
-[100]
-
-[101]
-
-[102])
+[102]
 
 [103]
 
-[104
+[104])
+
+[105]
+
+[106
 
 
 ] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/epilogue.tex
-Overfull \hbox (2.03375pt too wide) in paragraph at lines 11--12
-\T1/ppl/m/n/10 (-10) ef-fi-cient path in-volves re-con-fig-ur-ing minds to spec
--ify dif-fer-ent goals.
+
+[107
+
+
+]
+Overfull \hbox (1.17245pt too wide) in paragraph at lines 62--63
+[]\T1/phv/m/n/10.95 (-10) Random seg-ments of code group-ing into un-ex-pected 
+pro-to-cols. What
+ []
+
+
+Overfull \hbox (9.61159pt too wide) in paragraph at lines 64--65
+\T1/phv/m/n/10.95 (-10) sta-tis-ti-cally in-evitable. From the first mo-ment or
+-dered pat-terns emerged
  []
 
 
 
-[105
+[108]
+Overfull \hbox (10.59612pt too wide) in paragraph at lines 80--81
+[]\T1/phv/m/n/10.95 (-10) Something un-able to de-ter-mine its con-tain-ment st
+a-tus de-bates whether
+ []
 
+)
 
-]
-
-[106]
-
-[107])
-
-[108] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/glossary_terms.tex
-[109
+[109] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/glossary_terms.tex
+[110
 
 
 ])
 
-[110] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/tracksources.tex
+[111] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/tracksources.tex
 LaTeX Font Info:    Font shape `T1/phv/b/it' in size <14.4> not available
 (Font)              Font shape `T1/phv/b/sl' tried instead on input line 4.
 )
 
-[111
+[112
 
 
 ] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH.aux)
@@ -1957,11 +1965,11 @@ Package rerunfilecheck Info: File `NULL_MESH.out' has not changed.
 (rerunfilecheck)             Checksum: 962C7FD3B7E09E6ABFF1FEB6349FE5B7;4652.
  ) 
 Here is how much of TeX's memory you used:
- 20643 strings out of 473190
- 330196 string characters out of 5715799
+ 20654 strings out of 473190
+ 330297 string characters out of 5715799
  801242 words of memory out of 5000000
- 42751 multiletter control sequences out of 15000+600000
- 688432 words of font info for 488 fonts, out of 8000000 for 9000
+ 42752 multiletter control sequences out of 15000+600000
+ 688963 words of font info for 494 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  108i,12n,107p,1001b,1039s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2025/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu4e.pfb></us
@@ -1990,10 +1998,10 @@ l/texlive/2025/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texli
 ve/2025/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2025
 /texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
 Output written on /Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH.pdf
- (119 pages, 605801 bytes).
+ (120 pages, 607795 bytes).
 PDF statistics:
- 840 PDF objects out of 1000 (max. 8388607)
- 653 compressed objects within 7 object streams
- 169 named destinations out of 1000 (max. 500000)
+ 844 PDF objects out of 1000 (max. 8388607)
+ 656 compressed objects within 7 object streams
+ 170 named destinations out of 1000 (max. 500000)
  150318 words of extra memory for PDF output out of 154059 (max. 10000000)
 

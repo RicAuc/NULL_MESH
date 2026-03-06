@@ -1,32 +1,50 @@
 
-Hi Claude, I am currently working on the drafting of the interlude 'doc04_handout.tex' the brief description is the following the the chapter is to defined yet, indeed
+Hi Claude, I am currently working on the drafting of the interlude 'doc08_black_paper.tex' the brief description is the following the the chapter is to refine yet, indeed
 
 '''
-**Interlude Five: Handout** It is an interview were exponents community and the narrator questioning in some way the Mesh <this description has to be completed with not more then 70 words>
 '''
 
-And therefore finally, 'doc04_handout.tex' has to be updated accordingly.
+And therefore finally, 'doc08_black_paper.tex' has to be updated accordingly. I already started to draft it, you can find the draft 'doc08_black_paper.tex' but it should be completed and refine. As you can see the are some notes/placeholders delimited by "<" and ">" bearing some instruction guiding to the drafting completion.
 
-I already started to draft it, you can find the draft 'doc04_handout.tex' but it should be completed and refine. As you can see the are some notes/placeholders delimited by "<" and ">" bearing some instruction guiding to the drafting completion.
+The Black Paper is an emergent manifest produced by the Mesh itself. It has the role to make a sumo, to sum up the genesis of the mesh phenomena in scientific formal terms but original creativity. Physical rigour is required but is should be perfectly harmonised with creative avant-garge writing style typically of the NULL MESH novel. A mix between artistic avant-garde novel, science as poetry. Not an assay or divulgative science, not philosophy. It is an Cyber-poetry. Not flat nerdy science.
 
-It is an interview release to a seers, where an another protocol is asking a list of question. The editorial style should follow the typographic that characterise the article of interviews as the one you can find in  news magazine
+So, what I would ask you to do is improve, correct and refine the manuscript by harmonising into an original and avantgardist but solid way three references that have to be used is the conception (you do not have to actually add them as references list in the black paper):
 
-So, what I would ask you to do is improve, correct and refine the draft following the narrative style of the book as precisely delineated in:
+1. Petri paper
+2. Text technopolitik
+3. YT video to be identified yet
+
 
 '''
-❯ tree
-.
-├── chapters_interludes_str.tex # (notes about the high-level novel structure and storytelling)
-├── narration_style.tex # (narration style and constraints)
-└── stylistic_framework.tex
+At the Lab, the aim is to promote innovation for business purposes: a free-market spirit prevails at the expense of a libertarian one.
 
-1 directory, 3 files
+A synthesis of these two experiences is offered by ..., a leading intellectual associated with ..., the magazine that most clearly encapsulates the libertarian-capitalist positions of the new digital era.
+
+... argues that ..., unlike ... technology, does not have the task of controlling social evolution; rather, its role is to create the horizontal and flexible platform upon which society itself can evolve. The horizontal structure of the network, in contrast to the vertical organisation of static and mechanical technologies, is the outcome of a system composed of billions of mechanical, cultural, and biological elements that operates and evolves like a kind of living superorganism. It is as though the new technology were shaping social evolution in its own image, with a significantly higher degree of democratic potential.
+
+However, ... also emphasises that this mechanic and networked order (the human becoming of the network) evolves randomly and chaotically, without any fixed rules. In particular, with regard to economic dynamics, we observe a constant process of selection, adaptation, and modification of routines that resembles the Darwinian evolution of species. The connection with evolutionary theories of the firm is therefore evident.
+
+Digital technology "and with it society" evolves through a dialectical process between individual human action and the reaction of the environment, which is increasingly represented by the order of the market."
+
 '''
 
-and the more general synopsis (i.e., README.md) and the within-draft instructions. Feel free to creative narrative for what concern the ideation content (also using but not overusing the typographic voices potential) but in the original in the narrative style and frame neighborhood of the novel. 
+Also the 
 
-Not assay or divulgative science, not philosophy. It is an artistic avant-garde novel, science as poetry. Cyber-poetry. Not flat nerdy science.
+'''
+\noindent\textbf{Daemonocene}\\
+Autonomous digital intermediaries (“daemons”) acting as semi-independent agents between humans and infrastructure. An epoch in which networked digital infrastructures function as horizontal evolutionary platforms: society develops through decentralised interaction, entrepreneurial experimentation, and market selection, producing emergent and self-organising socio-technical orders.
 
-Importantly, not more than 1200 words. Overwrite the current 'doc04_handout.tex' and also please finally complete the 
+'''
 
-'**Interlude Five: Handout** It is an interview were exponents community and the narrator questioning in some way the Mesh <this description has to be completed with not more then 70 words>'
+The term Daemonocene shuold be included
+
+I mean I do not want the exactly content but in some way these and concept of this text should some way addressed in the interview and translated in the the style, context and storytelling of the novel NULL MESH
+
+
+Importantly, not more than 1400 words. Overwrite the current 'doc04_handout.tex'.
+
+###
+
+
+
+###

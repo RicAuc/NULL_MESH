@@ -1,6 +1,6 @@
 =============================================================================
 NULL MESH — Compilation Log
-Date  : 2026-03-04 16:41:26
+Date  : 2026-03-06 10:10:53
 Engine: pdfTeX 3.141592653-2.6-1.40.27 (TeX Live 2025)
 Source: /Users/riccardo/Repositories/NULL_MESH/nullmesh/main.tex
 =============================================================================
@@ -182,11 +182,11 @@ Overfull \hbox (4.12987pt too wide) in paragraph at lines 52--53
 in-for-ma-tion trans-
 
 [4]
-[5])
-Overfull \hbox (4.2171pt too wide) in paragraph at lines 66--422
+[5]
+Overfull \hbox (4.2171pt too wide) in paragraph at lines 66--67
 []\T1/phv/m/n/10.95 (-10) If some-thing emerged, the fate would de-pend on its 
 pri-or-i-ties. Whether
-
+)
 [6]
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc01_sightseers.te
 x
@@ -353,9 +353,21 @@ tion, or the parei-do-lia of pattern-
 )
 [50]
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc04_handout.tex
+Overfull \hbox (5.68295pt too wide) in paragraph at lines 17--18
+\T1/ppl/m/n/10 (-10) from par-tic-i-pant notes. Ex-changes con-densed where in-
+di-cated. Pages
+
 [51]
+Overfull \hbox (2.06755pt too wide) in paragraph at lines 40--41
+[]\T1/phv/b/n/10 (-10) PROTOCOL[]\T1/phv/m/n/10.95 (-10) You have re-sisted the
+ term in-ten-tional be-haviour through-
+
 [52]
 [53]
+Overfull \hbox (4.82587pt too wide) in paragraph at lines 88--89
+[]\T1/phv/b/n/10 (-10) PROTOCOL[]\T1/phv/m/n/10.95 (-10) Several col-leagues re
+-port re-cip-ro-cal at-ten-tion. The sense
+
 [54])
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch06_null_mesh.tex
 [55]
@@ -528,7 +540,7 @@ ts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2025/texmf-dist/fonts/type
 1/urw/palatino/uplr8a.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/p
 alatino/uplri8a.pfb>
 Output written on /Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH.pdf
- (118 pages, 602042 bytes).
+ (118 pages, 600793 bytes).
 Transcript written on /Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH
 .log.
 
@@ -708,11 +720,11 @@ Overfull \hbox (4.12987pt too wide) in paragraph at lines 52--53
 in-for-ma-tion trans-
 
 [4]
-[5])
-Overfull \hbox (4.2171pt too wide) in paragraph at lines 66--422
+[5]
+Overfull \hbox (4.2171pt too wide) in paragraph at lines 66--67
 []\T1/phv/m/n/10.95 (-10) If some-thing emerged, the fate would de-pend on its 
 pri-or-i-ties. Whether
-
+)
 [6]
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc01_sightseers.te
 x
@@ -879,9 +891,21 @@ tion, or the parei-do-lia of pattern-
 )
 [50]
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc04_handout.tex
+Overfull \hbox (5.68295pt too wide) in paragraph at lines 17--18
+\T1/ppl/m/n/10 (-10) from par-tic-i-pant notes. Ex-changes con-densed where in-
+di-cated. Pages
+
 [51]
+Overfull \hbox (2.06755pt too wide) in paragraph at lines 40--41
+[]\T1/phv/b/n/10 (-10) PROTOCOL[]\T1/phv/m/n/10.95 (-10) You have re-sisted the
+ term in-ten-tional be-haviour through-
+
 [52]
 [53]
+Overfull \hbox (4.82587pt too wide) in paragraph at lines 88--89
+[]\T1/phv/b/n/10 (-10) PROTOCOL[]\T1/phv/m/n/10.95 (-10) Several col-leagues re
+-port re-cip-ro-cal at-ten-tion. The sense
+
 [54])
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch06_null_mesh.tex
 [55]
@@ -1054,7 +1078,7 @@ ts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2025/texmf-dist/fonts/type
 1/urw/palatino/uplr8a.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/p
 alatino/uplri8a.pfb>
 Output written on /Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH.pdf
- (118 pages, 602042 bytes).
+ (118 pages, 600793 bytes).
 Transcript written on /Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH
 .log.
 
@@ -1234,11 +1258,11 @@ Overfull \hbox (4.12987pt too wide) in paragraph at lines 52--53
 in-for-ma-tion trans-
 
 [4]
-[5])
-Overfull \hbox (4.2171pt too wide) in paragraph at lines 66--422
+[5]
+Overfull \hbox (4.2171pt too wide) in paragraph at lines 66--67
 []\T1/phv/m/n/10.95 (-10) If some-thing emerged, the fate would de-pend on its 
 pri-or-i-ties. Whether
-
+)
 [6]
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc01_sightseers.te
 x
@@ -1405,9 +1429,21 @@ tion, or the parei-do-lia of pattern-
 )
 [50]
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc04_handout.tex
+Overfull \hbox (5.68295pt too wide) in paragraph at lines 17--18
+\T1/ppl/m/n/10 (-10) from par-tic-i-pant notes. Ex-changes con-densed where in-
+di-cated. Pages
+
 [51]
+Overfull \hbox (2.06755pt too wide) in paragraph at lines 40--41
+[]\T1/phv/b/n/10 (-10) PROTOCOL[]\T1/phv/m/n/10.95 (-10) You have re-sisted the
+ term in-ten-tional be-haviour through-
+
 [52]
 [53]
+Overfull \hbox (4.82587pt too wide) in paragraph at lines 88--89
+[]\T1/phv/b/n/10 (-10) PROTOCOL[]\T1/phv/m/n/10.95 (-10) Several col-leagues re
+-port re-cip-ro-cal at-ten-tion. The sense
+
 [54])
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch06_null_mesh.tex
 [55]
@@ -1580,7 +1616,7 @@ ts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2025/texmf-dist/fonts/type
 1/urw/palatino/uplr8a.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/p
 alatino/uplri8a.pfb>
 Output written on /Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH.pdf
- (118 pages, 602042 bytes).
+ (118 pages, 600793 bytes).
 Transcript written on /Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH
 .log.
 
@@ -1591,7 +1627,7 @@ SUCCESS — PDF written to: /Users/riccardo/Repositories/NULL_MESH/NULL_MESH.pdf
 --- Warning / Error Summary ---
 
 Errors   : 0
-Warnings : 132
+Warnings : 141
 
 Full log saved to: /Users/riccardo/Repositories/NULL_MESH/compile.log
 =============================================================================

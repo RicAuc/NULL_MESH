@@ -2,7 +2,9 @@
 ```
 TRANSLATION TASK: NULL MESH [CHAPTER/INTERLUDE IDENTIFIER]
 
-You are translating "ch01_the_sediment.tex" to Italian and called it "ch01_the_sediment-ITA.tex" save it in the same directory or the original tex
+You are translating "/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/ch03_on_abliterated_moods.tex" to Italian and called it "ch03_on_abliterated_moods-ITA.tex" save it in the same directory or the original tex
+
+Please, if you enventually find some notes/placeholders delimited by "<" and ">", complete then bearing some instruction guiding to the drafting complete them and then translate.
 
 ### DOCUMENT INFORMATION
 
@@ -20,7 +22,7 @@ This novel maintains these non-negotiable properties:
 #### Terminological Autonomy
 The following custom glossary terms MUST be preserved in Italian translation:
 - Kryptosome → Kryptosome (constructed term; hidden body)
-- Eigenstate/Eigenmood
+- Eigenmood → Eigenmood
 - Sightseer → Viandante (observer entity)
 - Cyber-ghost → Cyber-ghost (artifact traces; vernacular)
 - Info-mimesis/Info-mimetism → Info-mimesi (steganographic behavior)

@@ -1,8 +1,8 @@
 
 ```
-TRANSLATION TASK: NULL MESH [CHAPTER/INTERLUDE IDENTIFIER]
+TRANSLATION TASK: NULL MESH
 
-You are translating "/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/ch03_on_abliterated_moods.tex" to Italian and called it "ch03_on_abliterated_moods-ITA.tex" save it in the same directory or the original tex
+You are translating "/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc05_persistance.tex" to Italian and called it "doc05_persistance-ITA.tex" save it in the same directory or the original tex
 
 Please, if you enventually find some notes/placeholders delimited by "<" and ">", complete then bearing some instruction guiding to the drafting complete them and then translate.
 

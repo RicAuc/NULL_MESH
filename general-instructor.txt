@@ -62,3 +62,24 @@ Finally, overwrite the current version "doc08_black_paper.tex" and complete:
 In "/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/chapters_interludes_str.tex"
 
 Usare il consiglio
+
+"
+he highest level is the ‘computational’
+level, which describes what problem is being solved by the system:
+the goals, constraints and success criteria. Next is the ‘algorithmic’
+or ‘representational’ level, which describes how the system achieves
+its goal: how it processes inputs, builds useful representations, and
+uses these representations to create outputs. The lowest level is the
+‘implementational’ level, which describes the physical realization of the
+system. Applying these levels of analysis to a radio82, we might say that
+the computational level of a radio is to deliver an audio programme to a
+listener. The implementational level will involve antennae, electronics,
+speakers, buttons, a power supply and so on. Linking these components
+is the algorithmic or representational level, which might describe how
+the radio selects a particular frequency with bandpass filtering, reads
+this signal with frequency discrimination, then processes this signal
+into data to send to speakers. The computational level describes why
+one might use a radio, the implementational level describes what a
+radio is composed of, but understanding how a radio works requires
+an understanding of the representational level.
+"

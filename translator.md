@@ -2,11 +2,9 @@
 ```
 TRANSLATION TASK: NULL MESH
 
-<<<<<<< HEAD
-You are translating "/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch04_active_fragments.tex" to Italian and called it "ch04_active_fragments-ITA.tex" save it in the same directory or the original tex
-=======
-You are translating "/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch05_hadalistic_sophistication.tex" to Italian and called it "ch05_hadalistic_sophistication-ITA.tex" save it in the same directory or the original tex
->>>>>>> 6254218 (Try to fix)
+You are translating "/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc06_real4real.tex" to Italian and called it "ch04_active_fragments-ITA.tex" save it in the same directory or the original tex
+
+You are translating "/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc06_real4real-ITA.tex" to Italian and called it "ch05_hadalistic_sophistication-ITA.tex" save it in the same directory or the original tex
 
 Please, if you enventually find some notes/placeholders delimited by "<" and ">", complete then bearing some instruction guiding to the drafting complete them and then translate.
 

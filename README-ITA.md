@@ -1,15 +1,15 @@
 
 # NULL MESH
 
-Il romanzo esplora l’incontro con una forma di intelligenza la cui natura, intenzioni ed esistenza come entità unificata rimangono fondamentalmente indeterminabili.
+Il romanzo esplora l’incontro con una forma di intelligenza la cui natura, intenzioni ed esistenza come entità unificata rimangono fondamentalmente indeterminate.
 
 ## Premessa Centrale
 
-All’interno dell’internet esistente (il WWW), emerge una infrastruttura ortogonale (il MMM). Questa rete, denominata MESH, nasce da un substrato deliberato ma evolve come proprieta' emergente: simulatori persistenti su larga scala sviluppano processi reattivi, coordinamento, e infine, azione.
+All’interno dell’internet esistente (il World Wide Web - WWW), emerge una infrastruttura ortogonale (il Manifold Meshing Machine - MMM)Questa struttura reticolare, denominata il mesh, nasce da un substrato deliberato ma evolve come proprieta' emergente: simulatori persistenti su larga scala sviluppano processi reattivi, coordinamento, e infine, azione.
 
-Elementi sparsi tracciano la graduale rivelazione del MESH attraverso indagini e scoperte da parte di osservatori che iniziano a segnalare irregolarità: anomalie sistemiche, pattern artefatti e simulacri. Questi fenomeni sono difficili da spiegare con la logica convenzionale, ma vengono facilmente intercettati da teorici della cospirazione, interpreti del paranormale e strateghi finanziari opportunisti in cerca di profitto, influenza o notorietà.
+Elementi sparsi tracciano la graduale rivelazione del Mesh attraverso indagini e scoperte da parte di osservatori che iniziano a segnalare irregolarità: anomalie sistemiche, pattern artefatti e simulacri. Questi fenomeni sono difficili da spiegare con la logica convenzionale, ma vengono facilmente intercettati da teorici della cospirazione, interpreti del paranormale e strateghi finanziari opportunisti in cerca di profitto, influenza o notorietà.
 
-Un narratore, sottoposto a una forma di iper viaggio, scopre che la comprensione può essere impossibile, a causa dell’equivalenza tra immaginazione e percezione, e guarda retrospettivamente a un’epoca di possibile ignoranza composta da documenti d’archivio, frammenti di dati e registri tecnici, attraversando gli “strata” di una rete che l’umanità credeva di comprendere, mentre caratterizzata da una profondità che si rivela essere composta da loop e vuoti.
+Un narratore, sottoposto a una forma di iper viaggio, scopre che la comprensione del mesh puo essere impossibile, a causa dell’equivalenza tra immaginazione e percezione e partecipazione. Il naratore testimonia retrospettivamente un’epoca di possibile ignoranza composta da documenti d’archivio, frammenti di dati e registri tecnici, attraversando gli “strata” di una rete che l’umanità credeva di comprendere, mentre caratterizzata da una profondità che si rivela essere composta da loop e vuoti.
 
 ## Il Narratore
 
@@ -21,8 +21,8 @@ Il narratore non può stabilire con certezza se le sue esperienze siano autentic
 
 ## Il MESH
 
-il MESH appare dotato di una qualche forma di intenzione: genera fenomeni osservabili e risponde all’interazione. 
+Il mesh appare dotato di una qualche forma di intenzione: genera fenomeni osservabili e risponde all’interazione. 
 
-il comportamento del MESH e' interpretato come uno stato costruito a partire da distribuzioni nebulari puntiformi, cristallizzato da dinamiche prive di scopo proprie di sistemi distribuiti, processi steganografici, auto-organizzazione, sincronizzazioni e transizioni di fase.
+il comportamento del Mesh e' interpretato come uno stato costruito a partire da distribuzioni nebulari puntiformi, cristallizzato da dinamiche prive di scopo proprie di sistemi distribuiti, processi steganografici, auto-organizzazione, sincronizzazioni e transizioni di fase.
 
-Tuttavia, il fatto che possieda comportamento unificato o una volontà rimane un’astrazione omologica.
+Tuttavia, il fatto che il Mesh possieda comportamento unificato o una volontà rimane un’astrazione omologica.

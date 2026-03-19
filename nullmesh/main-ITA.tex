@@ -1,0 +1,482 @@
+\documentclass[11pt,twoside,openright]{book}
+
+% ============================================================================
+% CORE PACKAGES
+% ============================================================================
+\usepackage[utf8]{inputenc}
+\usepackage[T2A,T1]{fontenc}  % T2A loaded for Cyrillic; T1 remains default
+\usepackage[english]{babel}
+
+% ============================================================================
+% CONTEMPORARY TYPOGRAPHY
+% ============================================================================
+\usepackage{helvet}
+\renewcommand{\familydefault}{\sfdefault}
+\usepackage{courier}
+\usepackage{palatino}
+
+\usepackage[activate={true,nocompatibility},
+            final,
+            tracking=true,
+            kerning=true,
+            spacing=true,
+            factor=1100,
+            stretch=10,
+            shrink=10]{microtype}
+
+% ============================================================================
+% PAGE GEOMETRY — ASYMMETRIC MODERN LAYOUT
+% ============================================================================
+\usepackage[
+    paperwidth=6in,
+    paperheight=9in,
+    top=0.75in,
+    bottom=0.85in,
+    inner=0.9in,
+    outer=0.6in,
+    marginparwidth=0.45in,
+    marginparsep=0.1in
+]{geometry}
+
+% ============================================================================
+% COLOR PALETTE — MONOCHROME + ACCENT
+% ============================================================================
+\usepackage{xcolor}
+\definecolor{nullmesh-dark}{HTML}{0A0A0A}
+\definecolor{nullmesh-gray}{HTML}{404040}
+\definecolor{nullmesh-light}{HTML}{E0E0E0}
+\definecolor{nullmesh-accent}{HTML}{00FFAA}
+\definecolor{nullmesh-ghost}{HTML}{6B6B6B}
+
+% ============================================================================
+% CHAPTER FORMATTING — MINIMALIST TECHNICAL
+% ============================================================================
+\usepackage{titlesec}
+
+\titleformat{\chapter}[display]
+  {\bfseries\huge\color{nullmesh-dark}}
+  {
+    \fontsize{72pt}{72pt}\selectfont
+    \color{nullmesh-light}\thechapter
+    \vspace{-0.3em}
+    \\\color{nullmesh-accent}\rule{\textwidth}{1.5pt}
+  }
+  {0pt}
+  {\vspace{0.3em}\Huge\raggedright}
+  [\vspace{0.5em}{\color{nullmesh-gray}\rule{\textwidth}{0.5pt}}]
+
+\titleformat{\section}
+  {\Large\bfseries\sffamily\color{nullmesh-dark}}
+  {\thesection}
+  {1em}
+  {}
+
+\titleformat{\subsection}
+  {\large\sffamily\color{nullmesh-gray}}
+  {\thesubsection}
+  {1em}
+  {}
+
+\titleformat{\subsubsection}
+  {\normalsize\bfseries\sffamily\color{nullmesh-gray}}
+  {\thesubsubsection}
+  {1em}
+  {}
+
+\titlespacing*{\chapter}{0pt}{0pt}{40pt}
+\titlespacing*{\section}{0pt}{20pt}{10pt}
+\titlespacing*{\subsection}{0pt}{15pt}{8pt}
+
+% ============================================================================
+% HEADERS & FOOTERS — ASYMMETRIC MINIMALIST
+% ============================================================================
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\setlength{\headheight}{14pt}
+
+\fancyhead[LE]{%
+    \footnotesize\sffamily\color{nullmesh-gray}%
+    \thepage\hspace{1em}{\color{nullmesh-light}|}\hspace{1em}NULL MESH%
+}
+\fancyhead[RO]{%
+    \footnotesize\sffamily\color{nullmesh-gray}%
+    \leftmark\hspace{1em}{\color{nullmesh-light}|}\hspace{1em}\thepage%
+}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+\fancypagestyle{plain}{%
+    \fancyhf{}
+    \fancyfoot[C]{\footnotesize\sffamily\color{nullmesh-ghost}\thepage}
+    \renewcommand{\headrulewidth}{0pt}
+}
+
+% ============================================================================
+% PARAGRAPH FORMATTING — CONTEMPORARY
+% ============================================================================
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.8em}
+\raggedbottom
+
+\usepackage{setspace}
+\setstretch{1.15}
+
+% ============================================================================
+% SPECIAL ENVIRONMENTS — EMBEDDED DOCUMENTS
+% ============================================================================
+\usepackage{scrextend}
+
+\newenvironment{archivefragment}
+  {%
+    \begin{addmargin}[1.5em]{1.5em}%
+    \small\rmfamily\color{nullmesh-ghost}%
+    \setstretch{1.1}%
+  }
+  {\end{addmargin}}
+
+\newenvironment{techfragment}
+  {%
+    \begin{addmargin}[1em]{1em}%
+    \small\ttfamily\color{nullmesh-dark}%
+    \setstretch{1.0}%
+  }
+  {\end{addmargin}}
+
+\newcommand{\eigenstate}[1]{%
+    \marginpar{%
+        \raggedright\tiny\sffamily\color{nullmesh-accent}#1%
+    }%
+}
+
+% ============================================================================
+% EPIGRAPHS — CHAPTER OPENING QUOTES
+% ============================================================================
+\usepackage{epigraph}
+\setlength{\epigraphwidth}{0.6\textwidth}
+\setlength{\epigraphrule}{0pt}
+\renewcommand{\textflush}{flushright}
+\renewcommand{\epigraphsize}{\small\itshape}
+
+% Front-matter epigraph page (full-page prose epigraph in front/epigraph.tex)
+\newenvironment{novelepigraph}{%
+    \begin{center}%
+    \begin{minipage}{\textwidth}%
+    \small\itshape\color{nullmesh-gray}%
+    \setstretch{0.9}%
+}{%
+    \end{minipage}%
+    \end{center}%
+}
+
+% ============================================================================
+% TABLE OF CONTENTS — MINIMAL
+% ============================================================================
+\usepackage{tocloft}
+\renewcommand{\cftdot}{}
+\renewcommand{\cftchapfont}{\sffamily\bfseries\color{nullmesh-dark}}
+\renewcommand{\cftchappagefont}{\sffamily\color{nullmesh-gray}}
+\setlength{\cftbeforechapskip}{1em}
+\renewcommand{\cftsecfont}{\sffamily\small\color{nullmesh-gray}}
+\renewcommand{\cftsecpagefont}{\sffamily\small\color{nullmesh-gray}}
+
+% ============================================================================
+% HYPERLINKS — INVISIBLE BUT FUNCTIONAL
+% ============================================================================
+\usepackage{hyperref}
+\hypersetup{
+    colorlinks=true,
+    linkcolor=nullmesh-dark,
+    urlcolor=nullmesh-accent,
+    citecolor=nullmesh-gray,
+    pdfauthor={Riccardo Pascuzzo},
+    pdftitle={NULL MESH},
+    pdfsubject={A Novel},
+    pdfkeywords={AI, emergence, epistemology},
+    bookmarksnumbered=true,
+    bookmarksopen=false
+}
+
+% ============================================================================
+% QUOTATIONS — SPECIAL FORMATTING
+% ============================================================================
+\usepackage{csquotes}
+\SetBlockEnvironment{quote}
+
+\renewenvironment{quote}
+  {%
+    \list{}{%
+      \leftmargin=1.5em%
+      \rightmargin=0em%
+      \parsep=0pt%
+    }%
+    \item\relax%
+    \color{nullmesh-gray}\small%
+    \hspace{-1.5em}%
+    {\color{nullmesh-accent}\rule{2pt}{\baselineskip}}%
+    \hspace{0.5em}%
+  }
+  {\endlist}
+
+% ============================================================================
+% UTILITY PACKAGES
+% ============================================================================
+\usepackage{graphicx}
+\usepackage{amsmath,amssymb}
+\usepackage{enumitem}
+\usepackage{booktabs}
+\usepackage{multicol}
+
+% CJK (Chinese/Japanese/Korean) support for pdflatex
+\usepackage{CJKutf8}
+\newcommand{\cjktext}[1]{\begin{CJK*}{UTF8}{bsmi}#1\end{CJK*}}
+
+% Cyrillic support (T2A encoding with Computer Modern Cyrillic glyphs)
+\newcommand{\cyrtext}[1]{{\fontencoding{T2A}\fontfamily{cmr}\selectfont#1}}
+
+% ============================================================================
+% CUSTOM COMMANDS
+% ============================================================================
+\newcommand{\hadal}{\textit{Hadal}}
+\newcommand{\eigenstateterm}{\textit{eigenstate}}
+\newcommand{\cyberghost}{\textit{cyber-ghost}}
+\newcommand{\infomimicry}{\textit{info-mimetism}}
+\newcommand{\membrane}{\textit{membrane}}
+\newcommand{\kryptosome}{\textit{kryptosome}}
+\newcommand{\nullpoint}{\textit{null-point}}
+\newcommand{\glitch}[1]{{\color{nullmesh-ghost}#1}}
+
+% ============================================================================
+% INTERLUDE HEADING — DISTINCT FROM NUMBERED CHAPTERS
+% A thin label line + italic title + short rule; no number, no green accent rule
+% ============================================================================
+\newcommand{\interlude}[1]{%
+    \clearpage%
+    \phantomsection%
+    \addcontentsline{toc}{chapter}{\textit{#1}}%
+    \thispagestyle{plain}%
+    \vspace*{1.5em}%
+    {\centering%
+        \color{nullmesh-ghost}%
+        \rule{0.55in}{0.3pt}%
+        \enspace\textls[280]{\scriptsize\sffamily NULL MESH}\enspace%
+        \rule{0.55in}{0.3pt}%
+    \par}%
+    \vspace{0.45em}%
+    {\centering\LARGE\sffamily\itshape\color{nullmesh-gray}#1\par}%
+    \vspace{0.3em}%
+    {\centering\color{nullmesh-ghost}\rule{0.28\textwidth}{0.3pt}\par}%
+    \vspace{1.2em}%
+    \markboth{\textit{#1}}{}%
+}
+
+% ============================================================================
+% PLAIN CHAPTER (front/back matter — accent rule + title, no chapter number)
+% ============================================================================
+\newcommand{\plainchapter}[1]{%
+    \clearpage%
+    \phantomsection%
+    \addcontentsline{toc}{chapter}{#1}%
+    \thispagestyle{plain}%
+    {\color{nullmesh-accent}\rule{\textwidth}{1.5pt}\par}%
+    \vspace{0.3em}%
+    {\Huge\bfseries\raggedright\color{nullmesh-dark}#1\par}%
+    \vspace{0.5em}%
+    {\color{nullmesh-gray}\rule{\textwidth}{0.5pt}\par}%
+    \vspace{2em}%
+    \markboth{#1}{}%
+}
+
+% ============================================================================
+% ACADEMIC PAPER ENVIRONMENT & COMMANDS (used by doc08_black_paper)
+% Dynamic color tokens so they invert correctly inside \blackpaper
+% ============================================================================
+\colorlet{papertext}{nullmesh-dark}
+\colorlet{papersecondary}{nullmesh-gray}
+
+\newenvironment{academicpaper}
+  {%
+    \begin{addmargin}[1em]{1em}%
+    \small\rmfamily%
+    \setstretch{1.1}%
+  }
+  {%
+    \end{addmargin}%
+    \vspace{1em}%
+  }
+
+\newcommand{\papertitle}[1]{%
+  \begin{center}%
+    \large\bfseries\color{papertext}#1\vspace{0.5em}%
+  \end{center}%
+}
+
+\newcommand{\paperauthors}[1]{%
+  \begin{center}%
+    \normalsize\rmfamily\color{papersecondary}#1\vspace{0.8em}%
+  \end{center}%
+}
+
+\newcommand{\paperabstract}[1]{%
+  \noindent{\bfseries\color{papertext}Abstract:} #1%
+  \vspace{1em}\par%
+  \titleformat{\section}
+    {\normalsize\bfseries\rmfamily\color{papertext}}
+    {\thesection}{0.8em}{}
+    [\vspace{0.2em}{\color{nullmesh-light}\rule{\linewidth}{0.4pt}}]
+  \titleformat{\subsection}
+    {\normalsize\itshape\rmfamily\color{papersecondary}}
+    {\thesubsection}{0.8em}{}
+  \titleformat{\subsubsection}
+    {\small\bfseries\rmfamily\color{papersecondary}}
+    {\thesubsubsection}{0.8em}{}
+  \setcounter{secnumdepth}{0}%
+}
+
+% Theorem environment for the Black Paper
+\newtheorem{theorem}{Theorem}
+
+% ============================================================================
+% BLACK PAPER ENVIRONMENT — inverted colors (white text on dark pages)
+% Wraps the academicpaper for doc08; restores standard formats on exit
+% ============================================================================
+\newenvironment{blackpaper}{%
+    \clearpage%
+    \pagecolor{nullmesh-dark}%
+    \color{white}%
+    \colorlet{papertext}{white}%
+    \colorlet{papersecondary}{nullmesh-light}%
+}{%
+    \clearpage%
+    \pagecolor{white}%
+    \color{black}%
+    \colorlet{papertext}{nullmesh-dark}%
+    \colorlet{papersecondary}{nullmesh-gray}%
+    % Restore main matter section formats
+    \titleformat{\section}
+      {\Large\bfseries\sffamily\color{nullmesh-dark}}
+      {\thesection}{1em}{}
+    \titleformat{\subsection}
+      {\large\sffamily\color{nullmesh-gray}}
+      {\thesubsection}{1em}{}
+    \titleformat{\subsubsection}
+      {\normalsize\bfseries\sffamily\color{nullmesh-gray}}
+      {\thesubsubsection}{1em}{}
+    \setcounter{secnumdepth}{1}%
+}
+
+% ============================================================================
+% DOCUMENT BEGINS
+% ============================================================================
+\begin{document}
+
+% ============================================================================
+% TITLE PAGE
+% ============================================================================
+\begin{titlepage}
+\thispagestyle{empty}
+\vspace*{2in}
+
+\begin{center}
+{\fontsize{48pt}{48pt}\selectfont\bfseries\color{nullmesh-dark}NULL MESH}
+
+\vspace{0.5em}
+{\color{nullmesh-accent}\rule{4in}{2pt}}
+
+\vspace{2em}
+{\fontsize{20}{20pt}\sffamily\color{nullmesh-gray} $\varnothing$}
+
+\vfill
+
+{\large\sffamily\color{nullmesh-dark}RICCARDO AUCELLO}
+
+\vspace{1em}
+{\small\sffamily\color{nullmesh-ghost}``The Mesh is real'' \\ \textit{if and only if} \\ The Mesh is real}
+\end{center}
+\end{titlepage}
+
+\cleardoublepage
+
+% ============================================================================
+% FRONT MATTER
+% ============================================================================
+\frontmatter
+\pagestyle{plain}
+
+\input{front/prologue}
+
+\clearpage
+\input{front/epigraph}
+
+\clearpage
+\input{front/tracklist}
+
+% ============================================================================
+% MAIN MATTER
+% ============================================================================
+\mainmatter
+\pagestyle{fancy}
+
+% ——— Chapter I + Interlude I ———
+\input{chapters/ch01_the_sediment}
+\clearpage
+\input{interludes/doc01_flibbertigibbeting}
+
+% ——— Chapter II + Interlude II ———
+\input{chapters/ch02_attention_of_machines}
+\clearpage
+\input{interludes/doc02_sightseers}
+
+% ——— Chapter III + Interlude III ———
+\input{chapters/ch03_on_abliterated_moods}
+\clearpage
+\input{interludes/doc05_persistance}
+
+% ——— Chapter IV + Interlude IV ———
+\input{chapters/ch04_active_fragments}
+\clearpage
+\input{interludes/doc03_tidalchain}
+
+% ——— Chapter V + Interlude V ———
+\input{chapters/ch05_sophistication}
+\clearpage
+\input{interludes/doc04_handout}
+
+% ——— Chapter VI + Interlude VI ———
+\input{chapters/ch06_null_mesh}
+\clearpage
+\input{interludes/doc06_real4real}
+
+% ——— Chapter VII + Interlude VII ———
+\input{chapters/ch07_intentionality_of_machines}
+\clearpage
+\input{interludes/doc07_the_arctic_passage}
+
+% ——— Chapter VIII + Black Paper (inverted academic interlude) ———
+\input{chapters/ch08_comprehensive_feature_mesh}
+\clearpage
+\begin{blackpaper}
+\begin{academicpaper}
+\input{interludes/doc08_black_paper}
+\end{academicpaper}
+\end{blackpaper}
+
+% ——— Chapter IX ———
+\input{chapters/ch09_deep_sea_flashback}
+
+% ============================================================================
+% BACK MATTER
+% ============================================================================
+\backmatter
+\pagestyle{plain}
+
+\clearpage
+\input{back/epilogue}
+
+\clearpage
+\input{back/glossary_terms}
+
+\clearpage
+\input{back/tracksources}
+
+\end{document}

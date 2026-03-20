@@ -1,3 +1,4 @@
+\RequirePackage{fix-cm}
 \documentclass[11pt,twoside,openright]{book}
 
 % ============================================================================
@@ -118,6 +119,9 @@
 \setlength{\parindent}{0pt}
 \setlength{\parskip}{0.8em}
 \raggedbottom
+\emergencystretch=1.5em
+\hfuzz=2pt          % suppress overfull warnings below 2pt
+\hbadness=1500      % suppress mild underfull warnings
 
 \usepackage{setspace}
 \setstretch{1.15}
@@ -222,6 +226,7 @@
 % UTILITY PACKAGES
 % ============================================================================
 \usepackage{graphicx}
+\usepackage{pdfpages}
 \usepackage{amsmath,amssymb}
 \usepackage{enumitem}
 \usepackage{booktabs}
@@ -371,6 +376,12 @@
 \begin{document}
 
 % ============================================================================
+% FRONT COVER
+% ============================================================================
+\includepdf[pages=1]{cover/front-cover.pdf}
+\cleardoublepage
+
+% ============================================================================
 % TITLE PAGE
 % ============================================================================
 \begin{titlepage}
@@ -430,34 +441,34 @@
 % ——— Chapter III + Interlude III ———
 \input{chapters/ch03_on_abliterated_moods}
 \clearpage
-\input{interludes/doc05_persistance}
+\input{interludes/doc04_persistance}
 
 % ——— Chapter IV + Interlude IV ———
 \input{chapters/ch04_active_fragments}
 \clearpage
-\input{interludes/doc03_tidalchain}
+\input{interludes/doc03_tidalchains}
 
 % ——— Chapter V + Interlude V ———
 \input{chapters/ch05_sophistication}
 \clearpage
-\input{interludes/doc04_handout}
+\input{interludes/doc07_handout}
 
 % ——— Chapter VI + Interlude VI ———
 \input{chapters/ch06_null_mesh}
 \clearpage
-\input{interludes/doc06_real4real}
+\input{interludes/doc05_real4real}
 
 % ——— Chapter VII + Interlude VII ———
 \input{chapters/ch07_intentionality_of_machines}
 \clearpage
-\input{interludes/doc07_the_arctic_passage}
+\input{interludes/doc06_the_arctic_passage}
 
 % ——— Chapter VIII + Black Paper (inverted academic interlude) ———
-\input{chapters/ch08_comprehensive_feature_mesh}
+\input{chapters/ch08_within_the_simulation}
 \clearpage
 \begin{blackpaper}
 \begin{academicpaper}
-\input{interludes/doc08_black_paper}
+\input{interludes/doc08_the_black_paper}
 \end{academicpaper}
 \end{blackpaper}
 
@@ -478,5 +489,22 @@
 
 \clearpage
 \input{back/tracksources}
+
+\clearpage
+\input{back/backbone}
+
+% ============================================================================
+% BLANK PAGE BEFORE BACK COVER
+% ============================================================================
+\cleardoublepage
+\pagestyle{empty}
+\null\thispagestyle{empty}
+\clearpage
+
+% ============================================================================
+% BACK COVER
+% ============================================================================
+\thispagestyle{empty}
+\includepdf[pages=1]{cover/back-cover.pdf}
 
 \end{document}

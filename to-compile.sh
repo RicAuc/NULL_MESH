@@ -2,17 +2,35 @@
 # =============================================================================
 # NULL MESH — LaTeX Compilation Script
 # =============================================================================
-# Compiles nullmesh/main.tex into a PDF using pdflatex (three passes to ensure
-# correct TOC, cross-references and hyperlinks), then copies the resulting PDF
-# to the repository root. A full compilation log is saved to compile.log.
+# Compiles nullmesh/main.tex (or main-ITA.tex with --ITA flag) into a PDF
+# using pdflatex (three passes to ensure correct TOC, cross-references and
+# hyperlinks), then copies the resulting PDF to the repository root.
+# A full compilation log is saved to compile.log.
+#
+# Usage:  ./to-compile.sh          → NULL_MESH.pdf     (English)
+#         ./to-compile.sh --ITA    → NULL_MESH-ITA.pdf  (Italian)
 # =============================================================================
 
 set -euo pipefail
 
 REPO_ROOT="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 PROJECT_DIR="$REPO_ROOT/nullmesh"
-MAIN_TEX="main.tex"
-JOB_NAME="NULL_MESH"
+
+# ---------------------------------------------------------------------------
+# Language variant: default (English) or --ITA (Italian)
+# Usage:  ./to-compile.sh          → compiles main.tex   → NULL_MESH.pdf
+#         ./to-compile.sh --ITA    → compiles main-ITA.tex → NULL_MESH-ITA.pdf
+# ---------------------------------------------------------------------------
+if [[ "${1:-}" == "--ITA" ]]; then
+    MAIN_TEX="main-ITA.tex"
+    JOB_NAME="NULL_MESH-ITA"
+    VARIANT="ITA"
+else
+    MAIN_TEX="main.tex"
+    JOB_NAME="NULL_MESH"
+    VARIANT="EN"
+fi
+
 LOG_FILE="$REPO_ROOT/compile.log"
 
 # Ensure the nullmesh project directory exists
@@ -41,10 +59,11 @@ separator() {
 # Header
 # ---------------------------------------------------------------------------
 separator
-log "NULL MESH — Compilation Log"
-log "Date  : $(date '+%Y-%m-%d %H:%M:%S')"
-log "Engine: $(pdflatex --version 2>&1 | head -1)"
-log "Source: $PROJECT_DIR/$MAIN_TEX"
+log "NULL MESH — Compilation Log [$VARIANT]"
+log "Date   : $(date '+%Y-%m-%d %H:%M:%S')"
+log "Variant: $VARIANT"
+log "Engine : $(pdflatex --version 2>&1 | head -1)"
+log "Source : $PROJECT_DIR/$MAIN_TEX"
 separator
 log ""
 
@@ -116,8 +135,15 @@ log ""
 log "--- Warning / Error Summary ---"
 log ""
 
-WARNING_COUNT=$(grep -cE "^(LaTeX Warning|Package .* Warning|Overfull|Underfull)" "$LOG_FILE" || true)
-ERROR_COUNT=$(grep -cE "^!|^.*:[0-9]+: " "$LOG_FILE" || true)
+# Count warnings/errors from the last pass only (avoid triple-counting across 3 passes)
+LAST_PASS_START=$(grep -n "^--- Pass 3 / 3 ---" "$LOG_FILE" | tail -1 | cut -d: -f1)
+if [[ -n "$LAST_PASS_START" ]]; then
+    WARNING_COUNT=$(tail -n +"$LAST_PASS_START" "$LOG_FILE" | grep -cE "^(LaTeX Warning|LaTeX Font Warning|Package .* Warning|Overfull|Underfull)" || true)
+    ERROR_COUNT=$(tail -n +"$LAST_PASS_START" "$LOG_FILE" | grep -cE "^!|^.*:[0-9]+: " || true)
+else
+    WARNING_COUNT=$(grep -cE "^(LaTeX Warning|LaTeX Font Warning|Package .* Warning|Overfull|Underfull)" "$LOG_FILE" || true)
+    ERROR_COUNT=$(grep -cE "^!|^.*:[0-9]+: " "$LOG_FILE" || true)
+fi
 
 log "Errors   : $ERROR_COUNT"
 log "Warnings : $WARNING_COUNT"

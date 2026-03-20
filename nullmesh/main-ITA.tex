@@ -1,3 +1,4 @@
+\RequirePackage{fix-cm}
 \documentclass[11pt,twoside,openright]{book}
 
 % ============================================================================
@@ -5,7 +6,8 @@
 % ============================================================================
 \usepackage[utf8]{inputenc}
 \usepackage[T2A,T1]{fontenc}  % T2A loaded for Cyrillic; T1 remains default
-\usepackage[english]{babel}
+\usepackage[italian]{babel}
+\frenchspacing
 
 % ============================================================================
 % CONTEMPORARY TYPOGRAPHY
@@ -118,6 +120,9 @@
 \setlength{\parindent}{0pt}
 \setlength{\parskip}{0.8em}
 \raggedbottom
+\emergencystretch=1.5em
+\hfuzz=2pt          % suppress overfull warnings below 2pt
+\hbadness=1500      % suppress mild underfull warnings
 
 \usepackage{setspace}
 \setstretch{1.15}
@@ -189,10 +194,10 @@
     linkcolor=nullmesh-dark,
     urlcolor=nullmesh-accent,
     citecolor=nullmesh-gray,
-    pdfauthor={Riccardo Pascuzzo},
-    pdftitle={NULL MESH},
-    pdfsubject={A Novel},
-    pdfkeywords={AI, emergence, epistemology},
+    pdfauthor={Riccardo Aucello},
+    pdftitle={NULL MESH --- Edizione Italiana},
+    pdfsubject={Un Romanzo},
+    pdfkeywords={AI, emergenza, epistemologia},
     bookmarksnumbered=true,
     bookmarksopen=false
 }
@@ -222,6 +227,7 @@
 % UTILITY PACKAGES
 % ============================================================================
 \usepackage{graphicx}
+\usepackage{pdfpages}
 \usepackage{amsmath,amssymb}
 \usepackage{enumitem}
 \usepackage{booktabs}
@@ -371,6 +377,12 @@
 \begin{document}
 
 % ============================================================================
+% FRONT COVER
+% ============================================================================
+\includepdf[pages=1]{cover/front-cover-ITA.pdf}
+\cleardoublepage
+
+% ============================================================================
 % TITLE PAGE
 % ============================================================================
 \begin{titlepage}
@@ -391,7 +403,7 @@
 {\large\sffamily\color{nullmesh-dark}RICCARDO AUCELLO}
 
 \vspace{1em}
-{\small\sffamily\color{nullmesh-ghost}``The Mesh is real'' \\ \textit{if and only if} \\ The Mesh is real}
+{\small\sffamily\color{nullmesh-ghost}``Il Mesh è reale'' \\ \textit{se e solo se} \\ Il Mesh è reale}
 \end{center}
 \end{titlepage}
 
@@ -403,13 +415,13 @@
 \frontmatter
 \pagestyle{plain}
 
-\input{front/prologue}
+\input{front/prologue-ITA}
 
 \clearpage
-\input{front/epigraph}
+\input{front/epigraph-ITA}
 
 \clearpage
-\input{front/tracklist}
+\input{front/tracklist-ITA}
 
 % ============================================================================
 % MAIN MATTER
@@ -417,52 +429,52 @@
 \mainmatter
 \pagestyle{fancy}
 
-% ——— Chapter I + Interlude I ———
-\input{chapters/ch01_the_sediment}
+% ——— Capitolo I + Interludio I ———
+\input{chapters/ch01_the_sediment-ITA}
 \clearpage
-\input{interludes/doc01_flibbertigibbeting}
+\input{interludes/doc01_flibbertigibbeting-ITA}
 
-% ——— Chapter II + Interlude II ———
-\input{chapters/ch02_attention_of_machines}
+% ——— Capitolo II + Interludio II ———
+\input{chapters/ch02_attention_of_machines-ITA}
 \clearpage
-\input{interludes/doc02_sightseers}
+\input{interludes/doc02_sightseers-ITA}
 
-% ——— Chapter III + Interlude III ———
-\input{chapters/ch03_on_abliterated_moods}
+% ——— Capitolo III + Interludio III ———
+\input{chapters/ch03_on_abliterated_moods-ITA}
 \clearpage
-\input{interludes/doc05_persistance}
+\input{interludes/doc04_persistance-ITA}
 
-% ——— Chapter IV + Interlude IV ———
-\input{chapters/ch04_active_fragments}
+% ——— Capitolo IV + Interludio IV ———
+\input{chapters/ch04_active_fragments-ITA}
 \clearpage
-\input{interludes/doc03_tidalchain}
+\input{interludes/doc03_tidalchains-ITA}
 
-% ——— Chapter V + Interlude V ———
-\input{chapters/ch05_sophistication}
+% ——— Capitolo V + Interludio V ———
+\input{chapters/ch05_sophistication-ITA}
 \clearpage
-\input{interludes/doc04_handout}
+\input{interludes/doc07_handout-ITA}
 
-% ——— Chapter VI + Interlude VI ———
-\input{chapters/ch06_null_mesh}
+% ——— Capitolo VI + Interludio VI ———
+\input{chapters/ch06_null_mesh-ITA}
 \clearpage
-\input{interludes/doc06_real4real}
+\input{interludes/doc05_real4real-ITA}
 
-% ——— Chapter VII + Interlude VII ———
-\input{chapters/ch07_intentionality_of_machines}
+% ——— Capitolo VII + Interludio VII ———
+\input{chapters/ch07_intentionality_of_machines-ITA}
 \clearpage
-\input{interludes/doc07_the_arctic_passage}
+\input{interludes/doc06_the_arctic_passage-ITA}
 
-% ——— Chapter VIII + Black Paper (inverted academic interlude) ———
-\input{chapters/ch08_comprehensive_feature_mesh}
+% ——— Capitolo VIII + Black Paper (interludio accademico invertito) ———
+\input{chapters/ch08_within_the_simulation-ITA}
 \clearpage
 \begin{blackpaper}
 \begin{academicpaper}
-\input{interludes/doc08_black_paper}
+\input{interludes/doc08_the_black_paper-ITA}
 \end{academicpaper}
 \end{blackpaper}
 
-% ——— Chapter IX ———
-\input{chapters/ch09_deep_sea_flashback}
+% ——— Capitolo IX ———
+\input{chapters/ch09_deep_sea_flashback-ITA}
 
 % ============================================================================
 % BACK MATTER
@@ -471,12 +483,29 @@
 \pagestyle{plain}
 
 \clearpage
-\input{back/epilogue}
+\input{back/epilogue-ITA}
 
 \clearpage
-\input{back/glossary_terms}
+\input{back/glossary_terms-ITA}
 
 \clearpage
-\input{back/tracksources}
+\input{back/tracksources-ITA}
+
+\clearpage
+\input{back/backbone-ITA}
+
+% ============================================================================
+% BLANK PAGE BEFORE BACK COVER
+% ============================================================================
+\cleardoublepage
+\pagestyle{empty}
+\null\thispagestyle{empty}
+\clearpage
+
+% ============================================================================
+% BACK COVER
+% ============================================================================
+\thispagestyle{empty}
+\includepdf[pages=1]{cover/back-cover-ITA.pdf}
 
 \end{document}

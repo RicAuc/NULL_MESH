@@ -7,6 +7,7 @@
 \usepackage[utf8]{inputenc}
 \usepackage[T2A,T1]{fontenc}  % T2A loaded for Cyrillic; T1 remains default
 \usepackage[english]{babel}
+\usepackage{graphicx}
 
 % ============================================================================
 % CONTEMPORARY TYPOGRAPHY
@@ -301,13 +302,17 @@
 
 \newenvironment{academicpaper}
   {%
-    \begin{addmargin}[1em]{1em}%
+    \par
+    \leftskip=1em\relax
+    \rightskip=1em\relax
     \small\rmfamily%
     \setstretch{1.1}%
+    \ignorespaces
   }
   {%
-    \end{addmargin}%
+    \par
     \vspace{1em}%
+    \ignorespacesafterend
   }
 
 \newcommand{\papertitle}[1]{%
@@ -328,7 +333,7 @@
   \titleformat{\section}
     {\normalsize\bfseries\rmfamily\color{papertext}}
     {\thesection}{0.8em}{}
-    [\vspace{0.2em}{\color{nullmesh-light}\rule{\linewidth}{0.4pt}}]
+    [\vspace{0.2em}{\color{nullmesh-accent}\rule{\linewidth}{0.4pt}}]
   \titleformat{\subsection}
     {\normalsize\itshape\rmfamily\color{papersecondary}}
     {\thesubsection}{0.8em}{}
@@ -345,18 +350,29 @@
 % BLACK PAPER ENVIRONMENT — inverted colors (white text on dark pages)
 % Wraps the academicpaper for doc08; restores standard formats on exit
 % ============================================================================
+\makeatletter
 \newenvironment{blackpaper}{%
     \clearpage%
     \pagecolor{nullmesh-dark}%
     \color{white}%
     \colorlet{papertext}{white}%
     \colorlet{papersecondary}{nullmesh-light}%
+    % Fix footnote rule visibility on dark background
+    \renewcommand\footnoterule{%
+      \kern-3pt%
+      {\color{nullmesh-ghost}\hrule width .4\columnwidth height .4pt}%
+      \kern 2.6pt%
+    }%
+    % Fix footnote text color (deferred output loses inherited color)
+    \let\bp@origfntext\@footnotetext
+    \long\def\@footnotetext##1{\bp@origfntext{{\color{white}\fontsize{7.5pt}{8pt}\selectfont##1}}}%
 }{%
     \clearpage%
     \pagecolor{white}%
     \color{black}%
     \colorlet{papertext}{nullmesh-dark}%
     \colorlet{papersecondary}{nullmesh-gray}%
+    \let\@footnotetext\bp@origfntext
     % Restore main matter section formats
     \titleformat{\section}
       {\Large\bfseries\sffamily\color{nullmesh-dark}}
@@ -369,6 +385,7 @@
       {\thesubsubsection}{1em}{}
     \setcounter{secnumdepth}{1}%
 }
+\makeatother
 
 % ============================================================================
 % DOCUMENT BEGINS
@@ -472,7 +489,13 @@
 \end{academicpaper}
 \end{blackpaper}
 
-% ——— Chapter IX ———
+% ——— Chapter IX + Interlude IX ———
+\clearpage
+\input{chapters/ch10_null_rites}
+\clearpage
+\input{interludes/doc09_invocation}
+
+% ——— Chapter X ———
 \input{chapters/ch09_deep_sea_flashback}
 
 % ============================================================================

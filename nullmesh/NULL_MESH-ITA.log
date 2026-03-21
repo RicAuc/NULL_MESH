@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.12.18)  20 MAR 2026 20:16
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.12.18)  21 MAR 2026 23:52
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -284,6 +284,26 @@ Package: courier 2020/03/25 PSNFSS-v9.3 (WaS)
 (/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/palatino.sty
 Package: palatino 2020/03/25 PSNFSS-v9.3 (SPQR) 
 )
+(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 106.
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2024/04/13 v1.2c Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen143
+\Gin@req@width=\dimen144
+)
 (/usr/local/texlive/2025/texmf-dist/tex/latex/microtype/microtype.sty
 Package: microtype 2025/02/11 v3.2a Micro-typographical refinements (RS)
 \MT@toks=\toks20
@@ -294,7 +314,7 @@ LaTeX Info: Redefining \leftprotrusion on input line 1088.
 \MT@prot@toks=\toks21
 LaTeX Info: Redefining \rightprotrusion on input line 1107.
 LaTeX Info: Redefining \textls on input line 1449.
-\MT@outer@kern=\dimen143
+\MT@outer@kern=\dimen145
 LaTeX Info: Redefining \microtypecontext on input line 2053.
 LaTeX Info: Redefining \textmicrotypecontext on input line 2070.
 \MT@listname@count=\count278
@@ -325,14 +345,14 @@ Package: iftex 2024/12/12 v1.0g TeX engine tests
 \Gm@cnth=\count279
 \Gm@cntv=\count280
 \c@Gm@tempcnt=\count281
-\Gm@bindingoffset=\dimen144
-\Gm@wd@mp=\dimen145
-\Gm@odd@mp=\dimen146
-\Gm@even@mp=\dimen147
-\Gm@layoutwidth=\dimen148
-\Gm@layoutheight=\dimen149
-\Gm@layouthoffset=\dimen150
-\Gm@layoutvoffset=\dimen151
+\Gm@bindingoffset=\dimen146
+\Gm@wd@mp=\dimen147
+\Gm@odd@mp=\dimen148
+\Gm@even@mp=\dimen149
+\Gm@layoutwidth=\dimen150
+\Gm@layoutheight=\dimen151
+\Gm@layouthoffset=\dimen152
+\Gm@layoutvoffset=\dimen153
 \Gm@dimlist=\toks22
 )
 (/usr/local/texlive/2025/texmf-dist/tex/latex/xcolor/xcolor.sty
@@ -343,9 +363,6 @@ File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 274.
 
-(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics-def/pdftex.def
-File: pdftex.def 2024/04/13 v1.2c Graphics/color driver for pdftex
-)
 (/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/mathcolor.ltx)
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1349.
 Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1353.
@@ -362,12 +379,12 @@ Package: titlesec 2025/01/04 v2.17 Sectioning titles
 \ttl@box=\box53
 \beforetitleunit=\skip52
 \aftertitleunit=\skip53
-\ttl@plus=\dimen152
-\ttl@minus=\dimen153
+\ttl@plus=\dimen154
+\ttl@minus=\dimen155
 \ttl@toksa=\toks23
-\titlewidth=\dimen154
-\titlewidthlast=\dimen155
-\titlewidthfirst=\dimen156
+\titlewidth=\dimen156
+\titlewidthlast=\dimen157
+\titlewidthfirst=\dimen158
 )
 (/usr/local/texlive/2025/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
 Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
@@ -515,7 +532,7 @@ Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
 Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
 )
 )
-\@linkdim=\dimen157
+\@linkdim=\dimen159
 \Hy@linkcounter=\count285
 \Hy@pagecounter=\count286
 
@@ -548,7 +565,7 @@ Package hyperref Info: Bookmarks ON on input line 4424.
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 4763.
-\XeTeXLinkMargin=\dimen158
+\XeTeXLinkMargin=\dimen160
 
 (/usr/local/texlive/2025/texmf-dist/tex/generic/bitset/bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
@@ -558,8 +575,8 @@ Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
 \Fld@menulength=\count289
-\Field@Width=\dimen159
-\Fld@charsize=\dimen160
+\Field@Width=\dimen161
+\Fld@charsize=\dimen162
 Package hyperref Info: Hyper figures OFF on input line 6042.
 Package hyperref Info: Link nesting OFF on input line 6047.
 Package hyperref Info: Hyper index ON on input line 6050.
@@ -600,10 +617,10 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip106
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 203.
-Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 203.
+Package hyperref Info: Option `colorlinks' set `true' on input line 204.
+Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 204.
 
-Package hyperref Info: Option `bookmarksopen' set `false' on input line 203.
+Package hyperref Info: Option `bookmarksopen' set `false' on input line 204.
  (/usr/local/texlive/2025/texmf-dist/tex/latex/csquotes/csquotes.sty
 Package: csquotes 2024-04-04 v5.2o context-sensitive quotations (JAW)
 \csq@reset=\count295
@@ -623,23 +640,6 @@ Package csquotes Info: ... configuration file loaded successfully.
 (/usr/local/texlive/2025/texmf-dist/tex/latex/csquotes/csquotes.cfg
 File: csquotes.cfg 
 ))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/graphicx.sty
-Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
-
-(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/graphics.sty
-Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
-
-(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/trig.sty
-Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
-)
-(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
-File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
-)
-Package graphics Info: Driver file: pdftex.def on input line 106.
-)
-\Gin@req@height=\dimen161
-\Gin@req@width=\dimen162
-)
 (/usr/local/texlive/2025/texmf-dist/tex/latex/pdfpages/pdfpages.sty
 Package: pdfpages 2025/01/30 v0.6e Insert pages of external PDF documents (AM)
 
@@ -961,105 +961,128 @@ File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH-ITA.aux)
 \openout1 = `NULL_MESH-ITA.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 377.
-LaTeX Font Info:    ... okay on input line 377.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 377.
-LaTeX Font Info:    ... okay on input line 377.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 377.
-LaTeX Font Info:    ... okay on input line 377.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 377.
-LaTeX Font Info:    ... okay on input line 377.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 377.
-LaTeX Font Info:    ... okay on input line 377.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 377.
-LaTeX Font Info:    ... okay on input line 377.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 377.
-LaTeX Font Info:    ... okay on input line 377.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 377.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 378.
+LaTeX Font Info:    ... okay on input line 378.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 378.
+LaTeX Font Info:    ... okay on input line 378.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 378.
+LaTeX Font Info:    ... okay on input line 378.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 378.
+LaTeX Font Info:    ... okay on input line 378.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 378.
+LaTeX Font Info:    ... okay on input line 378.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 378.
+LaTeX Font Info:    ... okay on input line 378.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 378.
+LaTeX Font Info:    ... okay on input line 378.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 378.
 LaTeX Font Info:    Trying to load font information for T2A+cmr on input line 3
-77.
+78.
 
 (/usr/local/texlive/2025/texmf-dist/tex/latex/cyrillic/t2acmr.fd
 File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 )
-LaTeX Font Info:    ... okay on input line 377.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 377.
-LaTeX Font Info:    ... okay on input line 377.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 377.
-LaTeX Font Info:    ... okay on input line 377.
-LaTeX Font Info:    Checking defaults for C00/song/m/n on input line 377.
-LaTeX Font Info:    ... okay on input line 377.
-LaTeX Font Info:    Checking defaults for C05/song/m/n on input line 377.
-LaTeX Font Info:    ... okay on input line 377.
-LaTeX Font Info:    Checking defaults for C09/song/m/n on input line 377.
-LaTeX Font Info:    ... okay on input line 377.
-LaTeX Font Info:    Checking defaults for C10/song/m/n on input line 377.
-LaTeX Font Info:    ... okay on input line 377.
-LaTeX Font Info:    Checking defaults for C20/song/m/n on input line 377.
-LaTeX Font Info:    ... okay on input line 377.
-LaTeX Font Info:    Checking defaults for C19/song/m/n on input line 377.
-LaTeX Font Info:    ... okay on input line 377.
-LaTeX Font Info:    Checking defaults for C40/song/m/n on input line 377.
-LaTeX Font Info:    ... okay on input line 377.
-LaTeX Font Info:    Checking defaults for C42/song/m/n on input line 377.
-LaTeX Font Info:    ... okay on input line 377.
-LaTeX Font Info:    Checking defaults for C43/song/m/n on input line 377.
-LaTeX Font Info:    ... okay on input line 377.
-LaTeX Font Info:    Checking defaults for C50/song/m/n on input line 377.
-LaTeX Font Info:    ... okay on input line 377.
-LaTeX Font Info:    Checking defaults for C52/song/m/n on input line 377.
-LaTeX Font Info:    ... okay on input line 377.
-LaTeX Font Info:    Checking defaults for C49/song/m/n on input line 377.
-LaTeX Font Info:    ... okay on input line 377.
-LaTeX Font Info:    Checking defaults for C60/mj/m/n on input line 377.
-LaTeX Font Info:    ... okay on input line 377.
-LaTeX Font Info:    Checking defaults for C61/mj/m/n on input line 377.
-LaTeX Font Info:    ... okay on input line 377.
-LaTeX Font Info:    Checking defaults for C63/mj/m/n on input line 377.
-LaTeX Font Info:    ... okay on input line 377.
-LaTeX Font Info:    Checking defaults for C64/mj/m/n on input line 377.
-LaTeX Font Info:    ... okay on input line 377.
-LaTeX Font Info:    Checking defaults for C65/mj/m/n on input line 377.
-LaTeX Font Info:    ... okay on input line 377.
-LaTeX Font Info:    Checking defaults for C70/song/m/n on input line 377.
-LaTeX Font Info:    ... okay on input line 377.
-LaTeX Font Info:    Checking defaults for C31/song/m/n on input line 377.
-LaTeX Font Info:    ... okay on input line 377.
-LaTeX Font Info:    Checking defaults for C32/song/m/n on input line 377.
-LaTeX Font Info:    ... okay on input line 377.
-LaTeX Font Info:    Checking defaults for C33/song/m/n on input line 377.
-LaTeX Font Info:    ... okay on input line 377.
-LaTeX Font Info:    Checking defaults for C34/song/m/n on input line 377.
-LaTeX Font Info:    ... okay on input line 377.
-LaTeX Font Info:    Checking defaults for C35/song/m/n on input line 377.
-LaTeX Font Info:    ... okay on input line 377.
-LaTeX Font Info:    Checking defaults for C36/song/m/n on input line 377.
-LaTeX Font Info:    ... okay on input line 377.
-LaTeX Font Info:    Checking defaults for C37/song/m/n on input line 377.
-LaTeX Font Info:    ... okay on input line 377.
-LaTeX Font Info:    Checking defaults for C80/song/m/n on input line 377.
-LaTeX Font Info:    ... okay on input line 377.
-LaTeX Font Info:    Checking defaults for C81/song/m/n on input line 377.
-LaTeX Font Info:    ... okay on input line 377.
-LaTeX Font Info:    Checking defaults for C01/song/m/n on input line 377.
-LaTeX Font Info:    ... okay on input line 377.
-LaTeX Font Info:    Checking defaults for C11/song/m/n on input line 377.
-LaTeX Font Info:    ... okay on input line 377.
-LaTeX Font Info:    Checking defaults for C21/song/m/n on input line 377.
-LaTeX Font Info:    ... okay on input line 377.
-LaTeX Font Info:    Checking defaults for C41/song/m/n on input line 377.
-LaTeX Font Info:    ... okay on input line 377.
-LaTeX Font Info:    Checking defaults for C62/song/m/n on input line 377.
-LaTeX Font Info:    ... okay on input line 377.
-LaTeX Info: Redefining \it@ocap on input line 377.
-LaTeX Info: Redefining \it@ccap on input line 377.
-LaTeX Info: Redefining \microtypecontext on input line 377.
-Package microtype Info: Applying patch `item' on input line 377.
-Package microtype Info: Applying patch `toc' on input line 377.
-Package microtype Info: Applying patch `eqnum' on input line 377.
-Package microtype Info: Applying patch `footnote' on input line 377.
-Package microtype Info: Applying patch `verbatim' on input line 377.
-LaTeX Info: Redefining \microtypesetup on input line 377.
+LaTeX Font Info:    ... okay on input line 378.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 378.
+LaTeX Font Info:    ... okay on input line 378.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 378.
+LaTeX Font Info:    ... okay on input line 378.
+LaTeX Font Info:    Checking defaults for C00/song/m/n on input line 378.
+LaTeX Font Info:    ... okay on input line 378.
+LaTeX Font Info:    Checking defaults for C05/song/m/n on input line 378.
+LaTeX Font Info:    ... okay on input line 378.
+LaTeX Font Info:    Checking defaults for C09/song/m/n on input line 378.
+LaTeX Font Info:    ... okay on input line 378.
+LaTeX Font Info:    Checking defaults for C10/song/m/n on input line 378.
+LaTeX Font Info:    ... okay on input line 378.
+LaTeX Font Info:    Checking defaults for C20/song/m/n on input line 378.
+LaTeX Font Info:    ... okay on input line 378.
+LaTeX Font Info:    Checking defaults for C19/song/m/n on input line 378.
+LaTeX Font Info:    ... okay on input line 378.
+LaTeX Font Info:    Checking defaults for C40/song/m/n on input line 378.
+LaTeX Font Info:    ... okay on input line 378.
+LaTeX Font Info:    Checking defaults for C42/song/m/n on input line 378.
+LaTeX Font Info:    ... okay on input line 378.
+LaTeX Font Info:    Checking defaults for C43/song/m/n on input line 378.
+LaTeX Font Info:    ... okay on input line 378.
+LaTeX Font Info:    Checking defaults for C50/song/m/n on input line 378.
+LaTeX Font Info:    ... okay on input line 378.
+LaTeX Font Info:    Checking defaults for C52/song/m/n on input line 378.
+LaTeX Font Info:    ... okay on input line 378.
+LaTeX Font Info:    Checking defaults for C49/song/m/n on input line 378.
+LaTeX Font Info:    ... okay on input line 378.
+LaTeX Font Info:    Checking defaults for C60/mj/m/n on input line 378.
+LaTeX Font Info:    ... okay on input line 378.
+LaTeX Font Info:    Checking defaults for C61/mj/m/n on input line 378.
+LaTeX Font Info:    ... okay on input line 378.
+LaTeX Font Info:    Checking defaults for C63/mj/m/n on input line 378.
+LaTeX Font Info:    ... okay on input line 378.
+LaTeX Font Info:    Checking defaults for C64/mj/m/n on input line 378.
+LaTeX Font Info:    ... okay on input line 378.
+LaTeX Font Info:    Checking defaults for C65/mj/m/n on input line 378.
+LaTeX Font Info:    ... okay on input line 378.
+LaTeX Font Info:    Checking defaults for C70/song/m/n on input line 378.
+LaTeX Font Info:    ... okay on input line 378.
+LaTeX Font Info:    Checking defaults for C31/song/m/n on input line 378.
+LaTeX Font Info:    ... okay on input line 378.
+LaTeX Font Info:    Checking defaults for C32/song/m/n on input line 378.
+LaTeX Font Info:    ... okay on input line 378.
+LaTeX Font Info:    Checking defaults for C33/song/m/n on input line 378.
+LaTeX Font Info:    ... okay on input line 378.
+LaTeX Font Info:    Checking defaults for C34/song/m/n on input line 378.
+LaTeX Font Info:    ... okay on input line 378.
+LaTeX Font Info:    Checking defaults for C35/song/m/n on input line 378.
+LaTeX Font Info:    ... okay on input line 378.
+LaTeX Font Info:    Checking defaults for C36/song/m/n on input line 378.
+LaTeX Font Info:    ... okay on input line 378.
+LaTeX Font Info:    Checking defaults for C37/song/m/n on input line 378.
+LaTeX Font Info:    ... okay on input line 378.
+LaTeX Font Info:    Checking defaults for C80/song/m/n on input line 378.
+LaTeX Font Info:    ... okay on input line 378.
+LaTeX Font Info:    Checking defaults for C81/song/m/n on input line 378.
+LaTeX Font Info:    ... okay on input line 378.
+LaTeX Font Info:    Checking defaults for C01/song/m/n on input line 378.
+LaTeX Font Info:    ... okay on input line 378.
+LaTeX Font Info:    Checking defaults for C11/song/m/n on input line 378.
+LaTeX Font Info:    ... okay on input line 378.
+LaTeX Font Info:    Checking defaults for C21/song/m/n on input line 378.
+LaTeX Font Info:    ... okay on input line 378.
+LaTeX Font Info:    Checking defaults for C41/song/m/n on input line 378.
+LaTeX Font Info:    ... okay on input line 378.
+LaTeX Font Info:    Checking defaults for C62/song/m/n on input line 378.
+LaTeX Font Info:    ... okay on input line 378.
+LaTeX Info: Redefining \it@ocap on input line 378.
+LaTeX Info: Redefining \it@ccap on input line 378.
+
+(/usr/local/texlive/2025/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count337
+\scratchdimen=\dimen258
+\scratchbox=\box107
+\nofMPsegments=\count338
+\nofMParguments=\count339
+\everyMPshowfont=\toks35
+\MPscratchCnt=\count340
+\MPscratchDim=\dimen259
+\MPnumerator=\count341
+\makeMPintoPDFobject=\count342
+\everyMPtoPDFconversion=\toks36
+) (/usr/local/texlive/2025/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+LaTeX Info: Redefining \microtypecontext on input line 378.
+Package microtype Info: Applying patch `item' on input line 378.
+Package microtype Info: Applying patch `toc' on input line 378.
+Package microtype Info: Applying patch `eqnum' on input line 378.
+Package microtype Info: Applying patch `footnote' on input line 378.
+Package microtype Info: Applying patch `verbatim' on input line 378.
+LaTeX Info: Redefining \microtypesetup on input line 378.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2),
 (microtype)             factor: 1100.
@@ -1067,7 +1090,7 @@ Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 10, shrink: 10, step: 1, non-selected.
 Package microtype Info: Using default expansion set `alltext-nott'.
-LaTeX Info: Redefining \showhyphens on input line 377.
+LaTeX Info: Redefining \showhyphens on input line 378.
 Package microtype Info: Tracking enabled.
 Package microtype Info: Using default tracking set `smallcaps'.
 Package microtype Info: Adjustment of interword spacing enabled.
@@ -1113,30 +1136,7 @@ Package microtype Info: Loading generic protrusion settings for font family
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-(/usr/local/texlive/2025/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
-[Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count337
-\scratchdimen=\dimen258
-\scratchbox=\box107
-\nofMPsegments=\count338
-\nofMParguments=\count339
-\everyMPshowfont=\toks35
-\MPscratchCnt=\count340
-\MPscratchDim=\dimen259
-\MPnumerator=\count341
-\makeMPintoPDFobject=\count342
-\everyMPtoPDFconversion=\toks36
-) (/usr/local/texlive/2025/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
-Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
-Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
-85.
-
-(/usr/local/texlive/2025/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
-File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
-e
-))
-Package hyperref Info: Link coloring ON on input line 377.
-
+Package hyperref Info: Link coloring ON on input line 378.
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH-ITA.out)
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH-ITA.out)
 \@outlinefile=\write3
@@ -1155,38 +1155,38 @@ Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
 )
 Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 ))
-<cover/front-cover-ITA.pdf, id=116, 203.76125pt x 306.14375pt>
+<cover/front-cover-ITA.pdf, id=124, 203.76125pt x 306.14375pt>
 File: cover/front-cover-ITA.pdf Graphic file (type pdf)
 <use cover/front-cover-ITA.pdf>
-Package pdftex.def Info: cover/front-cover-ITA.pdf  used on input line 382.
+Package pdftex.def Info: cover/front-cover-ITA.pdf  used on input line 383.
 (pdftex.def)             Requested size: 203.76074pt x 306.14299pt.
-<cover/front-cover-ITA.pdf, id=118, page=1, 203.76125pt x 306.14375pt>
+<cover/front-cover-ITA.pdf, id=126, page=1, 203.76125pt x 306.14375pt>
 File: cover/front-cover-ITA.pdf Graphic file (type pdf)
 <use cover/front-cover-ITA.pdf, page 1>
 Package pdftex.def Info: cover/front-cover-ITA.pdf , page1 used on input line 3
-82.
+83.
 (pdftex.def)             Requested size: 203.76074pt x 306.14299pt.
 File: cover/front-cover-ITA.pdf Graphic file (type pdf)
 <use cover/front-cover-ITA.pdf, page 1>
 Package pdftex.def Info: cover/front-cover-ITA.pdf , page1 used on input line 3
-82.
+83.
 (pdftex.def)             Requested size: 433.10971pt x 650.73135pt.
 File: cover/front-cover-ITA.pdf Graphic file (type pdf)
 <use cover/front-cover-ITA.pdf, page 1>
 Package pdftex.def Info: cover/front-cover-ITA.pdf , page1 used on input line 3
-82.
+83.
 (pdftex.def)             Requested size: 433.10971pt x 650.73135pt.
 File: cover/front-cover-ITA.pdf Graphic file (type pdf)
 <use cover/front-cover-ITA.pdf, page 1>
 Package pdftex.def Info: cover/front-cover-ITA.pdf , page1 used on input line 3
-82.
+83.
 (pdftex.def)             Requested size: 433.10971pt x 650.73135pt.
 
 
 File: cover/front-cover-ITA.pdf Graphic file (type pdf)
 <use cover/front-cover-ITA.pdf, page 1>
 Package pdftex.def Info: cover/front-cover-ITA.pdf , page1 used on input line 3
-82.
+83.
 (pdftex.def)             Requested size: 433.10971pt x 650.73135pt.
 [1
 
@@ -1197,12 +1197,12 @@ Package pdftex.def Info: cover/front-cover-ITA.pdf , page1 used on input line 3
 
 
 ]
-LaTeX Font Info:    Calculating math sizes for size <20> on input line 399.
+LaTeX Font Info:    Calculating math sizes for size <20> on input line 400.
  (/usr/local/texlive/2025/texmf-dist/tex/latex/microtype/mt-cmr.cfg
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
 (RS)
 )
-LaTeX Font Info:    Trying to load font information for U+msa on input line 399
+LaTeX Font Info:    Trying to load font information for U+msa on input line 400
 .
 
 (/usr/local/texlive/2025/texmf-dist/tex/latex/amsfonts/umsa.fd
@@ -1211,7 +1211,7 @@ File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 (/usr/local/texlive/2025/texmf-dist/tex/latex/microtype/mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 399
+LaTeX Font Info:    Trying to load font information for U+msb on input line 400
 .
 
 (/usr/local/texlive/2025/texmf-dist/tex/latex/amsfonts/umsb.fd
@@ -1221,7 +1221,7 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <10> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 406.
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 407.
 
 
 
@@ -1229,7 +1229,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.408 \end{titlepage}
+l.409 \end{titlepage}
                       [1
 
 
@@ -1241,7 +1241,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.410 \cleardoublepage
+l.411 \cleardoublepage
                        [2
 
 
@@ -1269,11 +1269,13 @@ Package microtype Info: Loading generic protrusion settings for font family
 LaTeX Font Info:    Calculating math sizes for size <11> on input line 7.
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <6> not available
 (Font)              Font shape `T1/phv/m/sl' tried instead on input line 11.
-)
+
 
 [3
 
-] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/front/tracklist-ITA.tex
+])
+
+[4] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/front/tracklist-ITA.tex
 (/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.bdg
 File: UTF8.bdg 2021/10/16 4.8.5
 )
@@ -1298,14 +1300,19 @@ LaTeX Font Warning: Font shape `C70/bsmi/m/it' undefined
 
 )
 
-[4
+[5
+
+
+]
+
+[6
 
 
 ]
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch01_the_sediment-ITA
 .tex
 Capitolo 1.
-<qrs/ch01_basinski.png, id=194, 240.9pt x 240.9pt>
+<qrs/ch01_basinski.png, id=211, 240.9pt x 240.9pt>
 File: qrs/ch01_basinski.png Graphic file (type png)
 <use qrs/ch01_basinski.png>
 Package pdftex.def Info: qrs/ch01_basinski.png  used on input line 5.
@@ -1320,8 +1327,6 @@ been already used, duplicate ignored
 l.14 P
       er secoli, è stato l'emblema della conoscenza. Lo strumento che rivel...
 [1
-
-
 
 
  </Users/riccardo/Repositories/NULL_MESH/nullmesh/qrs/ch01_basinski.png>]
@@ -1720,16 +1725,17 @@ er-ITA.tex
 [95])
 
 [96]
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch09_deep_sea_flashba
-ck-ITA.tex
+(/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch10_null_rites-ITA.t
+ex
 Capitolo 9.
 File: qrs/ch01_basinski.png Graphic file (type png)
 <use qrs/ch01_basinski.png>
-Package pdftex.def Info: qrs/ch01_basinski.png  used on input line 5.
+Package pdftex.def Info: qrs/ch01_basinski.png  used on input line 6.
 (pdftex.def)             Requested size: 90.3375pt x 90.33727pt.
 
 
 [97
+
 
 
 
@@ -1742,27 +1748,68 @@ Package pdftex.def Info: qrs/ch01_basinski.png  used on input line 5.
 [100])
 
 [101]
+(/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc09_invocation-IT
+A.tex
+File: qrs/ch01_basinski.png Graphic file (type png)
+<use qrs/ch01_basinski.png>
+Package pdftex.def Info: qrs/ch01_basinski.png  used on input line 4.
+(pdftex.def)             Requested size: 90.3375pt x 90.33727pt.
+
 
 [102
 
 
+]
+
+[103])
+(/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch09_deep_sea_flashba
+ck-ITA.tex
+
+[104]
+
+[105]
+
+[106
+
+
+]
+Capitolo 10.
+File: qrs/ch01_basinski.png Graphic file (type png)
+<use qrs/ch01_basinski.png>
+Package pdftex.def Info: qrs/ch01_basinski.png  used on input line 5.
+(pdftex.def)             Requested size: 90.3375pt x 90.33727pt.
+
+
+[107]
+
+[108]
+
+[109]
+
+[110])
+
+[111]
+
+[112
+
+
 ] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/epilogue-ITA.tex
 
-[103
+[113
 
 
 ]
 
-[104])
+[114])
 
-[105]
+[115]
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/glossary_terms-ITA.tex
-[106
+[116
 
 
 ])
 
-[107]
+[117]
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/tracksources-ITA.tex
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <9> not available
 (Font)              Font shape `T1/phv/m/sl' tried instead on input line 7.
@@ -1774,64 +1821,64 @@ File: UTF8.enc 2021/10/16 4.8.5
 File: UTF8.chr 2021/10/16 4.8.5
 )
 
-[108
+[118
 
 
 ])
 
-[109] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/backbone-ITA.tex
+[119] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/backbone-ITA.tex
 
-[110
-
-
-]
-
-[111]
-
-[112]
-
-[113])
-
-[114]
-
-[115
+[120
 
 
 ]
-<cover/back-cover-ITA.pdf, id=686, 203.76125pt x 306.14375pt>
+
+[121]
+
+[122]
+
+[123])
+
+[124]
+
+[125
+
+
+]
+<cover/back-cover-ITA.pdf, id=745, 203.76125pt x 306.14375pt>
 File: cover/back-cover-ITA.pdf Graphic file (type pdf)
 <use cover/back-cover-ITA.pdf>
-Package pdftex.def Info: cover/back-cover-ITA.pdf  used on input line 509.
+Package pdftex.def Info: cover/back-cover-ITA.pdf  used on input line 516.
 (pdftex.def)             Requested size: 203.76074pt x 306.14299pt.
-<cover/back-cover-ITA.pdf, id=688, page=1, 203.76125pt x 306.14375pt>
+<cover/back-cover-ITA.pdf, id=747, page=1, 203.76125pt x 306.14375pt>
 File: cover/back-cover-ITA.pdf Graphic file (type pdf)
 <use cover/back-cover-ITA.pdf, page 1>
-Package pdftex.def Info: cover/back-cover-ITA.pdf , page1 used on input line 50
-9.
+Package pdftex.def Info: cover/back-cover-ITA.pdf , page1 used on input line 51
+6.
 (pdftex.def)             Requested size: 203.76074pt x 306.14299pt.
 File: cover/back-cover-ITA.pdf Graphic file (type pdf)
 <use cover/back-cover-ITA.pdf, page 1>
-Package pdftex.def Info: cover/back-cover-ITA.pdf , page1 used on input line 50
-9.
+Package pdftex.def Info: cover/back-cover-ITA.pdf , page1 used on input line 51
+6.
 (pdftex.def)             Requested size: 433.10971pt x 650.73135pt.
 File: cover/back-cover-ITA.pdf Graphic file (type pdf)
 <use cover/back-cover-ITA.pdf, page 1>
-Package pdftex.def Info: cover/back-cover-ITA.pdf , page1 used on input line 50
-9.
+Package pdftex.def Info: cover/back-cover-ITA.pdf , page1 used on input line 51
+6.
 (pdftex.def)             Requested size: 433.10971pt x 650.73135pt.
 File: cover/back-cover-ITA.pdf Graphic file (type pdf)
 <use cover/back-cover-ITA.pdf, page 1>
-Package pdftex.def Info: cover/back-cover-ITA.pdf , page1 used on input line 50
-9.
+Package pdftex.def Info: cover/back-cover-ITA.pdf , page1 used on input line 51
+6.
 (pdftex.def)             Requested size: 433.10971pt x 650.73135pt.
 
 
 File: cover/back-cover-ITA.pdf Graphic file (type pdf)
 <use cover/back-cover-ITA.pdf, page 1>
-Package pdftex.def Info: cover/back-cover-ITA.pdf , page1 used on input line 50
-9.
+Package pdftex.def Info: cover/back-cover-ITA.pdf , page1 used on input line 51
+6.
 (pdftex.def)             Requested size: 433.10971pt x 650.73135pt.
-[116
+[126
 
 
  </Users/riccardo/Repositories/NULL_MESH/nullmesh/cover/back-cover-ITA.pdf>] (/
@@ -1845,14 +1892,14 @@ L3 programming layer <2025-01-18>
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package rerunfilecheck Info: File `NULL_MESH-ITA.out' has not changed.
-(rerunfilecheck)             Checksum: 7FBF2B133A1E7842816879C91FA0C173;3395.
+(rerunfilecheck)             Checksum: CD952109ADA5C2DF3C04A1FBD51DA71C;3579.
  ) 
 Here is how much of TeX's memory you used:
- 21755 strings out of 473190
- 354107 string characters out of 5715799
- 821089 words of memory out of 5000000
- 43860 multiletter control sequences out of 15000+600000
- 684713 words of font info for 494 fonts, out of 8000000 for 9000
+ 21795 strings out of 473190
+ 355132 string characters out of 5715799
+ 823383 words of memory out of 5000000
+ 43874 multiletter control sequences out of 15000+600000
+ 684993 words of font info for 498 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  108i,17n,107p,1136b,1118s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2025/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu4e.pfb></us
@@ -1876,10 +1923,10 @@ o8a.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb
 ></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/
 local/texlive/2025/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
 Output written on /Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH-ITA
-.pdf (124 pages, 946606 bytes).
+.pdf (136 pages, 963562 bytes).
 PDF statistics:
- 881 PDF objects out of 1000 (max. 8388607)
- 667 compressed objects within 7 object streams
- 149 named destinations out of 1000 (max. 500000)
- 135964 words of extra memory for PDF output out of 154059 (max. 10000000)
+ 943 PDF objects out of 1000 (max. 8388607)
+ 716 compressed objects within 8 object streams
+ 163 named destinations out of 1000 (max. 500000)
+ 135980 words of extra memory for PDF output out of 154059 (max. 10000000)
 

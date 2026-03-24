@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.12.18)  21 MAR 2026 23:52
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.12.18)  22 MAR 2026 23:38
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1741,35 +1741,27 @@ Package pdftex.def Info: qrs/ch01_basinski.png  used on input line 6.
 
 ]
 
-[98]
+[98])
 
 [99]
-
-[100])
-
-[101]
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc09_invocation-IT
 A.tex
 File: qrs/ch01_basinski.png Graphic file (type png)
 <use qrs/ch01_basinski.png>
-Package pdftex.def Info: qrs/ch01_basinski.png  used on input line 4.
+Package pdftex.def Info: qrs/ch01_basinski.png  used on input line 3.
 (pdftex.def)             Requested size: 90.3375pt x 90.33727pt.
 
 
-[102
+[100
 
 
-]
-
-[103])
+])
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch09_deep_sea_flashba
 ck-ITA.tex
 
-[104]
+[101]
 
-[105]
-
-[106
+[102
 
 
 ]
@@ -1780,36 +1772,36 @@ Package pdftex.def Info: qrs/ch01_basinski.png  used on input line 5.
 (pdftex.def)             Requested size: 90.3375pt x 90.33727pt.
 
 
+[103]
+
+[104]
+
+[105]
+
+[106])
+
 [107]
 
-[108]
-
-[109]
-
-[110])
-
-[111]
-
-[112
+[108
 
 
 ] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/epilogue-ITA.tex
 
-[113
+[109
 
 
 ]
 
-[114])
+[110])
 
-[115]
+[111]
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/glossary_terms-ITA.tex
-[116
+[112
 
 
 ])
 
-[117]
+[113]
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/tracksources-ITA.tex
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <9> not available
 (Font)              Font shape `T1/phv/m/sl' tried instead on input line 7.
@@ -1821,36 +1813,36 @@ File: UTF8.enc 2021/10/16 4.8.5
 File: UTF8.chr 2021/10/16 4.8.5
 )
 
-[118
+[114
 
 
 ])
 
-[119] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/backbone-ITA.tex
+[115] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/backbone-ITA.tex
 
-[120
-
-
-]
-
-[121]
-
-[122]
-
-[123])
-
-[124]
-
-[125
+[116
 
 
 ]
-<cover/back-cover-ITA.pdf, id=745, 203.76125pt x 306.14375pt>
+
+[117]
+
+[118]
+
+[119])
+
+[120]
+
+[121
+
+
+]
+<cover/back-cover-ITA.pdf, id=727, 203.76125pt x 306.14375pt>
 File: cover/back-cover-ITA.pdf Graphic file (type pdf)
 <use cover/back-cover-ITA.pdf>
 Package pdftex.def Info: cover/back-cover-ITA.pdf  used on input line 516.
 (pdftex.def)             Requested size: 203.76074pt x 306.14299pt.
-<cover/back-cover-ITA.pdf, id=747, page=1, 203.76125pt x 306.14375pt>
+<cover/back-cover-ITA.pdf, id=729, page=1, 203.76125pt x 306.14375pt>
 File: cover/back-cover-ITA.pdf Graphic file (type pdf)
 <use cover/back-cover-ITA.pdf, page 1>
 Package pdftex.def Info: cover/back-cover-ITA.pdf , page1 used on input line 51
@@ -1878,7 +1870,7 @@ File: cover/back-cover-ITA.pdf Graphic file (type pdf)
 Package pdftex.def Info: cover/back-cover-ITA.pdf , page1 used on input line 51
 6.
 (pdftex.def)             Requested size: 433.10971pt x 650.73135pt.
-[126
+[122
 
 
  </Users/riccardo/Repositories/NULL_MESH/nullmesh/cover/back-cover-ITA.pdf>] (/
@@ -1892,14 +1884,14 @@ L3 programming layer <2025-01-18>
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package rerunfilecheck Info: File `NULL_MESH-ITA.out' has not changed.
-(rerunfilecheck)             Checksum: CD952109ADA5C2DF3C04A1FBD51DA71C;3579.
+(rerunfilecheck)             Checksum: 9CD564CE96A258BA4AAD2B5B16A0D06B;3631.
  ) 
 Here is how much of TeX's memory you used:
- 21795 strings out of 473190
- 355132 string characters out of 5715799
+ 21786 strings out of 473190
+ 355064 string characters out of 5715799
  823383 words of memory out of 5000000
- 43874 multiletter control sequences out of 15000+600000
- 684993 words of font info for 498 fonts, out of 8000000 for 9000
+ 43875 multiletter control sequences out of 15000+600000
+ 684713 words of font info for 494 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  108i,17n,107p,1136b,1118s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2025/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu4e.pfb></us
@@ -1923,10 +1915,10 @@ o8a.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb
 ></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/
 local/texlive/2025/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
 Output written on /Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH-ITA
-.pdf (136 pages, 963562 bytes).
+.pdf (132 pages, 956405 bytes).
 PDF statistics:
- 943 PDF objects out of 1000 (max. 8388607)
- 716 compressed objects within 8 object streams
- 163 named destinations out of 1000 (max. 500000)
+ 925 PDF objects out of 1000 (max. 8388607)
+ 702 compressed objects within 8 object streams
+ 159 named destinations out of 1000 (max. 500000)
  135980 words of extra memory for PDF output out of 154059 (max. 10000000)
 

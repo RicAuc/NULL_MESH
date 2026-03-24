@@ -1,275 +1,136 @@
 =============================================================================
-=============================================================================
 NULL MESH — Compilation Log [ITA]
-NULL MESH — Compilation Log [ITA]
-Date   : 2026-03-21 23:52:45
-Date   : 2026-03-21 23:52:45
-Variant: ITA
+Date   : 2026-03-22 23:38:00
 Variant: ITA
 Engine : pdfTeX 3.141592653-2.6-1.40.27 (TeX Live 2025)
-Engine : pdfTeX 3.141592653-2.6-1.40.27 (TeX Live 2025)
-Source : /Users/riccardo/Repositories/NULL_MESH/nullmesh/main-ITA.tex
 Source : /Users/riccardo/Repositories/NULL_MESH/nullmesh/main-ITA.tex
 =============================================================================
-=============================================================================
-
-
 
 
 --- Pass 1 / 3 ---
---- Pass 1 / 3 ---
 
-
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex)
- restricted \write18 enabled.
 This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex)
  restricted \write18 enabled.
 entering extended mode
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/main-ITA.texentering extended mode
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/main-ITA.tex
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
 (/usr/local/texlive/2025/texmf-dist/tex/latex/base/fix-cm.sty
-LaTeX2e <2024-11-01> patch level 2
-L3 programming layer <2025-01-18>
-(/usr/local/texlive/2025/texmf-dist/tex/latex/base/fix-cm.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/base/ts1enc.def
-(/usr/local/texlive/2025/texmf-dist/tex/latex/base/ts1enc.def))))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/base/book.cls
+(/usr/local/texlive/2025/texmf-dist/tex/latex/base/ts1enc.def))
 (/usr/local/texlive/2025/texmf-dist/tex/latex/base/book.cls
 Document Class: book 2024/06/29 v1.4n Standard LaTeX document class
-(/usr/local/texlive/2025/texmf-dist/tex/latex/base/bk11.clo
-Document Class: book 2024/06/29 v1.4n Standard LaTeX document class
-(/usr/local/texlive/2025/texmf-dist/tex/latex/base/bk11.clo))))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/base/inputenc.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/base/inputenc.sty))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/base/fontenc.sty
+(/usr/local/texlive/2025/texmf-dist/tex/latex/base/bk11.clo))
+(/usr/local/texlive/2025/texmf-dist/tex/latex/base/inputenc.sty)
 (/usr/local/texlive/2025/texmf-dist/tex/latex/base/fontenc.sty
 (/usr/local/texlive/2025/texmf-dist/tex/latex/cyrillic/t2aenc.def
-(/usr/local/texlive/2025/texmf-dist/tex/latex/cyrillic/t2aenc.def
-(/usr/local/texlive/2025/texmf-dist/tex/latex/base/t2aenc.dfu
-(/usr/local/texlive/2025/texmf-dist/tex/latex/base/t2aenc.dfu))))))
+(/usr/local/texlive/2025/texmf-dist/tex/latex/base/t2aenc.dfu)))
 (/usr/local/texlive/2025/texmf-dist/tex/generic/babel/babel.sty
-(/usr/local/texlive/2025/texmf-dist/tex/generic/babel/babel.sty
-(/usr/local/texlive/2025/texmf-dist/tex/generic/babel/txtbabel.def
-(/usr/local/texlive/2025/texmf-dist/tex/generic/babel/txtbabel.def))
-(/usr/local/texlive/2025/texmf-dist/tex/generic/babel-italian/italian.ldf
-(/usr/local/texlive/2025/texmf-dist/tex/generic/babel-italian/italian.ldf))))
+(/usr/local/texlive/2025/texmf-dist/tex/generic/babel/txtbabel.def)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/babel-italian/italian.ldf))
 (/usr/local/texlive/2025/texmf-dist/tex/generic/babel/locale/it/babel-italian.t
-ex
-(/usr/local/texlive/2025/texmf-dist/tex/generic/babel/locale/it/babel-italian.t
-ex)) (/usr/local/texlive/2025/texmf-dist/tex/latex/etoolbox/etoolbox.sty (/usr/local/texlive/2025/texmf-dist/tex/latex/etoolbox/etoolbox.sty))
+ex) (/usr/local/texlive/2025/texmf-dist/tex/latex/etoolbox/etoolbox.sty)
 (/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/helvet.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/helvet.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/keyval.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/keyval.sty))))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/courier.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/courier.sty))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/palatino.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/palatino.sty))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/graphicx.sty
+(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/keyval.sty))
+(/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/courier.sty)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/palatino.sty)
 (/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/graphicx.sty
 (/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/graphics.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/graphics.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/trig.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/trig.sty))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
-(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics-cfg/graphics.cfg))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics-def/pdftex.def
-(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics-def/pdftex.def))))))
+(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/trig.sty)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics-cfg/graphics.cfg)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics-def/pdftex.def)))
 (/usr/local/texlive/2025/texmf-dist/tex/latex/microtype/microtype.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/microtype/microtype.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/microtype/microtype-pdftex.def
-(/usr/local/texlive/2025/texmf-dist/tex/latex/microtype/microtype-pdftex.def))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/microtype/microtype.cfg
-(/usr/local/texlive/2025/texmf-dist/tex/latex/microtype/microtype.cfg))))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/geometry/geometry.sty
+(/usr/local/texlive/2025/texmf-dist/tex/latex/microtype/microtype-pdftex.def)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/microtype/microtype.cfg))
 (/usr/local/texlive/2025/texmf-dist/tex/latex/geometry/geometry.sty
 (/usr/local/texlive/2025/texmf-dist/tex/generic/iftex/ifvtex.sty
-(/usr/local/texlive/2025/texmf-dist/tex/generic/iftex/ifvtex.sty
-(/usr/local/texlive/2025/texmf-dist/tex/generic/iftex/iftex.sty
-(/usr/local/texlive/2025/texmf-dist/tex/generic/iftex/iftex.sty))))))
+(/usr/local/texlive/2025/texmf-dist/tex/generic/iftex/iftex.sty)))
 (/usr/local/texlive/2025/texmf-dist/tex/latex/xcolor/xcolor.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/xcolor/xcolor.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics-cfg/color.cfg
-(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics-cfg/color.cfg))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/mathcolor.ltx
-(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/mathcolor.ltx))))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/titlesec/titlesec.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/titlesec/titlesec.sty))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/setspace/setspace.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/setspace/setspace.sty))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/koma-script/scrextend.sty
+(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics-cfg/color.cfg)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/mathcolor.ltx))
+(/usr/local/texlive/2025/texmf-dist/tex/latex/titlesec/titlesec.sty)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/setspace/setspace.sty)
 (/usr/local/texlive/2025/texmf-dist/tex/latex/koma-script/scrextend.sty
 (/usr/local/texlive/2025/texmf-dist/tex/latex/koma-script/scrkbase.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/koma-script/scrkbase.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/koma-script/scrbase.sty
 (/usr/local/texlive/2025/texmf-dist/tex/latex/koma-script/scrbase.sty
 (/usr/local/texlive/2025/texmf-dist/tex/latex/koma-script/scrlfile.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/koma-script/scrlfile.sty
 (/usr/local/texlive/2025/texmf-dist/tex/latex/koma-script/scrlfile-hook.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/koma-script/scrlfile-hook.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/koma-script/scrlogo.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/koma-script/scrlogo.sty))))))))))))
+(/usr/local/texlive/2025/texmf-dist/tex/latex/koma-script/scrlogo.sty))))))
 (/usr/local/texlive/2025/texmf-dist/tex/latex/epigraph/epigraph.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/epigraph/epigraph.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/nextpage/nextpage.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/nextpage/nextpage.sty))))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/tocloft/tocloft.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/tocloft/tocloft.sty))
+(/usr/local/texlive/2025/texmf-dist/tex/latex/nextpage/nextpage.sty))
+(/usr/local/texlive/2025/texmf-dist/tex/latex/tocloft/tocloft.sty)
 (/usr/local/texlive/2025/texmf-dist/tex/latex/hyperref/hyperref.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/hyperref/hyperref.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty))
-(/usr/local/texlive/2025/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
-(/usr/local/texlive/2025/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty))
+(/usr/local/texlive/2025/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty)
 (/usr/local/texlive/2025/texmf-dist/tex/generic/pdfescape/pdfescape.sty
-(/usr/local/texlive/2025/texmf-dist/tex/generic/pdfescape/pdfescape.sty
-(/usr/local/texlive/2025/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
-(/usr/local/texlive/2025/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty))
+(/usr/local/texlive/2025/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty)
 (/usr/local/texlive/2025/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
-(/usr/local/texlive/2025/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
-(/usr/local/texlive/2025/texmf-dist/tex/generic/infwarerr/infwarerr.sty
-(/usr/local/texlive/2025/texmf-dist/tex/generic/infwarerr/infwarerr.sty))))))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/hycolor/hycolor.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/hycolor/hycolor.sty))
+(/usr/local/texlive/2025/texmf-dist/tex/generic/infwarerr/infwarerr.sty)))
+(/usr/local/texlive/2025/texmf-dist/tex/latex/hycolor/hycolor.sty)
 (/usr/local/texlive/2025/texmf-dist/tex/latex/hyperref/nameref.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/hyperref/nameref.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/refcount/refcount.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/refcount/refcount.sty))
+(/usr/local/texlive/2025/texmf-dist/tex/latex/refcount/refcount.sty)
 (/usr/local/texlive/2025/texmf-dist/tex/generic/gettitlestring/gettitlestring.s
-ty
-(/usr/local/texlive/2025/texmf-dist/tex/generic/gettitlestring/gettitlestring.s
-ty (/usr/local/texlive/2025/texmf-dist/tex/latex/kvoptions/kvoptions.sty (/usr/local/texlive/2025/texmf-dist/tex/latex/kvoptions/kvoptions.sty))))))
-(/usr/local/texlive/2025/texmf-dist/tex/generic/stringenc/stringenc.sty
-(/usr/local/texlive/2025/texmf-dist/tex/generic/stringenc/stringenc.sty))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/hyperref/pd1enc.def
-(/usr/local/texlive/2025/texmf-dist/tex/latex/hyperref/pd1enc.def))
-(/usr/local/texlive/2025/texmf-dist/tex/generic/intcalc/intcalc.sty
-(/usr/local/texlive/2025/texmf-dist/tex/generic/intcalc/intcalc.sty))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/hyperref/puenc.def
-(/usr/local/texlive/2025/texmf-dist/tex/latex/hyperref/puenc.def))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/url/url.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/url/url.sty))
+ty (/usr/local/texlive/2025/texmf-dist/tex/latex/kvoptions/kvoptions.sty)))
+(/usr/local/texlive/2025/texmf-dist/tex/generic/stringenc/stringenc.sty)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/hyperref/pd1enc.def)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/intcalc/intcalc.sty)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/hyperref/puenc.def)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/url/url.sty)
 (/usr/local/texlive/2025/texmf-dist/tex/generic/bitset/bitset.sty
-(/usr/local/texlive/2025/texmf-dist/tex/generic/bitset/bitset.sty
-(/usr/local/texlive/2025/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
-(/usr/local/texlive/2025/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty))))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/base/atbegshi-ltx.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/base/atbegshi-ltx.sty))))
+(/usr/local/texlive/2025/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty))
+(/usr/local/texlive/2025/texmf-dist/tex/latex/base/atbegshi-ltx.sty))
 (/usr/local/texlive/2025/texmf-dist/tex/latex/hyperref/hpdftex.def
-(/usr/local/texlive/2025/texmf-dist/tex/latex/hyperref/hpdftex.def
-(/usr/local/texlive/2025/texmf-dist/tex/latex/base/atveryend-ltx.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/base/atveryend-ltx.sty))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
-
+(/usr/local/texlive/2025/texmf-dist/tex/latex/base/atveryend-ltx.sty)
 (/usr/local/texlive/2025/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
 
 (/usr/local/texlive/2025/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
-
-(/usr/local/texlive/2025/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
-)))))) (/usr/local/texlive/2025/texmf-dist/tex/latex/csquotes/csquotes.sty (/usr/local/texlive/2025/texmf-dist/tex/latex/csquotes/csquotes.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/csquotes/csquotes.def
-(/usr/local/texlive/2025/texmf-dist/tex/latex/csquotes/csquotes.def))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/csquotes/csquotes.cfg
-(/usr/local/texlive/2025/texmf-dist/tex/latex/csquotes/csquotes.cfg))))
+))) (/usr/local/texlive/2025/texmf-dist/tex/latex/csquotes/csquotes.sty
+(/usr/local/texlive/2025/texmf-dist/tex/latex/csquotes/csquotes.def)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/csquotes/csquotes.cfg))
 (/usr/local/texlive/2025/texmf-dist/tex/latex/pdfpages/pdfpages.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/pdfpages/pdfpages.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/base/ifthen.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/base/ifthen.sty))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/tools/calc.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/tools/calc.sty))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/eso-pic/eso-pic.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/eso-pic/eso-pic.sty))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/pdfpages/pppdftex.def
-(/usr/local/texlive/2025/texmf-dist/tex/latex/pdfpages/pppdftex.def))))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/amsmath/amsmath.sty
+(/usr/local/texlive/2025/texmf-dist/tex/latex/base/ifthen.sty)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/tools/calc.sty)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/eso-pic/eso-pic.sty)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/pdfpages/pppdftex.def))
 (/usr/local/texlive/2025/texmf-dist/tex/latex/amsmath/amsmath.sty
 For additional information on amsmath, use the `?' option.
 (/usr/local/texlive/2025/texmf-dist/tex/latex/amsmath/amstext.sty
-For additional information on amsmath, use the `?' option.
-(/usr/local/texlive/2025/texmf-dist/tex/latex/amsmath/amstext.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/amsmath/amsgen.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/amsmath/amsgen.sty))))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/amsmath/amsbsy.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/amsmath/amsbsy.sty))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/amsmath/amsopn.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/amsmath/amsopn.sty))))
+(/usr/local/texlive/2025/texmf-dist/tex/latex/amsmath/amsgen.sty))
+(/usr/local/texlive/2025/texmf-dist/tex/latex/amsmath/amsbsy.sty)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/amsmath/amsopn.sty))
 (/usr/local/texlive/2025/texmf-dist/tex/latex/amsfonts/amssymb.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/amsfonts/amssymb.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/amsfonts/amsfonts.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/amsfonts/amsfonts.sty))))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/enumitem/enumitem.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/enumitem/enumitem.sty))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/booktabs/booktabs.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/booktabs/booktabs.sty))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/tools/multicol.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/tools/multicol.sty))
+(/usr/local/texlive/2025/texmf-dist/tex/latex/amsfonts/amsfonts.sty))
+(/usr/local/texlive/2025/texmf-dist/tex/latex/enumitem/enumitem.sty)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/booktabs/booktabs.sty)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/tools/multicol.sty)
 (/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/CJKutf8.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/CJKutf8.sty
-(/usr/local/texlive/2025/texmf-dist/tex/generic/iftex/ifpdf.sty
-(/usr/local/texlive/2025/texmf-dist/tex/generic/iftex/ifpdf.sty))
+(/usr/local/texlive/2025/texmf-dist/tex/generic/iftex/ifpdf.sty)
 (/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/CJK.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/CJK.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/mule/MULEenc.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/mule/MULEenc.sty))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/CJK.enc
-(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/CJK.enc))))
+(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/mule/MULEenc.sty)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/CJK.enc))
 (/usr/local/texlive/2025/texmf-dist/tex/latex/base/fontenc.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/base/fontenc.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/t1phv.fd
-(/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/t1phv.fd))))))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-(/usr/local/texlive/2025/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def))
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH-ITA.aux
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH-ITA.aux))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/cyrillic/t2acmr.fd
-(/usr/local/texlive/2025/texmf-dist/tex/latex/cyrillic/t2acmr.fd))
-(/usr/local/texlive/2025/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+(/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/t1phv.fd)))
+(/usr/local/texlive/2025/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def)
+(/Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH-ITA.aux)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/cyrillic/t2acmr.fd)
 (/usr/local/texlive/2025/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-)
-[Loading MPS to PDF converter (version 2006.09.02).]
-) (/usr/local/texlive/2025/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty (/usr/local/texlive/2025/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
-(/usr/local/texlive/2025/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg))))
+) (/usr/local/texlive/2025/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+(/usr/local/texlive/2025/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg))
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH-ITA.out
-*geometry* driver: auto-detecting
-*geometry* detected driver: pdftex
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH-ITA.out))
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH-ITA.out
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH-ITA.out))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/pdflscape/pdflscape.sty
+(/Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH-ITA.out)
+(/Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH-ITA.out)
 (/usr/local/texlive/2025/texmf-dist/tex/latex/pdflscape/pdflscape.sty
 (/usr/local/texlive/2025/texmf-dist/tex/latex/pdflscape/pdflscape-nometadata.st
-y
-(/usr/local/texlive/2025/texmf-dist/tex/latex/pdflscape/pdflscape-nometadata.st
-y (/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/lscape.sty (/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/lscape.sty))))))
-[1
-[1 </Users/riccardo/Repositories/NULL_MESH/nullmesh/cover/front-cover-ITA.pdf </Users/riccardo/Repositories/NULL_MESH/nullmesh/cover/front-cover-ITA.pdf>]
->]
+y (/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/lscape.sty)))
+[1 </Users/riccardo/Repositories/NULL_MESH/nullmesh/cover/front-cover-ITA.pdf>]
 
-[2
-[2]] (/usr/local/texlive/2025/texmf-dist/tex/latex/microtype/mt-cmr.cfg (/usr/local/texlive/2025/texmf-dist/tex/latex/microtype/mt-cmr.cfg))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/amsfonts/umsa.fd
-(/usr/local/texlive/2025/texmf-dist/tex/latex/amsfonts/umsa.fd))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/microtype/mt-msa.cfg
-(/usr/local/texlive/2025/texmf-dist/tex/latex/microtype/mt-msa.cfg))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/amsfonts/umsb.fd
-(/usr/local/texlive/2025/texmf-dist/tex/latex/amsfonts/umsb.fd))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/microtype/mt-msb.cfg
-(/usr/local/texlive/2025/texmf-dist/tex/latex/microtype/mt-msb.cfg))
-
-pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
-been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.409 \end{titlepage}
-                      [1
+[2] (/usr/local/texlive/2025/texmf-dist/tex/latex/microtype/mt-cmr.cfg)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/amsfonts/umsa.fd)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/microtype/mt-msa.cfg)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/amsfonts/umsb.fd)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/microtype/mt-msb.cfg)
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
 been already used, duplicate ignored
@@ -277,62 +138,33 @@ been already used, duplicate ignored
                    \relax 
 l.409 \end{titlepage}
                       [1{/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/upd
-map/pdftex.map{/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/upd
-map/pdftex.map}}{{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/base/8r.enc/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/base/8r.enc}
-}
-]]
+map/pdftex.map}{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/base/8r.enc}
+]
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.411 \cleardoublepage
-                       [2
-
-pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has 
-been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.411 \cleardoublepage
-                       [2]]
+                       [2]
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/front/prologue-ITA.tex
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/front/prologue-ITA.tex
-[1
-[1]]))
-[2
-[2]] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/front/epigraph-ITA.tex (/Users/riccardo/Repositories/NULL_MESH/nullmesh/front/epigraph-ITA.tex
-(/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/t1pcr.fd
-(/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/t1pcr.fd))
-[3
-[3]]))
-[4
-[4]] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/front/tracklist-ITA.tex (/Users/riccardo/Repositories/NULL_MESH/nullmesh/front/tracklist-ITA.tex
-(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.bdg
-(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.bdg))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.enc
-(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.enc))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.chr
-(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.chr))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/c70bsmi.fd
-(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/c70bsmi.fd))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/c70bsmi.fdx
-(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/c70bsmi.fdx))
+[1])
+[2] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/front/epigraph-ITA.tex
+(/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/t1pcr.fd)
+[3])
+[4] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/front/tracklist-ITA.tex
+(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.bdg)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.enc)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.chr)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/c70bsmi.fd)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/c70bsmi.fdx)
 
 LaTeX Font Warning: Font shape `C70/bsmi/m/it' undefined
 (Font)              using `C70/bsmi/m/n' instead on input line 21.
 
 )
-
-LaTeX Font Warning: Font shape `C70/bsmi/m/it' undefined
-(Font)              using `C70/bsmi/m/n' instead on input line 21.
-
-)
-[5
-[5]]
-[6
-[6]]
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch01_the_sediment-ITA
-.tex
+[5]
+[6]
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch01_the_sediment-ITA
 .tex
 Capitolo 1.
@@ -344,2143 +176,1051 @@ been already used, duplicate ignored
                    \relax 
 l.14 P
       er secoli, è stato l'emblema della conoscenza. Lo strumento che rivel...
-[1
-Capitolo 1.
-
-
-pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
-been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.14 P
-      er secoli, è stato l'emblema della conoscenza. Lo strumento che rivel...
-[1 </Users/riccardo/Repositories/NULL_MESH/nullmesh/qrs/ch01_basinski.png </Users/riccardo/Repositories/NULL_MESH/nullmesh/qrs/ch01_basinski.png>]>]
+[1 </Users/riccardo/Repositories/NULL_MESH/nullmesh/qrs/ch01_basinski.png>]
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.27 
-      [2
-
-pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has 
-been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.27 
-      [2]]
-[3
-[3]]
-[4
-[4]]
-[5
-[5]]))
-[6
-[6]]
+      [2]
+[3]
+[4]
+[5])
+[6]
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc01_flibbertigibb
-eting-ITA.tex
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc01_flibbertigibb
-eting-ITA.tex (/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/t1ppl.fd (/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/t1ppl.fd))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/microtype/mt-ppl.cfg
-(/usr/local/texlive/2025/texmf-dist/tex/latex/microtype/mt-ppl.cfg))
-[7
-[7]]
-[8
-[8]]
-[9
-[9]]
-[10
-[10]]
-[11
-[11]]
-[12
-[12]]
-[13
-[13]]))
+eting-ITA.tex (/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/t1ppl.fd)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/microtype/mt-ppl.cfg)
+[7]
+[8]
+[9]
+[10]
+[11]
+[12]
+[13])
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch02_attention_of_mac
 hines-ITA.tex
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch02_attention_of_mac
-hines-ITA.tex
-[14
-[14]]
+[14]
 Capitolo 2.
 
-[15
-Capitolo 2.
-
-[15]]
+[15]
 Overfull \hbox (0.8254pt too wide) in paragraph at lines 24--24
 []\T1/phv/m/n/6 (-10) Partecipante 
 
-[16
-Overfull \hbox (0.8254pt too wide) in paragraph at lines 24--24
-[]\T1/phv/m/n/6 (-10) Partecipante 
-
-[16]]
-[17
-[17]]
-[18
-[18]]
-[19
-[19]]
-[20
-[20]]))
-[21
-[21]]
+[16]
+[17]
+[18]
+[19]
+[20])
+[21]
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc02_sightseers-IT
 A.tex
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc02_sightseers-IT
-A.tex
-[22
-[22]]
-[23
-[23]]
-[24
-[24]]))
+[22]
+[23]
+[24])
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch03_on_abliterated_m
 oods-ITA.tex
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch03_on_abliterated_m
-oods-ITA.tex
-[25
-[25]]
-[26
-[26]]
-Capitolo 3.
-
-[27
-Capitolo 3.
-
-[27]]
-[28
-[28]] (/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/ts1phv.fd (/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/ts1phv.fd))
-[29
-[29]]
-[30
-[30]]))
-[31
-[31]]
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc04_persistance-I
-TA.tex
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc04_persistance-I
-TA.tex
-[32
-[32]]
-[33
-[33]]
-Overfull \hbox (1.48479pt too wide) in paragraph at lines 81--81
-[]\T1/phv/m/n/6 (-10) Segnalazioni 
-
-[34
-Overfull \hbox (1.48479pt too wide) in paragraph at lines 81--81
-[]\T1/phv/m/n/6 (-10) Segnalazioni 
-
-[34]]))
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch04_active_fragments
--ITA.tex
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch04_active_fragments
--ITA.tex
-[35
-[35]]
-[36
-[36]]
-Capitolo 4.
-
-[37
-Capitolo 4.
-
-[37]]
-[38
-[38]]
-[39
-[39]]
-[40
-[40]]
-Underfull \hbox (badness 10000) in paragraph at lines 51--56
-\T1/pcr/m/n/10 Status: EXIT_CLEAN | Resources deallocated | 0
-
-[41
-Underfull \hbox (badness 10000) in paragraph at lines 51--56
-\T1/pcr/m/n/10 Status: EXIT_CLEAN | Resources deallocated | 0
-
-[41]]))
-[42
-[42]]
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc03_tidalchains-I
-TA.tex
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc03_tidalchains-I
-TA.tex
-[43
-[43]]
-[44
-[44]]
-[45
-[45]]))
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch05_sophistication-I
-TA.tex
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch05_sophistication-I
-TA.tex
-[46
-[46]]
-Capitolo 5.
-
-[47
-Capitolo 5.
-
-[47]]
-[48
-[48]]
-[49
-[49]]))
-[50
-[50]]
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc07_handout-ITA.t
-ex
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc07_handout-ITA.t
-ex
-[51
-[51]]
-[52
-[52]]
-[53
-[53]]
-[54
-[54]]
-[55
-[55]]))
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch06_null_mesh-ITA.te
-x
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch06_null_mesh-ITA.te
-x
-[56
-[56]]
-Capitolo 6.
-(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.enc
-Capitolo 6.
-(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.enc))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.chr
-(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.chr))
-[57
-[57]]
-[58
-[58]]
-[59
-[59]]
-[60
-[60]]))
-[61
-[61]]
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc05_real4real-ITA
-.tex
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc05_real4real-ITA
-.tex
-[62
-[62]]
-[63
-[63]]
-[64
-[64]]
-[65
-[65]]
-[66
-[66]]
-[67
-[67]]
-[68
-[68]]
-[69
-[69]]
-[70
-[70]]
-[71
-[71]]
-[72
-[72]]))
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch07_intentionality_o
-f_machines-ITA.tex
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch07_intentionality_o
-f_machines-ITA.tex
-[73
-[73]]
-[74
-[74]]
-Capitolo 7.
-
-[75
-Capitolo 7.
-
-[75]]
-[76
-[76]]
-[77
-[77]]))
-[78
-[78]]
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc06_the_arctic_pa
-ssage-ITA.tex
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc06_the_arctic_pa
-ssage-ITA.tex
-[79
-[79{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.en
-c{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.en
-c}}]]
-[80
-[80]]
-
-LaTeX Warning: Marginpar on page 81 moved.
-
-
-[81
-
-LaTeX Warning: Marginpar on page 81 moved.
-
-
-[81]]))
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch08_within_the_simul
-ation-ITA.tex
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch08_within_the_simul
-ation-ITA.tex
-[82
-[82]]
-Capitolo 8.
-
-[83
-Capitolo 8.
-
-[83]]
-[84
-[84]]
-[85
-[85]]
-[86
-[86]]))
-[87
-[87]]
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc08_the_black_pap
-er-ITA.tex
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc08_the_black_pap
-er-ITA.tex
-[88
-[88]]
-[89
-[89]]
-[90
-[90]]
-[91
-[91]]
-[92
-[92]]
-[93
-[93]]
-[94
-[94]]
-[95
-[95]]))
-[96
-[96]]
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch10_null_rites-ITA.t
-ex
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch10_null_rites-ITA.t
-ex
-Capitolo 9.
-
-[97
-Capitolo 9.
-
-[97]]
-[98
-[98]]
-[99
-[99]]
-[100
-[100]]))
-[101
-[101]]
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc09_invocation-IT
-A.tex
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc09_invocation-IT
-A.tex
-[102
-[102]]
-[103
-[103]]))
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch09_deep_sea_flashba
-ck-ITA.tex
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch09_deep_sea_flashba
-ck-ITA.tex
-[104
-[104]]
-[105
-[105]]
-[106
-[106]]
-Capitolo 10.
-
-[107
-Capitolo 10.
-
-[107]]
-[108
-[108]]
-[109
-[109]]
-[110
-[110]]))
-[111
-[111]]
-[112
-[112]] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/epilogue-ITA.tex (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/epilogue-ITA.tex
-[113
-[113]]
-[114
-[114]]))
-[115
-[115]]
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/glossary_terms-ITA.tex
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/glossary_terms-ITA.tex
-[116
-[116]]))
-[117
-[117]]
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/tracksources-ITA.tex
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/tracksources-ITA.tex
-(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.enc
-(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.enc))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.chr
-(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.chr))
-[118
-[118]]))
-[119
-[119]] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/backbone-ITA.tex (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/backbone-ITA.tex
-[120
-[120]]
-[121
-[121]]
-[122
-[122]]
-[123
-[123]]))
-[124
-[124]]
-[125
-[125]]
-[126
-[126 </Users/riccardo/Repositories/NULL_MESH/nullmesh/cover/back-cover-ITA.pdf </Users/riccardo/Repositories/NULL_MESH/nullmesh/cover/back-cover-ITA.pdf>
-]>
-] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH-ITA.aux (/Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH-ITA.aux))
-
-LaTeX Font Warning: Some font shapes were not available, defaults substituted.
-
-
-Package rerunfilecheck Warning: File `NULL_MESH-ITA.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
- )
-(see the transcript file for additional information)</usr/local/texlive/2025/te
-xmf-dist/fonts/type1/arphic/bsmiu/bsmiu4e.pfb
-
-LaTeX Font Warning: Some font shapes were not available, defaults substituted.
-
-
-Package rerunfilecheck Warning: File `NULL_MESH-ITA.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
- )
-(see the transcript file for additional information)</usr/local/texlive/2025/te
-xmf-dist/fonts/type1/arphic/bsmiu/bsmiu4e.pfb>></usr/local/texlive/2025/texmf-di
-st/fonts/type1/arphic/bsmiu/bsmiu51.pfb</usr/local/texlive/2025/texmf-di
-st/fonts/type1/arphic/bsmiu/bsmiu51.pfb>></usr/local/texlive/2025/texmf-dist/fon
-ts/type1/arphic/bsmiu/bsmiu55.pfb</usr/local/texlive/2025/texmf-dist/fon
-ts/type1/arphic/bsmiu/bsmiu55.pfb>><</usr/local/texlive/2025/texmf-dist/fonts/typ
-e1/arphic/bsmiu/bsmiu62.pfb/usr/local/texlive/2025/texmf-dist/fonts/typ
-e1/arphic/bsmiu/bsmiu62.pfb>><</usr/local/texlive/2025/texmf-dist/fonts/type1/arp
-hic/bsmiu/bsmiu65.pfb/usr/local/texlive/2025/texmf-dist/fonts/type1/arp
-hic/bsmiu/bsmiu65.pfb>></usr/local/texlive/2025/texmf-dist/fonts/type1/arphic/bs
-miu/bsmiu67.pfb</usr/local/texlive/2025/texmf-dist/fonts/type1/arphic/bs
-miu/bsmiu67.pfb>></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts
-/cm/cmmi10.pfb</usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts
-/cm/cmmi10.pfb>></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/
-cm/cmmi8.pfb</usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/
-cm/cmmi8.pfb>></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm
-/cmr7.pfb</usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm
-/cmr7.pfb>></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cm
-sy10.pfb</usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cm
-sy10.pfb>></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/symbol
-s/msam10.pfb</usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/symbol
-s/msam10.pfb>></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/sy
-mbols/msbm10.pfb</usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/sy
-mbols/msbm10.pfb>></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-supe
-r/sfrm1095.pfb</usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-supe
-r/sfrm1095.pfb>></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/courier/ucrb
-8a.pfb</usr/local/texlive/2025/texmf-dist/fonts/type1/urw/courier/ucrb
-8a.pfb>></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb</usr/local/texlive/2025/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb>><
-/usr/local/texlive/2025/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb<
-/usr/local/texlive/2025/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb>></usr/lo
-cal/texlive/2025/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb</usr/lo
-cal/texlive/2025/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb>></usr/local/tex
-live/2025/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb</usr/local/tex
-live/2025/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb>></usr/local/texlive/2
-025/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb</usr/local/texlive/2
-025/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb>></usr/local/texlive/2025/tex
-mf-dist/fonts/type1/urw/palatino/uplr8a.pfb</usr/local/texlive/2025/tex
-mf-dist/fonts/type1/urw/palatino/uplr8a.pfb>></usr/local/texlive/2025/texmf-dist
-/fonts/type1/urw/palatino/uplri8a.pfb</usr/local/texlive/2025/texmf-dist
-/fonts/type1/urw/palatino/uplri8a.pfb>>
-Output written on /Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH-ITA
-.pdf (136 pages, 963573 bytes).
-Transcript written on /Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH
--ITA.log.
-
-Output written on /Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH-ITA
-.pdf (136 pages, 963573 bytes).
-Transcript written on /Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH
--ITA.log.
-
-
---- Pass 2 / 3 ---
---- Pass 2 / 3 ---
-
-
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex)
- restricted \write18 enabled.
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex)
- restricted \write18 enabled.
-entering extended mode
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/main-ITA.texentering extended mode
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/main-ITA.tex
-LaTeX2e <2024-11-01> patch level 2
-L3 programming layer <2025-01-18>
-(/usr/local/texlive/2025/texmf-dist/tex/latex/base/fix-cm.sty
-LaTeX2e <2024-11-01> patch level 2
-L3 programming layer <2025-01-18>
-(/usr/local/texlive/2025/texmf-dist/tex/latex/base/fix-cm.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/base/ts1enc.def
-(/usr/local/texlive/2025/texmf-dist/tex/latex/base/ts1enc.def))))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/base/book.cls
-(/usr/local/texlive/2025/texmf-dist/tex/latex/base/book.cls
-Document Class: book 2024/06/29 v1.4n Standard LaTeX document class
-(/usr/local/texlive/2025/texmf-dist/tex/latex/base/bk11.clo
-Document Class: book 2024/06/29 v1.4n Standard LaTeX document class
-(/usr/local/texlive/2025/texmf-dist/tex/latex/base/bk11.clo))))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/base/inputenc.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/base/inputenc.sty))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/base/fontenc.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/base/fontenc.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/cyrillic/t2aenc.def
-(/usr/local/texlive/2025/texmf-dist/tex/latex/cyrillic/t2aenc.def
-(/usr/local/texlive/2025/texmf-dist/tex/latex/base/t2aenc.dfu
-(/usr/local/texlive/2025/texmf-dist/tex/latex/base/t2aenc.dfu))))))
-(/usr/local/texlive/2025/texmf-dist/tex/generic/babel/babel.sty
-(/usr/local/texlive/2025/texmf-dist/tex/generic/babel/babel.sty
-(/usr/local/texlive/2025/texmf-dist/tex/generic/babel/txtbabel.def
-(/usr/local/texlive/2025/texmf-dist/tex/generic/babel/txtbabel.def))
-(/usr/local/texlive/2025/texmf-dist/tex/generic/babel-italian/italian.ldf
-(/usr/local/texlive/2025/texmf-dist/tex/generic/babel-italian/italian.ldf))))
-(/usr/local/texlive/2025/texmf-dist/tex/generic/babel/locale/it/babel-italian.t
-ex
-(/usr/local/texlive/2025/texmf-dist/tex/generic/babel/locale/it/babel-italian.t
-ex)) (/usr/local/texlive/2025/texmf-dist/tex/latex/etoolbox/etoolbox.sty (/usr/local/texlive/2025/texmf-dist/tex/latex/etoolbox/etoolbox.sty))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/helvet.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/helvet.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/keyval.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/keyval.sty))))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/courier.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/courier.sty))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/palatino.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/palatino.sty))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/graphicx.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/graphicx.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/graphics.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/graphics.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/trig.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/trig.sty))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
-(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics-cfg/graphics.cfg))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics-def/pdftex.def
-(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics-def/pdftex.def))))))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/microtype/microtype.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/microtype/microtype.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/microtype/microtype-pdftex.def
-(/usr/local/texlive/2025/texmf-dist/tex/latex/microtype/microtype-pdftex.def))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/microtype/microtype.cfg
-(/usr/local/texlive/2025/texmf-dist/tex/latex/microtype/microtype.cfg))))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/geometry/geometry.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/geometry/geometry.sty
-(/usr/local/texlive/2025/texmf-dist/tex/generic/iftex/ifvtex.sty
-(/usr/local/texlive/2025/texmf-dist/tex/generic/iftex/ifvtex.sty
-(/usr/local/texlive/2025/texmf-dist/tex/generic/iftex/iftex.sty
-(/usr/local/texlive/2025/texmf-dist/tex/generic/iftex/iftex.sty))))))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/xcolor/xcolor.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/xcolor/xcolor.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics-cfg/color.cfg
-(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics-cfg/color.cfg))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/mathcolor.ltx
-(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/mathcolor.ltx))))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/titlesec/titlesec.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/titlesec/titlesec.sty))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/setspace/setspace.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/setspace/setspace.sty))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/koma-script/scrextend.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/koma-script/scrextend.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/koma-script/scrkbase.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/koma-script/scrkbase.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/koma-script/scrbase.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/koma-script/scrbase.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/koma-script/scrlfile.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/koma-script/scrlfile.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/koma-script/scrlfile-hook.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/koma-script/scrlfile-hook.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/koma-script/scrlogo.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/koma-script/scrlogo.sty))))))))))))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/epigraph/epigraph.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/epigraph/epigraph.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/nextpage/nextpage.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/nextpage/nextpage.sty))))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/tocloft/tocloft.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/tocloft/tocloft.sty))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/hyperref/hyperref.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/hyperref/hyperref.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty))
-(/usr/local/texlive/2025/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
-(/usr/local/texlive/2025/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty))
-(/usr/local/texlive/2025/texmf-dist/tex/generic/pdfescape/pdfescape.sty
-(/usr/local/texlive/2025/texmf-dist/tex/generic/pdfescape/pdfescape.sty
-(/usr/local/texlive/2025/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
-(/usr/local/texlive/2025/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty))
-(/usr/local/texlive/2025/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
-(/usr/local/texlive/2025/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
-(/usr/local/texlive/2025/texmf-dist/tex/generic/infwarerr/infwarerr.sty
-(/usr/local/texlive/2025/texmf-dist/tex/generic/infwarerr/infwarerr.sty))))))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/hycolor/hycolor.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/hycolor/hycolor.sty))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/hyperref/nameref.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/hyperref/nameref.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/refcount/refcount.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/refcount/refcount.sty))
-(/usr/local/texlive/2025/texmf-dist/tex/generic/gettitlestring/gettitlestring.s
-ty
-(/usr/local/texlive/2025/texmf-dist/tex/generic/gettitlestring/gettitlestring.s
-ty (/usr/local/texlive/2025/texmf-dist/tex/latex/kvoptions/kvoptions.sty (/usr/local/texlive/2025/texmf-dist/tex/latex/kvoptions/kvoptions.sty))))))
-(/usr/local/texlive/2025/texmf-dist/tex/generic/stringenc/stringenc.sty
-(/usr/local/texlive/2025/texmf-dist/tex/generic/stringenc/stringenc.sty))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/hyperref/pd1enc.def
-(/usr/local/texlive/2025/texmf-dist/tex/latex/hyperref/pd1enc.def))
-(/usr/local/texlive/2025/texmf-dist/tex/generic/intcalc/intcalc.sty
-(/usr/local/texlive/2025/texmf-dist/tex/generic/intcalc/intcalc.sty))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/hyperref/puenc.def
-(/usr/local/texlive/2025/texmf-dist/tex/latex/hyperref/puenc.def))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/url/url.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/url/url.sty))
-(/usr/local/texlive/2025/texmf-dist/tex/generic/bitset/bitset.sty
-(/usr/local/texlive/2025/texmf-dist/tex/generic/bitset/bitset.sty
-(/usr/local/texlive/2025/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
-(/usr/local/texlive/2025/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty))))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/base/atbegshi-ltx.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/base/atbegshi-ltx.sty))))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/hyperref/hpdftex.def
-(/usr/local/texlive/2025/texmf-dist/tex/latex/hyperref/hpdftex.def
-(/usr/local/texlive/2025/texmf-dist/tex/latex/base/atveryend-ltx.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/base/atveryend-ltx.sty))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
-
-(/usr/local/texlive/2025/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
-
-(/usr/local/texlive/2025/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
-
-(/usr/local/texlive/2025/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
-)))))) (/usr/local/texlive/2025/texmf-dist/tex/latex/csquotes/csquotes.sty (/usr/local/texlive/2025/texmf-dist/tex/latex/csquotes/csquotes.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/csquotes/csquotes.def
-(/usr/local/texlive/2025/texmf-dist/tex/latex/csquotes/csquotes.def))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/csquotes/csquotes.cfg
-(/usr/local/texlive/2025/texmf-dist/tex/latex/csquotes/csquotes.cfg))))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/pdfpages/pdfpages.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/pdfpages/pdfpages.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/base/ifthen.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/base/ifthen.sty))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/tools/calc.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/tools/calc.sty))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/eso-pic/eso-pic.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/eso-pic/eso-pic.sty))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/pdfpages/pppdftex.def
-(/usr/local/texlive/2025/texmf-dist/tex/latex/pdfpages/pppdftex.def))))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/amsmath/amsmath.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/amsmath/amsmath.sty
-For additional information on amsmath, use the `?' option.
-(/usr/local/texlive/2025/texmf-dist/tex/latex/amsmath/amstext.sty
-For additional information on amsmath, use the `?' option.
-(/usr/local/texlive/2025/texmf-dist/tex/latex/amsmath/amstext.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/amsmath/amsgen.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/amsmath/amsgen.sty))))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/amsmath/amsbsy.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/amsmath/amsbsy.sty))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/amsmath/amsopn.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/amsmath/amsopn.sty))))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/amsfonts/amssymb.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/amsfonts/amssymb.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/amsfonts/amsfonts.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/amsfonts/amsfonts.sty))))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/enumitem/enumitem.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/enumitem/enumitem.sty))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/booktabs/booktabs.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/booktabs/booktabs.sty))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/tools/multicol.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/tools/multicol.sty))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/CJKutf8.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/CJKutf8.sty
-(/usr/local/texlive/2025/texmf-dist/tex/generic/iftex/ifpdf.sty
-(/usr/local/texlive/2025/texmf-dist/tex/generic/iftex/ifpdf.sty))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/CJK.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/CJK.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/mule/MULEenc.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/mule/MULEenc.sty))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/CJK.enc
-(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/CJK.enc))))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/base/fontenc.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/base/fontenc.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/t1phv.fd
-(/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/t1phv.fd))))))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-(/usr/local/texlive/2025/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def))
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH-ITA.aux
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH-ITA.aux))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/cyrillic/t2acmr.fd
-(/usr/local/texlive/2025/texmf-dist/tex/latex/cyrillic/t2acmr.fd))
-(/usr/local/texlive/2025/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
-(/usr/local/texlive/2025/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
-[Loading MPS to PDF converter (version 2006.09.02).]
-)
-[Loading MPS to PDF converter (version 2006.09.02).]
-) (/usr/local/texlive/2025/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty (/usr/local/texlive/2025/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
-(/usr/local/texlive/2025/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg))))
-*geometry* driver: auto-detecting
-*geometry* detected driver: pdftex
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH-ITA.out
-*geometry* driver: auto-detecting
-*geometry* detected driver: pdftex
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH-ITA.out))
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH-ITA.out
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH-ITA.out))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/pdflscape/pdflscape.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/pdflscape/pdflscape.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/pdflscape/pdflscape-nometadata.st
-y
-(/usr/local/texlive/2025/texmf-dist/tex/latex/pdflscape/pdflscape-nometadata.st
-y (/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/lscape.sty (/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/lscape.sty))))))
-[1
-[1 </Users/riccardo/Repositories/NULL_MESH/nullmesh/cover/front-cover-ITA.pdf </Users/riccardo/Repositories/NULL_MESH/nullmesh/cover/front-cover-ITA.pdf>]
->]
-
-[2
-[2]] (/usr/local/texlive/2025/texmf-dist/tex/latex/microtype/mt-cmr.cfg (/usr/local/texlive/2025/texmf-dist/tex/latex/microtype/mt-cmr.cfg))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/amsfonts/umsa.fd
-(/usr/local/texlive/2025/texmf-dist/tex/latex/amsfonts/umsa.fd))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/microtype/mt-msa.cfg
-(/usr/local/texlive/2025/texmf-dist/tex/latex/microtype/mt-msa.cfg))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/amsfonts/umsb.fd
-(/usr/local/texlive/2025/texmf-dist/tex/latex/amsfonts/umsb.fd))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/microtype/mt-msb.cfg
-(/usr/local/texlive/2025/texmf-dist/tex/latex/microtype/mt-msb.cfg))
-
-pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
-been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.409 \end{titlepage}
-                      [1
-
-pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
-been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.409 \end{titlepage}
-                      [1{/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/upd
-map/pdftex.map{/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/upd
-map/pdftex.map}}{{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/base/8r.enc/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/base/8r.enc}
-}
-]]
-
-pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has 
-been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.411 \cleardoublepage
-                       [2
-
-pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has 
-been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.411 \cleardoublepage
-                       [2]]
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/front/prologue-ITA.tex
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/front/prologue-ITA.tex
-[1
-[1]]))
-[2
-[2]] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/front/epigraph-ITA.tex (/Users/riccardo/Repositories/NULL_MESH/nullmesh/front/epigraph-ITA.tex
-(/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/t1pcr.fd
-(/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/t1pcr.fd))
-[3
-[3]]))
-[4
-[4]] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/front/tracklist-ITA.tex (/Users/riccardo/Repositories/NULL_MESH/nullmesh/front/tracklist-ITA.tex
-(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.bdg
-(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.bdg))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.enc
-(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.enc))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.chr
-(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.chr))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/c70bsmi.fd
-(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/c70bsmi.fd))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/c70bsmi.fdx
-(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/c70bsmi.fdx))
-
-LaTeX Font Warning: Font shape `C70/bsmi/m/it' undefined
-(Font)              using `C70/bsmi/m/n' instead on input line 21.
-
-)
-
-LaTeX Font Warning: Font shape `C70/bsmi/m/it' undefined
-(Font)              using `C70/bsmi/m/n' instead on input line 21.
-
-)
-[5
-[5]]
-[6
-[6]]
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch01_the_sediment-ITA
-.tex
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch01_the_sediment-ITA
-.tex
-Capitolo 1.
-
-
-pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
-been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.14 P
-      er secoli, è stato l'emblema della conoscenza. Lo strumento che rivel...
-[1
-Capitolo 1.
-
-
-pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
-been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.14 P
-      er secoli, è stato l'emblema della conoscenza. Lo strumento che rivel...
-[1 </Users/riccardo/Repositories/NULL_MESH/nullmesh/qrs/ch01_basinski.png </Users/riccardo/Repositories/NULL_MESH/nullmesh/qrs/ch01_basinski.png>]>]
-
-pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has 
-been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.27 
-      [2
-
-pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has 
-been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.27 
-      [2]]
-[3
-[3]]
-[4
-[4]]
-[5
-[5]]))
-[6
-[6]]
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc01_flibbertigibb
-eting-ITA.tex
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc01_flibbertigibb
-eting-ITA.tex (/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/t1ppl.fd (/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/t1ppl.fd))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/microtype/mt-ppl.cfg
-(/usr/local/texlive/2025/texmf-dist/tex/latex/microtype/mt-ppl.cfg))
-[7
-[7]]
-[8
-[8]]
-[9
-[9]]
-[10
-[10]]
-[11
-[11]]
-[12
-[12]]
-[13
-[13]]))
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch02_attention_of_mac
-hines-ITA.tex
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch02_attention_of_mac
-hines-ITA.tex
-[14
-[14]]
-Capitolo 2.
-
-[15
-Capitolo 2.
-
-[15]]
-Overfull \hbox (0.8254pt too wide) in paragraph at lines 24--24
-[]\T1/phv/m/n/6 (-10) Partecipante 
-
-[16
-Overfull \hbox (0.8254pt too wide) in paragraph at lines 24--24
-[]\T1/phv/m/n/6 (-10) Partecipante 
-
-[16]]
-[17
-[17]]
-[18
-[18]]
-[19
-[19]]
-[20
-[20]]))
-[21
-[21]]
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc02_sightseers-IT
-A.tex
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc02_sightseers-IT
-A.tex
-[22
-[22]]
-[23
-[23]]
-[24
-[24]]))
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch03_on_abliterated_m
-oods-ITA.tex
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch03_on_abliterated_m
-oods-ITA.tex
-[25
-[25]]
-[26
-[26]]
-Capitolo 3.
-
-[27
-Capitolo 3.
-
-[27]]
-[28
-[28]] (/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/ts1phv.fd (/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/ts1phv.fd))
-[29
-[29]]
-[30
-[30]]))
-[31
-[31]]
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc04_persistance-I
-TA.tex
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc04_persistance-I
-TA.tex
-[32
-[32]]
-[33
-[33]]
-Overfull \hbox (1.48479pt too wide) in paragraph at lines 81--81
-[]\T1/phv/m/n/6 (-10) Segnalazioni 
-
-[34
-Overfull \hbox (1.48479pt too wide) in paragraph at lines 81--81
-[]\T1/phv/m/n/6 (-10) Segnalazioni 
-
-[34]]))
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch04_active_fragments
--ITA.tex
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch04_active_fragments
--ITA.tex
-[35
-[35]]
-[36
-[36]]
-Capitolo 4.
-
-[37
-Capitolo 4.
-
-[37]]
-[38
-[38]]
-[39
-[39]]
-[40
-[40]]
-Underfull \hbox (badness 10000) in paragraph at lines 51--56
-\T1/pcr/m/n/10 Status: EXIT_CLEAN | Resources deallocated | 0
-
-[41
-Underfull \hbox (badness 10000) in paragraph at lines 51--56
-\T1/pcr/m/n/10 Status: EXIT_CLEAN | Resources deallocated | 0
-
-[41]]))
-[42
-[42]]
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc03_tidalchains-I
-TA.tex
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc03_tidalchains-I
-TA.tex
-[43
-[43]]
-[44
-[44]]
-[45
-[45]]))
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch05_sophistication-I
-TA.tex
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch05_sophistication-I
-TA.tex
-[46
-[46]]
-Capitolo 5.
-
-[47
-Capitolo 5.
-
-[47]]
-[48
-[48]]
-[49
-[49]]))
-[50
-[50]]
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc07_handout-ITA.t
-ex
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc07_handout-ITA.t
-ex
-[51
-[51]]
-[52
-[52]]
-[53
-[53]]
-[54
-[54]]
-[55
-[55]]))
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch06_null_mesh-ITA.te
-x
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch06_null_mesh-ITA.te
-x
-[56
-[56]]
-Capitolo 6.
-(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.enc
-Capitolo 6.
-(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.enc))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.chr
-(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.chr))
-[57
-[57]]
-[58
-[58]]
-[59
-[59]]
-[60
-[60]]))
-[61
-[61]]
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc05_real4real-ITA
-.tex
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc05_real4real-ITA
-.tex
-[62
-[62]]
-[63
-[63]]
-[64
-[64]]
-[65
-[65]]
-[66
-[66]]
-[67
-[67]]
-[68
-[68]]
-[69
-[69]]
-[70
-[70]]
-[71
-[71]]
-[72
-[72]]))
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch07_intentionality_o
-f_machines-ITA.tex
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch07_intentionality_o
-f_machines-ITA.tex
-[73
-[73]]
-[74
-[74]]
-Capitolo 7.
-
-[75
-Capitolo 7.
-
-[75]]
-[76
-[76]]
-[77
-[77]]))
-[78
-[78]]
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc06_the_arctic_pa
-ssage-ITA.tex
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc06_the_arctic_pa
-ssage-ITA.tex
-[79
-[79{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.en
-c{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.en
-c}}]]
-[80
-[80]]
-
-LaTeX Warning: Marginpar on page 81 moved.
-
-
-[81
-
-LaTeX Warning: Marginpar on page 81 moved.
-
-
-[81]]))
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch08_within_the_simul
-ation-ITA.tex
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch08_within_the_simul
-ation-ITA.tex
-[82
-[82]]
-Capitolo 8.
-
-[83
-Capitolo 8.
-
-[83]]
-[84
-[84]]
-[85
-[85]]
-[86
-[86]]))
-[87
-[87]]
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc08_the_black_pap
-er-ITA.tex
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc08_the_black_pap
-er-ITA.tex
-[88
-[88]]
-[89
-[89]]
-[90
-[90]]
-[91
-[91]]
-[92
-[92]]
-[93
-[93]]
-[94
-[94]]
-[95
-[95]]))
-[96
-[96]]
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch10_null_rites-ITA.t
-ex
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch10_null_rites-ITA.t
-ex
-Capitolo 9.
-
-[97
-Capitolo 9.
-
-[97]]
-[98
-[98]]
-[99
-[99]]
-[100
-[100]]))
-[101
-[101]]
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc09_invocation-IT
-A.tex
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc09_invocation-IT
-A.tex
-[102
-[102]]
-[103
-[103]]))
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch09_deep_sea_flashba
-ck-ITA.tex
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch09_deep_sea_flashba
-ck-ITA.tex
-[104
-[104]]
-[105
-[105]]
-[106
-[106]]
-Capitolo 10.
-
-[107
-Capitolo 10.
-
-[107]]
-[108
-[108]]
-[109
-[109]]
-[110
-[110]]))
-[111
-[111]]
-[112
-[112]] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/epilogue-ITA.tex (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/epilogue-ITA.tex
-[113
-[113]]
-[114
-[114]]))
-[115
-[115]]
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/glossary_terms-ITA.tex
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/glossary_terms-ITA.tex
-[116
-[116]]))
-[117
-[117]]
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/tracksources-ITA.tex
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/tracksources-ITA.tex
-(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.enc
-(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.enc))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.chr
-(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.chr))
-[118
-[118]]))
-[119
-[119]] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/backbone-ITA.tex (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/backbone-ITA.tex
-[120
-[120]]
-[121
-[121]]
-[122
-[122]]
-[123
-[123]]))
-[124
-[124]]
-[125
-[125]]
-[126
-[126 </Users/riccardo/Repositories/NULL_MESH/nullmesh/cover/back-cover-ITA.pdf </Users/riccardo/Repositories/NULL_MESH/nullmesh/cover/back-cover-ITA.pdf>
-]>
-] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH-ITA.aux (/Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH-ITA.aux))
-
-LaTeX Font Warning: Some font shapes were not available, defaults substituted.
-
- )
-(see the transcript file for additional information)</usr/local/texlive/2025/te
-xmf-dist/fonts/type1/arphic/bsmiu/bsmiu4e.pfb
-
-LaTeX Font Warning: Some font shapes were not available, defaults substituted.
-
- )
-(see the transcript file for additional information)</usr/local/texlive/2025/te
-xmf-dist/fonts/type1/arphic/bsmiu/bsmiu4e.pfb>><</usr/local/texlive/2025/texmf-di
-st/fonts/type1/arphic/bsmiu/bsmiu51.pfb/usr/local/texlive/2025/texmf-di
-st/fonts/type1/arphic/bsmiu/bsmiu51.pfb>><</usr/local/texlive/2025/texmf-dist/fon
-ts/type1/arphic/bsmiu/bsmiu55.pfb/usr/local/texlive/2025/texmf-dist/fon
-ts/type1/arphic/bsmiu/bsmiu55.pfb>></usr/local/texlive/2025/texmf-dist/fonts/typ
-e1/arphic/bsmiu/bsmiu62.pfb</usr/local/texlive/2025/texmf-dist/fonts/typ
-e1/arphic/bsmiu/bsmiu62.pfb>></usr/local/texlive/2025/texmf-dist/fonts/type1/arp
-hic/bsmiu/bsmiu65.pfb</usr/local/texlive/2025/texmf-dist/fonts/type1/arp
-hic/bsmiu/bsmiu65.pfb>></usr/local/texlive/2025/texmf-dist/fonts/type1/arphic/bs
-miu/bsmiu67.pfb</usr/local/texlive/2025/texmf-dist/fonts/type1/arphic/bs
-miu/bsmiu67.pfb>></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts
-/cm/cmmi10.pfb</usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts
-/cm/cmmi10.pfb>></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/
-cm/cmmi8.pfb</usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/
-cm/cmmi8.pfb>></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm
-/cmr7.pfb</usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm
-/cmr7.pfb>></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cm
-sy10.pfb</usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cm
-sy10.pfb>></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/symbol
-s/msam10.pfb</usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/symbol
-s/msam10.pfb>></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/sy
-mbols/msbm10.pfb</usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/sy
-mbols/msbm10.pfb>></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-supe
-r/sfrm1095.pfb</usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-supe
-r/sfrm1095.pfb>></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/courier/ucrb
-8a.pfb</usr/local/texlive/2025/texmf-dist/fonts/type1/urw/courier/ucrb
-8a.pfb>></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb</usr/local/texlive/2025/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb>><
-/usr/local/texlive/2025/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb<
-/usr/local/texlive/2025/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb>></usr/lo
-cal/texlive/2025/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb</usr/lo
-cal/texlive/2025/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb>></usr/local/tex
-live/2025/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb</usr/local/tex
-live/2025/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb>></usr/local/texlive/2
-025/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb</usr/local/texlive/2
-025/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb>></usr/local/texlive/2025/tex
-mf-dist/fonts/type1/urw/palatino/uplr8a.pfb</usr/local/texlive/2025/tex
-mf-dist/fonts/type1/urw/palatino/uplr8a.pfb>></usr/local/texlive/2025/texmf-dist
-/fonts/type1/urw/palatino/uplri8a.pfb</usr/local/texlive/2025/texmf-dist
-/fonts/type1/urw/palatino/uplri8a.pfb>>
-Output written on /Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH-ITA
-.pdf (136 pages, 963562 bytes).
-Transcript written on /Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH
--ITA.log.
-
-Output written on /Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH-ITA
-.pdf (136 pages, 963562 bytes).
-Transcript written on /Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH
--ITA.log.
-
-
---- Pass 3 / 3 ---
---- Pass 3 / 3 ---
-
-
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex)
- restricted \write18 enabled.
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex)
- restricted \write18 enabled.
-entering extended mode
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/main-ITA.texentering extended mode
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/main-ITA.tex
-LaTeX2e <2024-11-01> patch level 2
-L3 programming layer <2025-01-18>
-(/usr/local/texlive/2025/texmf-dist/tex/latex/base/fix-cm.sty
-LaTeX2e <2024-11-01> patch level 2
-L3 programming layer <2025-01-18>
-(/usr/local/texlive/2025/texmf-dist/tex/latex/base/fix-cm.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/base/ts1enc.def
-(/usr/local/texlive/2025/texmf-dist/tex/latex/base/ts1enc.def))))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/base/book.cls
-(/usr/local/texlive/2025/texmf-dist/tex/latex/base/book.cls
-Document Class: book 2024/06/29 v1.4n Standard LaTeX document class
-(/usr/local/texlive/2025/texmf-dist/tex/latex/base/bk11.clo
-Document Class: book 2024/06/29 v1.4n Standard LaTeX document class
-(/usr/local/texlive/2025/texmf-dist/tex/latex/base/bk11.clo))))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/base/inputenc.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/base/inputenc.sty))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/base/fontenc.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/base/fontenc.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/cyrillic/t2aenc.def
-(/usr/local/texlive/2025/texmf-dist/tex/latex/cyrillic/t2aenc.def
-(/usr/local/texlive/2025/texmf-dist/tex/latex/base/t2aenc.dfu
-(/usr/local/texlive/2025/texmf-dist/tex/latex/base/t2aenc.dfu))))))
-(/usr/local/texlive/2025/texmf-dist/tex/generic/babel/babel.sty
-(/usr/local/texlive/2025/texmf-dist/tex/generic/babel/babel.sty
-(/usr/local/texlive/2025/texmf-dist/tex/generic/babel/txtbabel.def
-(/usr/local/texlive/2025/texmf-dist/tex/generic/babel/txtbabel.def))
-(/usr/local/texlive/2025/texmf-dist/tex/generic/babel-italian/italian.ldf
-(/usr/local/texlive/2025/texmf-dist/tex/generic/babel-italian/italian.ldf))))
-(/usr/local/texlive/2025/texmf-dist/tex/generic/babel/locale/it/babel-italian.t
-ex
-(/usr/local/texlive/2025/texmf-dist/tex/generic/babel/locale/it/babel-italian.t
-ex)) (/usr/local/texlive/2025/texmf-dist/tex/latex/etoolbox/etoolbox.sty (/usr/local/texlive/2025/texmf-dist/tex/latex/etoolbox/etoolbox.sty))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/helvet.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/helvet.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/keyval.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/keyval.sty))))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/courier.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/courier.sty))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/palatino.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/palatino.sty))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/graphicx.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/graphicx.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/graphics.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/graphics.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/trig.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/trig.sty))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
-(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics-cfg/graphics.cfg))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics-def/pdftex.def
-(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics-def/pdftex.def))))))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/microtype/microtype.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/microtype/microtype.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/microtype/microtype-pdftex.def
-(/usr/local/texlive/2025/texmf-dist/tex/latex/microtype/microtype-pdftex.def))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/microtype/microtype.cfg
-(/usr/local/texlive/2025/texmf-dist/tex/latex/microtype/microtype.cfg))))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/geometry/geometry.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/geometry/geometry.sty
-(/usr/local/texlive/2025/texmf-dist/tex/generic/iftex/ifvtex.sty
-(/usr/local/texlive/2025/texmf-dist/tex/generic/iftex/ifvtex.sty
-(/usr/local/texlive/2025/texmf-dist/tex/generic/iftex/iftex.sty
-(/usr/local/texlive/2025/texmf-dist/tex/generic/iftex/iftex.sty))))))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/xcolor/xcolor.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/xcolor/xcolor.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics-cfg/color.cfg
-(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics-cfg/color.cfg))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/mathcolor.ltx
-(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/mathcolor.ltx))))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/titlesec/titlesec.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/titlesec/titlesec.sty))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/setspace/setspace.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/setspace/setspace.sty))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/koma-script/scrextend.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/koma-script/scrextend.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/koma-script/scrkbase.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/koma-script/scrkbase.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/koma-script/scrbase.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/koma-script/scrbase.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/koma-script/scrlfile.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/koma-script/scrlfile.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/koma-script/scrlfile-hook.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/koma-script/scrlfile-hook.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/koma-script/scrlogo.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/koma-script/scrlogo.sty))))))))))))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/epigraph/epigraph.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/epigraph/epigraph.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/nextpage/nextpage.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/nextpage/nextpage.sty))))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/tocloft/tocloft.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/tocloft/tocloft.sty))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/hyperref/hyperref.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/hyperref/hyperref.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty))
-(/usr/local/texlive/2025/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
-(/usr/local/texlive/2025/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty))
-(/usr/local/texlive/2025/texmf-dist/tex/generic/pdfescape/pdfescape.sty
-(/usr/local/texlive/2025/texmf-dist/tex/generic/pdfescape/pdfescape.sty
-(/usr/local/texlive/2025/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
-(/usr/local/texlive/2025/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty))
-(/usr/local/texlive/2025/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
-(/usr/local/texlive/2025/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
-(/usr/local/texlive/2025/texmf-dist/tex/generic/infwarerr/infwarerr.sty
-(/usr/local/texlive/2025/texmf-dist/tex/generic/infwarerr/infwarerr.sty))))))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/hycolor/hycolor.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/hycolor/hycolor.sty))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/hyperref/nameref.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/hyperref/nameref.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/refcount/refcount.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/refcount/refcount.sty))
-(/usr/local/texlive/2025/texmf-dist/tex/generic/gettitlestring/gettitlestring.s
-ty
-(/usr/local/texlive/2025/texmf-dist/tex/generic/gettitlestring/gettitlestring.s
-ty (/usr/local/texlive/2025/texmf-dist/tex/latex/kvoptions/kvoptions.sty (/usr/local/texlive/2025/texmf-dist/tex/latex/kvoptions/kvoptions.sty))))))
-(/usr/local/texlive/2025/texmf-dist/tex/generic/stringenc/stringenc.sty
-(/usr/local/texlive/2025/texmf-dist/tex/generic/stringenc/stringenc.sty))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/hyperref/pd1enc.def
-(/usr/local/texlive/2025/texmf-dist/tex/latex/hyperref/pd1enc.def))
-(/usr/local/texlive/2025/texmf-dist/tex/generic/intcalc/intcalc.sty
-(/usr/local/texlive/2025/texmf-dist/tex/generic/intcalc/intcalc.sty))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/hyperref/puenc.def
-(/usr/local/texlive/2025/texmf-dist/tex/latex/hyperref/puenc.def))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/url/url.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/url/url.sty))
-(/usr/local/texlive/2025/texmf-dist/tex/generic/bitset/bitset.sty
-(/usr/local/texlive/2025/texmf-dist/tex/generic/bitset/bitset.sty
-(/usr/local/texlive/2025/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
-(/usr/local/texlive/2025/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty))))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/base/atbegshi-ltx.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/base/atbegshi-ltx.sty))))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/hyperref/hpdftex.def
-(/usr/local/texlive/2025/texmf-dist/tex/latex/hyperref/hpdftex.def
-(/usr/local/texlive/2025/texmf-dist/tex/latex/base/atveryend-ltx.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/base/atveryend-ltx.sty))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
-
-(/usr/local/texlive/2025/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
-
-(/usr/local/texlive/2025/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
-
-(/usr/local/texlive/2025/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
-)))))) (/usr/local/texlive/2025/texmf-dist/tex/latex/csquotes/csquotes.sty (/usr/local/texlive/2025/texmf-dist/tex/latex/csquotes/csquotes.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/csquotes/csquotes.def
-(/usr/local/texlive/2025/texmf-dist/tex/latex/csquotes/csquotes.def))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/csquotes/csquotes.cfg
-(/usr/local/texlive/2025/texmf-dist/tex/latex/csquotes/csquotes.cfg))))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/pdfpages/pdfpages.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/pdfpages/pdfpages.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/base/ifthen.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/base/ifthen.sty))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/tools/calc.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/tools/calc.sty))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/eso-pic/eso-pic.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/eso-pic/eso-pic.sty))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/pdfpages/pppdftex.def
-(/usr/local/texlive/2025/texmf-dist/tex/latex/pdfpages/pppdftex.def))))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/amsmath/amsmath.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/amsmath/amsmath.sty
-For additional information on amsmath, use the `?' option.
-(/usr/local/texlive/2025/texmf-dist/tex/latex/amsmath/amstext.sty
-For additional information on amsmath, use the `?' option.
-(/usr/local/texlive/2025/texmf-dist/tex/latex/amsmath/amstext.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/amsmath/amsgen.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/amsmath/amsgen.sty))))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/amsmath/amsbsy.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/amsmath/amsbsy.sty))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/amsmath/amsopn.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/amsmath/amsopn.sty))))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/amsfonts/amssymb.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/amsfonts/amssymb.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/amsfonts/amsfonts.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/amsfonts/amsfonts.sty))))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/enumitem/enumitem.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/enumitem/enumitem.sty))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/booktabs/booktabs.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/booktabs/booktabs.sty))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/tools/multicol.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/tools/multicol.sty))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/CJKutf8.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/CJKutf8.sty
-(/usr/local/texlive/2025/texmf-dist/tex/generic/iftex/ifpdf.sty
-(/usr/local/texlive/2025/texmf-dist/tex/generic/iftex/ifpdf.sty))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/CJK.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/CJK.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/mule/MULEenc.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/mule/MULEenc.sty))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/CJK.enc
-(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/CJK.enc))))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/base/fontenc.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/base/fontenc.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/t1phv.fd
-(/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/t1phv.fd))))))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-(/usr/local/texlive/2025/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def))
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH-ITA.aux
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH-ITA.aux))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/cyrillic/t2acmr.fd
-(/usr/local/texlive/2025/texmf-dist/tex/latex/cyrillic/t2acmr.fd))
-(/usr/local/texlive/2025/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
-(/usr/local/texlive/2025/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
-[Loading MPS to PDF converter (version 2006.09.02).]
-)
-[Loading MPS to PDF converter (version 2006.09.02).]
-) (/usr/local/texlive/2025/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty (/usr/local/texlive/2025/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
-(/usr/local/texlive/2025/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg))))
-*geometry* driver: auto-detecting
-*geometry* detected driver: pdftex
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH-ITA.out
-*geometry* driver: auto-detecting
-*geometry* detected driver: pdftex
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH-ITA.out))
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH-ITA.out
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH-ITA.out))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/pdflscape/pdflscape.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/pdflscape/pdflscape.sty
-(/usr/local/texlive/2025/texmf-dist/tex/latex/pdflscape/pdflscape-nometadata.st
-y
-(/usr/local/texlive/2025/texmf-dist/tex/latex/pdflscape/pdflscape-nometadata.st
-y (/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/lscape.sty (/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/lscape.sty))))))
-[1
-[1 </Users/riccardo/Repositories/NULL_MESH/nullmesh/cover/front-cover-ITA.pdf </Users/riccardo/Repositories/NULL_MESH/nullmesh/cover/front-cover-ITA.pdf>]
->]
-
-[2
-[2]] (/usr/local/texlive/2025/texmf-dist/tex/latex/microtype/mt-cmr.cfg (/usr/local/texlive/2025/texmf-dist/tex/latex/microtype/mt-cmr.cfg))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/amsfonts/umsa.fd
-(/usr/local/texlive/2025/texmf-dist/tex/latex/amsfonts/umsa.fd))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/microtype/mt-msa.cfg
-(/usr/local/texlive/2025/texmf-dist/tex/latex/microtype/mt-msa.cfg))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/amsfonts/umsb.fd
-(/usr/local/texlive/2025/texmf-dist/tex/latex/amsfonts/umsb.fd))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/microtype/mt-msb.cfg
-(/usr/local/texlive/2025/texmf-dist/tex/latex/microtype/mt-msb.cfg))
-
-pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
-been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.409 \end{titlepage}
-                      [1
-
-pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
-been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.409 \end{titlepage}
-                      [1{/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/upd
-map/pdftex.map{/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/upd
-map/pdftex.map}}{{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/base/8r.enc/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/base/8r.enc}
-}
-]]
-
-pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has 
-been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.411 \cleardoublepage
-                       [2
-
-pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has 
-been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.411 \cleardoublepage
-                       [2]]
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/front/prologue-ITA.tex
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/front/prologue-ITA.tex
-[1
-[1]]))
-[2
-[2]] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/front/epigraph-ITA.tex (/Users/riccardo/Repositories/NULL_MESH/nullmesh/front/epigraph-ITA.tex
-(/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/t1pcr.fd
-(/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/t1pcr.fd))
-[3
-[3]]))
-[4
-[4]] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/front/tracklist-ITA.tex (/Users/riccardo/Repositories/NULL_MESH/nullmesh/front/tracklist-ITA.tex
-(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.bdg
-(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.bdg))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.enc
-(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.enc))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.chr
-(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.chr))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/c70bsmi.fd
-(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/c70bsmi.fd))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/c70bsmi.fdx
-(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/c70bsmi.fdx))
-
-LaTeX Font Warning: Font shape `C70/bsmi/m/it' undefined
-(Font)              using `C70/bsmi/m/n' instead on input line 21.
-
-)
-
-LaTeX Font Warning: Font shape `C70/bsmi/m/it' undefined
-(Font)              using `C70/bsmi/m/n' instead on input line 21.
-
-)
-[5
-[5]]
-[6
-[6]]
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch01_the_sediment-ITA
-.tex
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch01_the_sediment-ITA
-.tex
-Capitolo 1.
-
-
-pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
-been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.14 P
-      er secoli, è stato l'emblema della conoscenza. Lo strumento che rivel...
-[1
-Capitolo 1.
-
-
-pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
-been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.14 P
-      er secoli, è stato l'emblema della conoscenza. Lo strumento che rivel...
-[1 </Users/riccardo/Repositories/NULL_MESH/nullmesh/qrs/ch01_basinski.png </Users/riccardo/Repositories/NULL_MESH/nullmesh/qrs/ch01_basinski.png>]>]
-
-pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has 
-been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.27 
-      [2
-
-pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has 
-been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.27 
-      [2]]
-[3
-[3]]
-[4
-[4]]
-[5
-[5]]))
-[6
-[6]]
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc01_flibbertigibb
-eting-ITA.tex
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc01_flibbertigibb
-eting-ITA.tex (/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/t1ppl.fd (/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/t1ppl.fd))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/microtype/mt-ppl.cfg
-(/usr/local/texlive/2025/texmf-dist/tex/latex/microtype/mt-ppl.cfg))
-[7
-[7]]
-[8
-[8]]
-[9
-[9]]
-[10
-[10]]
-[11
-[11]]
-[12
-[12]]
-[13
-[13]]))
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch02_attention_of_mac
-hines-ITA.tex
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch02_attention_of_mac
-hines-ITA.tex
-[14
-[14]]
-Capitolo 2.
-
-[15
-Capitolo 2.
-
-[15]]
-Overfull \hbox (0.8254pt too wide) in paragraph at lines 24--24
-[]\T1/phv/m/n/6 (-10) Partecipante 
-
-[16
-Overfull \hbox (0.8254pt too wide) in paragraph at lines 24--24
-[]\T1/phv/m/n/6 (-10) Partecipante 
-
-[16]]
-[17
-[17]]
-[18
-[18]]
-[19
-[19]]
-[20
-[20]]))
-[21
-[21]]
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc02_sightseers-IT
-A.tex
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc02_sightseers-IT
-A.tex
-[22
-[22]]
-[23
-[23]]
-[24
-[24]]))
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch03_on_abliterated_m
-oods-ITA.tex
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch03_on_abliterated_m
-oods-ITA.tex
-[25
-[25]]
-[26]
+[25]
 [26]
 Capitolo 3.
 
-[27
+[27]
+[28] (/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/ts1phv.fd)
+[29]
+[30])
+[31]
+(/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc04_persistance-I
+TA.tex
+[32]
+[33]
+Overfull \hbox (1.48479pt too wide) in paragraph at lines 81--81
+[]\T1/phv/m/n/6 (-10) Segnalazioni 
+
+[34])
+(/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch04_active_fragments
+-ITA.tex
+[35]
+[36]
+Capitolo 4.
+
+[37]
+[38]
+[39]
+[40]
+Underfull \hbox (badness 10000) in paragraph at lines 51--56
+\T1/pcr/m/n/10 Status: EXIT_CLEAN | Resources deallocated | 0
+
+[41])
+[42]
+(/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc03_tidalchains-I
+TA.tex
+[43]
+[44]
+[45])
+(/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch05_sophistication-I
+TA.tex
+[46]
+Capitolo 5.
+
+[47]
+[48]
+[49])
+[50]
+(/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc07_handout-ITA.t
+ex
+[51]
+[52]
+[53]
+[54]
+[55])
+(/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch06_null_mesh-ITA.te
+x
+[56]
+Capitolo 6.
+(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.enc)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.chr)
+[57]
+[58]
+[59]
+[60])
+[61]
+(/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc05_real4real-ITA
+.tex
+[62]
+[63]
+[64]
+[65]
+[66]
+[67]
+[68]
+[69]
+[70]
+[71]
+[72])
+(/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch07_intentionality_o
+f_machines-ITA.tex
+[73]
+[74]
+Capitolo 7.
+
+[75]
+[76]
+[77])
+[78]
+(/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc06_the_arctic_pa
+ssage-ITA.tex
+[79{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.en
+c}]
+[80]
+
+LaTeX Warning: Marginpar on page 81 moved.
+
+
+[81])
+(/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch08_within_the_simul
+ation-ITA.tex
+[82]
+Capitolo 8.
+
+[83]
+[84]
+[85]
+[86])
+[87]
+(/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc08_the_black_pap
+er-ITA.tex
+[88]
+[89]
+[90]
+[91]
+[92]
+[93]
+[94]
+[95])
+[96]
+(/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch10_null_rites-ITA.t
+ex
+Capitolo 9.
+
+[97]
+[98])
+[99]
+(/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc09_invocation-IT
+A.tex
+[100])
+(/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch09_deep_sea_flashba
+ck-ITA.tex
+[101]
+[102]
+Capitolo 10.
+
+[103]
+[104]
+[105]
+[106])
+[107]
+[108] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/epilogue-ITA.tex
+[109]
+[110])
+[111]
+(/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/glossary_terms-ITA.tex
+[112])
+[113]
+(/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/tracksources-ITA.tex
+(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.enc)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.chr)
+[114])
+[115] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/backbone-ITA.tex
+[116]
+[117]
+[118]
+[119])
+[120]
+[121]
+[122 </Users/riccardo/Repositories/NULL_MESH/nullmesh/cover/back-cover-ITA.pdf>
+] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH-ITA.aux)
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+ )
+(see the transcript file for additional information)</usr/local/texlive/2025/te
+xmf-dist/fonts/type1/arphic/bsmiu/bsmiu4e.pfb></usr/local/texlive/2025/texmf-di
+st/fonts/type1/arphic/bsmiu/bsmiu51.pfb></usr/local/texlive/2025/texmf-dist/fon
+ts/type1/arphic/bsmiu/bsmiu55.pfb></usr/local/texlive/2025/texmf-dist/fonts/typ
+e1/arphic/bsmiu/bsmiu62.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/arp
+hic/bsmiu/bsmiu65.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/arphic/bs
+miu/bsmiu67.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmmi10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmmi8.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmr7.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+sy10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/symbol
+s/msam10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/sy
+mbols/msbm10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-supe
+r/sfrm1095.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/courier/ucrb
+8a.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb><
+/usr/local/texlive/2025/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/lo
+cal/texlive/2025/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/tex
+live/2025/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb></usr/local/texlive/2
+025/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2025/tex
+mf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2025/texmf-dist
+/fonts/type1/urw/palatino/uplri8a.pfb>
+Output written on /Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH-ITA
+.pdf (132 pages, 956405 bytes).
+Transcript written on /Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH
+-ITA.log.
+
+--- Pass 2 / 3 ---
+
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex)
+ restricted \write18 enabled.
+entering extended mode
+(/Users/riccardo/Repositories/NULL_MESH/nullmesh/main-ITA.tex
+LaTeX2e <2024-11-01> patch level 2
+L3 programming layer <2025-01-18>
+(/usr/local/texlive/2025/texmf-dist/tex/latex/base/fix-cm.sty
+(/usr/local/texlive/2025/texmf-dist/tex/latex/base/ts1enc.def))
+(/usr/local/texlive/2025/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2024/06/29 v1.4n Standard LaTeX document class
+(/usr/local/texlive/2025/texmf-dist/tex/latex/base/bk11.clo))
+(/usr/local/texlive/2025/texmf-dist/tex/latex/base/inputenc.sty)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/base/fontenc.sty
+(/usr/local/texlive/2025/texmf-dist/tex/latex/cyrillic/t2aenc.def
+(/usr/local/texlive/2025/texmf-dist/tex/latex/base/t2aenc.dfu)))
+(/usr/local/texlive/2025/texmf-dist/tex/generic/babel/babel.sty
+(/usr/local/texlive/2025/texmf-dist/tex/generic/babel/txtbabel.def)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/babel-italian/italian.ldf))
+(/usr/local/texlive/2025/texmf-dist/tex/generic/babel/locale/it/babel-italian.t
+ex) (/usr/local/texlive/2025/texmf-dist/tex/latex/etoolbox/etoolbox.sty)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/helvet.sty
+(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/keyval.sty))
+(/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/courier.sty)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/palatino.sty)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/graphicx.sty
+(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/graphics.sty
+(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/trig.sty)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics-cfg/graphics.cfg)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics-def/pdftex.def)))
+(/usr/local/texlive/2025/texmf-dist/tex/latex/microtype/microtype.sty
+(/usr/local/texlive/2025/texmf-dist/tex/latex/microtype/microtype-pdftex.def)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/microtype/microtype.cfg))
+(/usr/local/texlive/2025/texmf-dist/tex/latex/geometry/geometry.sty
+(/usr/local/texlive/2025/texmf-dist/tex/generic/iftex/ifvtex.sty
+(/usr/local/texlive/2025/texmf-dist/tex/generic/iftex/iftex.sty)))
+(/usr/local/texlive/2025/texmf-dist/tex/latex/xcolor/xcolor.sty
+(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics-cfg/color.cfg)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/mathcolor.ltx))
+(/usr/local/texlive/2025/texmf-dist/tex/latex/titlesec/titlesec.sty)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/setspace/setspace.sty)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/koma-script/scrextend.sty
+(/usr/local/texlive/2025/texmf-dist/tex/latex/koma-script/scrkbase.sty
+(/usr/local/texlive/2025/texmf-dist/tex/latex/koma-script/scrbase.sty
+(/usr/local/texlive/2025/texmf-dist/tex/latex/koma-script/scrlfile.sty
+(/usr/local/texlive/2025/texmf-dist/tex/latex/koma-script/scrlfile-hook.sty
+(/usr/local/texlive/2025/texmf-dist/tex/latex/koma-script/scrlogo.sty))))))
+(/usr/local/texlive/2025/texmf-dist/tex/latex/epigraph/epigraph.sty
+(/usr/local/texlive/2025/texmf-dist/tex/latex/nextpage/nextpage.sty))
+(/usr/local/texlive/2025/texmf-dist/tex/latex/tocloft/tocloft.sty)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/hyperref/hyperref.sty
+(/usr/local/texlive/2025/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+(/usr/local/texlive/2025/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+(/usr/local/texlive/2025/texmf-dist/tex/generic/infwarerr/infwarerr.sty)))
+(/usr/local/texlive/2025/texmf-dist/tex/latex/hycolor/hycolor.sty)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/hyperref/nameref.sty
+(/usr/local/texlive/2025/texmf-dist/tex/latex/refcount/refcount.sty)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/gettitlestring/gettitlestring.s
+ty (/usr/local/texlive/2025/texmf-dist/tex/latex/kvoptions/kvoptions.sty)))
+(/usr/local/texlive/2025/texmf-dist/tex/generic/stringenc/stringenc.sty)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/hyperref/pd1enc.def)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/intcalc/intcalc.sty)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/hyperref/puenc.def)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/url/url.sty)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/bitset/bitset.sty
+(/usr/local/texlive/2025/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty))
+(/usr/local/texlive/2025/texmf-dist/tex/latex/base/atbegshi-ltx.sty))
+(/usr/local/texlive/2025/texmf-dist/tex/latex/hyperref/hpdftex.def
+(/usr/local/texlive/2025/texmf-dist/tex/latex/base/atveryend-ltx.sty)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+
+(/usr/local/texlive/2025/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+))) (/usr/local/texlive/2025/texmf-dist/tex/latex/csquotes/csquotes.sty
+(/usr/local/texlive/2025/texmf-dist/tex/latex/csquotes/csquotes.def)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/csquotes/csquotes.cfg))
+(/usr/local/texlive/2025/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+(/usr/local/texlive/2025/texmf-dist/tex/latex/base/ifthen.sty)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/tools/calc.sty)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/eso-pic/eso-pic.sty)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/pdfpages/pppdftex.def))
+(/usr/local/texlive/2025/texmf-dist/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2025/texmf-dist/tex/latex/amsmath/amstext.sty
+(/usr/local/texlive/2025/texmf-dist/tex/latex/amsmath/amsgen.sty))
+(/usr/local/texlive/2025/texmf-dist/tex/latex/amsmath/amsbsy.sty)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/amsmath/amsopn.sty))
+(/usr/local/texlive/2025/texmf-dist/tex/latex/amsfonts/amssymb.sty
+(/usr/local/texlive/2025/texmf-dist/tex/latex/amsfonts/amsfonts.sty))
+(/usr/local/texlive/2025/texmf-dist/tex/latex/enumitem/enumitem.sty)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/booktabs/booktabs.sty)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/tools/multicol.sty)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/CJKutf8.sty
+(/usr/local/texlive/2025/texmf-dist/tex/generic/iftex/ifpdf.sty)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/CJK.sty
+(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/mule/MULEenc.sty)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/CJK.enc))
+(/usr/local/texlive/2025/texmf-dist/tex/latex/base/fontenc.sty
+(/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/t1phv.fd)))
+(/usr/local/texlive/2025/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def)
+(/Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH-ITA.aux)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/cyrillic/t2acmr.fd)
+(/usr/local/texlive/2025/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+) (/usr/local/texlive/2025/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+(/usr/local/texlive/2025/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg))
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+(/Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH-ITA.out)
+(/Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH-ITA.out)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/pdflscape/pdflscape.sty
+(/usr/local/texlive/2025/texmf-dist/tex/latex/pdflscape/pdflscape-nometadata.st
+y (/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/lscape.sty)))
+[1 </Users/riccardo/Repositories/NULL_MESH/nullmesh/cover/front-cover-ITA.pdf>]
+
+[2] (/usr/local/texlive/2025/texmf-dist/tex/latex/microtype/mt-cmr.cfg)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/amsfonts/umsa.fd)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/microtype/mt-msa.cfg)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/amsfonts/umsb.fd)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/microtype/mt-msb.cfg)
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.409 \end{titlepage}
+                      [1{/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/upd
+map/pdftex.map}{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/base/8r.enc}
+]
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.411 \cleardoublepage
+                       [2]
+(/Users/riccardo/Repositories/NULL_MESH/nullmesh/front/prologue-ITA.tex
+[1])
+[2] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/front/epigraph-ITA.tex
+(/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/t1pcr.fd)
+[3])
+[4] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/front/tracklist-ITA.tex
+(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.bdg)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.enc)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.chr)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/c70bsmi.fd)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/c70bsmi.fdx)
+
+LaTeX Font Warning: Font shape `C70/bsmi/m/it' undefined
+(Font)              using `C70/bsmi/m/n' instead on input line 21.
+
+)
+[5]
+[6]
+(/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch01_the_sediment-ITA
+.tex
+Capitolo 1.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.14 P
+      er secoli, è stato l'emblema della conoscenza. Lo strumento che rivel...
+[1 </Users/riccardo/Repositories/NULL_MESH/nullmesh/qrs/ch01_basinski.png>]
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.27 
+      [2]
+[3]
+[4]
+[5])
+[6]
+(/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc01_flibbertigibb
+eting-ITA.tex (/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/t1ppl.fd)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/microtype/mt-ppl.cfg)
+[7]
+[8]
+[9]
+[10]
+[11]
+[12]
+[13])
+(/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch02_attention_of_mac
+hines-ITA.tex
+[14]
+Capitolo 2.
+
+[15]
+Overfull \hbox (0.8254pt too wide) in paragraph at lines 24--24
+[]\T1/phv/m/n/6 (-10) Partecipante 
+
+[16]
+[17]
+[18]
+[19]
+[20])
+[21]
+(/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc02_sightseers-IT
+A.tex
+[22]
+[23]
+[24])
+(/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch03_on_abliterated_m
+oods-ITA.tex
+[25]
+[26]
 Capitolo 3.
 
-[27]]
-[28
-[28]] (/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/ts1phv.fd (/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/ts1phv.fd))
-[29
-[29]]
-[30
-[30]]))
-[31
-[31]]
+[27]
+[28] (/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/ts1phv.fd)
+[29]
+[30])
+[31]
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc04_persistance-I
 TA.tex
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc04_persistance-I
-TA.tex
-[32
-[32]]
-[33
-[33]]
+[32]
+[33]
 Overfull \hbox (1.48479pt too wide) in paragraph at lines 81--81
 []\T1/phv/m/n/6 (-10) Segnalazioni 
 
-[34
-Overfull \hbox (1.48479pt too wide) in paragraph at lines 81--81
-[]\T1/phv/m/n/6 (-10) Segnalazioni 
-
-[34]]))
+[34])
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch04_active_fragments
 -ITA.tex
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch04_active_fragments
--ITA.tex
-[35
-[35]]
-[36
-[36]]
+[35]
+[36]
 Capitolo 4.
 
-[37
-Capitolo 4.
-
-[37]]
-[38
-[38]]
-[39
-[39]]
-[40
-[40]]
+[37]
+[38]
+[39]
+[40]
 Underfull \hbox (badness 10000) in paragraph at lines 51--56
 \T1/pcr/m/n/10 Status: EXIT_CLEAN | Resources deallocated | 0
 
-[41
-Underfull \hbox (badness 10000) in paragraph at lines 51--56
-\T1/pcr/m/n/10 Status: EXIT_CLEAN | Resources deallocated | 0
-
-[41]]))
-[42
-[42]]
+[41])
+[42]
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc03_tidalchains-I
 TA.tex
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc03_tidalchains-I
-TA.tex
-[43
-[43]]
-[44
-[44]]
-[45
-[45]]))
+[43]
+[44]
+[45])
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch05_sophistication-I
 TA.tex
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch05_sophistication-I
-TA.tex
-[46
-[46]]
+[46]
 Capitolo 5.
 
-[47
-Capitolo 5.
-
-[47]]
-[48
-[48]]
-[49
-[49]]))
-[50
-[50]]
+[47]
+[48]
+[49])
+[50]
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc07_handout-ITA.t
 ex
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc07_handout-ITA.t
-ex
-[51
-[51]]
-[52
-[52]]
-[53
-[53]]
-[54
-[54]]
-[55
-[55]]))
+[51]
+[52]
+[53]
+[54]
+[55])
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch06_null_mesh-ITA.te
 x
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch06_null_mesh-ITA.te
-x
-[56
-[56]]
+[56]
 Capitolo 6.
-(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.enc
-Capitolo 6.
-(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.enc))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.chr
-(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.chr))
-[57
-[57]]
-[58
-[58]]
-[59
-[59]]
-[60
-[60]]))
-[61
-[61]]
+(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.enc)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.chr)
+[57]
+[58]
+[59]
+[60])
+[61]
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc05_real4real-ITA
 .tex
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc05_real4real-ITA
-.tex
-[62
-[62]]
-[63
-[63]]
-[64
-[64]]
-[65
-[65]]
-[66
-[66]]
-[67
-[67]]
-[68
-[68]]
-[69
-[69]]
-[70
-[70]]
-[71
-[71]]
-[72
-[72]]))
+[62]
+[63]
+[64]
+[65]
+[66]
+[67]
+[68]
+[69]
+[70]
+[71]
+[72])
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch07_intentionality_o
 f_machines-ITA.tex
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch07_intentionality_o
-f_machines-ITA.tex
-[73
-[73]]
-[74
-[74]]
+[73]
+[74]
 Capitolo 7.
 
-[75
-Capitolo 7.
-
-[75]]
-[76
-[76]]
-[77
-[77]]))
-[78
-[78]]
+[75]
+[76]
+[77])
+[78]
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc06_the_arctic_pa
 ssage-ITA.tex
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc06_the_arctic_pa
-ssage-ITA.tex
-[79
 [79{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.en
-c{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.en
-c}}]]
-[80
-[80]]
+c}]
+[80]
 
 LaTeX Warning: Marginpar on page 81 moved.
 
 
-[81
-
-LaTeX Warning: Marginpar on page 81 moved.
-
-
-[81]]))
+[81])
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch08_within_the_simul
 ation-ITA.tex
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch08_within_the_simul
-ation-ITA.tex
-[82
-[82]]
+[82]
 Capitolo 8.
 
-[83
-Capitolo 8.
-
-[83]]
-[84
-[84]]
-[85
-[85]]
-[86
-[86]]))
-[87
-[87]]
+[83]
+[84]
+[85]
+[86])
+[87]
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc08_the_black_pap
 er-ITA.tex
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc08_the_black_pap
-er-ITA.tex
-[88
-[88]]
-[89
-[89]]
-[90
-[90]]
-[91
-[91]]
-[92
-[92]]
-[93
-[93]]
-[94
-[94]]
-[95
-[95]]))
-[96
-[96]]
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch10_null_rites-ITA.t
-ex
+[88]
+[89]
+[90]
+[91]
+[92]
+[93]
+[94]
+[95])
+[96]
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch10_null_rites-ITA.t
 ex
 Capitolo 9.
 
-[97
-Capitolo 9.
-
-[97]]
-[98
-[98]]
-[99
-[99]]
-[100
-[100]]))
-[101
-[101]]
+[97]
+[98])
+[99]
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc09_invocation-IT
 A.tex
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc09_invocation-IT
-A.tex
-[102
-[102]]
-[103
-[103]]))
+[100])
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch09_deep_sea_flashba
 ck-ITA.tex
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch09_deep_sea_flashba
-ck-ITA.tex
-[104
-[104]]
-[105
-[105]]
-[106
-[106]]
+[101]
+[102]
 Capitolo 10.
 
-[107
-Capitolo 10.
-
-[107]]
-[108
-[108]]
-[109
-[109]]
-[110
-[110]]))
-[111
-[111]]
-[112
-[112]] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/epilogue-ITA.tex (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/epilogue-ITA.tex
-[113
-[113]]
-[114
-[114]]))
-[115
-[115]]
+[103]
+[104]
+[105]
+[106])
+[107]
+[108] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/epilogue-ITA.tex
+[109]
+[110])
+[111]
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/glossary_terms-ITA.tex
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/glossary_terms-ITA.tex
-[116
-[116]]))
-[117
-[117]]
+[112])
+[113]
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/tracksources-ITA.tex
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/tracksources-ITA.tex
-(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.enc
-(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.enc))
-(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.chr
-(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.chr))
-[118
-[118]]))
-[119
-[119]] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/backbone-ITA.tex (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/backbone-ITA.tex
-[120
-[120]]
-[121
-[121]]
-[122
-[122]]
-[123
-[123]]))
-[124
-[124]]
-[125
-[125]]
-[126
-[126 </Users/riccardo/Repositories/NULL_MESH/nullmesh/cover/back-cover-ITA.pdf </Users/riccardo/Repositories/NULL_MESH/nullmesh/cover/back-cover-ITA.pdf>
-]>
-] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH-ITA.aux (/Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH-ITA.aux))
+(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.enc)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.chr)
+[114])
+[115] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/backbone-ITA.tex
+[116]
+[117]
+[118]
+[119])
+[120]
+[121]
+[122 </Users/riccardo/Repositories/NULL_MESH/nullmesh/cover/back-cover-ITA.pdf>
+] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH-ITA.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  )
 (see the transcript file for additional information)</usr/local/texlive/2025/te
-xmf-dist/fonts/type1/arphic/bsmiu/bsmiu4e.pfb
+xmf-dist/fonts/type1/arphic/bsmiu/bsmiu4e.pfb></usr/local/texlive/2025/texmf-di
+st/fonts/type1/arphic/bsmiu/bsmiu51.pfb></usr/local/texlive/2025/texmf-dist/fon
+ts/type1/arphic/bsmiu/bsmiu55.pfb></usr/local/texlive/2025/texmf-dist/fonts/typ
+e1/arphic/bsmiu/bsmiu62.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/arp
+hic/bsmiu/bsmiu65.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/arphic/bs
+miu/bsmiu67.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmmi10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmmi8.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmr7.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+sy10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/symbol
+s/msam10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/sy
+mbols/msbm10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-supe
+r/sfrm1095.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/courier/ucrb
+8a.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb><
+/usr/local/texlive/2025/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/lo
+cal/texlive/2025/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/tex
+live/2025/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb></usr/local/texlive/2
+025/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2025/tex
+mf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2025/texmf-dist
+/fonts/type1/urw/palatino/uplri8a.pfb>
+Output written on /Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH-ITA
+.pdf (132 pages, 956405 bytes).
+Transcript written on /Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH
+-ITA.log.
+
+--- Pass 3 / 3 ---
+
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex)
+ restricted \write18 enabled.
+entering extended mode
+(/Users/riccardo/Repositories/NULL_MESH/nullmesh/main-ITA.tex
+LaTeX2e <2024-11-01> patch level 2
+L3 programming layer <2025-01-18>
+(/usr/local/texlive/2025/texmf-dist/tex/latex/base/fix-cm.sty
+(/usr/local/texlive/2025/texmf-dist/tex/latex/base/ts1enc.def))
+(/usr/local/texlive/2025/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2024/06/29 v1.4n Standard LaTeX document class
+(/usr/local/texlive/2025/texmf-dist/tex/latex/base/bk11.clo))
+(/usr/local/texlive/2025/texmf-dist/tex/latex/base/inputenc.sty)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/base/fontenc.sty
+(/usr/local/texlive/2025/texmf-dist/tex/latex/cyrillic/t2aenc.def
+(/usr/local/texlive/2025/texmf-dist/tex/latex/base/t2aenc.dfu)))
+(/usr/local/texlive/2025/texmf-dist/tex/generic/babel/babel.sty
+(/usr/local/texlive/2025/texmf-dist/tex/generic/babel/txtbabel.def)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/babel-italian/italian.ldf))
+(/usr/local/texlive/2025/texmf-dist/tex/generic/babel/locale/it/babel-italian.t
+ex) (/usr/local/texlive/2025/texmf-dist/tex/latex/etoolbox/etoolbox.sty)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/helvet.sty
+(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/keyval.sty))
+(/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/courier.sty)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/palatino.sty)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/graphicx.sty
+(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/graphics.sty
+(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/trig.sty)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics-cfg/graphics.cfg)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics-def/pdftex.def)))
+(/usr/local/texlive/2025/texmf-dist/tex/latex/microtype/microtype.sty
+(/usr/local/texlive/2025/texmf-dist/tex/latex/microtype/microtype-pdftex.def)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/microtype/microtype.cfg))
+(/usr/local/texlive/2025/texmf-dist/tex/latex/geometry/geometry.sty
+(/usr/local/texlive/2025/texmf-dist/tex/generic/iftex/ifvtex.sty
+(/usr/local/texlive/2025/texmf-dist/tex/generic/iftex/iftex.sty)))
+(/usr/local/texlive/2025/texmf-dist/tex/latex/xcolor/xcolor.sty
+(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics-cfg/color.cfg)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/mathcolor.ltx))
+(/usr/local/texlive/2025/texmf-dist/tex/latex/titlesec/titlesec.sty)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/setspace/setspace.sty)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/koma-script/scrextend.sty
+(/usr/local/texlive/2025/texmf-dist/tex/latex/koma-script/scrkbase.sty
+(/usr/local/texlive/2025/texmf-dist/tex/latex/koma-script/scrbase.sty
+(/usr/local/texlive/2025/texmf-dist/tex/latex/koma-script/scrlfile.sty
+(/usr/local/texlive/2025/texmf-dist/tex/latex/koma-script/scrlfile-hook.sty
+(/usr/local/texlive/2025/texmf-dist/tex/latex/koma-script/scrlogo.sty))))))
+(/usr/local/texlive/2025/texmf-dist/tex/latex/epigraph/epigraph.sty
+(/usr/local/texlive/2025/texmf-dist/tex/latex/nextpage/nextpage.sty))
+(/usr/local/texlive/2025/texmf-dist/tex/latex/tocloft/tocloft.sty)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/hyperref/hyperref.sty
+(/usr/local/texlive/2025/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+(/usr/local/texlive/2025/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+(/usr/local/texlive/2025/texmf-dist/tex/generic/infwarerr/infwarerr.sty)))
+(/usr/local/texlive/2025/texmf-dist/tex/latex/hycolor/hycolor.sty)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/hyperref/nameref.sty
+(/usr/local/texlive/2025/texmf-dist/tex/latex/refcount/refcount.sty)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/gettitlestring/gettitlestring.s
+ty (/usr/local/texlive/2025/texmf-dist/tex/latex/kvoptions/kvoptions.sty)))
+(/usr/local/texlive/2025/texmf-dist/tex/generic/stringenc/stringenc.sty)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/hyperref/pd1enc.def)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/intcalc/intcalc.sty)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/hyperref/puenc.def)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/url/url.sty)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/bitset/bitset.sty
+(/usr/local/texlive/2025/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty))
+(/usr/local/texlive/2025/texmf-dist/tex/latex/base/atbegshi-ltx.sty))
+(/usr/local/texlive/2025/texmf-dist/tex/latex/hyperref/hpdftex.def
+(/usr/local/texlive/2025/texmf-dist/tex/latex/base/atveryend-ltx.sty)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+
+(/usr/local/texlive/2025/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+))) (/usr/local/texlive/2025/texmf-dist/tex/latex/csquotes/csquotes.sty
+(/usr/local/texlive/2025/texmf-dist/tex/latex/csquotes/csquotes.def)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/csquotes/csquotes.cfg))
+(/usr/local/texlive/2025/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+(/usr/local/texlive/2025/texmf-dist/tex/latex/base/ifthen.sty)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/tools/calc.sty)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/eso-pic/eso-pic.sty)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/pdfpages/pppdftex.def))
+(/usr/local/texlive/2025/texmf-dist/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2025/texmf-dist/tex/latex/amsmath/amstext.sty
+(/usr/local/texlive/2025/texmf-dist/tex/latex/amsmath/amsgen.sty))
+(/usr/local/texlive/2025/texmf-dist/tex/latex/amsmath/amsbsy.sty)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/amsmath/amsopn.sty))
+(/usr/local/texlive/2025/texmf-dist/tex/latex/amsfonts/amssymb.sty
+(/usr/local/texlive/2025/texmf-dist/tex/latex/amsfonts/amsfonts.sty))
+(/usr/local/texlive/2025/texmf-dist/tex/latex/enumitem/enumitem.sty)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/booktabs/booktabs.sty)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/tools/multicol.sty)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/CJKutf8.sty
+(/usr/local/texlive/2025/texmf-dist/tex/generic/iftex/ifpdf.sty)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/CJK.sty
+(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/mule/MULEenc.sty)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/CJK.enc))
+(/usr/local/texlive/2025/texmf-dist/tex/latex/base/fontenc.sty
+(/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/t1phv.fd)))
+(/usr/local/texlive/2025/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def)
+(/Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH-ITA.aux)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/cyrillic/t2acmr.fd)
+(/usr/local/texlive/2025/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+) (/usr/local/texlive/2025/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+(/usr/local/texlive/2025/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg))
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+(/Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH-ITA.out)
+(/Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH-ITA.out)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/pdflscape/pdflscape.sty
+(/usr/local/texlive/2025/texmf-dist/tex/latex/pdflscape/pdflscape-nometadata.st
+y (/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/lscape.sty)))
+[1 </Users/riccardo/Repositories/NULL_MESH/nullmesh/cover/front-cover-ITA.pdf>]
+
+[2] (/usr/local/texlive/2025/texmf-dist/tex/latex/microtype/mt-cmr.cfg)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/amsfonts/umsa.fd)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/microtype/mt-msa.cfg)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/amsfonts/umsb.fd)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/microtype/mt-msb.cfg)
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.409 \end{titlepage}
+                      [1{/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/upd
+map/pdftex.map}{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/base/8r.enc}
+]
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.411 \cleardoublepage
+                       [2]
+(/Users/riccardo/Repositories/NULL_MESH/nullmesh/front/prologue-ITA.tex
+[1])
+[2] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/front/epigraph-ITA.tex
+(/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/t1pcr.fd)
+[3])
+[4] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/front/tracklist-ITA.tex
+(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.bdg)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.enc)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.chr)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/c70bsmi.fd)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/c70bsmi.fdx)
+
+LaTeX Font Warning: Font shape `C70/bsmi/m/it' undefined
+(Font)              using `C70/bsmi/m/n' instead on input line 21.
+
+)
+[5]
+[6]
+(/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch01_the_sediment-ITA
+.tex
+Capitolo 1.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.14 P
+      er secoli, è stato l'emblema della conoscenza. Lo strumento che rivel...
+[1 </Users/riccardo/Repositories/NULL_MESH/nullmesh/qrs/ch01_basinski.png>]
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.27 
+      [2]
+[3]
+[4]
+[5])
+[6]
+(/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc01_flibbertigibb
+eting-ITA.tex (/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/t1ppl.fd)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/microtype/mt-ppl.cfg)
+[7]
+[8]
+[9]
+[10]
+[11]
+[12]
+[13])
+(/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch02_attention_of_mac
+hines-ITA.tex
+[14]
+Capitolo 2.
+
+[15]
+Overfull \hbox (0.8254pt too wide) in paragraph at lines 24--24
+[]\T1/phv/m/n/6 (-10) Partecipante 
+
+[16]
+[17]
+[18]
+[19]
+[20])
+[21]
+(/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc02_sightseers-IT
+A.tex
+[22]
+[23]
+[24])
+(/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch03_on_abliterated_m
+oods-ITA.tex
+[25]
+[26]
+Capitolo 3.
+
+[27]
+[28] (/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/ts1phv.fd)
+[29]
+[30])
+[31]
+(/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc04_persistance-I
+TA.tex
+[32]
+[33]
+Overfull \hbox (1.48479pt too wide) in paragraph at lines 81--81
+[]\T1/phv/m/n/6 (-10) Segnalazioni 
+
+[34])
+(/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch04_active_fragments
+-ITA.tex
+[35]
+[36]
+Capitolo 4.
+
+[37]
+[38]
+[39]
+[40]
+Underfull \hbox (badness 10000) in paragraph at lines 51--56
+\T1/pcr/m/n/10 Status: EXIT_CLEAN | Resources deallocated | 0
+
+[41])
+[42]
+(/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc03_tidalchains-I
+TA.tex
+[43]
+[44]
+[45])
+(/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch05_sophistication-I
+TA.tex
+[46]
+Capitolo 5.
+
+[47]
+[48]
+[49])
+[50]
+(/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc07_handout-ITA.t
+ex
+[51]
+[52]
+[53]
+[54]
+[55])
+(/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch06_null_mesh-ITA.te
+x
+[56]
+Capitolo 6.
+(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.enc)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.chr)
+[57]
+[58]
+[59]
+[60])
+[61]
+(/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc05_real4real-ITA
+.tex
+[62]
+[63]
+[64]
+[65]
+[66]
+[67]
+[68]
+[69]
+[70]
+[71]
+[72])
+(/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch07_intentionality_o
+f_machines-ITA.tex
+[73]
+[74]
+Capitolo 7.
+
+[75]
+[76]
+[77])
+[78]
+(/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc06_the_arctic_pa
+ssage-ITA.tex
+[79{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.en
+c}]
+[80]
+
+LaTeX Warning: Marginpar on page 81 moved.
+
+
+[81])
+(/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch08_within_the_simul
+ation-ITA.tex
+[82]
+Capitolo 8.
+
+[83]
+[84]
+[85]
+[86])
+[87]
+(/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc08_the_black_pap
+er-ITA.tex
+[88]
+[89]
+[90]
+[91]
+[92]
+[93]
+[94]
+[95])
+[96]
+(/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch10_null_rites-ITA.t
+ex
+Capitolo 9.
+
+[97]
+[98])
+[99]
+(/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc09_invocation-IT
+A.tex
+[100])
+(/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch09_deep_sea_flashba
+ck-ITA.tex
+[101]
+[102]
+Capitolo 10.
+
+[103]
+[104]
+[105]
+[106])
+[107]
+[108] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/epilogue-ITA.tex
+[109]
+[110])
+[111]
+(/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/glossary_terms-ITA.tex
+[112])
+[113]
+(/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/tracksources-ITA.tex
+(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.enc)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.chr)
+[114])
+[115] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/backbone-ITA.tex
+[116]
+[117]
+[118]
+[119])
+[120]
+[121]
+[122 </Users/riccardo/Repositories/NULL_MESH/nullmesh/cover/back-cover-ITA.pdf>
+] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH-ITA.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  )
 (see the transcript file for additional information)</usr/local/texlive/2025/te
-xmf-dist/fonts/type1/arphic/bsmiu/bsmiu4e.pfb>></usr/local/texlive/2025/texmf-di
-st/fonts/type1/arphic/bsmiu/bsmiu51.pfb</usr/local/texlive/2025/texmf-di
-st/fonts/type1/arphic/bsmiu/bsmiu51.pfb>><</usr/local/texlive/2025/texmf-dist/fon
-ts/type1/arphic/bsmiu/bsmiu55.pfb/usr/local/texlive/2025/texmf-dist/fon
-ts/type1/arphic/bsmiu/bsmiu55.pfb>><</usr/local/texlive/2025/texmf-dist/fonts/typ
-e1/arphic/bsmiu/bsmiu62.pfb/usr/local/texlive/2025/texmf-dist/fonts/typ
-e1/arphic/bsmiu/bsmiu62.pfb>><</usr/local/texlive/2025/texmf-dist/fonts/type1/arp
-hic/bsmiu/bsmiu65.pfb/usr/local/texlive/2025/texmf-dist/fonts/type1/arp
-hic/bsmiu/bsmiu65.pfb>></usr/local/texlive/2025/texmf-dist/fonts/type1/arphic/bs
-miu/bsmiu67.pfb</usr/local/texlive/2025/texmf-dist/fonts/type1/arphic/bs
-miu/bsmiu67.pfb>></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts
-/cm/cmmi10.pfb</usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts
-/cm/cmmi10.pfb>></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/
-cm/cmmi8.pfb</usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/
-cm/cmmi8.pfb>></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm
-/cmr7.pfb</usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm
-/cmr7.pfb>></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cm
-sy10.pfb</usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cm
-sy10.pfb>></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/symbol
-s/msam10.pfb</usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/symbol
-s/msam10.pfb>></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/sy
-mbols/msbm10.pfb</usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/sy
-mbols/msbm10.pfb>></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-supe
-r/sfrm1095.pfb</usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-supe
-r/sfrm1095.pfb>></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/courier/ucrb
-8a.pfb</usr/local/texlive/2025/texmf-dist/fonts/type1/urw/courier/ucrb
-8a.pfb>></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb</usr/local/texlive/2025/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb>><
-/usr/local/texlive/2025/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb<
-/usr/local/texlive/2025/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb>></usr/lo
-cal/texlive/2025/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb</usr/lo
-cal/texlive/2025/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb>><</usr/local/tex
-live/2025/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb/usr/local/tex
-live/2025/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb>></usr/local/texlive/2
-025/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb</usr/local/texlive/2
-025/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb>></usr/local/texlive/2025/tex
-mf-dist/fonts/type1/urw/palatino/uplr8a.pfb</usr/local/texlive/2025/tex
-mf-dist/fonts/type1/urw/palatino/uplr8a.pfb>></usr/local/texlive/2025/texmf-dist
-/fonts/type1/urw/palatino/uplri8a.pfb</usr/local/texlive/2025/texmf-dist
-/fonts/type1/urw/palatino/uplri8a.pfb>>
+xmf-dist/fonts/type1/arphic/bsmiu/bsmiu4e.pfb></usr/local/texlive/2025/texmf-di
+st/fonts/type1/arphic/bsmiu/bsmiu51.pfb></usr/local/texlive/2025/texmf-dist/fon
+ts/type1/arphic/bsmiu/bsmiu55.pfb></usr/local/texlive/2025/texmf-dist/fonts/typ
+e1/arphic/bsmiu/bsmiu62.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/arp
+hic/bsmiu/bsmiu65.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/arphic/bs
+miu/bsmiu67.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmmi10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmmi8.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmr7.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+sy10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/symbol
+s/msam10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/sy
+mbols/msbm10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-supe
+r/sfrm1095.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/courier/ucrb
+8a.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb><
+/usr/local/texlive/2025/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/lo
+cal/texlive/2025/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/tex
+live/2025/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb></usr/local/texlive/2
+025/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2025/tex
+mf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2025/texmf-dist
+/fonts/type1/urw/palatino/uplri8a.pfb>
 Output written on /Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH-ITA
-.pdf (136 pages, 963562 bytes).
+.pdf (132 pages, 956405 bytes).
 Transcript written on /Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH
 -ITA.log.
 
-Output written on /Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH-ITA
-.pdf (136 pages, 963562 bytes).
-Transcript written on /Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH
--ITA.log.
-
-
-=============================================================================
 =============================================================================
 SUCCESS — PDF written to: /Users/riccardo/Repositories/NULL_MESH/NULL_MESH-ITA.pdf
-SUCCESS — PDF written to: /Users/riccardo/Repositories/NULL_MESH/NULL_MESH-ITA.pdf
 =============================================================================
-=============================================================================
-
 
 --- Warning / Error Summary ---
---- Warning / Error Summary ---
-
 
 Errors   : 0
-Errors   : 0
-Warnings : 12
-Warnings : 12
-
+Warnings : 6
 
 Full log saved to: /Users/riccardo/Repositories/NULL_MESH/compile.log
-Full log saved to: /Users/riccardo/Repositories/NULL_MESH/compile.log
-=============================================================================
 =============================================================================

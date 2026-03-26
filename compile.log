@@ -1,6 +1,6 @@
 =============================================================================
 NULL MESH — Compilation Log [ITA]
-Date   : 2026-03-24 23:47:54
+Date   : 2026-03-26 23:04:21
 Variant: ITA
 Engine : pdfTeX 3.141592653-2.6-1.40.27 (TeX Live 2025)
 Source : /Users/riccardo/Repositories/NULL_MESH/nullmesh/main-ITA.tex
@@ -87,6 +87,8 @@ ty (/usr/local/texlive/2025/texmf-dist/tex/latex/kvoptions/kvoptions.sty)))
 ))) (/usr/local/texlive/2025/texmf-dist/tex/latex/csquotes/csquotes.sty
 (/usr/local/texlive/2025/texmf-dist/tex/latex/csquotes/csquotes.def)
 (/usr/local/texlive/2025/texmf-dist/tex/latex/csquotes/csquotes.cfg))
+(/usr/local/texlive/2025/texmf-dist/tex/latex/caption/caption.sty
+(/usr/local/texlive/2025/texmf-dist/tex/latex/caption/caption3.sty))
 (/usr/local/texlive/2025/texmf-dist/tex/latex/pdfpages/pdfpages.sty
 (/usr/local/texlive/2025/texmf-dist/tex/latex/base/ifthen.sty)
 (/usr/local/texlive/2025/texmf-dist/tex/latex/tools/calc.sty)
@@ -136,7 +138,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.421 \end{titlepage}
+l.427 \end{titlepage}
                       [1{/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/upd
 map/pdftex.map}{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/base/8r.enc}
 ]
@@ -145,7 +147,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.423 \cleardoublepage
+l.429 \cleardoublepage
                        [2]
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/front/prologue-ITA.tex
 [1])
@@ -342,44 +344,58 @@ Capitolo 9.
 er-ITA.tex
 [94]
 [95]
-[96 </usr/local/texlive/2025/texmf-dist/tex/latex/mwe/example-image.pdf>])
-[97]
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
+[][]\T1/pcr/m/n/10 Figura 1[][]: [][]|Schema della corrispondenza acausale: due
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
+\T1/pcr/m/n/10 registri paralleli, interiore ed esteriore, che
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
+\T1/pcr/m/n/10 convergono nel vacuum senza canale causale diretto
+
+[96]
+[97 </usr/local/texlive/2025/texmf-dist/tex/latex/mwe/example-image.pdf>]
+[98])
+[99]
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch09_deep_sea_flashba
 ck-ITA.tex
-[98]
+[100]
 Capitolo 10.
 
-[99]
-[100]
 [101]
-[102])
+[102]
 [103]
-[104] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/epilogue-ITA.tex
+[104])
 [105]
-[106])
+[106] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/epilogue-ITA.tex
 [107]
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/glossary_terms-ITA.tex
 [108])
 [109]
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/tracksources-ITA.tex
-[110] (/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.enc)
- (/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.chr))
-[111] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/backbone-ITA.tex
+(/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/glossary_terms-ITA.tex
+[110]
+Overfull \vbox (3.3314pt too high) has occurred while \output is active
+Overfull \vbox (13.68135pt too high) has occurred while \output is active
+[111])
 [112]
-[113]
-[114]
-[115])
+(/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/tracksources-ITA.tex
+[113] (/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.enc)
+ (/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.chr))
+[114] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/backbone-ITA.tex
+[115]
 [116]
 [117]
-[118 </Users/riccardo/Repositories/NULL_MESH/nullmesh/cover/back-cover-ITA.pdf>
+[118])
+[119]
+[120]
+[121]
+[122 </Users/riccardo/Repositories/NULL_MESH/nullmesh/cover/back-cover-ITA.pdf>
 ] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH-ITA.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 
-Package rerunfilecheck Warning: File `NULL_MESH-ITA.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  )
 (see the transcript file for additional information)</usr/local/texlive/2025/te
@@ -403,7 +419,7 @@ ist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2025/texmf-dist/fon
 ts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2025/texmf-dist/fonts/type
 1/urw/palatino/uplri8a.pfb>
 Output written on /Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH-ITA
-.pdf (128 pages, 944636 bytes).
+.pdf (132 pages, 951353 bytes).
 Transcript written on /Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH
 -ITA.log.
 
@@ -487,6 +503,8 @@ ty (/usr/local/texlive/2025/texmf-dist/tex/latex/kvoptions/kvoptions.sty)))
 ))) (/usr/local/texlive/2025/texmf-dist/tex/latex/csquotes/csquotes.sty
 (/usr/local/texlive/2025/texmf-dist/tex/latex/csquotes/csquotes.def)
 (/usr/local/texlive/2025/texmf-dist/tex/latex/csquotes/csquotes.cfg))
+(/usr/local/texlive/2025/texmf-dist/tex/latex/caption/caption.sty
+(/usr/local/texlive/2025/texmf-dist/tex/latex/caption/caption3.sty))
 (/usr/local/texlive/2025/texmf-dist/tex/latex/pdfpages/pdfpages.sty
 (/usr/local/texlive/2025/texmf-dist/tex/latex/base/ifthen.sty)
 (/usr/local/texlive/2025/texmf-dist/tex/latex/tools/calc.sty)
@@ -536,7 +554,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.421 \end{titlepage}
+l.427 \end{titlepage}
                       [1{/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/upd
 map/pdftex.map}{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/base/8r.enc}
 ]
@@ -545,7 +563,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.423 \cleardoublepage
+l.429 \cleardoublepage
                        [2]
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/front/prologue-ITA.tex
 [1])
@@ -742,36 +760,52 @@ Capitolo 9.
 er-ITA.tex
 [94]
 [95]
-[96 </usr/local/texlive/2025/texmf-dist/tex/latex/mwe/example-image.pdf>])
-[97]
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
+[][]\T1/pcr/m/n/10 Figura 1[][]: [][]|Schema della corrispondenza acausale: due
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
+\T1/pcr/m/n/10 registri paralleli, interiore ed esteriore, che
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
+\T1/pcr/m/n/10 convergono nel vacuum senza canale causale diretto
+
+[96]
+[97 </usr/local/texlive/2025/texmf-dist/tex/latex/mwe/example-image.pdf>]
+[98])
+[99]
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch09_deep_sea_flashba
 ck-ITA.tex
-[98]
+[100]
 Capitolo 10.
 
-[99]
-[100]
 [101]
-[102])
+[102]
 [103]
-[104] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/epilogue-ITA.tex
+[104])
 [105]
-[106])
+[106] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/epilogue-ITA.tex
 [107]
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/glossary_terms-ITA.tex
 [108])
 [109]
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/tracksources-ITA.tex
-[110] (/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.enc)
- (/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.chr))
-[111] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/backbone-ITA.tex
+(/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/glossary_terms-ITA.tex
+[110]
+Overfull \vbox (3.3314pt too high) has occurred while \output is active
+Overfull \vbox (13.68135pt too high) has occurred while \output is active
+[111])
 [112]
-[113]
-[114]
-[115])
+(/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/tracksources-ITA.tex
+[113] (/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.enc)
+ (/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.chr))
+[114] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/backbone-ITA.tex
+[115]
 [116]
 [117]
-[118 </Users/riccardo/Repositories/NULL_MESH/nullmesh/cover/back-cover-ITA.pdf>
+[118])
+[119]
+[120]
+[121]
+[122 </Users/riccardo/Repositories/NULL_MESH/nullmesh/cover/back-cover-ITA.pdf>
 ] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH-ITA.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
@@ -798,7 +832,7 @@ ist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2025/texmf-dist/fon
 ts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2025/texmf-dist/fonts/type
 1/urw/palatino/uplri8a.pfb>
 Output written on /Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH-ITA
-.pdf (128 pages, 944641 bytes).
+.pdf (132 pages, 951352 bytes).
 Transcript written on /Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH
 -ITA.log.
 
@@ -882,6 +916,8 @@ ty (/usr/local/texlive/2025/texmf-dist/tex/latex/kvoptions/kvoptions.sty)))
 ))) (/usr/local/texlive/2025/texmf-dist/tex/latex/csquotes/csquotes.sty
 (/usr/local/texlive/2025/texmf-dist/tex/latex/csquotes/csquotes.def)
 (/usr/local/texlive/2025/texmf-dist/tex/latex/csquotes/csquotes.cfg))
+(/usr/local/texlive/2025/texmf-dist/tex/latex/caption/caption.sty
+(/usr/local/texlive/2025/texmf-dist/tex/latex/caption/caption3.sty))
 (/usr/local/texlive/2025/texmf-dist/tex/latex/pdfpages/pdfpages.sty
 (/usr/local/texlive/2025/texmf-dist/tex/latex/base/ifthen.sty)
 (/usr/local/texlive/2025/texmf-dist/tex/latex/tools/calc.sty)
@@ -931,7 +967,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.421 \end{titlepage}
+l.427 \end{titlepage}
                       [1{/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/upd
 map/pdftex.map}{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/base/8r.enc}
 ]
@@ -940,7 +976,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.423 \cleardoublepage
+l.429 \cleardoublepage
                        [2]
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/front/prologue-ITA.tex
 [1])
@@ -1137,36 +1173,52 @@ Capitolo 9.
 er-ITA.tex
 [94]
 [95]
-[96 </usr/local/texlive/2025/texmf-dist/tex/latex/mwe/example-image.pdf>])
-[97]
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
+[][]\T1/pcr/m/n/10 Figura 1[][]: [][]|Schema della corrispondenza acausale: due
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
+\T1/pcr/m/n/10 registri paralleli, interiore ed esteriore, che
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
+\T1/pcr/m/n/10 convergono nel vacuum senza canale causale diretto
+
+[96]
+[97 </usr/local/texlive/2025/texmf-dist/tex/latex/mwe/example-image.pdf>]
+[98])
+[99]
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch09_deep_sea_flashba
 ck-ITA.tex
-[98]
+[100]
 Capitolo 10.
 
-[99]
-[100]
 [101]
-[102])
+[102]
 [103]
-[104] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/epilogue-ITA.tex
+[104])
 [105]
-[106])
+[106] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/epilogue-ITA.tex
 [107]
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/glossary_terms-ITA.tex
 [108])
 [109]
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/tracksources-ITA.tex
-[110] (/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.enc)
- (/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.chr))
-[111] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/backbone-ITA.tex
+(/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/glossary_terms-ITA.tex
+[110]
+Overfull \vbox (3.3314pt too high) has occurred while \output is active
+Overfull \vbox (13.68135pt too high) has occurred while \output is active
+[111])
 [112]
-[113]
-[114]
-[115])
+(/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/tracksources-ITA.tex
+[113] (/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.enc)
+ (/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.chr))
+[114] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/backbone-ITA.tex
+[115]
 [116]
 [117]
-[118 </Users/riccardo/Repositories/NULL_MESH/nullmesh/cover/back-cover-ITA.pdf>
+[118])
+[119]
+[120]
+[121]
+[122 </Users/riccardo/Repositories/NULL_MESH/nullmesh/cover/back-cover-ITA.pdf>
 ] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH-ITA.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
@@ -1193,7 +1245,7 @@ ist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2025/texmf-dist/fon
 ts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2025/texmf-dist/fonts/type
 1/urw/palatino/uplri8a.pfb>
 Output written on /Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH-ITA
-.pdf (128 pages, 944641 bytes).
+.pdf (132 pages, 951352 bytes).
 Transcript written on /Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH
 -ITA.log.
 
@@ -1204,7 +1256,7 @@ SUCCESS — PDF written to: /Users/riccardo/Repositories/NULL_MESH/NULL_MESH-ITA
 --- Warning / Error Summary ---
 
 Errors   : 0
-Warnings : 6
+Warnings : 11
 
 Full log saved to: /Users/riccardo/Repositories/NULL_MESH/compile.log
 =============================================================================

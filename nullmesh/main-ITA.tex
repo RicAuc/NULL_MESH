@@ -228,6 +228,7 @@
 % UTILITY PACKAGES
 % ============================================================================
 \usepackage{graphicx}
+\usepackage{caption}
 \usepackage{pdfpages}
 \usepackage{amsmath,amssymb}
 \usepackage{enumitem}
@@ -354,6 +355,10 @@
     \color{white}%
     \colorlet{papertext}{white}%
     \colorlet{papersecondary}{nullmesh-light}%
+    % Fix caption: small typewriter font on dark background
+    \captionsetup{font={small,tt},labelfont={color=white},textfont={color=white}}%
+    % Fix figure numbering: "Figura 1" not "Figura 9.1"
+    \renewcommand{\thefigure}{\arabic{figure}}%
     % Fix footnote rule visibility on dark background
     \renewcommand\footnoterule{%
       \kern-3pt%
@@ -367,6 +372,7 @@
     \clearpage%
     \pagecolor{white}%
     \color{black}%
+    \captionsetup{font=default,labelfont=default,textfont=default}%
     \colorlet{papertext}{nullmesh-dark}%
     \colorlet{papersecondary}{nullmesh-gray}%
     \let\@footnotetext\bp@origfntext

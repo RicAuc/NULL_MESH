@@ -1,0 +1,42 @@
+The modern Internet is, for better or worse, built on advertising. But the advent of autonomous AI agents that can search for information and execute tasks on behalf of users could soon upend this business model and transform the Web, say researchers.
+
+Most of the platforms people rely on to find information online, including search engines and social media sites, make the bulk of their money from advertising, says Jun Wang, a professor of computer science at University College London. By harvesting data on users’ browsing habits and interests, they offer marketers the ability to precisely target individuals with personalized content, which has helped these websites corner a growing proportion of advertising spending.
+
+But rapidly improving AI chatbots are quickly becoming people’s go-to way to find information on the Web, says Wang. And the trend is only likely to accelerate as tech companies roll out AI agents, which can interface with external tools and APIs to autonomously carry out more complex online tasks for users, such as doing in-depth research or making purchases. This has led to predictions that we may soon see the emergence of an “agentic Web” where the primary users of the Internet become AI bots rather than humans.
+
+“The agentic Web is going to change everything,” says Wang, predicting that people will increasingly rely on agents as proxies to navigate the Web on their behalf. And in a recent position paper posted on the preprint server ArXiv, he and colleagues outline how this could lead to a new “agent attention economy” where advertisers increasingly jockey to be noticed by agents instead of humans.
+
+How AI Agents Will Navigate the Web
+Wang is well qualified to talk about the topic, having spent most of his career on the technology that powers today’s online economy. He has worked on recommendation algorithms that parse browsing data to identify the content and products that might interest individuals, and he helped develop real-time auction technology that lets marketers compete to have their ads displayed to specific users. But these systems will need to adapt considerably as agents become more prevalent online, says Wang.
+
+One of the key enablers for a future agentic Web is the Model Context Protocol (MCP) developed by Anthropic, which provides a standardized way for AI models to interact with things like databases, APIs, and other Web services. In order to carry out user instructions, agents will break them down into subtasks and then call on various external MCP-enabled tools to help solve each smaller problem. For example, if asked to plan a holiday, the agent might interface with map services tools, hotel booking platforms, and weather information providers.
+
+Agents will be faced with the same challenges as today’s human Internet users, says Wang; they’ll have to select from many available services and tools to rely on for each subtask. Providers will also face the same challenge of ensuring that their solution is the one selected. But solving these conundrums will require new technology and novel models of agent behavior to ensure that these sometimes competing incentives line up, he adds.
+
+In some areas, the underlying mechanisms could be very similar, says Weinan Zhang, a computer science professor at Shanghai Jiao Tong University, in China, and coauthor of the recent paper. While traditionally advertisers have competed for the eyeballs of human users, in an agentic Web they will compete to get their offerings into an agent’s “context window”—essentially the AI model’s working memory, which holds all the information needed to complete a task.
+
+Exactly how this will be achieved remains an open question, but Zhang says it could involve a kind of auction system similar to the ones used in Web advertising today. Model developers could allow service providers to bid to be included in the options considered by the model, and even pay extra for increased prominence in the shortlist.
+
+The End of Traditional SEO?
+New agent-focused forms of search engine optimization may emerge as well, says Zhang. Rather than using natural-language searches that focus on keywords to surface the best results, agents may increasingly rely on more elaborate data representations like dense vectors, which can incorporate details like the semantic meaning and context of a search query. This may lead to marketers optimizing Web content for these new search approaches, rather than human-readable ones.
+
+An interesting dimension to the agent attention economy, says Zhang, is that it may increasingly involve interactions between multiple agents to solve tasks. This could be made possible by the Agent2Agent Protocol (A2A) introduced by Google, which enables agents from different providers and with different capabilities to communicate and collaborate with each other.
+
+Here again, agents will need some way of deciding which agents to cooperate with, and agent providers will be eager to promote their own offerings. Zhang says we may see the emergence of a new agentic version of PageRank—a system used by search engines to establish the relevance and trustworthiness of Web pages. The current algorithm examines Web pages to see the number and quality of other Web pages that link back to them.
+
+In the new paradigm, agents that handle certain tasks would replace Web pages, says Zhang, and those that are consistently called upon by other popular agents would get a higher rank, which would boost their visibility and reputation. “If the agent is very capable at collaborating with a team to finish different kinds of users tasks, a lot of agents will call this agent,” he says. “The PageRank of this agent will be very high, so that means on the agentic Web this agent will be very important—just like a very large website.”
+
+The possibility of each user request involving multiple agents will further complicate the advertising model, says Zhang. Each agent along the pipeline may be targeted by different advertisers or respond differently to SEO, making it much more complex to track the impact of specific marketing efforts.
+
+The ability of agents to communicate in natural language could also allow them to negotiate in ways similar to how humans haggle in a real-world market, says Wang. Rather than automated bidding tools, agents themselves may wrangle over what tools to use and whom to collaborate with.
+
+The Path Toward an Agentic Web
+Ceding this much control to autonomous systems might seem alarming, but Wang says there are likely to be ways for humans to maintain high-level control over their agentic proxies. One simple option would be to allow users to select which service providers their agents can interact with.
+
+“So for example, if I use booking.com quite often and I use Amazon, I just subscribe to their MCP servers,” he says. “Then the agent is constrained to their environments to do the deal for me, because those are the partners I trust.”
+
+However, Wang admits this vision remains some way off. Most people are still a long way from trusting bots to roam the Internet making purchases for them, and advertising technology for agents doesn’t yet exist. Creating an agentic attention economy will likely require big players to come together to develop tools that can navigate competing interests and complex multiagent-coordination problems, he adds.
+
+If these problems are solved, it could fundamentally change the nature of the Internet. People will increasingly access the Web through digital assistants without ever actually browsing websites themselves, says Zhang, and Web pages and online services will increasingly be tailored for agents rather than humans. “The conventional Web will shrink,” he says.
+
+This article appears in the November 2025 print issue as “The Web Is Being Remade for AI Agents.”

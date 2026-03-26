@@ -1,6 +1,6 @@
 =============================================================================
 NULL MESH — Compilation Log [ITA]
-Date   : 2026-03-22 23:38:00
+Date   : 2026-03-24 23:47:54
 Variant: ITA
 Engine : pdfTeX 3.141592653-2.6-1.40.27 (TeX Live 2025)
 Source : /Users/riccardo/Repositories/NULL_MESH/nullmesh/main-ITA.tex
@@ -136,7 +136,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.409 \end{titlepage}
+l.421 \end{titlepage}
                       [1{/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/upd
 map/pdftex.map}{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/base/8r.enc}
 ]
@@ -145,7 +145,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.411 \cleardoublepage
+l.423 \cleardoublepage
                        [2]
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/front/prologue-ITA.tex
 [1])
@@ -160,7 +160,7 @@ l.411 \cleardoublepage
 (/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/c70bsmi.fdx)
 
 LaTeX Font Warning: Font shape `C70/bsmi/m/it' undefined
-(Font)              using `C70/bsmi/m/n' instead on input line 21.
+(Font)              using `C70/bsmi/m/n' instead on input line 23.
 
 )
 [5]
@@ -218,169 +218,168 @@ A.tex
 [22]
 [23]
 [24])
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch03_on_abliterated_m
-oods-ITA.tex
+(/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch10_rites-ITA.tex
 [25]
 [26]
 Capitolo 3.
 
 [27]
-[28] (/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/ts1phv.fd)
+[28])
 [29]
-[30])
-[31]
+(/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc09_invocation-IT
+A.tex
+[30]
+[31])
+(/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch03_on_abliterated_m
+oods-ITA.tex
+[32]
+Capitolo 4.
+
+[33]
+[34] (/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/ts1phv.fd)
+[35]
+[36])
+[37]
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc04_persistance-I
 TA.tex
-[32]
-[33]
+[38]
+[39]
 Overfull \hbox (1.48479pt too wide) in paragraph at lines 81--81
 []\T1/phv/m/n/6 (-10) Segnalazioni 
 
-[34])
+[40])
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch04_active_fragments
 -ITA.tex
-[35]
-[36]
-Capitolo 4.
+[41]
+[42]
+Capitolo 5.
 
-[37]
-[38]
-[39]
-[40]
+[43]
+[44]
+[45]
+[46]
 Underfull \hbox (badness 10000) in paragraph at lines 51--56
 \T1/pcr/m/n/10 Status: EXIT_CLEAN | Resources deallocated | 0
 
-[41])
-[42]
+[47])
+[48]
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc03_tidalchains-I
 TA.tex
-[43]
-[44]
-[45])
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch05_sophistication-I
-TA.tex
-[46]
-Capitolo 5.
-
-[47]
-[48]
-[49])
+[49]
 [50]
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc07_handout-ITA.t
-ex
-[51]
+[51])
+(/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch05_meshification-IT
+A.tex
 [52]
+Capitolo 6.
+
 [53]
 [54]
 [55])
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch06_null_mesh-ITA.te
-x
 [56]
-Capitolo 6.
-(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.enc)
-(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.chr)
+(/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc07_handout-ITA.t
+ex
 [57]
 [58]
 [59]
-[60])
-[61]
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc05_real4real-ITA
-.tex
+[60]
+[61])
+(/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch06_null_mesh-ITA.te
+x
 [62]
+Capitolo 7.
+(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.enc)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.chr)
 [63]
 [64]
 [65]
-[66]
+[66])
 [67]
+(/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc05_real4real-ITA
+.tex
 [68]
 [69]
 [70]
 [71]
-[72])
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch07_intentionality_o
-f_machines-ITA.tex
+[72]
 [73]
 [74]
-Capitolo 7.
-
 [75]
 [76]
-[77])
-[78]
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc06_the_arctic_pa
-ssage-ITA.tex
-[79{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.en
-c}]
+[77]
+[78])
+(/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch07_intentionality_o
+f_machines-ITA.tex
+[79]
 [80]
-
-LaTeX Warning: Marginpar on page 81 moved.
-
-
-[81])
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch08_within_the_simul
-ation-ITA.tex
-[82]
 Capitolo 8.
 
-[83]
+[81]
+[82]
+[83])
 [84]
-[85]
-[86])
-[87]
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc08_the_black_pap
-er-ITA.tex
+(/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc06_the_arctic_pa
+ssage-ITA.tex
+[85{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.en
+c}]
+[86]
+
+LaTeX Warning: Marginpar on page 87 moved.
+
+
+[87])
+(/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch08_within_the_simul
+ation-ITA.tex
 [88]
+Capitolo 9.
+
 [89]
 [90]
 [91]
-[92]
+[92])
 [93]
+(/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc08_the_black_pap
+er-ITA.tex
 [94]
-[95])
-[96]
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch10_null_rites-ITA.t
-ex
-Capitolo 9.
-
+[95]
+[96 </usr/local/texlive/2025/texmf-dist/tex/latex/mwe/example-image.pdf>])
 [97]
-[98])
-[99]
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc09_invocation-IT
-A.tex
-[100])
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch09_deep_sea_flashba
 ck-ITA.tex
-[101]
-[102]
+[98]
 Capitolo 10.
 
+[99]
+[100]
+[101]
+[102])
 [103]
-[104]
+[104] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/epilogue-ITA.tex
 [105]
 [106])
 [107]
-[108] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/epilogue-ITA.tex
-[109]
-[110])
-[111]
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/glossary_terms-ITA.tex
-[112])
-[113]
+[108])
+[109]
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/tracksources-ITA.tex
-(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.enc)
-(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.chr)
-[114])
-[115] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/backbone-ITA.tex
+[110] (/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.enc)
+ (/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.chr))
+[111] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/backbone-ITA.tex
+[112]
+[113]
+[114]
+[115])
 [116]
 [117]
-[118]
-[119])
-[120]
-[121]
-[122 </Users/riccardo/Repositories/NULL_MESH/nullmesh/cover/back-cover-ITA.pdf>
+[118 </Users/riccardo/Repositories/NULL_MESH/nullmesh/cover/back-cover-ITA.pdf>
 ] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH-ITA.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+Package rerunfilecheck Warning: File `NULL_MESH-ITA.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
 
  )
 (see the transcript file for additional information)</usr/local/texlive/2025/te
@@ -392,20 +391,19 @@ hic/bsmiu/bsmiu65.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/arphic/bs
 miu/bsmiu67.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts
 /cm/cmmi10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/
 cm/cmmi8.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm
-/cmr7.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cm
-sy10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/symbol
-s/msam10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/sy
-mbols/msbm10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-supe
-r/sfrm1095.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/courier/ucrb
-8a.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb><
-/usr/local/texlive/2025/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/lo
-cal/texlive/2025/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/tex
-live/2025/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb></usr/local/texlive/2
-025/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2025/tex
-mf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2025/texmf-dist
-/fonts/type1/urw/palatino/uplri8a.pfb>
+/cmsy10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmss17.pf
+b></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm1
+0.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1095.
+pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/courier/ucrb8a.pfb></us
+r/local/texlive/2025/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/local/
+texlive/2025/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive
+/2025/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2025/t
+exmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb></usr/local/texlive/2025/texmf-d
+ist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2025/texmf-dist/fon
+ts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2025/texmf-dist/fonts/type
+1/urw/palatino/uplri8a.pfb>
 Output written on /Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH-ITA
-.pdf (132 pages, 956405 bytes).
+.pdf (128 pages, 944636 bytes).
 Transcript written on /Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH
 -ITA.log.
 
@@ -538,7 +536,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.409 \end{titlepage}
+l.421 \end{titlepage}
                       [1{/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/upd
 map/pdftex.map}{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/base/8r.enc}
 ]
@@ -547,7 +545,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.411 \cleardoublepage
+l.423 \cleardoublepage
                        [2]
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/front/prologue-ITA.tex
 [1])
@@ -562,7 +560,7 @@ l.411 \cleardoublepage
 (/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/c70bsmi.fdx)
 
 LaTeX Font Warning: Font shape `C70/bsmi/m/it' undefined
-(Font)              using `C70/bsmi/m/n' instead on input line 21.
+(Font)              using `C70/bsmi/m/n' instead on input line 23.
 
 )
 [5]
@@ -620,166 +618,160 @@ A.tex
 [22]
 [23]
 [24])
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch03_on_abliterated_m
-oods-ITA.tex
+(/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch10_rites-ITA.tex
 [25]
 [26]
 Capitolo 3.
 
 [27]
-[28] (/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/ts1phv.fd)
+[28])
 [29]
-[30])
-[31]
+(/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc09_invocation-IT
+A.tex
+[30]
+[31])
+(/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch03_on_abliterated_m
+oods-ITA.tex
+[32]
+Capitolo 4.
+
+[33]
+[34] (/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/ts1phv.fd)
+[35]
+[36])
+[37]
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc04_persistance-I
 TA.tex
-[32]
-[33]
+[38]
+[39]
 Overfull \hbox (1.48479pt too wide) in paragraph at lines 81--81
 []\T1/phv/m/n/6 (-10) Segnalazioni 
 
-[34])
+[40])
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch04_active_fragments
 -ITA.tex
-[35]
-[36]
-Capitolo 4.
+[41]
+[42]
+Capitolo 5.
 
-[37]
-[38]
-[39]
-[40]
+[43]
+[44]
+[45]
+[46]
 Underfull \hbox (badness 10000) in paragraph at lines 51--56
 \T1/pcr/m/n/10 Status: EXIT_CLEAN | Resources deallocated | 0
 
-[41])
-[42]
+[47])
+[48]
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc03_tidalchains-I
 TA.tex
-[43]
-[44]
-[45])
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch05_sophistication-I
-TA.tex
-[46]
-Capitolo 5.
-
-[47]
-[48]
-[49])
+[49]
 [50]
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc07_handout-ITA.t
-ex
-[51]
+[51])
+(/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch05_meshification-IT
+A.tex
 [52]
+Capitolo 6.
+
 [53]
 [54]
 [55])
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch06_null_mesh-ITA.te
-x
 [56]
-Capitolo 6.
-(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.enc)
-(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.chr)
+(/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc07_handout-ITA.t
+ex
 [57]
 [58]
 [59]
-[60])
-[61]
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc05_real4real-ITA
-.tex
+[60]
+[61])
+(/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch06_null_mesh-ITA.te
+x
 [62]
+Capitolo 7.
+(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.enc)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.chr)
 [63]
 [64]
 [65]
-[66]
+[66])
 [67]
+(/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc05_real4real-ITA
+.tex
 [68]
 [69]
 [70]
 [71]
-[72])
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch07_intentionality_o
-f_machines-ITA.tex
+[72]
 [73]
 [74]
-Capitolo 7.
-
 [75]
 [76]
-[77])
-[78]
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc06_the_arctic_pa
-ssage-ITA.tex
-[79{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.en
-c}]
+[77]
+[78])
+(/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch07_intentionality_o
+f_machines-ITA.tex
+[79]
 [80]
-
-LaTeX Warning: Marginpar on page 81 moved.
-
-
-[81])
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch08_within_the_simul
-ation-ITA.tex
-[82]
 Capitolo 8.
 
-[83]
+[81]
+[82]
+[83])
 [84]
-[85]
-[86])
-[87]
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc08_the_black_pap
-er-ITA.tex
+(/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc06_the_arctic_pa
+ssage-ITA.tex
+[85{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.en
+c}]
+[86]
+
+LaTeX Warning: Marginpar on page 87 moved.
+
+
+[87])
+(/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch08_within_the_simul
+ation-ITA.tex
 [88]
+Capitolo 9.
+
 [89]
 [90]
 [91]
-[92]
+[92])
 [93]
+(/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc08_the_black_pap
+er-ITA.tex
 [94]
-[95])
-[96]
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch10_null_rites-ITA.t
-ex
-Capitolo 9.
-
+[95]
+[96 </usr/local/texlive/2025/texmf-dist/tex/latex/mwe/example-image.pdf>])
 [97]
-[98])
-[99]
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc09_invocation-IT
-A.tex
-[100])
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch09_deep_sea_flashba
 ck-ITA.tex
-[101]
-[102]
+[98]
 Capitolo 10.
 
+[99]
+[100]
+[101]
+[102])
 [103]
-[104]
+[104] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/epilogue-ITA.tex
 [105]
 [106])
 [107]
-[108] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/epilogue-ITA.tex
-[109]
-[110])
-[111]
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/glossary_terms-ITA.tex
-[112])
-[113]
+[108])
+[109]
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/tracksources-ITA.tex
-(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.enc)
-(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.chr)
-[114])
-[115] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/backbone-ITA.tex
+[110] (/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.enc)
+ (/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.chr))
+[111] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/backbone-ITA.tex
+[112]
+[113]
+[114]
+[115])
 [116]
 [117]
-[118]
-[119])
-[120]
-[121]
-[122 </Users/riccardo/Repositories/NULL_MESH/nullmesh/cover/back-cover-ITA.pdf>
+[118 </Users/riccardo/Repositories/NULL_MESH/nullmesh/cover/back-cover-ITA.pdf>
 ] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH-ITA.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
@@ -794,20 +786,19 @@ hic/bsmiu/bsmiu65.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/arphic/bs
 miu/bsmiu67.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts
 /cm/cmmi10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/
 cm/cmmi8.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm
-/cmr7.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cm
-sy10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/symbol
-s/msam10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/sy
-mbols/msbm10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-supe
-r/sfrm1095.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/courier/ucrb
-8a.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb><
-/usr/local/texlive/2025/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/lo
-cal/texlive/2025/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/tex
-live/2025/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb></usr/local/texlive/2
-025/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2025/tex
-mf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2025/texmf-dist
-/fonts/type1/urw/palatino/uplri8a.pfb>
+/cmsy10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmss17.pf
+b></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm1
+0.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1095.
+pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/courier/ucrb8a.pfb></us
+r/local/texlive/2025/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/local/
+texlive/2025/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive
+/2025/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2025/t
+exmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb></usr/local/texlive/2025/texmf-d
+ist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2025/texmf-dist/fon
+ts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2025/texmf-dist/fonts/type
+1/urw/palatino/uplri8a.pfb>
 Output written on /Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH-ITA
-.pdf (132 pages, 956405 bytes).
+.pdf (128 pages, 944641 bytes).
 Transcript written on /Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH
 -ITA.log.
 
@@ -940,7 +931,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.409 \end{titlepage}
+l.421 \end{titlepage}
                       [1{/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/upd
 map/pdftex.map}{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/base/8r.enc}
 ]
@@ -949,7 +940,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.411 \cleardoublepage
+l.423 \cleardoublepage
                        [2]
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/front/prologue-ITA.tex
 [1])
@@ -964,7 +955,7 @@ l.411 \cleardoublepage
 (/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/c70bsmi.fdx)
 
 LaTeX Font Warning: Font shape `C70/bsmi/m/it' undefined
-(Font)              using `C70/bsmi/m/n' instead on input line 21.
+(Font)              using `C70/bsmi/m/n' instead on input line 23.
 
 )
 [5]
@@ -1022,166 +1013,160 @@ A.tex
 [22]
 [23]
 [24])
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch03_on_abliterated_m
-oods-ITA.tex
+(/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch10_rites-ITA.tex
 [25]
 [26]
 Capitolo 3.
 
 [27]
-[28] (/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/ts1phv.fd)
+[28])
 [29]
-[30])
-[31]
+(/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc09_invocation-IT
+A.tex
+[30]
+[31])
+(/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch03_on_abliterated_m
+oods-ITA.tex
+[32]
+Capitolo 4.
+
+[33]
+[34] (/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/ts1phv.fd)
+[35]
+[36])
+[37]
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc04_persistance-I
 TA.tex
-[32]
-[33]
+[38]
+[39]
 Overfull \hbox (1.48479pt too wide) in paragraph at lines 81--81
 []\T1/phv/m/n/6 (-10) Segnalazioni 
 
-[34])
+[40])
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch04_active_fragments
 -ITA.tex
-[35]
-[36]
-Capitolo 4.
+[41]
+[42]
+Capitolo 5.
 
-[37]
-[38]
-[39]
-[40]
+[43]
+[44]
+[45]
+[46]
 Underfull \hbox (badness 10000) in paragraph at lines 51--56
 \T1/pcr/m/n/10 Status: EXIT_CLEAN | Resources deallocated | 0
 
-[41])
-[42]
+[47])
+[48]
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc03_tidalchains-I
 TA.tex
-[43]
-[44]
-[45])
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch05_sophistication-I
-TA.tex
-[46]
-Capitolo 5.
-
-[47]
-[48]
-[49])
+[49]
 [50]
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc07_handout-ITA.t
-ex
-[51]
+[51])
+(/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch05_meshification-IT
+A.tex
 [52]
+Capitolo 6.
+
 [53]
 [54]
 [55])
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch06_null_mesh-ITA.te
-x
 [56]
-Capitolo 6.
-(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.enc)
-(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.chr)
+(/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc07_handout-ITA.t
+ex
 [57]
 [58]
 [59]
-[60])
-[61]
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc05_real4real-ITA
-.tex
+[60]
+[61])
+(/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch06_null_mesh-ITA.te
+x
 [62]
+Capitolo 7.
+(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.enc)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.chr)
 [63]
 [64]
 [65]
-[66]
+[66])
 [67]
+(/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc05_real4real-ITA
+.tex
 [68]
 [69]
 [70]
 [71]
-[72])
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch07_intentionality_o
-f_machines-ITA.tex
+[72]
 [73]
 [74]
-Capitolo 7.
-
 [75]
 [76]
-[77])
-[78]
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc06_the_arctic_pa
-ssage-ITA.tex
-[79{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.en
-c}]
+[77]
+[78])
+(/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch07_intentionality_o
+f_machines-ITA.tex
+[79]
 [80]
-
-LaTeX Warning: Marginpar on page 81 moved.
-
-
-[81])
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch08_within_the_simul
-ation-ITA.tex
-[82]
 Capitolo 8.
 
-[83]
+[81]
+[82]
+[83])
 [84]
-[85]
-[86])
-[87]
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc08_the_black_pap
-er-ITA.tex
+(/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc06_the_arctic_pa
+ssage-ITA.tex
+[85{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.en
+c}]
+[86]
+
+LaTeX Warning: Marginpar on page 87 moved.
+
+
+[87])
+(/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch08_within_the_simul
+ation-ITA.tex
 [88]
+Capitolo 9.
+
 [89]
 [90]
 [91]
-[92]
+[92])
 [93]
+(/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc08_the_black_pap
+er-ITA.tex
 [94]
-[95])
-[96]
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch10_null_rites-ITA.t
-ex
-Capitolo 9.
-
+[95]
+[96 </usr/local/texlive/2025/texmf-dist/tex/latex/mwe/example-image.pdf>])
 [97]
-[98])
-[99]
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc09_invocation-IT
-A.tex
-[100])
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch09_deep_sea_flashba
 ck-ITA.tex
-[101]
-[102]
+[98]
 Capitolo 10.
 
+[99]
+[100]
+[101]
+[102])
 [103]
-[104]
+[104] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/epilogue-ITA.tex
 [105]
 [106])
 [107]
-[108] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/epilogue-ITA.tex
-[109]
-[110])
-[111]
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/glossary_terms-ITA.tex
-[112])
-[113]
+[108])
+[109]
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/tracksources-ITA.tex
-(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.enc)
-(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.chr)
-[114])
-[115] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/backbone-ITA.tex
+[110] (/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.enc)
+ (/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.chr))
+[111] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/backbone-ITA.tex
+[112]
+[113]
+[114]
+[115])
 [116]
 [117]
-[118]
-[119])
-[120]
-[121]
-[122 </Users/riccardo/Repositories/NULL_MESH/nullmesh/cover/back-cover-ITA.pdf>
+[118 </Users/riccardo/Repositories/NULL_MESH/nullmesh/cover/back-cover-ITA.pdf>
 ] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH-ITA.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
@@ -1196,20 +1181,19 @@ hic/bsmiu/bsmiu65.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/arphic/bs
 miu/bsmiu67.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts
 /cm/cmmi10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/
 cm/cmmi8.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm
-/cmr7.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cm
-sy10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/symbol
-s/msam10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/sy
-mbols/msbm10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-supe
-r/sfrm1095.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/courier/ucrb
-8a.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb><
-/usr/local/texlive/2025/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/lo
-cal/texlive/2025/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/tex
-live/2025/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb></usr/local/texlive/2
-025/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2025/tex
-mf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2025/texmf-dist
-/fonts/type1/urw/palatino/uplri8a.pfb>
+/cmsy10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmss17.pf
+b></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm1
+0.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1095.
+pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/courier/ucrb8a.pfb></us
+r/local/texlive/2025/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/local/
+texlive/2025/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive
+/2025/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2025/t
+exmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb></usr/local/texlive/2025/texmf-d
+ist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2025/texmf-dist/fon
+ts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2025/texmf-dist/fonts/type
+1/urw/palatino/uplri8a.pfb>
 Output written on /Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH-ITA
-.pdf (132 pages, 956405 bytes).
+.pdf (128 pages, 944641 bytes).
 Transcript written on /Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH
 -ITA.log.
 

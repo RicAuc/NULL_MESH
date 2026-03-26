@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.12.18)  21 MAR 2026 23:52
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.12.18)  24 MAR 2026 23:38
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1163,12 +1163,12 @@ Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
 )
 Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 ))
-<cover/front-cover.pdf, id=124, 203.76125pt x 306.14375pt>
+<cover/front-cover.pdf, id=112, 203.76125pt x 306.14375pt>
 File: cover/front-cover.pdf Graphic file (type pdf)
 <use cover/front-cover.pdf>
 Package pdftex.def Info: cover/front-cover.pdf  used on input line 398.
 (pdftex.def)             Requested size: 203.76074pt x 306.14299pt.
-<cover/front-cover.pdf, id=126, page=1, 203.76125pt x 306.14375pt>
+<cover/front-cover.pdf, id=114, page=1, 203.76125pt x 306.14375pt>
 File: cover/front-cover.pdf Graphic file (type pdf)
 <use cover/front-cover.pdf, page 1>
 Package pdftex.def Info: cover/front-cover.pdf , page1 used on input line 398.
@@ -1287,7 +1287,7 @@ File: UTF8.enc 2021/10/16 4.8.5
 File: UTF8.chr 2021/10/16 4.8.5
 )
 LaTeX Font Info:    Trying to load font information for C70+bsmi on input line 
-21.
+23.
 
 (/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/c70bsmi.fd
 File: c70bsmi.fd 2021/10/16 4.8.5
@@ -1297,7 +1297,7 @@ File: c70bsmi.fdx 2021/10/16 4.8.5
 )
 
 LaTeX Font Warning: Font shape `C70/bsmi/m/it' undefined
-(Font)              using `C70/bsmi/m/n' instead on input line 21.
+(Font)              using `C70/bsmi/m/n' instead on input line 23.
 
 )
 
@@ -1307,7 +1307,7 @@ LaTeX Font Warning: Font shape `C70/bsmi/m/it' undefined
 ]
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch01_the_sediment.tex
 Chapter 1.
-<qrs/ch01_basinski.png, id=203, 240.9pt x 240.9pt>
+<qrs/ch01_basinski.png, id=190, 240.9pt x 240.9pt>
 File: qrs/ch01_basinski.png Graphic file (type png)
 <use qrs/ch01_basinski.png>
 Package pdftex.def Info: qrs/ch01_basinski.png  used on input line 5.
@@ -1442,9 +1442,7 @@ Package pdftex.def Info: qrs/ch01_basinski.png  used on input line 4.
 
 [23]
 
-[24])
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch03_on_abliterated_m
-oods.tex
+[24]) (/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch10_rites.tex
 
 [25]
 
@@ -1461,7 +1459,40 @@ Package pdftex.def Info: qrs/ch01_basinski.png  used on input line 5.
 
 [27]
 
-[28]
+[28])
+
+[29]
+(/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc09_invocation.te
+x
+File: qrs/ch01_basinski.png Graphic file (type png)
+<use qrs/ch01_basinski.png>
+Package pdftex.def Info: qrs/ch01_basinski.png  used on input line 3.
+(pdftex.def)             Requested size: 90.3375pt x 90.33727pt.
+
+
+[30
+
+
+]
+
+[31])
+(/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch03_on_abliterated_m
+oods.tex
+
+[32]
+Chapter 4.
+File: qrs/ch01_basinski.png Graphic file (type png)
+<use qrs/ch01_basinski.png>
+Package pdftex.def Info: qrs/ch01_basinski.png  used on input line 5.
+(pdftex.def)             Requested size: 90.3375pt x 90.33727pt.
+
+
+[33
+
+
+]
+
+[34]
 LaTeX Font Info:    Trying to load font information for TS1+phv on input line 4
 3.
  (/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/ts1phv.fd
@@ -1473,11 +1504,11 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             See the microtype manual for details.
 
 
-[29]
+[35]
 
-[30])
+[36])
 
-[31]
+[37]
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc04_persistance.t
 ex
 File: qrs/ch01_basinski.png Graphic file (type png)
@@ -1486,12 +1517,12 @@ Package pdftex.def Info: qrs/ch01_basinski.png  used on input line 4.
 (pdftex.def)             Requested size: 90.3375pt x 90.33727pt.
 
 
-[32
+[38
 
 
 ]
 
-[33]
+[39]
 Underfull \hbox (badness 1521) in paragraph at lines 62--63
 \T1/phv/m/n/10.95 (+10) De-tects lo-cal-ized vor-tices main-tain-ing co-her-enc
 e across time.
@@ -1499,39 +1530,39 @@ e across time.
 
 
 
-[34])
+[40])
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch04_active_fragments
 .tex
 
-[35]
+[41]
 
-[36
+[42
 
 
 ]
-Chapter 4.
+Chapter 5.
 File: qrs/ch01_basinski.png Graphic file (type png)
 <use qrs/ch01_basinski.png>
 Package pdftex.def Info: qrs/ch01_basinski.png  used on input line 5.
 (pdftex.def)             Requested size: 90.3375pt x 90.33727pt.
 
 
-[37]
+[43]
 
-[38]
+[44]
 
-[39]
+[45]
 Underfull \hbox (badness 10000) in paragraph at lines 53--58
 \T1/pcr/m/n/10 Status: EXIT_CLEAN | Resources deallocated | 0
  []
 
 
 
-[40]
+[46]
 
-[41])
+[47])
 
-[42]
+[48]
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc03_tidalchains.t
 ex
 File: qrs/ch01_basinski.png Graphic file (type png)
@@ -1540,68 +1571,41 @@ Package pdftex.def Info: qrs/ch01_basinski.png  used on input line 4.
 (pdftex.def)             Requested size: 90.3375pt x 90.33727pt.
 
 
-[43
+[49
 
 
 ]
 
-[44]
+[50]
 
-[45])
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch05_sophistication.t
-ex
+[51])
+(/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch05_meshificationtex
+.tex
 
-[46]
-Chapter 5.
+[52]
+Chapter 6.
 File: qrs/ch01_basinski.png Graphic file (type png)
 <use qrs/ch01_basinski.png>
 Package pdftex.def Info: qrs/ch01_basinski.png  used on input line 5.
 (pdftex.def)             Requested size: 90.3375pt x 90.33727pt.
 
 
-[47
+[53
 
 
 ]
 
-[48]
+[54]
 
-[49])
+[55])
 
-[50]
+[56]
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc07_handout.tex
 File: qrs/ch01_basinski.png Graphic file (type png)
 <use qrs/ch01_basinski.png>
 Package pdftex.def Info: qrs/ch01_basinski.png  used on input line 3.
 (pdftex.def)             Requested size: 90.3375pt x 90.33727pt.
 
-
-[51
-
-
-]
-
-[52]
-
-[53]
-
-[54]
-
-[55])
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch06_null_mesh.tex
-
-[56]
-Chapter 6.
-File: qrs/ch01_basinski.png Graphic file (type png)
-<use qrs/ch01_basinski.png>
-Package pdftex.def Info: qrs/ch01_basinski.png  used on input line 5.
-(pdftex.def)             Requested size: 90.3375pt x 90.33727pt.
-(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.enc
-File: UTF8.enc 2021/10/16 4.8.5
-)
-(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.chr
-File: UTF8.chr 2021/10/16 4.8.5
-)
 
 [57
 
@@ -1612,9 +1616,36 @@ File: UTF8.chr 2021/10/16 4.8.5
 
 [59]
 
-[60])
+[60]
 
-[61]
+[61])
+(/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch06_null_mesh.tex
+
+[62]
+Chapter 7.
+File: qrs/ch01_basinski.png Graphic file (type png)
+<use qrs/ch01_basinski.png>
+Package pdftex.def Info: qrs/ch01_basinski.png  used on input line 5.
+(pdftex.def)             Requested size: 90.3375pt x 90.33727pt.
+(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.enc
+File: UTF8.enc 2021/10/16 4.8.5
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.chr
+File: UTF8.chr 2021/10/16 4.8.5
+)
+
+[63
+
+
+]
+
+[64]
+
+[65]
+
+[66])
+
+[67]
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc05_real4real.tex
 File: qrs/ch01_basinski.png Graphic file (type png)
 <use qrs/ch01_basinski.png>
@@ -1622,47 +1653,47 @@ Package pdftex.def Info: qrs/ch01_basinski.png  used on input line 4.
 (pdftex.def)             Requested size: 90.3375pt x 90.33727pt.
 
 
-[62
+[68
 
 
 ]
-
-[63]
-
-[64]
-
-[65]
-
-[66]
-
-[67]
-
-[68]
 
 [69]
 
 [70]
 
-[71])
+[71]
+
+[72]
+
+[73]
+
+[74]
+
+[75]
+
+[76]
+
+[77])
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch07_intentionality_o
 f_machines.tex
 
-[72]
-Chapter 7.
+[78]
+Chapter 8.
 File: qrs/ch01_basinski.png Graphic file (type png)
 <use qrs/ch01_basinski.png>
 Package pdftex.def Info: qrs/ch01_basinski.png  used on input line 5.
 (pdftex.def)             Requested size: 90.3375pt x 90.33727pt.
 
 
-[73
+[79
 
 
 ]
 
-[74])
+[80])
 
-[75]
+[81]
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc06_the_arctic_pa
 ssage.tex
 File: qrs/ch01_basinski.png Graphic file (type png)
@@ -1671,17 +1702,17 @@ Package pdftex.def Info: qrs/ch01_basinski.png  used on input line 4.
 (pdftex.def)             Requested size: 90.3375pt x 90.33727pt.
 
 
-[76
+[82
 
 
 {/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc}]
 
 
-[77]
+[83]
 
-[78]
+[84]
 
-[79]
+[85]
 Underfull \hbox (badness 4832) in paragraph at lines 76--77
 []\T1/phv/m/n/10.95 (+10) Deterministic at macro scale, information-theoretical
 ly closed.
@@ -1689,48 +1720,29 @@ ly closed.
 
 
 
-[80])
+[86])
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch08_within_the_simul
 ation.tex
 
-[81]
+[87]
 
-[82
+[88
 
 
 ]
-Chapter 8.
+Chapter 9.
 File: qrs/ch01_basinski.png Graphic file (type png)
 <use qrs/ch01_basinski.png>
 Package pdftex.def Info: qrs/ch01_basinski.png  used on input line 5.
 (pdftex.def)             Requested size: 90.3375pt x 90.33727pt.
 
 
-[83]
+[89]
 Underfull \hbox (badness 1571) in paragraph at lines 16--17
 []\T1/phv/m/n/10.95 (+10) An eigen-mood re-solved weeks ago re-main-ing ac-ces-
 si-ble, un-
  []
 
-
-
-[84]
-
-[85]
-
-[86]
-
-[87])
-
-[88]
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc08_the_black_pap
-er.tex
-
-[89
-
-
-]
-LaTeX Font Info:    Calculating math sizes for size <7.5> on input line 48.
 
 
 [90]
@@ -1739,67 +1751,26 @@ LaTeX Font Info:    Calculating math sizes for size <7.5> on input line 48.
 
 [92]
 
-[93]
-<example-image.pdf, id=616, 321.2pt x 240.9pt>
-File: example-image.pdf Graphic file (type pdf)
-<use example-image.pdf>
-Package pdftex.def Info: example-image.pdf  used on input line 113.
-(pdftex.def)             Requested size: 260.17299pt x 195.13527pt.
+[93])
+
+[94]
+(/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc08_the_black_pap
+er.tex
+
+[95
 
 
-[94 </usr/local/texlive/2025/texmf-dist/tex/latex/mwe/example-image.pdf>]
+]
 
-[95]
-
-[96]
+[96])
 
 [97]
-
-[98]
-
-[99])
-
-[100]
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch10_null_rites.tex
-Chapter 9.
-File: qrs/ch01_basinski.png Graphic file (type png)
-<use qrs/ch01_basinski.png>
-Package pdftex.def Info: qrs/ch01_basinski.png  used on input line 6.
-(pdftex.def)             Requested size: 90.3375pt x 90.33727pt.
-
-
-[101
-
-
-
-
-]
-
-[102]
-
-[103])
-
-[104]
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc09_invocation.te
-x
-File: qrs/ch01_basinski.png Graphic file (type png)
-<use qrs/ch01_basinski.png>
-Package pdftex.def Info: qrs/ch01_basinski.png  used on input line 4.
-(pdftex.def)             Requested size: 90.3375pt x 90.33727pt.
-
-
-[105
-
-
-]
-
-[106])
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch09_deep_sea_flashba
 ck.tex
 
-[107]
+[98
 
-[108
+
 
 
 ]
@@ -1810,75 +1781,73 @@ Package pdftex.def Info: qrs/ch01_basinski.png  used on input line 5.
 (pdftex.def)             Requested size: 90.3375pt x 90.33727pt.
 
 
-[109]
+[99]
 
-[110]
+[100]
 
-[111]
+[101]
 
-[112])
+[102])
 
-[113]
+[103]
 
-[114
+[104
 
 
 ] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/epilogue.tex
 
-[115
+[105
 
 
 ]
 
-[116])
+[106])
 
-[117] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/glossary_terms.tex
-[118
+[107] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/glossary_terms.tex
+[108
 
 
 ])
 
-[119] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/tracksources.tex
+[109] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/tracksources.tex
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <9> not available
 (Font)              Font shape `T1/phv/m/sl' tried instead on input line 7.
 
-(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.enc
+
+[110
+
+
+] (/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.enc
 File: UTF8.enc 2021/10/16 4.8.5
-)
-(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.chr
+) (/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.chr
 File: UTF8.chr 2021/10/16 4.8.5
-)
+))
 
-[120
+[111] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/backbone.tex
 
-
-])
-
-[121] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/backbone.tex
-
-[122
+[112
 
 
 ]
 
-[123]
+[113]
 
-[124]
+[114]
 
-[125])
+[115])
 
-[126]
+[116]
 
-[127
+[117
 
 
 ]
-<cover/back-cover.pdf, id=783, 203.76125pt x 306.14375pt>
+<cover/back-cover.pdf, id=692, 203.76125pt x 306.14375pt>
 File: cover/back-cover.pdf Graphic file (type pdf)
 <use cover/back-cover.pdf>
 Package pdftex.def Info: cover/back-cover.pdf  used on input line 531.
 (pdftex.def)             Requested size: 203.76074pt x 306.14299pt.
-<cover/back-cover.pdf, id=785, page=1, 203.76125pt x 306.14375pt>
+<cover/back-cover.pdf, id=694, page=1, 203.76125pt x 306.14375pt>
 File: cover/back-cover.pdf Graphic file (type pdf)
 <use cover/back-cover.pdf, page 1>
 Package pdftex.def Info: cover/back-cover.pdf , page1 used on input line 531.
@@ -1901,7 +1870,7 @@ File: cover/back-cover.pdf Graphic file (type pdf)
 <use cover/back-cover.pdf, page 1>
 Package pdftex.def Info: cover/back-cover.pdf , page1 used on input line 531.
 (pdftex.def)             Requested size: 433.10971pt x 650.73135pt.
-[128
+[118
 
 
  </Users/riccardo/Repositories/NULL_MESH/nullmesh/cover/back-cover.pdf>]
@@ -1915,50 +1884,39 @@ L3 programming layer <2025-01-18>
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package rerunfilecheck Info: File `NULL_MESH.out' has not changed.
-(rerunfilecheck)             Checksum: C1487DAC47ADC9E26FDBE35A2EABD2B1;3615.
+(rerunfilecheck)             Checksum: 3FA0EB147A55D3DA5E7EF6F00C652567;3375.
  ) 
 Here is how much of TeX's memory you used:
- 21864 strings out of 473190
- 355534 string characters out of 5715799
- 819645 words of memory out of 5000000
- 43887 multiletter control sequences out of 15000+600000
- 698815 words of font info for 556 fonts, out of 8000000 for 9000
+ 21726 strings out of 473190
+ 353398 string characters out of 5715799
+ 817583 words of memory out of 5000000
+ 43811 multiletter control sequences out of 15000+600000
+ 689740 words of font info for 506 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 108i,17n,107p,1503b,1118s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 108i,17n,107p,1001b,1118s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2025/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu4e.pfb></us
 r/local/texlive/2025/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu51.pfb></usr/loca
 l/texlive/2025/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu55.pfb></usr/local/texl
 ive/2025/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu62.pfb></usr/local/texlive/20
 25/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu65.pfb></usr/local/texlive/2025/tex
 mf-dist/fonts/type1/arphic/bsmiu/bsmiu67.pfb></usr/local/texlive/2025/texmf-dis
-t/fonts/type1/public/amsfonts/cm/cmbx7.pfb></usr/local/texlive/2025/texmf-dist/
-fonts/type1/public/amsfonts/cmextra/cmex8.pfb></usr/local/texlive/2025/texmf-di
-st/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2025/texmf-dis
-t/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/local/texlive/2025/texmf-dist/
-fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2025/texmf-dist/fo
-nts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2025/texmf-dist/font
-s/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2025/texmf-dist/fonts/
-type1/public/amsfonts/cm/cmr5.pfb></usr/local/texlive/2025/texmf-dist/fonts/typ
-e1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/
-public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/p
-ublic/amsfonts/cm/cmsy5.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/pub
-lic/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/publi
-c/lm/lmss17.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts
-/symbols/msam10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsf
-onts/symbols/msbm10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/
-cm-super/sfrm1095.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/couri
-er/ucrb8a.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/courier/ucrr8
-a.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb><
-/usr/local/texlive/2025/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/lo
-cal/texlive/2025/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb></usr/local/te
-xlive/2025/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2
-025/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2025/tex
-mf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
+t/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2025/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2025/texmf-dist/f
+onts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2025/texmf-dist/fo
+nts/type1/public/amsfonts/symbols/msbm10.pfb></usr/local/texlive/2025/texmf-dis
+t/fonts/type1/public/cm-super/sfrm1095.pfb></usr/local/texlive/2025/texmf-dist/
+fonts/type1/urw/courier/ucrb8a.pfb></usr/local/texlive/2025/texmf-dist/fonts/ty
+pe1/urw/courier/ucrr8a.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/
+helvetic/uhvb8a.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/helveti
+c/uhvr8a.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/helvetic/uhvro
+8a.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb>
+</usr/local/texlive/2025/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/l
+ocal/texlive/2025/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
 Output written on /Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH.pdf
- (136 pages, 1059985 bytes).
+ (126 pages, 927630 bytes).
 PDF statistics:
- 1015 PDF objects out of 1200 (max. 8388607)
- 770 compressed objects within 8 object streams
- 175 named destinations out of 1000 (max. 500000)
- 147249 words of extra memory for PDF output out of 154059 (max. 10000000)
+ 879 PDF objects out of 1000 (max. 8388607)
+ 667 compressed objects within 7 object streams
+ 152 named destinations out of 1000 (max. 500000)
+ 140564 words of extra memory for PDF output out of 154059 (max. 10000000)
 

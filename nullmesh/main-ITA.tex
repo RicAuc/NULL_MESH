@@ -330,7 +330,7 @@
   \titleformat{\section}
     {\normalsize\bfseries\rmfamily\color{papertext}}
     {\thesection}{0.8em}{}
-    [\vspace{0.2em}{\color{nullmesh-light}\rule{\linewidth}{0.4pt}}]
+    [\vspace{0.2em}{\color{nullmesh-accent}\rule{\linewidth}{0.4pt}}]
   \titleformat{\subsection}
     {\normalsize\itshape\rmfamily\color{papersecondary}}
     {\thesubsection}{0.8em}{}
@@ -347,18 +347,29 @@
 % BLACK PAPER ENVIRONMENT — inverted colors (white text on dark pages)
 % Wraps the academicpaper for doc08; restores standard formats on exit
 % ============================================================================
+\makeatletter
 \newenvironment{blackpaper}{%
     \clearpage%
     \pagecolor{nullmesh-dark}%
     \color{white}%
     \colorlet{papertext}{white}%
     \colorlet{papersecondary}{nullmesh-light}%
+    % Fix footnote rule visibility on dark background
+    \renewcommand\footnoterule{%
+      \kern-3pt%
+      {\color{nullmesh-ghost}\hrule width .4\columnwidth height .4pt}%
+      \kern 2.6pt%
+    }%
+    % Fix footnote text color (deferred output loses inherited color)
+    \let\bp@origfntext\@footnotetext
+    \long\def\@footnotetext##1{\bp@origfntext{{\color{white}\fontsize{7.5pt}{8pt}\selectfont##1}}}%
 }{%
     \clearpage%
     \pagecolor{white}%
     \color{black}%
     \colorlet{papertext}{nullmesh-dark}%
     \colorlet{papersecondary}{nullmesh-gray}%
+    \let\@footnotetext\bp@origfntext
     % Restore main matter section formats
     \titleformat{\section}
       {\Large\bfseries\sffamily\color{nullmesh-dark}}
@@ -371,6 +382,7 @@
       {\thesubsubsection}{1em}{}
     \setcounter{secnumdepth}{1}%
 }
+\makeatother
 
 % ============================================================================
 % DOCUMENT BEGINS
@@ -441,31 +453,36 @@
 \input{interludes/doc02_sightseers-ITA}
 
 % ——— Capitolo III + Interludio III ———
+\input{chapters/ch10_rites-ITA}
+\clearpage
+\input{interludes/doc09_invocation-ITA}
+
+% ——— Capitolo IV + Interludio IV ———
 \input{chapters/ch03_on_abliterated_moods-ITA}
 \clearpage
 \input{interludes/doc04_persistance-ITA}
 
-% ——— Capitolo IV + Interludio IV ———
+% ——— Capitolo V + Interludio V ———
 \input{chapters/ch04_active_fragments-ITA}
 \clearpage
 \input{interludes/doc03_tidalchains-ITA}
 
-% ——— Capitolo V + Interludio V ———
-\input{chapters/ch05_sophistication-ITA}
+% ——— Capitolo VI + Interludio VI ———
+\input{chapters/ch05_meshification-ITA}
 \clearpage
 \input{interludes/doc07_handout-ITA}
 
-% ——— Capitolo VI + Interludio VI ———
+% ——— Capitolo VII + Interludio VII ———
 \input{chapters/ch06_null_mesh-ITA}
 \clearpage
 \input{interludes/doc05_real4real-ITA}
 
-% ——— Capitolo VII + Interludio VII ———
+% ——— Capitolo VIII + Interludio VIII ———
 \input{chapters/ch07_intentionality_of_machines-ITA}
 \clearpage
 \input{interludes/doc06_the_arctic_passage-ITA}
 
-% ——— Capitolo VIII + Black Paper (interludio accademico invertito) ———
+% ——— Capitolo IX + Black Paper (interludio accademico invertito) ———
 \input{chapters/ch08_within_the_simulation-ITA}
 \clearpage
 \begin{blackpaper}
@@ -474,13 +491,8 @@
 \end{academicpaper}
 \end{blackpaper}
 
-% ——— Capitolo IX + Interludio IX ———
-\clearpage
-\input{chapters/ch10_null_rites-ITA}
-\clearpage
-\input{interludes/doc09_invocation-ITA}
-
 % ——— Capitolo X ———
+\clearpage
 \input{chapters/ch09_deep_sea_flashback-ITA}
 
 % ============================================================================

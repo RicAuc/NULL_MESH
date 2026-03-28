@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.12.18)  27 MAR 2026 23:33
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.12.18)  28 MAR 2026 19:20
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1270,16 +1270,14 @@ l.429 \cleardoublepage
 
 
 ]
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/front/prologue-ITA.tex
+(/Users/riccardo/Repositories/NULL_MESH/nullmesh/front/prologue-ITA.tex)
 
 [1
 
 
 
 
-])
-
-[2] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/front/epigraph-ITA.tex
+] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/front/epigraph-ITA.tex
 LaTeX Font Info:    Trying to load font information for T1+pcr on input line 7.
 
 
@@ -1291,15 +1289,11 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Calculating math sizes for size <11> on input line 7.
-LaTeX Font Info:    Font shape `T1/phv/m/it' in size <6> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 11.
+)
 
+[2
 
-[3
-
-])
-
-[4] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/front/tracklist-ITA.tex
+] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/front/tracklist-ITA.tex
 (/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.bdg
 File: UTF8.bdg 2021/10/16 4.8.5
 )
@@ -1324,23 +1318,25 @@ LaTeX Font Warning: Font shape `C70/bsmi/m/it' undefined
 
 )
 
-[5
+[3
 
 
 ]
 
-[6
+[4
 
 
 ]
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch01_the_sediment-ITA
 .tex
 Capitolo 1.
-<qrs/ch01_basinski.png, id=207, 240.9pt x 240.9pt>
+<qrs/ch01_basinski.png, id=199, 240.9pt x 240.9pt>
 File: qrs/ch01_basinski.png Graphic file (type png)
 <use qrs/ch01_basinski.png>
 Package pdftex.def Info: qrs/ch01_basinski.png  used on input line 5.
 (pdftex.def)             Requested size: 90.3375pt x 90.33727pt.
+LaTeX Font Info:    Font shape `T1/phv/m/it' in size <6> not available
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 6.
 
 
 
@@ -1770,7 +1766,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 37--43
 
 
 ]
-<figures/fig_acausal_correspondence.png, id=608, 622.325pt x 289.08pt>
+<figures/fig_acausal_correspondence.png, id=598, 622.325pt x 289.08pt>
 File: figures/fig_acausal_correspondence.png Graphic file (type png)
 <use figures/fig_acausal_correspondence.png>
 Package pdftex.def Info: figures/fig_acausal_correspondence.png  used on input 
@@ -1908,12 +1904,12 @@ File: UTF8.chr 2021/10/16 4.8.5
 
 
 ]
-<cover/back-cover-ITA.pdf, id=719, 203.76125pt x 306.14375pt>
+<cover/back-cover-ITA.pdf, id=711, 203.76125pt x 306.14375pt>
 File: cover/back-cover-ITA.pdf Graphic file (type pdf)
 <use cover/back-cover-ITA.pdf>
 Package pdftex.def Info: cover/back-cover-ITA.pdf  used on input line 537.
 (pdftex.def)             Requested size: 203.76074pt x 306.14299pt.
-<cover/back-cover-ITA.pdf, id=721, page=1, 203.76125pt x 306.14375pt>
+<cover/back-cover-ITA.pdf, id=713, page=1, 203.76125pt x 306.14375pt>
 File: cover/back-cover-ITA.pdf Graphic file (type pdf)
 <use cover/back-cover-ITA.pdf, page 1>
 Package pdftex.def Info: cover/back-cover-ITA.pdf , page1 used on input line 53
@@ -1958,11 +1954,11 @@ Package rerunfilecheck Info: File `NULL_MESH-ITA.out' has not changed.
 (rerunfilecheck)             Checksum: 1E3ED75B112B41E130E774F18D3E18D9;3525.
  ) 
 Here is how much of TeX's memory you used:
- 23158 strings out of 473190
- 382031 string characters out of 5715799
+ 23159 strings out of 473190
+ 382042 string characters out of 5715799
  849014 words of memory out of 5000000
  45220 multiletter control sequences out of 15000+600000
- 690092 words of font info for 525 fonts, out of 8000000 for 9000
+ 690189 words of font info for 527 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  108i,17n,107p,1005b,1118s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2025/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu4e.pfb></us
@@ -1985,10 +1981,10 @@ uhvr8a.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/helvetic/uhvro8a
 usr/local/texlive/2025/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/loc
 al/texlive/2025/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
 Output written on /Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH-ITA
-.pdf (130 pages, 1189538 bytes).
+.pdf (128 pages, 1188715 bytes).
 PDF statistics:
- 912 PDF objects out of 1000 (max. 8388607)
- 692 compressed objects within 7 object streams
- 157 named destinations out of 1000 (max. 500000)
+ 903 PDF objects out of 1000 (max. 8388607)
+ 685 compressed objects within 7 object streams
+ 155 named destinations out of 1000 (max. 500000)
  137513 words of extra memory for PDF output out of 154059 (max. 10000000)
 

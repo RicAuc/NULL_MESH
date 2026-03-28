@@ -1,6 +1,6 @@
 =============================================================================
 NULL MESH — Compilation Log [ITA]
-Date   : 2026-03-27 23:33:23
+Date   : 2026-03-28 19:20:48
 Variant: ITA
 Engine : pdfTeX 3.141592653-2.6-1.40.27 (TeX Live 2025)
 Source : /Users/riccardo/Repositories/NULL_MESH/nullmesh/main-ITA.tex
@@ -149,12 +149,10 @@ been already used, duplicate ignored
                    \relax 
 l.429 \cleardoublepage
                        [2]
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/front/prologue-ITA.tex
-[1])
-[2] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/front/epigraph-ITA.tex
-(/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/t1pcr.fd)
-[3])
-[4] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/front/tracklist-ITA.tex
+(/Users/riccardo/Repositories/NULL_MESH/nullmesh/front/prologue-ITA.tex)
+[1] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/front/epigraph-ITA.tex
+(/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/t1pcr.fd))
+[2] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/front/tracklist-ITA.tex
 (/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.bdg)
 (/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.enc)
 (/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.chr)
@@ -165,8 +163,8 @@ LaTeX Font Warning: Font shape `C70/bsmi/m/it' undefined
 (Font)              using `C70/bsmi/m/n' instead on input line 23.
 
 )
-[5]
-[6]
+[3]
+[4]
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch01_the_sediment-ITA
 .tex
 Capitolo 1.
@@ -428,7 +426,7 @@ e/2025/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb></usr/local/texlive/2025
 dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2025/texmf-dist/fo
 nts/type1/urw/palatino/uplri8a.pfb>
 Output written on /Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH-ITA
-.pdf (130 pages, 1189538 bytes).
+.pdf (128 pages, 1188715 bytes).
 Transcript written on /Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH
 -ITA.log.
 
@@ -574,12 +572,10 @@ been already used, duplicate ignored
                    \relax 
 l.429 \cleardoublepage
                        [2]
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/front/prologue-ITA.tex
-[1])
-[2] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/front/epigraph-ITA.tex
-(/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/t1pcr.fd)
-[3])
-[4] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/front/tracklist-ITA.tex
+(/Users/riccardo/Repositories/NULL_MESH/nullmesh/front/prologue-ITA.tex)
+[1] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/front/epigraph-ITA.tex
+(/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/t1pcr.fd))
+[2] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/front/tracklist-ITA.tex
 (/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.bdg)
 (/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.enc)
 (/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.chr)
@@ -590,8 +586,8 @@ LaTeX Font Warning: Font shape `C70/bsmi/m/it' undefined
 (Font)              using `C70/bsmi/m/n' instead on input line 23.
 
 )
-[5]
-[6]
+[3]
+[4]
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch01_the_sediment-ITA
 .tex
 Capitolo 1.
@@ -853,7 +849,7 @@ e/2025/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb></usr/local/texlive/2025
 dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2025/texmf-dist/fo
 nts/type1/urw/palatino/uplri8a.pfb>
 Output written on /Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH-ITA
-.pdf (130 pages, 1189538 bytes).
+.pdf (128 pages, 1188715 bytes).
 Transcript written on /Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH
 -ITA.log.
 
@@ -999,12 +995,10 @@ been already used, duplicate ignored
                    \relax 
 l.429 \cleardoublepage
                        [2]
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/front/prologue-ITA.tex
-[1])
-[2] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/front/epigraph-ITA.tex
-(/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/t1pcr.fd)
-[3])
-[4] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/front/tracklist-ITA.tex
+(/Users/riccardo/Repositories/NULL_MESH/nullmesh/front/prologue-ITA.tex)
+[1] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/front/epigraph-ITA.tex
+(/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/t1pcr.fd))
+[2] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/front/tracklist-ITA.tex
 (/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.bdg)
 (/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.enc)
 (/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.chr)
@@ -1015,8 +1009,8 @@ LaTeX Font Warning: Font shape `C70/bsmi/m/it' undefined
 (Font)              using `C70/bsmi/m/n' instead on input line 23.
 
 )
-[5]
-[6]
+[3]
+[4]
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch01_the_sediment-ITA
 .tex
 Capitolo 1.
@@ -1278,7 +1272,7 @@ e/2025/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb></usr/local/texlive/2025
 dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2025/texmf-dist/fo
 nts/type1/urw/palatino/uplri8a.pfb>
 Output written on /Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH-ITA
-.pdf (130 pages, 1189538 bytes).
+.pdf (128 pages, 1188715 bytes).
 Transcript written on /Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH
 -ITA.log.
 

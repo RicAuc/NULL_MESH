@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.12.18)  28 MAR 2026 19:20
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.12.18)  28 MAR 2026 19:58
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1417,13 +1417,13 @@ Package pdftex.def Info: qrs/ch01_basinski.png  used on input line 5.
 
 
 ]
-Overfull \hbox (0.8254pt too wide) in paragraph at lines 24--24
+
+[16]
+Overfull \hbox (0.8254pt too wide) in paragraph at lines 28--28
 []\T1/phv/m/n/6 (-10) Partecipante 
  []
 
 
-
-[16]
 
 [17]
 
@@ -1441,11 +1441,31 @@ File: qrs/ch01_basinski.png Graphic file (type png)
 Package pdftex.def Info: qrs/ch01_basinski.png  used on input line 4.
 (pdftex.def)             Requested size: 90.3375pt x 90.33727pt.
 
+Underfull \hbox (badness 10000) in paragraph at lines 15--17
+
+ []
+
+
 
 [22
 
 
 ]
+Underfull \hbox (badness 10000) in paragraph at lines 18--19
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--31
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--33
+
+ []
+
+
 
 [23]
 
@@ -1467,7 +1487,12 @@ Package pdftex.def Info: qrs/ch01_basinski.png  used on input line 6.
 
 [27]
 
-[28])
+[28]
+Underfull \hbox (badness 10000) in paragraph at lines 26--27
+
+ []
+
+)
 
 [29]
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc09_invocation-IT
@@ -1482,6 +1507,21 @@ Package pdftex.def Info: qrs/ch01_basinski.png  used on input line 3.
 
 
 ]
+Underfull \hbox (badness 10000) in paragraph at lines 32--34
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--36
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--38
+
+ []
+
+
 
 [31])
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch03_on_abliterated_m
@@ -1499,6 +1539,21 @@ Package pdftex.def Info: qrs/ch01_basinski.png  used on input line 5.
 
 
 ]
+Underfull \hbox (badness 10000) in paragraph at lines 16--18
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--20
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--22
+
+ []
+
+
 
 [34]
 LaTeX Font Info:    Trying to load font information for TS1+phv on input line 4
@@ -1951,14 +2006,14 @@ L3 programming layer <2025-01-18>
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package rerunfilecheck Info: File `NULL_MESH-ITA.out' has not changed.
-(rerunfilecheck)             Checksum: 1E3ED75B112B41E130E774F18D3E18D9;3525.
+(rerunfilecheck)             Checksum: 7EBAE8DFA804B1F40E1CC48D77617DDC;3477.
  ) 
 Here is how much of TeX's memory you used:
- 23159 strings out of 473190
- 382042 string characters out of 5715799
- 849014 words of memory out of 5000000
+ 23153 strings out of 473190
+ 381994 string characters out of 5715799
+ 848014 words of memory out of 5000000
  45220 multiletter control sequences out of 15000+600000
- 690189 words of font info for 527 fonts, out of 8000000 for 9000
+ 689979 words of font info for 523 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  108i,17n,107p,1005b,1118s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2025/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu4e.pfb></us
@@ -1981,7 +2036,7 @@ uhvr8a.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/helvetic/uhvro8a
 usr/local/texlive/2025/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/loc
 al/texlive/2025/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
 Output written on /Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH-ITA
-.pdf (128 pages, 1188715 bytes).
+.pdf (128 pages, 1188279 bytes).
 PDF statistics:
  903 PDF objects out of 1000 (max. 8388607)
  685 compressed objects within 7 object streams

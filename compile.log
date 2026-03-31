@@ -1,6 +1,6 @@
 =============================================================================
 NULL MESH — Compilation Log [ITA]
-Date   : 2026-03-28 19:20:48
+Date   : 2026-03-28 19:58:02
 Variant: ITA
 Engine : pdfTeX 3.141592653-2.6-1.40.27 (TeX Live 2025)
 Source : /Users/riccardo/Repositories/NULL_MESH/nullmesh/main-ITA.tex
@@ -204,10 +204,10 @@ hines-ITA.tex
 Capitolo 2.
 
 [15]
-Overfull \hbox (0.8254pt too wide) in paragraph at lines 24--24
+[16]
+Overfull \hbox (0.8254pt too wide) in paragraph at lines 28--28
 []\T1/phv/m/n/6 (-10) Partecipante 
 
-[16]
 [17]
 [18]
 [19]
@@ -215,7 +215,19 @@ Overfull \hbox (0.8254pt too wide) in paragraph at lines 24--24
 [21]
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc02_sightseers-IT
 A.tex
+Underfull \hbox (badness 10000) in paragraph at lines 15--17
+
+
 [22]
+Underfull \hbox (badness 10000) in paragraph at lines 18--19
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--31
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--33
+
+
 [23]
 [24])
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch10_rites-ITA.tex
@@ -224,11 +236,23 @@ A.tex
 Capitolo 3.
 
 [27]
-[28])
+[28]
+Underfull \hbox (badness 10000) in paragraph at lines 26--27
+
+)
 [29]
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc09_invocation-IT
 A.tex
 [30]
+Underfull \hbox (badness 10000) in paragraph at lines 32--34
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--36
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--38
+
+
 [31])
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch03_on_abliterated_m
 oods-ITA.tex
@@ -236,6 +260,15 @@ oods-ITA.tex
 Capitolo 4.
 
 [33]
+Underfull \hbox (badness 10000) in paragraph at lines 16--18
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--20
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--22
+
+
 [34] (/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/ts1phv.fd)
 [35]
 [36])
@@ -426,7 +459,7 @@ e/2025/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb></usr/local/texlive/2025
 dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2025/texmf-dist/fo
 nts/type1/urw/palatino/uplri8a.pfb>
 Output written on /Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH-ITA
-.pdf (128 pages, 1188715 bytes).
+.pdf (128 pages, 1188279 bytes).
 Transcript written on /Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH
 -ITA.log.
 
@@ -627,10 +660,10 @@ hines-ITA.tex
 Capitolo 2.
 
 [15]
-Overfull \hbox (0.8254pt too wide) in paragraph at lines 24--24
+[16]
+Overfull \hbox (0.8254pt too wide) in paragraph at lines 28--28
 []\T1/phv/m/n/6 (-10) Partecipante 
 
-[16]
 [17]
 [18]
 [19]
@@ -638,7 +671,19 @@ Overfull \hbox (0.8254pt too wide) in paragraph at lines 24--24
 [21]
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc02_sightseers-IT
 A.tex
+Underfull \hbox (badness 10000) in paragraph at lines 15--17
+
+
 [22]
+Underfull \hbox (badness 10000) in paragraph at lines 18--19
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--31
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--33
+
+
 [23]
 [24])
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch10_rites-ITA.tex
@@ -647,11 +692,23 @@ A.tex
 Capitolo 3.
 
 [27]
-[28])
+[28]
+Underfull \hbox (badness 10000) in paragraph at lines 26--27
+
+)
 [29]
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc09_invocation-IT
 A.tex
 [30]
+Underfull \hbox (badness 10000) in paragraph at lines 32--34
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--36
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--38
+
+
 [31])
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch03_on_abliterated_m
 oods-ITA.tex
@@ -659,6 +716,15 @@ oods-ITA.tex
 Capitolo 4.
 
 [33]
+Underfull \hbox (badness 10000) in paragraph at lines 16--18
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--20
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--22
+
+
 [34] (/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/ts1phv.fd)
 [35]
 [36])
@@ -849,7 +915,7 @@ e/2025/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb></usr/local/texlive/2025
 dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2025/texmf-dist/fo
 nts/type1/urw/palatino/uplri8a.pfb>
 Output written on /Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH-ITA
-.pdf (128 pages, 1188715 bytes).
+.pdf (128 pages, 1188279 bytes).
 Transcript written on /Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH
 -ITA.log.
 
@@ -1050,10 +1116,10 @@ hines-ITA.tex
 Capitolo 2.
 
 [15]
-Overfull \hbox (0.8254pt too wide) in paragraph at lines 24--24
+[16]
+Overfull \hbox (0.8254pt too wide) in paragraph at lines 28--28
 []\T1/phv/m/n/6 (-10) Partecipante 
 
-[16]
 [17]
 [18]
 [19]
@@ -1061,7 +1127,19 @@ Overfull \hbox (0.8254pt too wide) in paragraph at lines 24--24
 [21]
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc02_sightseers-IT
 A.tex
+Underfull \hbox (badness 10000) in paragraph at lines 15--17
+
+
 [22]
+Underfull \hbox (badness 10000) in paragraph at lines 18--19
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--31
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--33
+
+
 [23]
 [24])
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch10_rites-ITA.tex
@@ -1070,11 +1148,23 @@ A.tex
 Capitolo 3.
 
 [27]
-[28])
+[28]
+Underfull \hbox (badness 10000) in paragraph at lines 26--27
+
+)
 [29]
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc09_invocation-IT
 A.tex
 [30]
+Underfull \hbox (badness 10000) in paragraph at lines 32--34
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--36
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--38
+
+
 [31])
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch03_on_abliterated_m
 oods-ITA.tex
@@ -1082,6 +1172,15 @@ oods-ITA.tex
 Capitolo 4.
 
 [33]
+Underfull \hbox (badness 10000) in paragraph at lines 16--18
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--20
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--22
+
+
 [34] (/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/ts1phv.fd)
 [35]
 [36])
@@ -1272,7 +1371,7 @@ e/2025/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb></usr/local/texlive/2025
 dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2025/texmf-dist/fo
 nts/type1/urw/palatino/uplri8a.pfb>
 Output written on /Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH-ITA
-.pdf (128 pages, 1188715 bytes).
+.pdf (128 pages, 1188279 bytes).
 Transcript written on /Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH
 -ITA.log.
 
@@ -1283,7 +1382,7 @@ SUCCESS — PDF written to: /Users/riccardo/Repositories/NULL_MESH/NULL_MESH-ITA
 --- Warning / Error Summary ---
 
 Errors   : 0
-Warnings : 14
+Warnings : 25
 
 Full log saved to: /Users/riccardo/Repositories/NULL_MESH/compile.log
 =============================================================================

@@ -1,6 +1,6 @@
 =============================================================================
 NULL MESH â€” Compilation Log [ITA]
-Date   : 2026-04-01 09:46:42
+Date   : 2026-04-01 19:05:30
 Variant: ITA
 Engine : pdfTeX 3.141592653-2.6-1.40.27 (TeX Live 2025)
 Source : /Users/riccardo/Repositories/NULL_MESH/nullmesh/main-ITA.tex
@@ -224,10 +224,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 32--33
 Capitolo 3.
 
 [27]
-[28]
-Underfull \hbox (badness 10000) in paragraph at lines 26--27
-
-)
+[28])
 [29]
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc09_invocation-IT
 A.tex
@@ -257,7 +254,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 19--20
 Underfull \hbox (badness 10000) in paragraph at lines 21--22
 
 
-[34] (/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/ts1phv.fd)
+[34]
+Underfull \hbox (badness 10000) in paragraph at lines 32--34
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/ts1phv.fd)
 [35]
 [36])
 [37]
@@ -265,7 +265,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 21--22
 TA.tex
 [38]
 [39]
-Overfull \hbox (1.48479pt too wide) in paragraph at lines 81--81
+Overfull \hbox (1.48479pt too wide) in paragraph at lines 70--70
 []\T1/phv/m/n/6 (-10) Segnalazioni 
 
 [40])
@@ -279,7 +279,7 @@ Capitolo 5.
 [44]
 [45]
 [46]
-Underfull \hbox (badness 10000) in paragraph at lines 65--70
+Underfull \hbox (badness 10000) in paragraph at lines 57--62
 \T1/pcr/m/n/10 Status: EXIT_CLEAN | Resources deallocated | 0
 
 [47])
@@ -303,10 +303,10 @@ ex
 [57]
 [58]
 [59]
-[60]
-[61])
+[60])
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch06_null_mesh-ITA.te
 x
+[61]
 [62]
 Capitolo 7.
 (/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.bdg)
@@ -360,34 +360,22 @@ Capitolo 9.
 [93]
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc08_the_black_pap
 er-ITA.tex
-Underfull \hbox (badness 10000) in paragraph at lines 30--36
-
-
 [94]
-Overfull \hbox (1.9334pt too wide) in paragraph at lines 46--46
-[]\T1/phv/m/n/6 (-10) L'apparizione 
+Underfull \hbox (badness 10000) in paragraph at lines 40--40
+[][]\T1/pcr/m/n/10 Figura 1[][]: [][]|Due iperpiani ortogonali (il reale,
 
-Underfull \hbox (badness 10000) in paragraph at lines 53--53
-[][]\T1/pcr/m/n/10 Figura 1[][]: [][]|Rappresentazione schematica della
+Underfull \hbox (badness 10000) in paragraph at lines 40--40
+\T1/pcr/m/n/10 substrato standard, e l'immaginario, il registro
 
-Underfull \hbox (badness 10000) in paragraph at lines 53--53
-\T1/pcr/m/n/10 corrispondenza acausale: due iperpiani ortogonali (il
+Underfull \hbox (badness 10000) in paragraph at lines 40--40
+\T1/pcr/m/n/10 spettrale) che convergono nel punto $\OMS/cmsy/m/n/10 ;$\T1/pcr/
+m/n/10 . Gli iperpiani
 
-Underfull \hbox (badness 10000) in paragraph at lines 53--53
-\T1/pcr/m/n/10 reale, substrato standard degli eventi osservabili, e
+Underfull \hbox (badness 10000) in paragraph at lines 40--40
+\T1/pcr/m/n/10 si incrociano per curvatura dello spazio di fase
 
-Underfull \hbox (badness 10000) in paragraph at lines 53--53
-\T1/pcr/m/n/10 l'immaginario, il registro spettrale del fantasma) che
-
-Underfull \hbox (badness 10000) in paragraph at lines 53--53
-\T1/pcr/m/n/10 convergono nel punto $\OMS/cmsy/m/n/10 ;$\T1/pcr/m/n/10 . Gli ip
-erpiani si incrociano
-
-Underfull \hbox (badness 10000) in paragraph at lines 53--53
-\T1/pcr/m/n/10 per curvatura dello spazio di fase non-locale.
-
-Underfull \hbox (badness 10000) in paragraph at lines 53--53
-\T1/pcr/m/n/10 Formando quello che è traccia di un connesso senza
+Underfull \hbox (badness 10000) in paragraph at lines 40--40
+\T1/pcr/m/n/10 non-locale. Formando quello che è traccia di un
 
 [95 </Users/riccardo/Repositories/NULL_MESH/nullmesh/figures/fig_acausal_corres
 pondence.png>]
@@ -408,28 +396,28 @@ Capitolo 10.
 [106])
 [107] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/overview-ITA.tex
 [108]
-[109])
-[110]
+[109]
+[110])
+[111]
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/glossary_terms-ITA.tex
-[111])
-[112]
+[112])
+[113]
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/tracksources-ITA.tex
-[113] (/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.enc)
- (/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.chr)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.enc)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.chr)
 
 LaTeX Font Warning: Font shape `C70/bsmi/m/it' undefined
-(Font)              using `C70/bsmi/m/n' instead on input line 67.
+(Font)              using `C70/bsmi/m/n' instead on input line 28.
 
-)
-[114] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/backbone-ITA.tex
+
+Overfull \vbox (6.96014pt too high) has occurred while \output is active
+[114]) (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/backbone-ITA.tex
 [115]
 [116]
-[117]
-[118])
+[117])
+[118]
 [119]
-[120]
-[121]
-[122 </Users/riccardo/Repositories/NULL_MESH/nullmesh/cover/back-cover-ITA.pdf>
+[120 </Users/riccardo/Repositories/NULL_MESH/nullmesh/cover/back-cover-ITA.pdf>
 ] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH-ITA.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
@@ -453,10 +441,11 @@ r/local/texlive/2025/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local
 /texlive/2025/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texliv
 e/2025/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb></usr/local/texlive/2025
 /texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2025/texmf-
-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2025/texmf-dist/fo
-nts/type1/urw/palatino/uplri8a.pfb>
+dist/fonts/type1/urw/palatino/uplbi8a.pfb></usr/local/texlive/2025/texmf-dist/f
+onts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2025/texmf-dist/fonts/ty
+pe1/urw/palatino/uplri8a.pfb>
 Output written on /Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH-ITA
-.pdf (128 pages, 1187469 bytes).
+.pdf (126 pages, 1200523 bytes).
 Transcript written on /Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH
 -ITA.log.
 
@@ -677,10 +666,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 32--33
 Capitolo 3.
 
 [27]
-[28]
-Underfull \hbox (badness 10000) in paragraph at lines 26--27
-
-)
+[28])
 [29]
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc09_invocation-IT
 A.tex
@@ -710,7 +696,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 19--20
 Underfull \hbox (badness 10000) in paragraph at lines 21--22
 
 
-[34] (/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/ts1phv.fd)
+[34]
+Underfull \hbox (badness 10000) in paragraph at lines 32--34
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/ts1phv.fd)
 [35]
 [36])
 [37]
@@ -718,7 +707,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 21--22
 TA.tex
 [38]
 [39]
-Overfull \hbox (1.48479pt too wide) in paragraph at lines 81--81
+Overfull \hbox (1.48479pt too wide) in paragraph at lines 70--70
 []\T1/phv/m/n/6 (-10) Segnalazioni 
 
 [40])
@@ -732,7 +721,7 @@ Capitolo 5.
 [44]
 [45]
 [46]
-Underfull \hbox (badness 10000) in paragraph at lines 65--70
+Underfull \hbox (badness 10000) in paragraph at lines 57--62
 \T1/pcr/m/n/10 Status: EXIT_CLEAN | Resources deallocated | 0
 
 [47])
@@ -756,10 +745,10 @@ ex
 [57]
 [58]
 [59]
-[60]
-[61])
+[60])
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch06_null_mesh-ITA.te
 x
+[61]
 [62]
 Capitolo 7.
 (/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.bdg)
@@ -813,34 +802,22 @@ Capitolo 9.
 [93]
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc08_the_black_pap
 er-ITA.tex
-Underfull \hbox (badness 10000) in paragraph at lines 30--36
-
-
 [94]
-Overfull \hbox (1.9334pt too wide) in paragraph at lines 46--46
-[]\T1/phv/m/n/6 (-10) L'apparizione 
+Underfull \hbox (badness 10000) in paragraph at lines 40--40
+[][]\T1/pcr/m/n/10 Figura 1[][]: [][]|Due iperpiani ortogonali (il reale,
 
-Underfull \hbox (badness 10000) in paragraph at lines 53--53
-[][]\T1/pcr/m/n/10 Figura 1[][]: [][]|Rappresentazione schematica della
+Underfull \hbox (badness 10000) in paragraph at lines 40--40
+\T1/pcr/m/n/10 substrato standard, e l'immaginario, il registro
 
-Underfull \hbox (badness 10000) in paragraph at lines 53--53
-\T1/pcr/m/n/10 corrispondenza acausale: due iperpiani ortogonali (il
+Underfull \hbox (badness 10000) in paragraph at lines 40--40
+\T1/pcr/m/n/10 spettrale) che convergono nel punto $\OMS/cmsy/m/n/10 ;$\T1/pcr/
+m/n/10 . Gli iperpiani
 
-Underfull \hbox (badness 10000) in paragraph at lines 53--53
-\T1/pcr/m/n/10 reale, substrato standard degli eventi osservabili, e
+Underfull \hbox (badness 10000) in paragraph at lines 40--40
+\T1/pcr/m/n/10 si incrociano per curvatura dello spazio di fase
 
-Underfull \hbox (badness 10000) in paragraph at lines 53--53
-\T1/pcr/m/n/10 l'immaginario, il registro spettrale del fantasma) che
-
-Underfull \hbox (badness 10000) in paragraph at lines 53--53
-\T1/pcr/m/n/10 convergono nel punto $\OMS/cmsy/m/n/10 ;$\T1/pcr/m/n/10 . Gli ip
-erpiani si incrociano
-
-Underfull \hbox (badness 10000) in paragraph at lines 53--53
-\T1/pcr/m/n/10 per curvatura dello spazio di fase non-locale.
-
-Underfull \hbox (badness 10000) in paragraph at lines 53--53
-\T1/pcr/m/n/10 Formando quello che è traccia di un connesso senza
+Underfull \hbox (badness 10000) in paragraph at lines 40--40
+\T1/pcr/m/n/10 non-locale. Formando quello che è traccia di un
 
 [95 </Users/riccardo/Repositories/NULL_MESH/nullmesh/figures/fig_acausal_corres
 pondence.png>]
@@ -861,28 +838,28 @@ Capitolo 10.
 [106])
 [107] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/overview-ITA.tex
 [108]
-[109])
-[110]
+[109]
+[110])
+[111]
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/glossary_terms-ITA.tex
-[111])
-[112]
+[112])
+[113]
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/tracksources-ITA.tex
-[113] (/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.enc)
- (/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.chr)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.enc)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.chr)
 
 LaTeX Font Warning: Font shape `C70/bsmi/m/it' undefined
-(Font)              using `C70/bsmi/m/n' instead on input line 67.
+(Font)              using `C70/bsmi/m/n' instead on input line 28.
 
-)
-[114] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/backbone-ITA.tex
+
+Overfull \vbox (6.96014pt too high) has occurred while \output is active
+[114]) (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/backbone-ITA.tex
 [115]
 [116]
-[117]
-[118])
+[117])
+[118]
 [119]
-[120]
-[121]
-[122 </Users/riccardo/Repositories/NULL_MESH/nullmesh/cover/back-cover-ITA.pdf>
+[120 </Users/riccardo/Repositories/NULL_MESH/nullmesh/cover/back-cover-ITA.pdf>
 ] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH-ITA.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
@@ -906,10 +883,11 @@ r/local/texlive/2025/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local
 /texlive/2025/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texliv
 e/2025/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb></usr/local/texlive/2025
 /texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2025/texmf-
-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2025/texmf-dist/fo
-nts/type1/urw/palatino/uplri8a.pfb>
+dist/fonts/type1/urw/palatino/uplbi8a.pfb></usr/local/texlive/2025/texmf-dist/f
+onts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2025/texmf-dist/fonts/ty
+pe1/urw/palatino/uplri8a.pfb>
 Output written on /Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH-ITA
-.pdf (128 pages, 1187469 bytes).
+.pdf (126 pages, 1200523 bytes).
 Transcript written on /Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH
 -ITA.log.
 
@@ -1130,10 +1108,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 32--33
 Capitolo 3.
 
 [27]
-[28]
-Underfull \hbox (badness 10000) in paragraph at lines 26--27
-
-)
+[28])
 [29]
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc09_invocation-IT
 A.tex
@@ -1163,7 +1138,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 19--20
 Underfull \hbox (badness 10000) in paragraph at lines 21--22
 
 
-[34] (/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/ts1phv.fd)
+[34]
+Underfull \hbox (badness 10000) in paragraph at lines 32--34
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/ts1phv.fd)
 [35]
 [36])
 [37]
@@ -1171,7 +1149,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 21--22
 TA.tex
 [38]
 [39]
-Overfull \hbox (1.48479pt too wide) in paragraph at lines 81--81
+Overfull \hbox (1.48479pt too wide) in paragraph at lines 70--70
 []\T1/phv/m/n/6 (-10) Segnalazioni 
 
 [40])
@@ -1185,7 +1163,7 @@ Capitolo 5.
 [44]
 [45]
 [46]
-Underfull \hbox (badness 10000) in paragraph at lines 65--70
+Underfull \hbox (badness 10000) in paragraph at lines 57--62
 \T1/pcr/m/n/10 Status: EXIT_CLEAN | Resources deallocated | 0
 
 [47])
@@ -1209,10 +1187,10 @@ ex
 [57]
 [58]
 [59]
-[60]
-[61])
+[60])
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch06_null_mesh-ITA.te
 x
+[61]
 [62]
 Capitolo 7.
 (/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.bdg)
@@ -1266,34 +1244,22 @@ Capitolo 9.
 [93]
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc08_the_black_pap
 er-ITA.tex
-Underfull \hbox (badness 10000) in paragraph at lines 30--36
-
-
 [94]
-Overfull \hbox (1.9334pt too wide) in paragraph at lines 46--46
-[]\T1/phv/m/n/6 (-10) L'apparizione 
+Underfull \hbox (badness 10000) in paragraph at lines 40--40
+[][]\T1/pcr/m/n/10 Figura 1[][]: [][]|Due iperpiani ortogonali (il reale,
 
-Underfull \hbox (badness 10000) in paragraph at lines 53--53
-[][]\T1/pcr/m/n/10 Figura 1[][]: [][]|Rappresentazione schematica della
+Underfull \hbox (badness 10000) in paragraph at lines 40--40
+\T1/pcr/m/n/10 substrato standard, e l'immaginario, il registro
 
-Underfull \hbox (badness 10000) in paragraph at lines 53--53
-\T1/pcr/m/n/10 corrispondenza acausale: due iperpiani ortogonali (il
+Underfull \hbox (badness 10000) in paragraph at lines 40--40
+\T1/pcr/m/n/10 spettrale) che convergono nel punto $\OMS/cmsy/m/n/10 ;$\T1/pcr/
+m/n/10 . Gli iperpiani
 
-Underfull \hbox (badness 10000) in paragraph at lines 53--53
-\T1/pcr/m/n/10 reale, substrato standard degli eventi osservabili, e
+Underfull \hbox (badness 10000) in paragraph at lines 40--40
+\T1/pcr/m/n/10 si incrociano per curvatura dello spazio di fase
 
-Underfull \hbox (badness 10000) in paragraph at lines 53--53
-\T1/pcr/m/n/10 l'immaginario, il registro spettrale del fantasma) che
-
-Underfull \hbox (badness 10000) in paragraph at lines 53--53
-\T1/pcr/m/n/10 convergono nel punto $\OMS/cmsy/m/n/10 ;$\T1/pcr/m/n/10 . Gli ip
-erpiani si incrociano
-
-Underfull \hbox (badness 10000) in paragraph at lines 53--53
-\T1/pcr/m/n/10 per curvatura dello spazio di fase non-locale.
-
-Underfull \hbox (badness 10000) in paragraph at lines 53--53
-\T1/pcr/m/n/10 Formando quello che è traccia di un connesso senza
+Underfull \hbox (badness 10000) in paragraph at lines 40--40
+\T1/pcr/m/n/10 non-locale. Formando quello che è traccia di un
 
 [95 </Users/riccardo/Repositories/NULL_MESH/nullmesh/figures/fig_acausal_corres
 pondence.png>]
@@ -1314,28 +1280,28 @@ Capitolo 10.
 [106])
 [107] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/overview-ITA.tex
 [108]
-[109])
-[110]
+[109]
+[110])
+[111]
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/glossary_terms-ITA.tex
-[111])
-[112]
+[112])
+[113]
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/tracksources-ITA.tex
-[113] (/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.enc)
- (/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.chr)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.enc)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.chr)
 
 LaTeX Font Warning: Font shape `C70/bsmi/m/it' undefined
-(Font)              using `C70/bsmi/m/n' instead on input line 67.
+(Font)              using `C70/bsmi/m/n' instead on input line 28.
 
-)
-[114] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/backbone-ITA.tex
+
+Overfull \vbox (6.96014pt too high) has occurred while \output is active
+[114]) (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/backbone-ITA.tex
 [115]
 [116]
-[117]
-[118])
+[117])
+[118]
 [119]
-[120]
-[121]
-[122 </Users/riccardo/Repositories/NULL_MESH/nullmesh/cover/back-cover-ITA.pdf>
+[120 </Users/riccardo/Repositories/NULL_MESH/nullmesh/cover/back-cover-ITA.pdf>
 ] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH-ITA.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
@@ -1359,10 +1325,11 @@ r/local/texlive/2025/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local
 /texlive/2025/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texliv
 e/2025/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb></usr/local/texlive/2025
 /texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2025/texmf-
-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2025/texmf-dist/fo
-nts/type1/urw/palatino/uplri8a.pfb>
+dist/fonts/type1/urw/palatino/uplbi8a.pfb></usr/local/texlive/2025/texmf-dist/f
+onts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2025/texmf-dist/fonts/ty
+pe1/urw/palatino/uplri8a.pfb>
 Output written on /Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH-ITA
-.pdf (128 pages, 1187469 bytes).
+.pdf (126 pages, 1200523 bytes).
 Transcript written on /Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH
 -ITA.log.
 
@@ -1373,7 +1340,7 @@ SUCCESS â€” PDF written to: /Users/riccardo/Repositories/NULL_MESH/NULL_MESH-ITA
 --- Warning / Error Summary ---
 
 Errors   : 0
-Warnings : 25
+Warnings : 22
 
 Full log saved to: /Users/riccardo/Repositories/NULL_MESH/compile.log
 =============================================================================

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.12.18)  1 APR 2026 09:46
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.12.18)  1 APR 2026 19:05
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1456,12 +1456,7 @@ Package pdftex.def Info: qrs/ch01_basinski.png  used on input line 6.
 
 [27]
 
-[28]
-Underfull \hbox (badness 10000) in paragraph at lines 26--27
-
- []
-
-)
+[28])
 
 [29]
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc09_invocation-IT
@@ -1525,9 +1520,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 21--22
 
 
 [34]
+Underfull \hbox (badness 10000) in paragraph at lines 32--34
+
+ []
+
 LaTeX Font Info:    Trying to load font information for TS1+phv on input line 4
-8.
- (/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/ts1phv.fd
+9.
+(/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/ts1phv.fd
 File: ts1phv.fd 2020/03/25 scalable font definitions for TS1/phv.
 )
 Package microtype Info: Loading generic protrusion settings for font family
@@ -1555,7 +1554,7 @@ Package pdftex.def Info: qrs/ch01_basinski.png  used on input line 4.
 ]
 
 [39]
-Overfull \hbox (1.48479pt too wide) in paragraph at lines 81--81
+Overfull \hbox (1.48479pt too wide) in paragraph at lines 70--70
 []\T1/phv/m/n/6 (-10) Segnalazioni 
  []
 
@@ -1585,7 +1584,7 @@ Package pdftex.def Info: qrs/ch01_basinski.png  used on input line 5.
 [45]
 
 [46]
-Underfull \hbox (badness 10000) in paragraph at lines 65--70
+Underfull \hbox (badness 10000) in paragraph at lines 57--62
 \T1/pcr/m/n/10 Status: EXIT_CLEAN | Resources deallocated | 0
  []
 
@@ -1648,13 +1647,16 @@ Package pdftex.def Info: qrs/ch01_basinski.png  used on input line 4.
 
 [59]
 
-[60]
-
-[61])
+[60])
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch06_null_mesh-ITA.te
 x
 
-[62]
+[61]
+
+[62
+
+
+]
 Capitolo 7.
 File: qrs/ch01_basinski.png Graphic file (type png)
 <use qrs/ch01_basinski.png>
@@ -1679,10 +1681,7 @@ File: c70bsmi.fd 2021/10/16 4.8.5
 File: c70bsmi.fdx 2021/10/16 4.8.5
 )
 
-[63
-
-
-]
+[63]
 
 [64]
 
@@ -1788,60 +1787,41 @@ Package pdftex.def Info: qrs/ch01_basinski.png  used on input line 5.
 [93]
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc08_the_black_pap
 er-ITA.tex
-Underfull \hbox (badness 10000) in paragraph at lines 30--36
-
- []
-
-
 
 [94
 
 
 ]
-Overfull \hbox (1.9334pt too wide) in paragraph at lines 46--46
-[]\T1/phv/m/n/6 (-10) L'apparizione 
- []
-
-<figures/fig_acausal_correspondence.png, id=586, 622.325pt x 289.08pt>
+<figures/fig_acausal_correspondence.png, id=587, 622.325pt x 289.08pt>
 File: figures/fig_acausal_correspondence.png Graphic file (type png)
 <use figures/fig_acausal_correspondence.png>
 Package pdftex.def Info: figures/fig_acausal_correspondence.png  used on input 
-line 52.
+line 39.
 (pdftex.def)             Requested size: 260.17299pt x 120.85257pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 53--53
-[][]\T1/pcr/m/n/10 Figura 1[][]: [][]|Rappresentazione schematica della
+Underfull \hbox (badness 10000) in paragraph at lines 40--40
+[][]\T1/pcr/m/n/10 Figura 1[][]: [][]|Due iperpiani ortogonali (il reale,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 53--53
-\T1/pcr/m/n/10 corrispondenza acausale: due iperpiani ortogonali (il
+Underfull \hbox (badness 10000) in paragraph at lines 40--40
+\T1/pcr/m/n/10 substrato standard, e l'immaginario, il registro
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 53--53
-\T1/pcr/m/n/10 reale, substrato standard degli eventi osservabili, e
+Underfull \hbox (badness 10000) in paragraph at lines 40--40
+\T1/pcr/m/n/10 spettrale) che convergono nel punto $\OMS/cmsy/m/n/10 ;$\T1/pcr/
+m/n/10 . Gli iperpiani
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 53--53
-\T1/pcr/m/n/10 l'immaginario, il registro spettrale del fantasma) che
+Underfull \hbox (badness 10000) in paragraph at lines 40--40
+\T1/pcr/m/n/10 si incrociano per curvatura dello spazio di fase
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 53--53
-\T1/pcr/m/n/10 convergono nel punto $\OMS/cmsy/m/n/10 ;$\T1/pcr/m/n/10 . Gli ip
-erpiani si incrociano
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 53--53
-\T1/pcr/m/n/10 per curvatura dello spazio di fase non-locale.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 53--53
-\T1/pcr/m/n/10 Formando quello che è traccia di un connesso senza
+Underfull \hbox (badness 10000) in paragraph at lines 40--40
+\T1/pcr/m/n/10 non-locale. Formando quello che è traccia di un
  []
 
 
@@ -1897,38 +1877,43 @@ Package pdftex.def Info: qrs/ch01_basinski.png  used on input line 5.
 
 ]
 
-[109])
+[109]
 
-[110]
+[110])
+
+[111]
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/glossary_terms-ITA.tex
-[111
+[112
 
 
 ]
 LaTeX Font Info:    Calculating math sizes for size <8.5> on input line 60.
 )
 
-[112]
+[113]
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/tracksources-ITA.tex
-LaTeX Font Info:    Font shape `T1/phv/m/it' in size <9> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 7.
+LaTeX Font Info:    Font shape `T1/phv/m/it' in size <8> not available
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 16.
 
-
-[113
-
-
-] (/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.enc
+(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.enc
 File: UTF8.enc 2021/10/16 4.8.5
-) (/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.chr
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.chr
 File: UTF8.chr 2021/10/16 4.8.5
 )
 
 LaTeX Font Warning: Font shape `C70/bsmi/m/it' undefined
-(Font)              using `C70/bsmi/m/n' instead on input line 67.
+(Font)              using `C70/bsmi/m/n' instead on input line 28.
 
-)
 
-[114] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/backbone-ITA.tex
+Overfull \vbox (6.96014pt too high) has occurred while \output is active []
+
+
+
+[114
+
+
+]) (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/backbone-ITA.tex
 
 [115
 
@@ -1937,24 +1922,20 @@ LaTeX Font Warning: Font shape `C70/bsmi/m/it' undefined
 
 [116]
 
-[117]
+[117])
 
-[118])
+[118]
 
-[119]
-
-[120
+[119
 
 
 ]
-
-[121]
-<cover/back-cover-ITA.pdf, id=707, 203.76125pt x 306.14375pt>
+<cover/back-cover-ITA.pdf, id=699, 203.76125pt x 306.14375pt>
 File: cover/back-cover-ITA.pdf Graphic file (type pdf)
 <use cover/back-cover-ITA.pdf>
 Package pdftex.def Info: cover/back-cover-ITA.pdf  used on input line 534.
 (pdftex.def)             Requested size: 203.76074pt x 306.14299pt.
-<cover/back-cover-ITA.pdf, id=709, page=1, 203.76125pt x 306.14375pt>
+<cover/back-cover-ITA.pdf, id=701, page=1, 203.76125pt x 306.14375pt>
 File: cover/back-cover-ITA.pdf Graphic file (type pdf)
 <use cover/back-cover-ITA.pdf, page 1>
 Package pdftex.def Info: cover/back-cover-ITA.pdf , page1 used on input line 53
@@ -1982,7 +1963,7 @@ File: cover/back-cover-ITA.pdf Graphic file (type pdf)
 Package pdftex.def Info: cover/back-cover-ITA.pdf , page1 used on input line 53
 4.
 (pdftex.def)             Requested size: 433.10971pt x 650.73135pt.
-[122
+[120
 
 
  </Users/riccardo/Repositories/NULL_MESH/nullmesh/cover/back-cover-ITA.pdf>] (/
@@ -1999,11 +1980,11 @@ Package rerunfilecheck Info: File `NULL_MESH-ITA.out' has not changed.
 (rerunfilecheck)             Checksum: 285E0903F59DD1465A9D6110477898D6;3338.
  ) 
 Here is how much of TeX's memory you used:
- 23118 strings out of 473190
- 380908 string characters out of 5715799
- 847014 words of memory out of 5000000
- 45199 multiletter control sequences out of 15000+600000
- 688196 words of font info for 517 fonts, out of 8000000 for 9000
+ 23155 strings out of 473190
+ 381273 string characters out of 5715799
+ 854917 words of memory out of 5000000
+ 45205 multiletter control sequences out of 15000+600000
+ 693829 words of font info for 538 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  108i,17n,107p,1005b,1041s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2025/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu4e.pfb></us
@@ -2023,13 +2004,14 @@ nts/type1/urw/courier/ucrb8a.pfb></usr/local/texlive/2025/texmf-dist/fonts/type
 lvetic/uhvb8a.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/helvetic/
 uhvr8a.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/helvetic/uhvro8a
 .pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></
-usr/local/texlive/2025/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/loc
-al/texlive/2025/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
+usr/local/texlive/2025/texmf-dist/fonts/type1/urw/palatino/uplbi8a.pfb></usr/lo
+cal/texlive/2025/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/tex
+live/2025/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
 Output written on /Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH-ITA
-.pdf (128 pages, 1187469 bytes).
+.pdf (126 pages, 1200523 bytes).
 PDF statistics:
- 899 PDF objects out of 1000 (max. 8388607)
- 681 compressed objects within 7 object streams
- 154 named destinations out of 1000 (max. 500000)
- 137505 words of extra memory for PDF output out of 154059 (max. 10000000)
+ 895 PDF objects out of 1000 (max. 8388607)
+ 677 compressed objects within 7 object streams
+ 152 named destinations out of 1000 (max. 500000)
+ 145697 words of extra memory for PDF output out of 154059 (max. 10000000)
 

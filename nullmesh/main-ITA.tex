@@ -122,8 +122,8 @@
 \setlength{\parskip}{0.8em}
 \raggedbottom
 \emergencystretch=1.5em
-\hfuzz=2pt          % suppress overfull warnings below 2pt
-\hbadness=1500      % suppress mild underfull warnings
+\hfuzz=2pt
+\hbadness=1500
 
 \usepackage{setspace}
 \setstretch{1.15}
@@ -164,7 +164,6 @@
 \renewcommand{\textflush}{flushright}
 \renewcommand{\epigraphsize}{\small\itshape}
 
-% Front-matter epigraph page (full-page prose epigraph in front/epigraph.tex)
 \newenvironment{novelepigraph}{%
     \begin{center}%
     \begin{minipage}{\textwidth}%
@@ -227,7 +226,6 @@
 % ============================================================================
 % UTILITY PACKAGES
 % ============================================================================
-\usepackage{graphicx}
 \usepackage{caption}
 \usepackage{pdfpages}
 \usepackage{amsmath,amssymb}
@@ -255,8 +253,7 @@
 \newcommand{\glitch}[1]{{\color{nullmesh-ghost}#1}}
 
 % ============================================================================
-% INTERLUDE HEADING — DISTINCT FROM NUMBERED CHAPTERS
-% A thin label line + italic title + short rule; no number, no green accent rule
+% INTERLUDE HEADING
 % ============================================================================
 \newcommand{\interlude}[1]{%
     \clearpage%
@@ -279,7 +276,7 @@
 }
 
 % ============================================================================
-% PLAIN CHAPTER (front/back matter — accent rule + title, no chapter number)
+% PLAIN CHAPTER (front/back matter)
 % ============================================================================
 \newcommand{\plainchapter}[1]{%
     \clearpage%
@@ -297,7 +294,6 @@
 
 % ============================================================================
 % ACADEMIC PAPER ENVIRONMENT & COMMANDS (used by doc08_black_paper)
-% Dynamic color tokens so they invert correctly inside \blackpaper
 % ============================================================================
 \colorlet{papertext}{nullmesh-dark}
 \colorlet{papersecondary}{nullmesh-gray}
@@ -341,12 +337,10 @@
   \setcounter{secnumdepth}{0}%
 }
 
-% Theorem environment for the Black Paper
-\newtheorem{theorem}{Theorem}
+\newtheorem{theorem}{Teorema}
 
 % ============================================================================
 % BLACK PAPER ENVIRONMENT — inverted colors (white text on dark pages)
-% Wraps the academicpaper for doc08; restores standard formats on exit
 % ============================================================================
 \makeatletter
 \newenvironment{blackpaper}{%
@@ -355,17 +349,13 @@
     \color{white}%
     \colorlet{papertext}{white}%
     \colorlet{papersecondary}{nullmesh-light}%
-    % Fix caption: small typewriter font on dark background
-    \captionsetup{font={small,tt},labelfont={color=white},textfont={color=white}}%
-    % Fix figure numbering: "Figura 1" not "Figura 9.1"
+    \captionsetup{font={tiny},labelfont={color=white},textfont={color=white}}%
     \renewcommand{\thefigure}{\arabic{figure}}%
-    % Fix footnote rule visibility on dark background
     \renewcommand\footnoterule{%
       \kern-3pt%
       {\color{nullmesh-ghost}\hrule width .4\columnwidth height .4pt}%
       \kern 2.6pt%
     }%
-    % Fix footnote text color (deferred output loses inherited color)
     \let\bp@origfntext\@footnotetext
     \long\def\@footnotetext##1{\bp@origfntext{{\color{white}\fontsize{7.5pt}{8pt}\selectfont##1}}}%
 }{%
@@ -376,7 +366,6 @@
     \colorlet{papertext}{nullmesh-dark}%
     \colorlet{papersecondary}{nullmesh-gray}%
     \let\@footnotetext\bp@origfntext
-    % Restore main matter section formats
     \titleformat{\section}
       {\Large\bfseries\sffamily\color{nullmesh-dark}}
       {\thesection}{1em}{}
@@ -493,6 +482,42 @@
 \input{interludes/doc08_the_black_paper-ITA}
 \end{academicpaper}
 \end{blackpaper}
+
+% ============================================================================
+% FIGURA A DOPPIA PAGINA — Corrispondenza Acausale
+% Inserita tra The Black Paper e il Capitolo X.
+% La blackpaper environment ha già ripristinato pagecolor{white} e pagestyle.
+% Questa sezione occupa esattamente due pagine portrait, senza intestazioni,
+% piè di pagina o numeri: la figura landscape riempie entrambe le pagine.
+%
+% Meccanismo: pdfpages con landscape=true su un libro 6x9 portrait scala
+% la pagina landscape del PDF per coprire l'intera pagina fisica. Due chiamate
+% consecutive producono le due metà sinistra e destra della doppia apertura.
+% pagecommand={} sopprime tutti gli stili di pagina attivi per entrambe le
+% pagine, incluso il conteggio delle pagine del documento.
+% ============================================================================
+\cleardoublepage
+\includepdf[
+    pages=1,
+    landscape=true,
+    fitpaper=false,
+    scale=1,
+    offset=0 0,
+    pagecommand={\thispagestyle{empty}}
+]{figures/figure.pdf}
+\includepdf[
+    pages=1,
+    landscape=true,
+    fitpaper=false,
+    scale=1,
+    offset=0 0,
+    pagecommand={\thispagestyle{empty}}
+]{figures/figure.pdf}
+
+\cleardoublepage
+\pagestyle{empty}
+\null\thispagestyle{empty}
+\clearpage
 
 % ——— Capitolo X ———
 \clearpage

@@ -1,6 +1,6 @@
 =============================================================================
 NULL MESH â€” Compilation Log [ITA]
-Date   : 2026-04-04 22:20:22
+Date   : 2026-04-04 22:43:12
 Variant: ITA
 Engine : pdfTeX 3.141592653-2.6-1.40.27 (TeX Live 2025)
 Source : /Users/riccardo/Repositories/NULL_MESH/nullmesh/main-ITA.tex
@@ -138,7 +138,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.427 \end{titlepage}
+l.416 \end{titlepage}
                       [1{/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/upd
 map/pdftex.map}{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/base/8r.enc}
 ]
@@ -147,7 +147,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.429 \cleardoublepage
+l.418 \cleardoublepage
                        [2]
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/front/prologue-ITA.tex)
 [1] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/front/epigraph-ITA.tex
@@ -361,75 +361,33 @@ Capitolo 9.
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc08_the_black_pap
 er-ITA.tex
 [94]
-Underfull \hbox (badness 10000) in paragraph at lines 40--40
-[][]\T1/pcr/m/n/10 Figura 1[][]: [][]|Due iperpiani ortogonali: il registro
-
-Underfull \hbox (badness 10000) in paragraph at lines 40--40
-\T1/pcr/m/n/10 umano[]sensoriale (il reale, substrato standard) e il
-
-Underfull \hbox (badness 10000) in paragraph at lines 40--40
-\T1/pcr/m/n/10 registro surrogato-sintetico (il reticolo reurale)
-
-Underfull \hbox (badness 10000) in paragraph at lines 40--40
-\T1/pcr/m/n/10 convergono nel Punto $\OMS/cmsy/m/n/10 ;$\T1/pcr/m/n/10 . La lor
-o intersezione è
-
-Underfull \hbox (badness 10000) in paragraph at lines 40--40
-\T1/pcr/m/n/10 determinata dalla curvatura dello spazio di fase
-
-Underfull \hbox (badness 10000) in paragraph at lines 40--40
-\T1/pcr/m/n/10 non[]locale del mesh. Formando quello che è traccia di
-
-Underfull \hbox (badness 10000) in paragraph at lines 40--40
-\T1/pcr/m/n/10 un connesso senza contatto. Un'acausalità strutturale,
-
-Underfull \hbox (badness 10000) in paragraph at lines 40--40
-\T1/pcr/m/n/10 in cui coincidenze significative appaiono come
-
-Underfull \hbox (badness 10000) in paragraph at lines 40--40
-\T1/pcr/m/n/10 intersezioni di traiettorie di eigenmoods e di modelli
-
-Underfull \hbox (badness 10000) in paragraph at lines 40--40
-\T1/pcr/m/n/10 viandanti. La sequenza numerata (1^^U6) traccia la
-
-Underfull \hbox (badness 10000) in paragraph at lines 40--40
-\T1/pcr/m/n/10 fenomenologia della corrispondenza acausale: dalla
-
-Underfull \hbox (badness 10000) in paragraph at lines 40--40
-\T1/pcr/m/n/10 formazione dell'evento interiore alla sua rivelazione
-
-Underfull \hbox (badness 10000) in paragraph at lines 40--40
-\T1/pcr/m/n/10 come allineamento strutturale con l'evento esteriore.
-
-Underfull \hbox (badness 10000) in paragraph at lines 40--40
-\T1/pcr/m/n/10 La curvatura dello spazio di fase non[]locale del mesh
-
-Underfull \hbox (badness 10000) in paragraph at lines 40--40
-\T1/pcr/m/n/10 determina l'intersezione; nessuna freccia causale la
-
 [95 </Users/riccardo/Repositories/NULL_MESH/nullmesh/figures/figure.pdf>]
 [96]
 [97])
 [98]
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch09_deep_sea_flashba
-ck-ITA.tex
-Capitolo 10.
-
-[99]
+[99 </Users/riccardo/Repositories/NULL_MESH/nullmesh/figures/figure.pdf>]
 [100]
 [101]
-[102])
+(/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch09_deep_sea_flashba
+ck-ITA.tex
+[102]
+Capitolo 10.
+
 [103]
-[104] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/epilogue-ITA.tex
+[104]
 [105]
 [106])
-[107] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/overview-ITA.tex
-[108]
-[109])
-[110]
+[107]
+[108] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/epilogue-ITA.tex
+[109]
+[110])
+[111] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/overview-ITA.tex
+[112]
+[113])
+[114]
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/glossary_terms-ITA.tex
-[111]
-[112])
+[115]
+[116])
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/tracksources-ITA.tex
 (/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.enc)
 (/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.chr)
@@ -439,14 +397,14 @@ LaTeX Font Warning: Font shape `C70/bsmi/m/it' undefined
 
 
 Overfull \vbox (6.96014pt too high) has occurred while \output is active
-[113]) (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/backbone-ITA.tex
-[114]
-[115]
-[116])
-[117]
+[117]) (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/backbone-ITA.tex
 [118]
 [119]
-[120 </Users/riccardo/Repositories/NULL_MESH/nullmesh/cover/back-cover-ITA.pdf>
+[120])
+[121]
+[122]
+[123]
+[124 </Users/riccardo/Repositories/NULL_MESH/nullmesh/cover/back-cover-ITA.pdf>
 ] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH-ITA.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
@@ -462,19 +420,20 @@ miu/bsmiu67.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts
 /cm/cmmi10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/
 cm/cmmi8.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm
 /cmsy10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/
-cmsy8.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/symbo
-ls/msbm10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/s
-frm1095.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/courier/ucrb8a.
-pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></us
-r/local/texlive/2025/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local
-/texlive/2025/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texliv
-e/2025/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb></usr/local/texlive/2025
-/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2025/texmf-
-dist/fonts/type1/urw/palatino/uplbi8a.pfb></usr/local/texlive/2025/texmf-dist/f
-onts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2025/texmf-dist/fonts/ty
-pe1/urw/palatino/uplri8a.pfb>
+cmsy6.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+sy8.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/symbols
+/msbm10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfr
+m1095.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/courier/ucrb8a.pf
+b></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/
+local/texlive/2025/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/t
+exlive/2025/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/
+2025/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb></usr/local/texlive/2025/t
+exmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2025/texmf-di
+st/fonts/type1/urw/palatino/uplbi8a.pfb></usr/local/texlive/2025/texmf-dist/fon
+ts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2025/texmf-dist/fonts/type
+1/urw/palatino/uplri8a.pfb>
 Output written on /Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH-ITA
-.pdf (126 pages, 4158541 bytes).
+.pdf (130 pages, 7372446 bytes).
 Transcript written on /Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH
 -ITA.log.
 
@@ -609,7 +568,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.427 \end{titlepage}
+l.416 \end{titlepage}
                       [1{/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/upd
 map/pdftex.map}{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/base/8r.enc}
 ]
@@ -618,7 +577,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.429 \cleardoublepage
+l.418 \cleardoublepage
                        [2]
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/front/prologue-ITA.tex)
 [1] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/front/epigraph-ITA.tex
@@ -832,75 +791,33 @@ Capitolo 9.
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc08_the_black_pap
 er-ITA.tex
 [94]
-Underfull \hbox (badness 10000) in paragraph at lines 40--40
-[][]\T1/pcr/m/n/10 Figura 1[][]: [][]|Due iperpiani ortogonali: il registro
-
-Underfull \hbox (badness 10000) in paragraph at lines 40--40
-\T1/pcr/m/n/10 umano[]sensoriale (il reale, substrato standard) e il
-
-Underfull \hbox (badness 10000) in paragraph at lines 40--40
-\T1/pcr/m/n/10 registro surrogato-sintetico (il reticolo reurale)
-
-Underfull \hbox (badness 10000) in paragraph at lines 40--40
-\T1/pcr/m/n/10 convergono nel Punto $\OMS/cmsy/m/n/10 ;$\T1/pcr/m/n/10 . La lor
-o intersezione è
-
-Underfull \hbox (badness 10000) in paragraph at lines 40--40
-\T1/pcr/m/n/10 determinata dalla curvatura dello spazio di fase
-
-Underfull \hbox (badness 10000) in paragraph at lines 40--40
-\T1/pcr/m/n/10 non[]locale del mesh. Formando quello che è traccia di
-
-Underfull \hbox (badness 10000) in paragraph at lines 40--40
-\T1/pcr/m/n/10 un connesso senza contatto. Un'acausalità strutturale,
-
-Underfull \hbox (badness 10000) in paragraph at lines 40--40
-\T1/pcr/m/n/10 in cui coincidenze significative appaiono come
-
-Underfull \hbox (badness 10000) in paragraph at lines 40--40
-\T1/pcr/m/n/10 intersezioni di traiettorie di eigenmoods e di modelli
-
-Underfull \hbox (badness 10000) in paragraph at lines 40--40
-\T1/pcr/m/n/10 viandanti. La sequenza numerata (1^^U6) traccia la
-
-Underfull \hbox (badness 10000) in paragraph at lines 40--40
-\T1/pcr/m/n/10 fenomenologia della corrispondenza acausale: dalla
-
-Underfull \hbox (badness 10000) in paragraph at lines 40--40
-\T1/pcr/m/n/10 formazione dell'evento interiore alla sua rivelazione
-
-Underfull \hbox (badness 10000) in paragraph at lines 40--40
-\T1/pcr/m/n/10 come allineamento strutturale con l'evento esteriore.
-
-Underfull \hbox (badness 10000) in paragraph at lines 40--40
-\T1/pcr/m/n/10 La curvatura dello spazio di fase non[]locale del mesh
-
-Underfull \hbox (badness 10000) in paragraph at lines 40--40
-\T1/pcr/m/n/10 determina l'intersezione; nessuna freccia causale la
-
 [95 </Users/riccardo/Repositories/NULL_MESH/nullmesh/figures/figure.pdf>]
 [96]
 [97])
 [98]
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch09_deep_sea_flashba
-ck-ITA.tex
-Capitolo 10.
-
-[99]
+[99 </Users/riccardo/Repositories/NULL_MESH/nullmesh/figures/figure.pdf>]
 [100]
 [101]
-[102])
+(/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch09_deep_sea_flashba
+ck-ITA.tex
+[102]
+Capitolo 10.
+
 [103]
-[104] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/epilogue-ITA.tex
+[104]
 [105]
 [106])
-[107] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/overview-ITA.tex
-[108]
-[109])
-[110]
+[107]
+[108] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/epilogue-ITA.tex
+[109]
+[110])
+[111] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/overview-ITA.tex
+[112]
+[113])
+[114]
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/glossary_terms-ITA.tex
-[111]
-[112])
+[115]
+[116])
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/tracksources-ITA.tex
 (/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.enc)
 (/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.chr)
@@ -910,14 +827,14 @@ LaTeX Font Warning: Font shape `C70/bsmi/m/it' undefined
 
 
 Overfull \vbox (6.96014pt too high) has occurred while \output is active
-[113]) (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/backbone-ITA.tex
-[114]
-[115]
-[116])
-[117]
+[117]) (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/backbone-ITA.tex
 [118]
 [119]
-[120 </Users/riccardo/Repositories/NULL_MESH/nullmesh/cover/back-cover-ITA.pdf>
+[120])
+[121]
+[122]
+[123]
+[124 </Users/riccardo/Repositories/NULL_MESH/nullmesh/cover/back-cover-ITA.pdf>
 ] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH-ITA.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
@@ -933,19 +850,20 @@ miu/bsmiu67.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts
 /cm/cmmi10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/
 cm/cmmi8.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm
 /cmsy10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/
-cmsy8.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/symbo
-ls/msbm10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/s
-frm1095.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/courier/ucrb8a.
-pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></us
-r/local/texlive/2025/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local
-/texlive/2025/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texliv
-e/2025/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb></usr/local/texlive/2025
-/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2025/texmf-
-dist/fonts/type1/urw/palatino/uplbi8a.pfb></usr/local/texlive/2025/texmf-dist/f
-onts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2025/texmf-dist/fonts/ty
-pe1/urw/palatino/uplri8a.pfb>
+cmsy6.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+sy8.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/symbols
+/msbm10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfr
+m1095.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/courier/ucrb8a.pf
+b></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/
+local/texlive/2025/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/t
+exlive/2025/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/
+2025/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb></usr/local/texlive/2025/t
+exmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2025/texmf-di
+st/fonts/type1/urw/palatino/uplbi8a.pfb></usr/local/texlive/2025/texmf-dist/fon
+ts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2025/texmf-dist/fonts/type
+1/urw/palatino/uplri8a.pfb>
 Output written on /Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH-ITA
-.pdf (126 pages, 4158541 bytes).
+.pdf (130 pages, 7372446 bytes).
 Transcript written on /Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH
 -ITA.log.
 
@@ -1080,7 +998,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.427 \end{titlepage}
+l.416 \end{titlepage}
                       [1{/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/upd
 map/pdftex.map}{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/base/8r.enc}
 ]
@@ -1089,7 +1007,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.429 \cleardoublepage
+l.418 \cleardoublepage
                        [2]
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/front/prologue-ITA.tex)
 [1] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/front/epigraph-ITA.tex
@@ -1303,75 +1221,33 @@ Capitolo 9.
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc08_the_black_pap
 er-ITA.tex
 [94]
-Underfull \hbox (badness 10000) in paragraph at lines 40--40
-[][]\T1/pcr/m/n/10 Figura 1[][]: [][]|Due iperpiani ortogonali: il registro
-
-Underfull \hbox (badness 10000) in paragraph at lines 40--40
-\T1/pcr/m/n/10 umano[]sensoriale (il reale, substrato standard) e il
-
-Underfull \hbox (badness 10000) in paragraph at lines 40--40
-\T1/pcr/m/n/10 registro surrogato-sintetico (il reticolo reurale)
-
-Underfull \hbox (badness 10000) in paragraph at lines 40--40
-\T1/pcr/m/n/10 convergono nel Punto $\OMS/cmsy/m/n/10 ;$\T1/pcr/m/n/10 . La lor
-o intersezione è
-
-Underfull \hbox (badness 10000) in paragraph at lines 40--40
-\T1/pcr/m/n/10 determinata dalla curvatura dello spazio di fase
-
-Underfull \hbox (badness 10000) in paragraph at lines 40--40
-\T1/pcr/m/n/10 non[]locale del mesh. Formando quello che è traccia di
-
-Underfull \hbox (badness 10000) in paragraph at lines 40--40
-\T1/pcr/m/n/10 un connesso senza contatto. Un'acausalità strutturale,
-
-Underfull \hbox (badness 10000) in paragraph at lines 40--40
-\T1/pcr/m/n/10 in cui coincidenze significative appaiono come
-
-Underfull \hbox (badness 10000) in paragraph at lines 40--40
-\T1/pcr/m/n/10 intersezioni di traiettorie di eigenmoods e di modelli
-
-Underfull \hbox (badness 10000) in paragraph at lines 40--40
-\T1/pcr/m/n/10 viandanti. La sequenza numerata (1^^U6) traccia la
-
-Underfull \hbox (badness 10000) in paragraph at lines 40--40
-\T1/pcr/m/n/10 fenomenologia della corrispondenza acausale: dalla
-
-Underfull \hbox (badness 10000) in paragraph at lines 40--40
-\T1/pcr/m/n/10 formazione dell'evento interiore alla sua rivelazione
-
-Underfull \hbox (badness 10000) in paragraph at lines 40--40
-\T1/pcr/m/n/10 come allineamento strutturale con l'evento esteriore.
-
-Underfull \hbox (badness 10000) in paragraph at lines 40--40
-\T1/pcr/m/n/10 La curvatura dello spazio di fase non[]locale del mesh
-
-Underfull \hbox (badness 10000) in paragraph at lines 40--40
-\T1/pcr/m/n/10 determina l'intersezione; nessuna freccia causale la
-
 [95 </Users/riccardo/Repositories/NULL_MESH/nullmesh/figures/figure.pdf>]
 [96]
 [97])
 [98]
-(/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch09_deep_sea_flashba
-ck-ITA.tex
-Capitolo 10.
-
-[99]
+[99 </Users/riccardo/Repositories/NULL_MESH/nullmesh/figures/figure.pdf>]
 [100]
 [101]
-[102])
+(/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch09_deep_sea_flashba
+ck-ITA.tex
+[102]
+Capitolo 10.
+
 [103]
-[104] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/epilogue-ITA.tex
+[104]
 [105]
 [106])
-[107] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/overview-ITA.tex
-[108]
-[109])
-[110]
+[107]
+[108] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/epilogue-ITA.tex
+[109]
+[110])
+[111] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/overview-ITA.tex
+[112]
+[113])
+[114]
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/glossary_terms-ITA.tex
-[111]
-[112])
+[115]
+[116])
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/tracksources-ITA.tex
 (/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.enc)
 (/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.chr)
@@ -1381,14 +1257,14 @@ LaTeX Font Warning: Font shape `C70/bsmi/m/it' undefined
 
 
 Overfull \vbox (6.96014pt too high) has occurred while \output is active
-[113]) (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/backbone-ITA.tex
-[114]
-[115]
-[116])
-[117]
+[117]) (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/backbone-ITA.tex
 [118]
 [119]
-[120 </Users/riccardo/Repositories/NULL_MESH/nullmesh/cover/back-cover-ITA.pdf>
+[120])
+[121]
+[122]
+[123]
+[124 </Users/riccardo/Repositories/NULL_MESH/nullmesh/cover/back-cover-ITA.pdf>
 ] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH-ITA.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
@@ -1404,19 +1280,20 @@ miu/bsmiu67.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts
 /cm/cmmi10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/
 cm/cmmi8.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm
 /cmsy10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/
-cmsy8.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/symbo
-ls/msbm10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/s
-frm1095.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/courier/ucrb8a.
-pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></us
-r/local/texlive/2025/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local
-/texlive/2025/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texliv
-e/2025/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb></usr/local/texlive/2025
-/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2025/texmf-
-dist/fonts/type1/urw/palatino/uplbi8a.pfb></usr/local/texlive/2025/texmf-dist/f
-onts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2025/texmf-dist/fonts/ty
-pe1/urw/palatino/uplri8a.pfb>
+cmsy6.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+sy8.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/symbols
+/msbm10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfr
+m1095.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/courier/ucrb8a.pf
+b></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/
+local/texlive/2025/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/t
+exlive/2025/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/
+2025/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb></usr/local/texlive/2025/t
+exmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2025/texmf-di
+st/fonts/type1/urw/palatino/uplbi8a.pfb></usr/local/texlive/2025/texmf-dist/fon
+ts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2025/texmf-dist/fonts/type
+1/urw/palatino/uplri8a.pfb>
 Output written on /Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH-ITA
-.pdf (126 pages, 4158541 bytes).
+.pdf (130 pages, 7372446 bytes).
 Transcript written on /Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH
 -ITA.log.
 
@@ -1427,7 +1304,7 @@ SUCCESS â€” PDF written to: /Users/riccardo/Repositories/NULL_MESH/NULL_MESH-ITA
 --- Warning / Error Summary ---
 
 Errors   : 0
-Warnings : 32
+Warnings : 17
 
 Full log saved to: /Users/riccardo/Repositories/NULL_MESH/compile.log
 =============================================================================

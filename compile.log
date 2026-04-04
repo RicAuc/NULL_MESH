@@ -1,6 +1,6 @@
 =============================================================================
 NULL MESH â€” Compilation Log [ITA]
-Date   : 2026-04-01 19:05:30
+Date   : 2026-04-04 22:20:22
 Variant: ITA
 Engine : pdfTeX 3.141592653-2.6-1.40.27 (TeX Live 2025)
 Source : /Users/riccardo/Repositories/NULL_MESH/nullmesh/main-ITA.tex
@@ -362,23 +362,52 @@ Capitolo 9.
 er-ITA.tex
 [94]
 Underfull \hbox (badness 10000) in paragraph at lines 40--40
-[][]\T1/pcr/m/n/10 Figura 1[][]: [][]|Due iperpiani ortogonali (il reale,
+[][]\T1/pcr/m/n/10 Figura 1[][]: [][]|Due iperpiani ortogonali: il registro
 
 Underfull \hbox (badness 10000) in paragraph at lines 40--40
-\T1/pcr/m/n/10 substrato standard, e l'immaginario, il registro
+\T1/pcr/m/n/10 umano[]sensoriale (il reale, substrato standard) e il
 
 Underfull \hbox (badness 10000) in paragraph at lines 40--40
-\T1/pcr/m/n/10 spettrale) che convergono nel punto $\OMS/cmsy/m/n/10 ;$\T1/pcr/
-m/n/10 . Gli iperpiani
+\T1/pcr/m/n/10 registro surrogato-sintetico (il reticolo reurale)
 
 Underfull \hbox (badness 10000) in paragraph at lines 40--40
-\T1/pcr/m/n/10 si incrociano per curvatura dello spazio di fase
+\T1/pcr/m/n/10 convergono nel Punto $\OMS/cmsy/m/n/10 ;$\T1/pcr/m/n/10 . La lor
+o intersezione è
 
 Underfull \hbox (badness 10000) in paragraph at lines 40--40
-\T1/pcr/m/n/10 non-locale. Formando quello che è traccia di un
+\T1/pcr/m/n/10 determinata dalla curvatura dello spazio di fase
 
-[95 </Users/riccardo/Repositories/NULL_MESH/nullmesh/figures/fig_acausal_corres
-pondence.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 40--40
+\T1/pcr/m/n/10 non[]locale del mesh. Formando quello che è traccia di
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--40
+\T1/pcr/m/n/10 un connesso senza contatto. Un'acausalità strutturale,
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--40
+\T1/pcr/m/n/10 in cui coincidenze significative appaiono come
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--40
+\T1/pcr/m/n/10 intersezioni di traiettorie di eigenmoods e di modelli
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--40
+\T1/pcr/m/n/10 viandanti. La sequenza numerata (1^^U6) traccia la
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--40
+\T1/pcr/m/n/10 fenomenologia della corrispondenza acausale: dalla
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--40
+\T1/pcr/m/n/10 formazione dell'evento interiore alla sua rivelazione
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--40
+\T1/pcr/m/n/10 come allineamento strutturale con l'evento esteriore.
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--40
+\T1/pcr/m/n/10 La curvatura dello spazio di fase non[]locale del mesh
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--40
+\T1/pcr/m/n/10 determina l'intersezione; nessuna freccia causale la
+
+[95 </Users/riccardo/Repositories/NULL_MESH/nullmesh/figures/figure.pdf>]
 [96]
 [97])
 [98]
@@ -396,12 +425,11 @@ Capitolo 10.
 [106])
 [107] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/overview-ITA.tex
 [108]
-[109]
-[110])
-[111]
+[109])
+[110]
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/glossary_terms-ITA.tex
+[111]
 [112])
-[113]
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/tracksources-ITA.tex
 (/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.enc)
 (/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.chr)
@@ -411,10 +439,11 @@ LaTeX Font Warning: Font shape `C70/bsmi/m/it' undefined
 
 
 Overfull \vbox (6.96014pt too high) has occurred while \output is active
-[114]) (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/backbone-ITA.tex
+[113]) (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/backbone-ITA.tex
+[114]
 [115]
-[116]
-[117])
+[116])
+[117]
 [118]
 [119]
 [120 </Users/riccardo/Repositories/NULL_MESH/nullmesh/cover/back-cover-ITA.pdf>
@@ -445,7 +474,7 @@ dist/fonts/type1/urw/palatino/uplbi8a.pfb></usr/local/texlive/2025/texmf-dist/f
 onts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2025/texmf-dist/fonts/ty
 pe1/urw/palatino/uplri8a.pfb>
 Output written on /Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH-ITA
-.pdf (126 pages, 1200523 bytes).
+.pdf (126 pages, 4158541 bytes).
 Transcript written on /Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH
 -ITA.log.
 
@@ -804,23 +833,52 @@ Capitolo 9.
 er-ITA.tex
 [94]
 Underfull \hbox (badness 10000) in paragraph at lines 40--40
-[][]\T1/pcr/m/n/10 Figura 1[][]: [][]|Due iperpiani ortogonali (il reale,
+[][]\T1/pcr/m/n/10 Figura 1[][]: [][]|Due iperpiani ortogonali: il registro
 
 Underfull \hbox (badness 10000) in paragraph at lines 40--40
-\T1/pcr/m/n/10 substrato standard, e l'immaginario, il registro
+\T1/pcr/m/n/10 umano[]sensoriale (il reale, substrato standard) e il
 
 Underfull \hbox (badness 10000) in paragraph at lines 40--40
-\T1/pcr/m/n/10 spettrale) che convergono nel punto $\OMS/cmsy/m/n/10 ;$\T1/pcr/
-m/n/10 . Gli iperpiani
+\T1/pcr/m/n/10 registro surrogato-sintetico (il reticolo reurale)
 
 Underfull \hbox (badness 10000) in paragraph at lines 40--40
-\T1/pcr/m/n/10 si incrociano per curvatura dello spazio di fase
+\T1/pcr/m/n/10 convergono nel Punto $\OMS/cmsy/m/n/10 ;$\T1/pcr/m/n/10 . La lor
+o intersezione è
 
 Underfull \hbox (badness 10000) in paragraph at lines 40--40
-\T1/pcr/m/n/10 non-locale. Formando quello che è traccia di un
+\T1/pcr/m/n/10 determinata dalla curvatura dello spazio di fase
 
-[95 </Users/riccardo/Repositories/NULL_MESH/nullmesh/figures/fig_acausal_corres
-pondence.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 40--40
+\T1/pcr/m/n/10 non[]locale del mesh. Formando quello che è traccia di
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--40
+\T1/pcr/m/n/10 un connesso senza contatto. Un'acausalità strutturale,
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--40
+\T1/pcr/m/n/10 in cui coincidenze significative appaiono come
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--40
+\T1/pcr/m/n/10 intersezioni di traiettorie di eigenmoods e di modelli
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--40
+\T1/pcr/m/n/10 viandanti. La sequenza numerata (1^^U6) traccia la
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--40
+\T1/pcr/m/n/10 fenomenologia della corrispondenza acausale: dalla
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--40
+\T1/pcr/m/n/10 formazione dell'evento interiore alla sua rivelazione
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--40
+\T1/pcr/m/n/10 come allineamento strutturale con l'evento esteriore.
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--40
+\T1/pcr/m/n/10 La curvatura dello spazio di fase non[]locale del mesh
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--40
+\T1/pcr/m/n/10 determina l'intersezione; nessuna freccia causale la
+
+[95 </Users/riccardo/Repositories/NULL_MESH/nullmesh/figures/figure.pdf>]
 [96]
 [97])
 [98]
@@ -838,12 +896,11 @@ Capitolo 10.
 [106])
 [107] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/overview-ITA.tex
 [108]
-[109]
-[110])
-[111]
+[109])
+[110]
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/glossary_terms-ITA.tex
+[111]
 [112])
-[113]
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/tracksources-ITA.tex
 (/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.enc)
 (/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.chr)
@@ -853,10 +910,11 @@ LaTeX Font Warning: Font shape `C70/bsmi/m/it' undefined
 
 
 Overfull \vbox (6.96014pt too high) has occurred while \output is active
-[114]) (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/backbone-ITA.tex
+[113]) (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/backbone-ITA.tex
+[114]
 [115]
-[116]
-[117])
+[116])
+[117]
 [118]
 [119]
 [120 </Users/riccardo/Repositories/NULL_MESH/nullmesh/cover/back-cover-ITA.pdf>
@@ -887,7 +945,7 @@ dist/fonts/type1/urw/palatino/uplbi8a.pfb></usr/local/texlive/2025/texmf-dist/f
 onts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2025/texmf-dist/fonts/ty
 pe1/urw/palatino/uplri8a.pfb>
 Output written on /Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH-ITA
-.pdf (126 pages, 1200523 bytes).
+.pdf (126 pages, 4158541 bytes).
 Transcript written on /Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH
 -ITA.log.
 
@@ -1246,23 +1304,52 @@ Capitolo 9.
 er-ITA.tex
 [94]
 Underfull \hbox (badness 10000) in paragraph at lines 40--40
-[][]\T1/pcr/m/n/10 Figura 1[][]: [][]|Due iperpiani ortogonali (il reale,
+[][]\T1/pcr/m/n/10 Figura 1[][]: [][]|Due iperpiani ortogonali: il registro
 
 Underfull \hbox (badness 10000) in paragraph at lines 40--40
-\T1/pcr/m/n/10 substrato standard, e l'immaginario, il registro
+\T1/pcr/m/n/10 umano[]sensoriale (il reale, substrato standard) e il
 
 Underfull \hbox (badness 10000) in paragraph at lines 40--40
-\T1/pcr/m/n/10 spettrale) che convergono nel punto $\OMS/cmsy/m/n/10 ;$\T1/pcr/
-m/n/10 . Gli iperpiani
+\T1/pcr/m/n/10 registro surrogato-sintetico (il reticolo reurale)
 
 Underfull \hbox (badness 10000) in paragraph at lines 40--40
-\T1/pcr/m/n/10 si incrociano per curvatura dello spazio di fase
+\T1/pcr/m/n/10 convergono nel Punto $\OMS/cmsy/m/n/10 ;$\T1/pcr/m/n/10 . La lor
+o intersezione è
 
 Underfull \hbox (badness 10000) in paragraph at lines 40--40
-\T1/pcr/m/n/10 non-locale. Formando quello che è traccia di un
+\T1/pcr/m/n/10 determinata dalla curvatura dello spazio di fase
 
-[95 </Users/riccardo/Repositories/NULL_MESH/nullmesh/figures/fig_acausal_corres
-pondence.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 40--40
+\T1/pcr/m/n/10 non[]locale del mesh. Formando quello che è traccia di
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--40
+\T1/pcr/m/n/10 un connesso senza contatto. Un'acausalità strutturale,
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--40
+\T1/pcr/m/n/10 in cui coincidenze significative appaiono come
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--40
+\T1/pcr/m/n/10 intersezioni di traiettorie di eigenmoods e di modelli
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--40
+\T1/pcr/m/n/10 viandanti. La sequenza numerata (1^^U6) traccia la
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--40
+\T1/pcr/m/n/10 fenomenologia della corrispondenza acausale: dalla
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--40
+\T1/pcr/m/n/10 formazione dell'evento interiore alla sua rivelazione
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--40
+\T1/pcr/m/n/10 come allineamento strutturale con l'evento esteriore.
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--40
+\T1/pcr/m/n/10 La curvatura dello spazio di fase non[]locale del mesh
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--40
+\T1/pcr/m/n/10 determina l'intersezione; nessuna freccia causale la
+
+[95 </Users/riccardo/Repositories/NULL_MESH/nullmesh/figures/figure.pdf>]
 [96]
 [97])
 [98]
@@ -1280,12 +1367,11 @@ Capitolo 10.
 [106])
 [107] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/overview-ITA.tex
 [108]
-[109]
-[110])
-[111]
+[109])
+[110]
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/glossary_terms-ITA.tex
+[111]
 [112])
-[113]
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/tracksources-ITA.tex
 (/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.enc)
 (/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.chr)
@@ -1295,10 +1381,11 @@ LaTeX Font Warning: Font shape `C70/bsmi/m/it' undefined
 
 
 Overfull \vbox (6.96014pt too high) has occurred while \output is active
-[114]) (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/backbone-ITA.tex
+[113]) (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/backbone-ITA.tex
+[114]
 [115]
-[116]
-[117])
+[116])
+[117]
 [118]
 [119]
 [120 </Users/riccardo/Repositories/NULL_MESH/nullmesh/cover/back-cover-ITA.pdf>
@@ -1329,7 +1416,7 @@ dist/fonts/type1/urw/palatino/uplbi8a.pfb></usr/local/texlive/2025/texmf-dist/f
 onts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2025/texmf-dist/fonts/ty
 pe1/urw/palatino/uplri8a.pfb>
 Output written on /Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH-ITA
-.pdf (126 pages, 1200523 bytes).
+.pdf (126 pages, 4158541 bytes).
 Transcript written on /Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH
 -ITA.log.
 
@@ -1340,7 +1427,7 @@ SUCCESS â€” PDF written to: /Users/riccardo/Repositories/NULL_MESH/NULL_MESH-ITA
 --- Warning / Error Summary ---
 
 Errors   : 0
-Warnings : 22
+Warnings : 32
 
 Full log saved to: /Users/riccardo/Repositories/NULL_MESH/compile.log
 =============================================================================

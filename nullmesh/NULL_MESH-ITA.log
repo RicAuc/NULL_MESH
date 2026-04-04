@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.12.18)  1 APR 2026 19:05
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.12.18)  4 APR 2026 22:20
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1792,42 +1792,90 @@ er-ITA.tex
 
 
 ]
-<figures/fig_acausal_correspondence.png, id=587, 622.325pt x 289.08pt>
-File: figures/fig_acausal_correspondence.png Graphic file (type png)
-<use figures/fig_acausal_correspondence.png>
-Package pdftex.def Info: figures/fig_acausal_correspondence.png  used on input 
-line 39.
-(pdftex.def)             Requested size: 260.17299pt x 120.85257pt.
+<figures/figure.pdf, id=587, 690.58pt x 516.93124pt>
+File: figures/figure.pdf Graphic file (type pdf)
+<use figures/figure.pdf>
+Package pdftex.def Info: figures/figure.pdf  used on input line 39.
+(pdftex.def)             Requested size: 260.17299pt x 194.75583pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 40--40
-[][]\T1/pcr/m/n/10 Figura 1[][]: [][]|Due iperpiani ortogonali (il reale,
+[][]\T1/pcr/m/n/10 Figura 1[][]: [][]|Due iperpiani ortogonali: il registro
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 40--40
-\T1/pcr/m/n/10 substrato standard, e l'immaginario, il registro
+\T1/pcr/m/n/10 umano[]sensoriale (il reale, substrato standard) e il
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 40--40
-\T1/pcr/m/n/10 spettrale) che convergono nel punto $\OMS/cmsy/m/n/10 ;$\T1/pcr/
-m/n/10 . Gli iperpiani
+\T1/pcr/m/n/10 registro surrogato-sintetico (il reticolo reurale)
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 40--40
-\T1/pcr/m/n/10 si incrociano per curvatura dello spazio di fase
+\T1/pcr/m/n/10 convergono nel Punto $\OMS/cmsy/m/n/10 ;$\T1/pcr/m/n/10 . La lor
+o intersezione è
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 40--40
-\T1/pcr/m/n/10 non-locale. Formando quello che è traccia di un
+\T1/pcr/m/n/10 determinata dalla curvatura dello spazio di fase
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--40
+\T1/pcr/m/n/10 non[]locale del mesh. Formando quello che è traccia di
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--40
+\T1/pcr/m/n/10 un connesso senza contatto. Un'acausalità strutturale,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--40
+\T1/pcr/m/n/10 in cui coincidenze significative appaiono come
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--40
+\T1/pcr/m/n/10 intersezioni di traiettorie di eigenmoods e di modelli
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--40
+\T1/pcr/m/n/10 viandanti. La sequenza numerata (1^^U6) traccia la
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--40
+\T1/pcr/m/n/10 fenomenologia della corrispondenza acausale: dalla
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--40
+\T1/pcr/m/n/10 formazione dell'evento interiore alla sua rivelazione
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--40
+\T1/pcr/m/n/10 come allineamento strutturale con l'evento esteriore.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--40
+\T1/pcr/m/n/10 La curvatura dello spazio di fase non[]locale del mesh
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--40
+\T1/pcr/m/n/10 determina l'intersezione; nessuna freccia causale la
  []
 
 
 
-[95 </Users/riccardo/Repositories/NULL_MESH/nullmesh/figures/fig_acausal_corres
-pondence.png>]
+[95 </Users/riccardo/Repositories/NULL_MESH/nullmesh/figures/figure.pdf>]
 
 [96]
 
@@ -1877,20 +1925,18 @@ Package pdftex.def Info: qrs/ch01_basinski.png  used on input line 5.
 
 ]
 
-[109]
+[109])
 
-[110])
-
-[111]
+[110]
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/glossary_terms-ITA.tex
-[112
+[111
 
 
 ]
 LaTeX Font Info:    Calculating math sizes for size <8.5> on input line 60.
-)
 
-[113]
+
+[112])
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/tracksources-ITA.tex
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <8> not available
 (Font)              Font shape `T1/phv/m/sl' tried instead on input line 16.
@@ -1910,32 +1956,34 @@ Overfull \vbox (6.96014pt too high) has occurred while \output is active []
 
 
 
-[114
+[113
 
 
 ]) (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/backbone-ITA.tex
 
-[115
+[114
 
 
 ]
 
-[116]
+[115]
 
-[117])
+[116])
 
-[118]
+[117]
 
-[119
+[118
 
 
 ]
-<cover/back-cover-ITA.pdf, id=699, 203.76125pt x 306.14375pt>
+
+[119]
+<cover/back-cover-ITA.pdf, id=1242, 203.76125pt x 306.14375pt>
 File: cover/back-cover-ITA.pdf Graphic file (type pdf)
 <use cover/back-cover-ITA.pdf>
 Package pdftex.def Info: cover/back-cover-ITA.pdf  used on input line 534.
 (pdftex.def)             Requested size: 203.76074pt x 306.14299pt.
-<cover/back-cover-ITA.pdf, id=701, page=1, 203.76125pt x 306.14375pt>
+<cover/back-cover-ITA.pdf, id=1244, page=1, 203.76125pt x 306.14375pt>
 File: cover/back-cover-ITA.pdf Graphic file (type pdf)
 <use cover/back-cover-ITA.pdf, page 1>
 Package pdftex.def Info: cover/back-cover-ITA.pdf , page1 used on input line 53
@@ -1980,11 +2028,11 @@ Package rerunfilecheck Info: File `NULL_MESH-ITA.out' has not changed.
 (rerunfilecheck)             Checksum: 285E0903F59DD1465A9D6110477898D6;3338.
  ) 
 Here is how much of TeX's memory you used:
- 23155 strings out of 473190
- 381273 string characters out of 5715799
- 854917 words of memory out of 5000000
- 45205 multiletter control sequences out of 15000+600000
- 693829 words of font info for 538 fonts, out of 8000000 for 9000
+ 23154 strings out of 473190
+ 381013 string characters out of 5715799
+ 855445 words of memory out of 5000000
+ 45201 multiletter control sequences out of 15000+600000
+ 693954 words of font info for 540 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  108i,17n,107p,1005b,1041s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2025/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu4e.pfb></us
@@ -2008,10 +2056,10 @@ usr/local/texlive/2025/texmf-dist/fonts/type1/urw/palatino/uplbi8a.pfb></usr/lo
 cal/texlive/2025/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/tex
 live/2025/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
 Output written on /Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH-ITA
-.pdf (126 pages, 1200523 bytes).
+.pdf (126 pages, 4158541 bytes).
 PDF statistics:
- 895 PDF objects out of 1000 (max. 8388607)
- 677 compressed objects within 7 object streams
+ 1438 PDF objects out of 1440 (max. 8388607)
+ 1035 compressed objects within 11 object streams
  152 named destinations out of 1000 (max. 500000)
  145697 words of extra memory for PDF output out of 154059 (max. 10000000)
 

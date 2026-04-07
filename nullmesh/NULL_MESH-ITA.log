@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.12.18)  5 APR 2026 10:18
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2026.4.6)  7 APR 2026 15:08
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1810,7 +1810,7 @@ File: figures/figure.pdf Graphic file (type pdf)
 <use figures/figure.pdf>
 Package pdftex.def Info: figures/figure.pdf  used on input line 507.
 (pdftex.def)             Requested size: 690.57831pt x 516.92998pt.
-<figures/figure.pdf, id=1154, page=1, 690.58pt x 516.93124pt>
+<figures/figure.pdf, id=1153, page=1, 690.58pt x 516.93124pt>
 File: figures/figure.pdf Graphic file (type pdf)
 <use figures/figure.pdf, page 1>
 Package pdftex.def Info: figures/figure.pdf , page1 used on input line 507.
@@ -1971,12 +1971,12 @@ Overfull \vbox (6.96014pt too high) has occurred while \output is active []
 ]
 
 [123]
-<cover/back-cover-ITA.pdf, id=1808, 203.76125pt x 306.14375pt>
+<cover/back-cover-ITA.pdf, id=1806, 203.76125pt x 306.14375pt>
 File: cover/back-cover-ITA.pdf Graphic file (type pdf)
 <use cover/back-cover-ITA.pdf>
 Package pdftex.def Info: cover/back-cover-ITA.pdf  used on input line 559.
 (pdftex.def)             Requested size: 203.76074pt x 306.14299pt.
-<cover/back-cover-ITA.pdf, id=1810, page=1, 203.76125pt x 306.14375pt>
+<cover/back-cover-ITA.pdf, id=1808, page=1, 203.76125pt x 306.14375pt>
 File: cover/back-cover-ITA.pdf Graphic file (type pdf)
 <use cover/back-cover-ITA.pdf, page 1>
 Package pdftex.def Info: cover/back-cover-ITA.pdf , page1 used on input line 55
@@ -2021,11 +2021,11 @@ Package rerunfilecheck Info: File `NULL_MESH-ITA.out' has not changed.
 (rerunfilecheck)             Checksum: 285E0903F59DD1465A9D6110477898D6;3338.
  ) 
 Here is how much of TeX's memory you used:
- 23167 strings out of 473190
- 381240 string characters out of 5715799
+ 23164 strings out of 473190
+ 381216 string characters out of 5715801
  855441 words of memory out of 5000000
  45206 multiletter control sequences out of 15000+600000
- 694142 words of font info for 543 fonts, out of 8000000 for 9000
+ 694045 words of font info for 541 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  108i,18n,107p,1005b,1041s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2025/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu4e.pfb></us
@@ -2050,10 +2050,10 @@ r/local/texlive/2025/texmf-dist/fonts/type1/urw/palatino/uplbi8a.pfb></usr/loca
 l/texlive/2025/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texli
 ve/2025/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
 Output written on /Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH-ITA
-.pdf (130 pages, 7372228 bytes).
+.pdf (130 pages, 7126034 bytes).
 PDF statistics:
- 2008 PDF objects out of 2073 (max. 8388607)
- 1410 compressed objects within 15 object streams
+ 2006 PDF objects out of 2073 (max. 8388607)
+ 1412 compressed objects within 15 object streams
  156 named destinations out of 1000 (max. 500000)
  145712 words of extra memory for PDF output out of 154059 (max. 10000000)
 

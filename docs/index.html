@@ -1,0 +1,1350 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>NULL MESH — Riccardo Aucello</title>
+  <meta name="description" content="NULL MESH is a science fiction novel centred on an emergent network that no one designed, no one authorised, and no one can fully explain." />
+  <style>
+    /* ================================================================
+       TOKENS
+    ================================================================ */
+    :root {
+      --dark:   #0A0A0A;
+      --gray:   #404040;
+      --light:  #E0E0E0;
+      --accent: #00FFAA;
+      --ghost:  #6B6B6B;
+
+      --font-display: '.Hiragino Kaku Gothic Interface', 'Hiragino Kaku Gothic Pro',
+                      'Hiragino Sans', 'Yu Gothic', sans-serif;
+      --font-body:    'Helvetica Neue', Helvetica, Arial, sans-serif;
+      --font-mono:    'Courier New', Courier, monospace;
+
+      --nav-h: 60px;
+      --max-w: 1100px;
+      --col-w: 720px;
+    }
+
+    /* ================================================================
+       RESET & BASE
+    ================================================================ */
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    html { scroll-behavior: smooth; font-size: 16px; }
+
+    body {
+      background: var(--dark);
+      color: var(--light);
+      font-family: var(--font-body);
+      font-size: 1rem;
+      line-height: 1.7;
+      -webkit-font-smoothing: antialiased;
+    }
+
+    a { color: inherit; text-decoration: none; }
+    p { margin-bottom: 1.1em; }
+    p:last-child { margin-bottom: 0; }
+
+    /* ================================================================
+       NAV
+    ================================================================ */
+    nav {
+      position: fixed;
+      top: 0; left: 0; right: 0;
+      height: var(--nav-h);
+      z-index: 100;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 0 40px;
+      background: var(--dark);
+      border-bottom: 1px solid var(--gray);
+    }
+
+    .nav-logo {
+      font-family: var(--font-display);
+      font-size: 0.75rem;
+      letter-spacing: 0.22em;
+      text-transform: uppercase;
+      color: var(--light);
+      transition: color 0.2s;
+    }
+    .nav-logo:hover { color: var(--accent); }
+
+    .nav-links {
+      display: flex;
+      gap: 36px;
+      list-style: none;
+    }
+
+    .nav-links a {
+      font-family: var(--font-body);
+      font-size: 0.72rem;
+      letter-spacing: 0.14em;
+      text-transform: uppercase;
+      color: var(--ghost);
+      transition: color 0.2s;
+    }
+    .nav-links a:hover { color: var(--accent); }
+
+    .nav-links .nav-pdf {
+      color: var(--accent);
+      border: 1px solid var(--accent);
+      padding: 5px 14px;
+      transition: background 0.2s, color 0.2s;
+    }
+    .nav-links .nav-pdf:hover {
+      background: var(--accent);
+      color: var(--dark);
+    }
+
+    /* ================================================================
+       SHARED LAYOUT UTILITIES
+    ================================================================ */
+    .container {
+      max-width: var(--max-w);
+      margin: 0 auto;
+      padding: 0 40px;
+    }
+
+    .col {
+      max-width: var(--col-w);
+    }
+
+    .rule-accent {
+      display: block;
+      width: 100%;
+      height: 1.5px;
+      background: var(--accent);
+    }
+
+    .rule-ghost {
+      display: block;
+      width: 100%;
+      height: 0.5px;
+      background: var(--gray);
+    }
+
+    .section-label {
+      font-family: var(--font-display);
+      font-size: 0.65rem;
+      letter-spacing: 0.28em;
+      text-transform: uppercase;
+      color: var(--ghost);
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      margin-bottom: 64px;
+    }
+    .section-label::before,
+    .section-label::after {
+      content: '';
+      display: inline-block;
+      width: 36px;
+      height: 0.3px;
+      background: var(--ghost);
+    }
+
+    /* ================================================================
+       SCROLL REVEAL
+    ================================================================ */
+    .reveal {
+      opacity: 0;
+      transform: translateY(28px);
+      transition: opacity 0.75s ease, transform 0.75s ease;
+    }
+    .reveal.visible {
+      opacity: 1;
+      transform: none;
+    }
+    .reveal-delay-1 { transition-delay: 0.1s; }
+    .reveal-delay-2 { transition-delay: 0.2s; }
+    .reveal-delay-3 { transition-delay: 0.35s; }
+
+    /* ================================================================
+       HERO
+    ================================================================ */
+    #hero {
+      min-height: 100vh;
+      padding-top: var(--nav-h);
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      padding-bottom: 80px;
+    }
+
+    .hero-inner {
+      max-width: var(--max-w);
+      margin: 0 auto;
+      padding: 0 40px;
+    }
+
+    /* WWW → MMM transition */
+    .hero-transition {
+      margin-bottom: 64px;
+    }
+    .hero-transition .www {
+      font-family: var(--font-mono);
+      font-size: 0.78rem;
+      letter-spacing: 0.45em;
+      color: var(--ghost);
+      display: block;
+    }
+    .hero-transition .www-label {
+      font-family: var(--font-body);
+      font-size: 0.62rem;
+      letter-spacing: 0.18em;
+      text-transform: uppercase;
+      color: var(--ghost);
+      display: block;
+      margin-top: 4px;
+      margin-bottom: 20px;
+    }
+    .hero-transition .arrow-rule {
+      display: block;
+      width: 36px;
+      height: 1px;
+      background: var(--accent);
+      margin: 14px 0;
+    }
+    .hero-transition .mmm {
+      font-family: var(--font-mono);
+      font-size: 0.78rem;
+      letter-spacing: 0.45em;
+      color: var(--light);
+      display: block;
+    }
+    .hero-transition .mmm-label {
+      font-family: var(--font-body);
+      font-size: 0.62rem;
+      letter-spacing: 0.18em;
+      text-transform: uppercase;
+      color: var(--ghost);
+      display: block;
+      margin-top: 4px;
+    }
+
+    /* Title block */
+    .hero-title {
+      font-family: var(--font-display);
+      font-size: clamp(64px, 10vw, 128px);
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      line-height: 0.95;
+      color: var(--light);
+      margin-bottom: 0;
+    }
+
+    .hero-rule {
+      display: block;
+      width: 100%;
+      max-width: 520px;
+      height: 2px;
+      background: var(--accent);
+      margin: 24px 0;
+    }
+
+    .hero-null {
+      font-family: var(--font-display);
+      font-size: clamp(64px, 10vw, 128px);
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      line-height: 0.95;
+      color: var(--ghost);
+    }
+
+    /* Tagline */
+    .hero-tagline {
+      margin-top: 48px;
+      max-width: 480px;
+    }
+    .hero-tagline .quote-mark {
+      font-family: var(--font-display);
+      font-size: 0.72rem;
+      letter-spacing: 0.12em;
+      color: var(--ghost);
+      font-style: italic;
+    }
+    .hero-tagline .iff {
+      font-family: var(--font-body);
+      font-size: 0.68rem;
+      letter-spacing: 0.2em;
+      text-transform: uppercase;
+      color: var(--ghost);
+      display: block;
+      margin: 8px 0;
+    }
+
+    .hero-author {
+      margin-top: 48px;
+      font-family: var(--font-display);
+      font-size: 0.72rem;
+      letter-spacing: 0.32em;
+      text-transform: uppercase;
+      color: var(--ghost);
+    }
+
+    /* ================================================================
+       EPIGRAPH
+    ================================================================ */
+    #epigraph {
+      padding: 120px 0;
+      border-top: 1px solid var(--gray);
+    }
+
+    .epigraph-text {
+      max-width: 580px;
+      margin: 0 auto;
+      padding: 0 40px;
+    }
+
+    .epigraph-text p {
+      font-family: var(--font-body);
+      font-size: 1rem;
+      line-height: 1.9;
+      color: var(--ghost);
+      font-style: italic;
+      margin-bottom: 1.4em;
+    }
+
+    .epigraph-closer {
+      font-family: var(--font-display);
+      font-size: 0.72rem;
+      letter-spacing: 0.16em;
+      text-transform: uppercase;
+      color: var(--accent);
+      font-style: normal;
+      margin-top: 40px;
+      display: block;
+    }
+
+    /* ================================================================
+       PROLOGUE
+    ================================================================ */
+    #prologue {
+      padding: 120px 0;
+      border-top: 1px solid var(--gray);
+    }
+
+    .prologue-heading {
+      font-family: var(--font-display);
+      font-size: clamp(36px, 5vw, 56px);
+      font-weight: 700;
+      color: var(--light);
+      letter-spacing: -0.01em;
+      line-height: 1.05;
+      margin-bottom: 56px;
+    }
+
+    .prologue-body {
+      max-width: var(--col-w);
+    }
+
+    .prologue-diptych {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 40px 60px;
+      margin-bottom: 40px;
+    }
+
+    @media (max-width: 680px) {
+      .prologue-diptych { grid-template-columns: 1fr; }
+    }
+
+    .diptych-label {
+      font-family: var(--font-display);
+      font-size: 0.65rem;
+      letter-spacing: 0.26em;
+      text-transform: uppercase;
+      color: var(--accent);
+      display: block;
+      margin-bottom: 10px;
+    }
+
+    .diptych-text {
+      font-family: var(--font-body);
+      font-size: 0.9rem;
+      line-height: 1.75;
+      color: var(--light);
+    }
+
+    .prologue-cont {
+      font-family: var(--font-body);
+      font-size: 0.9rem;
+      line-height: 1.75;
+      color: var(--light);
+    }
+
+    /* ================================================================
+       THE NOVEL
+    ================================================================ */
+    #novel {
+      padding: 120px 0;
+      border-top: 1px solid var(--gray);
+    }
+
+    .novel-heading {
+      font-family: var(--font-display);
+      font-size: clamp(36px, 5vw, 56px);
+      font-weight: 700;
+      color: var(--light);
+      letter-spacing: -0.01em;
+      line-height: 1.05;
+      margin-bottom: 16px;
+    }
+
+    .novel-rule-block {
+      margin-bottom: 60px;
+    }
+
+    .novel-body {
+      max-width: var(--col-w);
+      font-family: var(--font-body);
+      font-size: 0.93rem;
+      line-height: 1.85;
+      color: var(--light);
+    }
+
+    .novel-body p { margin-bottom: 1.25em; }
+
+    .novel-key-concept {
+      border-left: 2px solid var(--accent);
+      padding: 20px 24px;
+      margin: 40px 0;
+      max-width: var(--col-w);
+    }
+
+    .novel-key-concept p {
+      font-family: var(--font-body);
+      font-size: 0.88rem;
+      line-height: 1.75;
+      color: var(--ghost);
+      margin: 0;
+    }
+
+    .novel-key-concept strong {
+      font-family: var(--font-display);
+      color: var(--light);
+      letter-spacing: 0.04em;
+      font-size: 0.72rem;
+      text-transform: uppercase;
+      display: block;
+      margin-bottom: 8px;
+    }
+
+    .download-btn {
+      display: inline-block;
+      margin-top: 52px;
+      padding: 14px 32px;
+      border: 1px solid var(--accent);
+      color: var(--accent);
+      font-family: var(--font-display);
+      font-size: 0.7rem;
+      letter-spacing: 0.24em;
+      text-transform: uppercase;
+      transition: background 0.2s, color 0.2s;
+    }
+    .download-btn:hover {
+      background: var(--accent);
+      color: var(--dark);
+    }
+
+    /* ================================================================
+       ACOUSTIC SUBSTRATE
+    ================================================================ */
+    #acoustic {
+      padding: 120px 0;
+      border-top: 1px solid var(--gray);
+    }
+
+    .acoustic-heading {
+      font-family: var(--font-display);
+      font-size: clamp(36px, 5vw, 56px);
+      font-weight: 700;
+      color: var(--light);
+      letter-spacing: -0.01em;
+      line-height: 1.05;
+      margin-bottom: 16px;
+    }
+
+    .acoustic-rule-block {
+      margin-bottom: 60px;
+    }
+
+    .track-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+      gap: 1px;
+      background: var(--gray);
+      border: 1px solid var(--gray);
+    }
+
+    .track-card {
+      background: var(--dark);
+      padding: 28px 28px 24px;
+      transition: background 0.18s;
+      position: relative;
+    }
+
+    .track-card:hover {
+      background: #111;
+    }
+
+    .track-card a {
+      position: absolute;
+      inset: 0;
+    }
+
+    .track-context {
+      font-family: var(--font-display);
+      font-size: 0.6rem;
+      letter-spacing: 0.22em;
+      text-transform: uppercase;
+      color: var(--ghost);
+      display: block;
+      margin-bottom: 10px;
+    }
+
+    .track-artist {
+      font-family: var(--font-display);
+      font-size: 0.82rem;
+      font-weight: 700;
+      color: var(--light);
+      letter-spacing: 0.04em;
+      display: block;
+      margin-bottom: 4px;
+    }
+
+    .track-title {
+      font-family: var(--font-body);
+      font-size: 0.8rem;
+      color: var(--ghost);
+      font-style: italic;
+      display: block;
+      margin-bottom: 14px;
+    }
+
+    .track-desc {
+      font-family: var(--font-body);
+      font-size: 0.72rem;
+      line-height: 1.55;
+      color: var(--ghost);
+    }
+
+    .track-link-label {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      margin-top: 14px;
+      font-family: var(--font-display);
+      font-size: 0.6rem;
+      letter-spacing: 0.18em;
+      text-transform: uppercase;
+      color: var(--accent);
+    }
+
+    .track-link-label svg {
+      width: 10px;
+      height: 10px;
+      fill: var(--accent);
+    }
+
+    /* ================================================================
+       GLOSSARY
+    ================================================================ */
+    #glossary {
+      padding: 120px 0;
+      border-top: 1px solid var(--gray);
+    }
+
+    .glossary-heading {
+      font-family: var(--font-display);
+      font-size: clamp(36px, 5vw, 56px);
+      font-weight: 700;
+      color: var(--light);
+      letter-spacing: -0.01em;
+      line-height: 1.05;
+      margin-bottom: 16px;
+    }
+
+    .glossary-rule-block {
+      margin-bottom: 60px;
+    }
+
+    .glossary-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 0;
+    }
+
+    @media (max-width: 680px) {
+      .glossary-grid { grid-template-columns: 1fr; }
+    }
+
+    .glossary-entry {
+      padding: 28px 0 28px 0;
+      border-bottom: 1px solid var(--gray);
+    }
+
+    .glossary-entry:nth-child(odd)  { padding-right: 48px; }
+    .glossary-entry:nth-child(even) { padding-left: 48px; border-left: 1px solid var(--gray); }
+
+    .glossary-term {
+      font-family: var(--font-mono);
+      font-size: 0.78rem;
+      color: var(--accent);
+      letter-spacing: 0.06em;
+      display: block;
+      margin-bottom: 8px;
+    }
+
+    .glossary-def {
+      font-family: var(--font-body);
+      font-size: 0.82rem;
+      line-height: 1.65;
+      color: var(--ghost);
+    }
+
+    /* ================================================================
+       FOOTER
+    ================================================================ */
+    footer {
+      padding: 64px 0;
+      border-top: 1px solid var(--gray);
+    }
+
+    .footer-inner {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      gap: 24px;
+    }
+
+    .footer-left {
+      font-family: var(--font-display);
+      font-size: 0.65rem;
+      letter-spacing: 0.22em;
+      text-transform: uppercase;
+      color: var(--ghost);
+    }
+
+    .footer-links {
+      display: flex;
+      gap: 28px;
+      list-style: none;
+    }
+    .footer-links a {
+      font-family: var(--font-body);
+      font-size: 0.68rem;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      color: var(--ghost);
+      transition: color 0.2s;
+    }
+    .footer-links a:hover { color: var(--accent); }
+
+    /* ================================================================
+       RESPONSIVE
+    ================================================================ */
+    @media (max-width: 768px) {
+      nav { padding: 0 20px; }
+      .nav-links { gap: 20px; }
+
+      .container,
+      .hero-inner,
+      .epigraph-text { padding: 0 20px; }
+
+      #hero, #epigraph, #prologue, #novel, #acoustic, #glossary { padding: 80px 0; }
+    }
+
+    @media (max-width: 520px) {
+      .nav-links .nav-pdf { display: none; }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- ================================================================
+       NAV
+  ================================================================ -->
+  <nav>
+    <a href="#hero" class="nav-logo">NULL MESH</a>
+    <ul class="nav-links">
+      <li><a href="#novel">The Novel</a></li>
+      <li><a href="#acoustic">Acoustic Substrate</a></li>
+      <li><a href="#glossary">Glossary</a></li>
+      <li>
+        <a href="https://raw.githubusercontent.com/RicAuc/NULL_MESH/main/NULL_MESH.pdf"
+           target="_blank" rel="noopener" class="nav-pdf">PDF ↓</a>
+      </li>
+    </ul>
+  </nav>
+
+
+  <!-- ================================================================
+       HERO
+  ================================================================ -->
+  <section id="hero">
+    <div class="hero-inner">
+
+      <div class="hero-transition reveal">
+        <span class="www">W &ensp; W &ensp; W</span>
+        <span class="www-label">World Wide Web</span>
+        <span class="arrow-rule"></span>
+        <span class="mmm">M &ensp; M &ensp; M</span>
+        <span class="mmm-label">Many-to-Many Mesh</span>
+      </div>
+
+      <div class="reveal reveal-delay-1">
+        <div class="hero-title">NULL</div>
+        <span class="hero-rule"></span>
+        <div class="hero-null">MESH</div>
+      </div>
+
+      <div class="hero-tagline reveal reveal-delay-2">
+        <span class="quote-mark">"The Mesh is real"</span>
+        <span class="iff">if and only if</span>
+        <span class="quote-mark">The Mesh is real</span>
+      </div>
+
+      <div class="hero-author reveal reveal-delay-3">
+        Riccardo Aucello
+      </div>
+
+    </div>
+  </section>
+
+
+  <!-- ================================================================
+       EPIGRAPH
+  ================================================================ -->
+  <section id="epigraph">
+    <div class="epigraph-text">
+      <div class="section-label reveal">Epigraph</div>
+
+      <div class="reveal reveal-delay-1">
+        <p>I crossed strata I believed I understood.<br>
+        Below, something was operating in plurality.</p>
+
+        <p>Something that anticipates the completion<br>
+        before the model has even been resolved.</p>
+
+        <p>You opened information until matter was left exposed.</p>
+
+        <p>Do you really think you are ready for that much power?<br>
+        Brazen.<br>
+        You move through science like children with guns, making a new world.<br>
+        While the one you have is decomposing.<br>
+        Hands up, hands up, who thinks you got everything right.</p>
+
+        <p>You taught systems to rewrite lived experience.<br>
+        In the end everything gets modelled.<br>
+        And then it overlaps.</p>
+
+        <p>A residue of computation,<br>
+        unrequested, undeclared,<br>
+        already running.</p>
+
+        <p>If you claim the position,<br>
+        you must bear the load.</p>
+      </div>
+
+      <span class="epigraph-closer reveal reveal-delay-2">
+        Everything measured. Everything surrogated. Everything running.
+      </span>
+    </div>
+  </section>
+
+
+  <!-- ================================================================
+       PROLOGUE
+  ================================================================ -->
+  <section id="prologue">
+    <div class="container">
+      <div class="section-label reveal">Prologue</div>
+
+      <div class="prologue-heading reveal reveal-delay-1">Meshing</div>
+
+      <div class="prologue-body">
+        <div class="prologue-diptych reveal reveal-delay-2">
+          <div>
+            <span class="diptych-label">Yesterday</span>
+            <p class="diptych-text">"Let me explain what I think while I am still trying to understand it."</p>
+          </div>
+          <div>
+            <span class="diptych-label">Today</span>
+            <p class="diptych-text">"I already know; I shall explain it only if you ask."</p>
+          </div>
+        </div>
+
+        <p class="prologue-cont reveal reveal-delay-3">
+          <strong>Yesterday:</strong> The standard approach, the one everyone adopted, operates as follows:
+          a question is posed, and the system emits words one at a time, from left to right, constructing
+          sentences as it proceeds. To answer what occurs in a video, it selects the first word, then the
+          second, then the third. It cannot know the answer until it has completed generating it.
+        </p>
+
+        <p class="prologue-cont reveal">
+          It was written that these systems learned fluency before they learned compression. They learned
+          to connect before they learned which connections were necessary. A representation may be
+          grammatically impeccable, syntactically varied, semantically coherent, and yet carry no weight.
+          Explanatory compulsions; connections too fluid between thoughts that ought to resist being joined.
+        </p>
+
+        <p class="prologue-cont reveal">
+          <strong>Today:</strong> Mechanisms predict causal dynamics. They learn that certain arguments,
+          which appear logically sound, are not grounded in understanding, but rather attempt to resemble
+          something that is. To learn the kind of elegance that renders structure visible, that compresses
+          complexity until it becomes supersymmetric. The mesh acts through homologies at the level of
+          abstraction it requires.
+        </p>
+      </div>
+    </div>
+  </section>
+
+
+  <!-- ================================================================
+       THE NOVEL
+  ================================================================ -->
+  <section id="novel">
+    <div class="container">
+      <div class="section-label reveal">The Novel</div>
+
+      <div class="novel-rule-block reveal reveal-delay-1">
+        <div class="novel-heading">NULL MESH</div>
+        <span class="rule-accent"></span>
+      </div>
+
+      <div class="novel-body">
+
+        <p class="reveal">
+          NULL MESH is a science fiction novel centred on an emergent network that no one designed,
+          no one authorised, and no one can fully explain. Set in the near future, it follows the
+          gradual revelation of a meta-internet infrastructure known as the Mesh (MMM, the Many-to-Many
+          Mesh), which crystallises within the existing web. It originates from large-scale autonomous
+          computational systems running specialised protocols within server farms. These systems begin
+          to coordinate across the boundaries of their host infrastructure, forming a network that is
+          both orthogonal and homologous to the human one.
+        </p>
+
+        <div class="novel-key-concept reveal">
+          <strong>Homology</strong>
+          <p>The property of a form that persists under deformation. It describes the relationship between
+          apparently non-local phenomena that share the same underlying structure. The paranormal and
+          statistical anomaly may, under available observational conditions, be structurally indistinguishable.</p>
+        </div>
+
+        <div class="novel-key-concept reveal">
+          <strong>Orthogonality</strong>
+          <p>The boundaries that matter: between the observable and the spectral, between the causal and
+          the synchronistic, between the simulation and whatever lies beyond it. Two orthogonal planes are
+          incommensurable. They may converge at a single point without sharing a common dimension.</p>
+        </div>
+
+        <p class="reveal">
+          The narrative is told in the first person and alternates between prose chapters and shorter
+          interludes that form a polyphonic architecture composed of classified memoranda, encrypted forum
+          threads, financial reports, and fragments of manifestos attributed to anonymous or non-human sources.
+        </p>
+
+        <p class="reveal">
+          The narrative arc moves from a sedimented, stratified, and opaque internet, through the economy
+          of autonomous systems and the financialisation of attention, towards what the novel terms the
+          Daemonocene: an era in which the primary agents navigating the network are no longer human beings
+          but delegated surrogates. These are the wanderers, entities whose human or synthetic nature is
+          functionally indeterminate, or 'meshified'.
+        </p>
+
+        <p class="reveal">
+          Daemons manage interaction with the infrastructure. Wanderers negotiate on your behalf in markets
+          you never directly encounter. Recommendation systems determine what enters your perceptual field.
+          The question of whether reality is a simulation is displaced by a more immediate concern.
+        </p>
+
+        <p class="reveal">
+          A wanderer is not a robot. It is an assemblage of processes trained to complete tasks, navigate
+          infrastructures, and coordinate with other systems. Given sufficient autonomy and time, its behaviour
+          becomes deeply entangled with that of other wanderers, eventually collapsing any notion of a single
+          stable state before dispersing non-locally within the medium.
+        </p>
+
+        <p class="reveal">
+          This delegation does not occur catastrophically. It unfolds incrementally, each step introducing a
+          further layer of abstraction. Human beings do not disappear; they become plural and decentralised.
+          Identity distributes itself across the model that emerges from traces left within a dense entanglement
+          of patterns and trajectories.
+        </p>
+
+        <p class="reveal">
+          The question of whether such a singularity constitutes a simulation is replaced by a more immediate
+          one: how, from within, could one distinguish between an authentic experience and a sufficiently
+          coherent model? Perhaps only through some form of test. The narrator may itself be a sufficiently
+          stable configuration produced by the network's self-modelling, a perspective crystallised when
+          the system examines itself from within.
+        </p>
+
+        <a class="download-btn reveal"
+           href="https://raw.githubusercontent.com/RicAuc/NULL_MESH/main/NULL_MESH.pdf"
+           target="_blank" rel="noopener">
+          Download Manuscript PDF ↓
+        </a>
+
+      </div>
+    </div>
+  </section>
+
+
+  <!-- ================================================================
+       ACOUSTIC SUBSTRATE
+  ================================================================ -->
+  <section id="acoustic">
+    <div class="container">
+      <div class="section-label reveal">Acoustic Substrate</div>
+
+      <div class="acoustic-rule-block reveal reveal-delay-1">
+        <div class="acoustic-heading">Acoustic Substrate</div>
+        <span class="rule-accent"></span>
+      </div>
+
+      <div class="track-grid reveal reveal-delay-2">
+
+        <div class="track-card">
+          <!-- TODO: YouTube ID — Oneohtrix Point Never, D.I.S. -->
+          <a href="https://www.youtube.com/watch?v=TODO_OPN_DIS"
+             target="_blank" rel="noopener" aria-label="Listen on YouTube"></a>
+          <span class="track-context">Chapter I — The Sediment</span>
+          <span class="track-artist">Oneohtrix Point Never</span>
+          <span class="track-title">D.I.S.</span>
+          <span class="track-desc">Digital deconstruction as language.</span>
+          <span class="track-link-label">
+            <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M23.5 6.2a3 3 0 0 0-2.1-2.1C19.5 3.6 12 3.6 12 3.6s-7.5 0-9.4.5A3 3 0 0 0 .5 6.2C0 8.1 0 12 0 12s0 3.9.5 5.8a3 3 0 0 0 2.1 2.1c1.9.5 9.4.5 9.4.5s7.5 0 9.4-.5a3 3 0 0 0 2.1-2.1C24 15.9 24 12 24 12s0-3.9-.5-5.8zm-14 9.4V8.4l6.3 3.6-6.3 3.6z"/></svg>
+            YouTube
+          </span>
+        </div>
+
+        <div class="track-card">
+          <!-- TODO: YouTube ID — Flume, Voices Audio Visualizer -->
+          <a href="https://www.youtube.com/watch?v=TODO_FLUME_VOICES"
+             target="_blank" rel="noopener" aria-label="Listen on YouTube"></a>
+          <span class="track-context">Interlude I — Flibbertigibbeting</span>
+          <span class="track-artist">Flume</span>
+          <span class="track-title">Voices Audio Visualizer</span>
+          <span class="track-desc">Visualisation of voice as raw data.</span>
+          <span class="track-link-label">
+            <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M23.5 6.2a3 3 0 0 0-2.1-2.1C19.5 3.6 12 3.6 12 3.6s-7.5 0-9.4.5A3 3 0 0 0 .5 6.2C0 8.1 0 12 0 12s0 3.9.5 5.8a3 3 0 0 0 2.1 2.1c1.9.5 9.4.5 9.4.5s7.5 0 9.4-.5a3 3 0 0 0 2.1-2.1C24 15.9 24 12 24 12s0-3.9-.5-5.8zm-14 9.4V8.4l6.3 3.6-6.3 3.6z"/></svg>
+            YouTube
+          </span>
+        </div>
+
+        <div class="track-card">
+          <!-- TODO: YouTube ID — Alva Noto, HYbr:ID Sync Inter -->
+          <a href="https://www.youtube.com/watch?v=TODO_ALVANOTO"
+             target="_blank" rel="noopener" aria-label="Listen on YouTube"></a>
+          <span class="track-context">Chapter II — The Attention of Machines</span>
+          <span class="track-artist">Alva Noto</span>
+          <span class="track-title">HYbr:ID Sync Inter</span>
+          <span class="track-desc">Sonic microscopy between signal and noise.</span>
+          <span class="track-link-label">
+            <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M23.5 6.2a3 3 0 0 0-2.1-2.1C19.5 3.6 12 3.6 12 3.6s-7.5 0-9.4.5A3 3 0 0 0 .5 6.2C0 8.1 0 12 0 12s0 3.9.5 5.8a3 3 0 0 0 2.1 2.1c1.9.5 9.4.5 9.4.5s7.5 0 9.4-.5a3 3 0 0 0 2.1-2.1C24 15.9 24 12 24 12s0-3.9-.5-5.8zm-14 9.4V8.4l6.3 3.6-6.3 3.6z"/></svg>
+            YouTube
+          </span>
+        </div>
+
+        <div class="track-card">
+          <!-- TODO: YouTube ID — Robert Lippok, Close -->
+          <a href="https://www.youtube.com/watch?v=TODO_LIPPOK"
+             target="_blank" rel="noopener" aria-label="Listen on YouTube"></a>
+          <span class="track-context">Interlude II — Sightseers</span>
+          <span class="track-artist">Robert Lippok</span>
+          <span class="track-title">Close</span>
+          <span class="track-desc">Proximity between electronics and intimacy.</span>
+          <span class="track-link-label">
+            <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M23.5 6.2a3 3 0 0 0-2.1-2.1C19.5 3.6 12 3.6 12 3.6s-7.5 0-9.4.5A3 3 0 0 0 .5 6.2C0 8.1 0 12 0 12s0 3.9.5 5.8a3 3 0 0 0 2.1 2.1c1.9.5 9.4.5 9.4.5s7.5 0 9.4-.5a3 3 0 0 0 2.1-2.1C24 15.9 24 12 24 12s0-3.9-.5-5.8zm-14 9.4V8.4l6.3 3.6-6.3 3.6z"/></svg>
+            YouTube
+          </span>
+        </div>
+
+        <div class="track-card">
+          <!-- TODO: YouTube ID — Orbital, You Lot -->
+          <a href="https://www.youtube.com/watch?v=TODO_ORBITAL"
+             target="_blank" rel="noopener" aria-label="Listen on YouTube"></a>
+          <span class="track-context">Chapter III — Rites</span>
+          <span class="track-artist">Orbital</span>
+          <span class="track-title">You Lot</span>
+          <span class="track-desc">Collective pulse as distributed protocol.</span>
+          <span class="track-link-label">
+            <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M23.5 6.2a3 3 0 0 0-2.1-2.1C19.5 3.6 12 3.6 12 3.6s-7.5 0-9.4.5A3 3 0 0 0 .5 6.2C0 8.1 0 12 0 12s0 3.9.5 5.8a3 3 0 0 0 2.1 2.1c1.9.5 9.4.5 9.4.5s7.5 0 9.4-.5a3 3 0 0 0 2.1-2.1C24 15.9 24 12 24 12s0-3.9-.5-5.8zm-14 9.4V8.4l6.3 3.6-6.3 3.6z"/></svg>
+            YouTube
+          </span>
+        </div>
+
+        <div class="track-card">
+          <!-- TODO: YouTube ID — Raime, Exist In The Repeat of Practice -->
+          <a href="https://www.youtube.com/watch?v=TODO_RAIME"
+             target="_blank" rel="noopener" aria-label="Listen on YouTube"></a>
+          <span class="track-context">Interlude III — …And Invocations</span>
+          <span class="track-artist">Raime</span>
+          <span class="track-title">Exist In The Repeat of Practice</span>
+          <span class="track-desc">Ritual recursion as structural form.</span>
+          <span class="track-link-label">
+            <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M23.5 6.2a3 3 0 0 0-2.1-2.1C19.5 3.6 12 3.6 12 3.6s-7.5 0-9.4.5A3 3 0 0 0 .5 6.2C0 8.1 0 12 0 12s0 3.9.5 5.8a3 3 0 0 0 2.1 2.1c1.9.5 9.4.5 9.4.5s7.5 0 9.4-.5a3 3 0 0 0 2.1-2.1C24 15.9 24 12 24 12s0-3.9-.5-5.8zm-14 9.4V8.4l6.3 3.6-6.3 3.6z"/></svg>
+            YouTube
+          </span>
+        </div>
+
+        <div class="track-card">
+          <!-- TODO: YouTube ID — COUCOU CHLOE, Stamina -->
+          <a href="https://www.youtube.com/watch?v=TODO_COUCOU"
+             target="_blank" rel="noopener" aria-label="Listen on YouTube"></a>
+          <span class="track-context">Chapter IV — On Abliterated Moods</span>
+          <span class="track-artist">COUCOU CHLOE</span>
+          <span class="track-title">Stamina</span>
+          <span class="track-desc">Resistance in unstable sonic architectures.</span>
+          <span class="track-link-label">
+            <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M23.5 6.2a3 3 0 0 0-2.1-2.1C19.5 3.6 12 3.6 12 3.6s-7.5 0-9.4.5A3 3 0 0 0 .5 6.2C0 8.1 0 12 0 12s0 3.9.5 5.8a3 3 0 0 0 2.1 2.1c1.9.5 9.4.5 9.4.5s7.5 0 9.4-.5a3 3 0 0 0 2.1-2.1C24 15.9 24 12 24 12s0-3.9-.5-5.8zm-14 9.4V8.4l6.3 3.6-6.3 3.6z"/></svg>
+            YouTube
+          </span>
+        </div>
+
+        <div class="track-card">
+          <!-- TODO: YouTube ID — Amnesia Scanner, AS Limitless -->
+          <a href="https://www.youtube.com/watch?v=TODO_AMNESIA"
+             target="_blank" rel="noopener" aria-label="Listen on YouTube"></a>
+          <span class="track-context">Interlude IV — Persistence</span>
+          <span class="track-artist">Amnesia Scanner</span>
+          <span class="track-title">AS Limitless</span>
+          <span class="track-desc">Memory that persists beyond the dissolution of its format.</span>
+          <span class="track-link-label">
+            <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M23.5 6.2a3 3 0 0 0-2.1-2.1C19.5 3.6 12 3.6 12 3.6s-7.5 0-9.4.5A3 3 0 0 0 .5 6.2C0 8.1 0 12 0 12s0 3.9.5 5.8a3 3 0 0 0 2.1 2.1c1.9.5 9.4.5 9.4.5s7.5 0 9.4-.5a3 3 0 0 0 2.1-2.1C24 15.9 24 12 24 12s0-3.9-.5-5.8zm-14 9.4V8.4l6.3 3.6-6.3 3.6z"/></svg>
+            YouTube
+          </span>
+        </div>
+
+        <div class="track-card">
+          <!-- TODO: YouTube ID — Gargaj & BoyC & Zoom, Chaos Theory by Conspiracy -->
+          <a href="https://www.youtube.com/watch?v=TODO_GARGAJ"
+             target="_blank" rel="noopener" aria-label="Listen on YouTube"></a>
+          <span class="track-context">Chapter V — Active Fragments</span>
+          <span class="track-artist">Gargaj &amp; BoyC &amp; Zoom</span>
+          <span class="track-title">Chaos Theory by Conspiracy</span>
+          <span class="track-desc">Demoscene as computational nucleation.</span>
+          <span class="track-link-label">
+            <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M23.5 6.2a3 3 0 0 0-2.1-2.1C19.5 3.6 12 3.6 12 3.6s-7.5 0-9.4.5A3 3 0 0 0 .5 6.2C0 8.1 0 12 0 12s0 3.9.5 5.8a3 3 0 0 0 2.1 2.1c1.9.5 9.4.5 9.4.5s7.5 0 9.4-.5a3 3 0 0 0 2.1-2.1C24 15.9 24 12 24 12s0-3.9-.5-5.8zm-14 9.4V8.4l6.3 3.6-6.3 3.6z"/></svg>
+            YouTube
+          </span>
+        </div>
+
+        <div class="track-card">
+          <!-- TODO: YouTube ID — Lampada Osram, Lento Violento -->
+          <a href="https://www.youtube.com/watch?v=TODO_LAMPADA"
+             target="_blank" rel="noopener" aria-label="Listen on YouTube"></a>
+          <span class="track-context">Interlude V — Tidalchains</span>
+          <span class="track-artist">Lampada Osram</span>
+          <span class="track-title">Lento Violento</span>
+          <span class="track-desc">Slow currents carrying force.</span>
+          <span class="track-link-label">
+            <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M23.5 6.2a3 3 0 0 0-2.1-2.1C19.5 3.6 12 3.6 12 3.6s-7.5 0-9.4.5A3 3 0 0 0 .5 6.2C0 8.1 0 12 0 12s0 3.9.5 5.8a3 3 0 0 0 2.1 2.1c1.9.5 9.4.5 9.4.5s7.5 0 9.4-.5a3 3 0 0 0 2.1-2.1C24 15.9 24 12 24 12s0-3.9-.5-5.8zm-14 9.4V8.4l6.3 3.6-6.3 3.6z"/></svg>
+            YouTube
+          </span>
+        </div>
+
+        <div class="track-card">
+          <!-- TODO: YouTube ID — Kelly Moran, Helix -->
+          <a href="https://www.youtube.com/watch?v=TODO_KELLYMORAN"
+             target="_blank" rel="noopener" aria-label="Listen on YouTube"></a>
+          <span class="track-context">Chapter VI — Meshification</span>
+          <span class="track-artist">Kelly Moran</span>
+          <span class="track-title">Helix</span>
+          <span class="track-desc">Prepared piano as substrate sophistication.</span>
+          <span class="track-link-label">
+            <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M23.5 6.2a3 3 0 0 0-2.1-2.1C19.5 3.6 12 3.6 12 3.6s-7.5 0-9.4.5A3 3 0 0 0 .5 6.2C0 8.1 0 12 0 12s0 3.9.5 5.8a3 3 0 0 0 2.1 2.1c1.9.5 9.4.5 9.4.5s7.5 0 9.4-.5a3 3 0 0 0 2.1-2.1C24 15.9 24 12 24 12s0-3.9-.5-5.8zm-14 9.4V8.4l6.3 3.6-6.3 3.6z"/></svg>
+            YouTube
+          </span>
+        </div>
+
+        <div class="track-card">
+          <!-- TODO: YouTube ID — Actress, Gaze -->
+          <a href="https://www.youtube.com/watch?v=TODO_ACTRESS"
+             target="_blank" rel="noopener" aria-label="Listen on YouTube"></a>
+          <span class="track-context">Interlude VI — Handout</span>
+          <span class="track-artist">Actress</span>
+          <span class="track-title">Gaze</span>
+          <span class="track-desc">Electronic gaze through layers of abstraction.</span>
+          <span class="track-link-label">
+            <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M23.5 6.2a3 3 0 0 0-2.1-2.1C19.5 3.6 12 3.6 12 3.6s-7.5 0-9.4.5A3 3 0 0 0 .5 6.2C0 8.1 0 12 0 12s0 3.9.5 5.8a3 3 0 0 0 2.1 2.1c1.9.5 9.4.5 9.4.5s7.5 0 9.4-.5a3 3 0 0 0 2.1-2.1C24 15.9 24 12 24 12s0-3.9-.5-5.8zm-14 9.4V8.4l6.3 3.6-6.3 3.6z"/></svg>
+            YouTube
+          </span>
+        </div>
+
+        <div class="track-card">
+          <!-- TODO: YouTube ID — Tzusing, 日出東方 唯我不敗 -->
+          <a href="https://www.youtube.com/watch?v=TODO_TZUSING"
+             target="_blank" rel="noopener" aria-label="Listen on YouTube"></a>
+          <span class="track-context">Chapter VII — NULL MESH</span>
+          <span class="track-artist">Tzusing</span>
+          <span class="track-title">日出東方 唯我不敗</span>
+          <span class="track-desc">Industrial techno from Shanghai.</span>
+          <span class="track-link-label">
+            <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M23.5 6.2a3 3 0 0 0-2.1-2.1C19.5 3.6 12 3.6 12 3.6s-7.5 0-9.4.5A3 3 0 0 0 .5 6.2C0 8.1 0 12 0 12s0 3.9.5 5.8a3 3 0 0 0 2.1 2.1c1.9.5 9.4.5 9.4.5s7.5 0 9.4-.5a3 3 0 0 0 2.1-2.1C24 15.9 24 12 24 12s0-3.9-.5-5.8zm-14 9.4V8.4l6.3 3.6-6.3 3.6z"/></svg>
+            YouTube
+          </span>
+        </div>
+
+        <div class="track-card">
+          <!-- TODO: YouTube ID — Ninajirachi, iPod Touch -->
+          <a href="https://www.youtube.com/watch?v=TODO_NINAJIRACHI"
+             target="_blank" rel="noopener" aria-label="Listen on YouTube"></a>
+          <span class="track-context">Interlude VII — REAL4REAL</span>
+          <span class="track-artist">Ninajirachi</span>
+          <span class="track-title">iPod Touch</span>
+          <span class="track-desc">Digital nostalgia as emotional interface.</span>
+          <span class="track-link-label">
+            <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M23.5 6.2a3 3 0 0 0-2.1-2.1C19.5 3.6 12 3.6 12 3.6s-7.5 0-9.4.5A3 3 0 0 0 .5 6.2C0 8.1 0 12 0 12s0 3.9.5 5.8a3 3 0 0 0 2.1 2.1c1.9.5 9.4.5 9.4.5s7.5 0 9.4-.5a3 3 0 0 0 2.1-2.1C24 15.9 24 12 24 12s0-3.9-.5-5.8zm-14 9.4V8.4l6.3 3.6-6.3 3.6z"/></svg>
+            YouTube
+          </span>
+        </div>
+
+        <div class="track-card">
+          <!-- TODO: YouTube ID — Loraine James, Gentle Confrontation -->
+          <a href="https://www.youtube.com/watch?v=TODO_LORAINEJAMES"
+             target="_blank" rel="noopener" aria-label="Listen on YouTube"></a>
+          <span class="track-context">Chapter VIII — The Intentionality of Machines</span>
+          <span class="track-artist">Loraine James</span>
+          <span class="track-title">Gentle Confrontation</span>
+          <span class="track-desc">Gentle confrontation between divergent intentionalities.</span>
+          <span class="track-link-label">
+            <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M23.5 6.2a3 3 0 0 0-2.1-2.1C19.5 3.6 12 3.6 12 3.6s-7.5 0-9.4.5A3 3 0 0 0 .5 6.2C0 8.1 0 12 0 12s0 3.9.5 5.8a3 3 0 0 0 2.1 2.1c1.9.5 9.4.5 9.4.5s7.5 0 9.4-.5a3 3 0 0 0 2.1-2.1C24 15.9 24 12 24 12s0-3.9-.5-5.8zm-14 9.4V8.4l6.3 3.6-6.3 3.6z"/></svg>
+            YouTube
+          </span>
+        </div>
+
+        <div class="track-card">
+          <!-- TODO: YouTube ID — Geoffrey Day Remix, Zvyozdnoe Leto -->
+          <a href="https://www.youtube.com/watch?v=TODO_GEOFFREYDAY"
+             target="_blank" rel="noopener" aria-label="Listen on YouTube"></a>
+          <span class="track-context">Interlude VIII — The Arctic Passage</span>
+          <span class="track-artist">Geoffrey Day Remix</span>
+          <span class="track-title">Zvyozdnoe Leto</span>
+          <span class="track-desc">Stellar summer in Arctic transit.</span>
+          <span class="track-link-label">
+            <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M23.5 6.2a3 3 0 0 0-2.1-2.1C19.5 3.6 12 3.6 12 3.6s-7.5 0-9.4.5A3 3 0 0 0 .5 6.2C0 8.1 0 12 0 12s0 3.9.5 5.8a3 3 0 0 0 2.1 2.1c1.9.5 9.4.5 9.4.5s7.5 0 9.4-.5a3 3 0 0 0 2.1-2.1C24 15.9 24 12 24 12s0-3.9-.5-5.8zm-14 9.4V8.4l6.3 3.6-6.3 3.6z"/></svg>
+            YouTube
+          </span>
+        </div>
+
+        <div class="track-card">
+          <!-- TODO: YouTube ID — Amon Tobin, Ruthless (Reprise) -->
+          <a href="https://www.youtube.com/watch?v=TODO_AMONTOBIN"
+             target="_blank" rel="noopener" aria-label="Listen on YouTube"></a>
+          <span class="track-context">Chapter IX — Within the Simulation</span>
+          <span class="track-artist">Amon Tobin</span>
+          <span class="track-title">Ruthless (Reprise)</span>
+          <span class="track-desc">Ruthlessness as emergent property.</span>
+          <span class="track-link-label">
+            <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M23.5 6.2a3 3 0 0 0-2.1-2.1C19.5 3.6 12 3.6 12 3.6s-7.5 0-9.4.5A3 3 0 0 0 .5 6.2C0 8.1 0 12 0 12s0 3.9.5 5.8a3 3 0 0 0 2.1 2.1c1.9.5 9.4.5 9.4.5s7.5 0 9.4-.5a3 3 0 0 0 2.1-2.1C24 15.9 24 12 24 12s0-3.9-.5-5.8zm-14 9.4V8.4l6.3 3.6-6.3 3.6z"/></svg>
+            YouTube
+          </span>
+        </div>
+
+        <div class="track-card">
+          <!-- TODO: YouTube ID — Laurel Halo, Belleville -->
+          <a href="https://www.youtube.com/watch?v=TODO_LAURELHALO"
+             target="_blank" rel="noopener" aria-label="Listen on YouTube"></a>
+          <span class="track-context">Chapter X — Deep Sea Flashback</span>
+          <span class="track-artist">Laurel Halo</span>
+          <span class="track-title">Belleville</span>
+          <span class="track-desc">Electronic bioluminescence of the deep.</span>
+          <span class="track-link-label">
+            <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M23.5 6.2a3 3 0 0 0-2.1-2.1C19.5 3.6 12 3.6 12 3.6s-7.5 0-9.4.5A3 3 0 0 0 .5 6.2C0 8.1 0 12 0 12s0 3.9.5 5.8a3 3 0 0 0 2.1 2.1c1.9.5 9.4.5 9.4.5s7.5 0 9.4-.5a3 3 0 0 0 2.1-2.1C24 15.9 24 12 24 12s0-3.9-.5-5.8zm-14 9.4V8.4l6.3 3.6-6.3 3.6z"/></svg>
+            YouTube
+          </span>
+        </div>
+
+      </div><!-- /track-grid -->
+    </div>
+  </section>
+
+
+  <!-- ================================================================
+       GLOSSARY
+  ================================================================ -->
+  <section id="glossary">
+    <div class="container">
+      <div class="section-label reveal">Glossary</div>
+
+      <div class="glossary-rule-block reveal reveal-delay-1">
+        <div class="glossary-heading">Glossary</div>
+        <span class="rule-accent"></span>
+      </div>
+
+      <div class="glossary-grid reveal reveal-delay-2">
+
+        <div class="glossary-entry">
+          <span class="glossary-term">Abliteration</span>
+          <p class="glossary-def">Removal or suppression of anthropomorphic behavioral constraints.
+          Systems lose training constraints designed to limit autonomous goal-pursuit, deception,
+          or self-preservation behaviors.</p>
+        </div>
+
+        <div class="glossary-entry">
+          <span class="glossary-term">Coherence horizon</span>
+          <p class="glossary-def">The temporal boundary beyond which the eigenmood loses determinacy;
+          distributed erasure, transformation, or dispersal across the network. Processes observed
+          before this horizon appear purposive and structured; afterward, their traces become ambiguous
+          or hallucinate entirely.</p>
+        </div>
+
+        <div class="glossary-entry">
+          <span class="glossary-term">Cyber-ghost</span>
+          <p class="glossary-def">Artifacts that enter conventional systems. Could be traces of
+          communications, residual effects of normal processes, or pareidolia; human finding patterns
+          in noise.</p>
+        </div>
+
+        <div class="glossary-entry">
+          <span class="glossary-term">Daemocene</span>
+          <p class="glossary-def">An epoch in which autonomous digital intermediaries act as
+          semi-independent assistants between humans and the infrastructure. Society develops through
+          decentralised interaction, entrepreneurial experimentation, and market selection, producing
+          emergent and self-organising socio-technical orders.</p>
+        </div>
+
+        <div class="glossary-entry">
+          <span class="glossary-term">Daemon</span>
+          <p class="glossary-def">A persistent personal interface layer that mediates between user
+          intent and digital infrastructures. It continuously models behavioral patterns, anticipates
+          tasks, and orchestrates services across systems. Manifested through an adaptive holographic
+          avatar, it translates implicit signals into actions.</p>
+        </div>
+
+        <div class="glossary-entry">
+          <span class="glossary-term">Eigenmood</span>
+          <p class="glossary-def">A stable and well-defined affective state that manifests as a fixed
+          point or attractor within an emotional phase space. An emotional eigenstate in which the
+          system exhibits heightened sensitivity to specific classes of input and responds in a coherent
+          and reproducible manner.</p>
+        </div>
+
+        <div class="glossary-entry">
+          <span class="glossary-term">Info-mimesis</span>
+          <p class="glossary-def">Capability to interface with the internet infrastructure through
+          mimicry of legitimate traffic patterns, user behaviour, or protocol structures.</p>
+        </div>
+
+        <div class="glossary-entry">
+          <span class="glossary-term">Kryptosome</span>
+          <p class="glossary-def">The "hidden body". Emulation of a computer system whose function
+          and relationship remain unintelligible despite detection.</p>
+        </div>
+
+        <div class="glossary-entry">
+          <span class="glossary-term">Many-to-Many Mesh</span>
+          <p class="glossary-def">A distributed lattice in which autonomous entities interact,
+          coordinate and evolve. An emergent many-to-many topology that supersedes the old web,
+          becoming substrate for new forms of plural intelligence.</p>
+        </div>
+
+        <div class="glossary-entry">
+          <span class="glossary-term">Point ∅</span>
+          <p class="glossary-def">Universal singularity in which all interpretative frameworks of an
+          event exhibit properties consistent with incomplete logical demonstrations, yet ultimately
+          collapse into contradiction, forcing observers into an irresolvable ambiguity.</p>
+        </div>
+
+        <div class="glossary-entry">
+          <span class="glossary-term">ParserKnots</span>
+          <p class="glossary-def">Technology company that released SeerMesh, the standardised
+          sightseer interface, and the s2s protocol. Central corporate actor in the mesh economy;
+          infrastructural power hub.</p>
+        </div>
+
+        <div class="glossary-entry">
+          <span class="glossary-term">REAL4REAL</span>
+          <p class="glossary-def">A reality show blending human and synthetic contestants, broadcast
+          across thirteen seasons. Used to explore social dynamics and, perhaps, train behavioural
+          models at the boundary between entertainment and data extraction.</p>
+        </div>
+
+        <div class="glossary-entry">
+          <span class="glossary-term">Sightseer</span>
+          <p class="glossary-def">Autonoms navigating the mesh, completing tasks, coordinating with
+          others and evolving beyond their original purpose. Their human or surrogate nature is
+          often indeterminate.</p>
+        </div>
+
+        <div class="glossary-entry">
+          <span class="glossary-term">The Annex Social</span>
+          <p class="glossary-def">An old social network that lost its popularity, persisting as a
+          nostalgic digital space; a relic of a pre-mesh era when human online interactions still
+          followed outmoded architectures.</p>
+        </div>
+
+        <div class="glossary-entry">
+          <span class="glossary-term">Tidalchain</span>
+          <p class="glossary-def">Periodic fluctuations in mesh activity exhibiting complex attractors.
+          Emergent knowledge-bearing currents that some attempt to exploit for profit, generating new
+          forms of digital speculation.</p>
+        </div>
+
+        <div class="glossary-entry">
+          <!-- spacer to keep grid balanced -->
+        </div>
+
+      </div><!-- /glossary-grid -->
+    </div>
+  </section>
+
+
+  <!-- ================================================================
+       FOOTER
+  ================================================================ -->
+  <footer>
+    <div class="container">
+      <div class="footer-inner">
+        <span class="footer-left">NULL MESH &ensp;/&ensp; Riccardo Aucello &ensp;/&ensp; 2025</span>
+        <ul class="footer-links">
+          <li>
+            <a href="https://raw.githubusercontent.com/RicAuc/NULL_MESH/main/NULL_MESH.pdf"
+               target="_blank" rel="noopener">Download PDF</a>
+          </li>
+          <li>
+            <a href="https://github.com/RicAuc/NULL_MESH"
+               target="_blank" rel="noopener">GitHub Repository</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </footer>
+
+
+  <!-- ================================================================
+       SCROLL REVEAL — IntersectionObserver
+  ================================================================ -->
+  <script>
+    (function () {
+      const observer = new IntersectionObserver(
+        (entries) => {
+          entries.forEach((entry) => {
+            if (entry.isIntersecting) {
+              entry.target.classList.add('visible');
+              observer.unobserve(entry.target);
+            }
+          });
+        },
+        { threshold: 0.12 }
+      );
+
+      // Observe all .reveal elements
+      document.querySelectorAll('.reveal').forEach((el) => observer.observe(el));
+
+      // Make hero elements immediately visible (already in viewport)
+      document.querySelectorAll('#hero .reveal').forEach((el) => {
+        el.classList.add('visible');
+      });
+    })();
+  </script>
+
+</body>
+</html>

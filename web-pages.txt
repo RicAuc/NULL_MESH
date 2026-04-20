@@ -47,6 +47,8 @@ Yes add clearly-marked <!-- TODO: YouTube ID --> placeholders and yes the downlo
 
 ###
 
-Nice! Now the GitHub page works. This is a really good start good point since the we page is perfectly working ect. But still we are very far from the references style strucure. 
+Nice! Now the GitHub page works. This is a really good start good point since the we page is perfectly working ect. But still we are very far from the references style structure. 
 
 Currently, the @docs is too simple (look at the original '/Users/riccardo/Repositories/skill-creator-skills/skills/graphical-copy-paster/ideas/x15venture' how many files constitute the web page beside 'index.html'), and in addition neither the structure and organisation of the reference is match at all. How we can proceed to reach that result ? I repeat we have to reach the very same web page but with the NULL MESH features
+
+###

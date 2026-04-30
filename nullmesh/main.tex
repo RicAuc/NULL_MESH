@@ -194,7 +194,7 @@
     linkcolor=nullmesh-dark,
     urlcolor=nullmesh-accent,
     citecolor=nullmesh-gray,
-    pdfauthor={Riccardo Pascuzzo},
+    pdfauthor={Riccardo Aucello},
     pdftitle={NULL MESH},
     pdfsubject={A Novel},
     pdfkeywords={AI, emergence, epistemology},
@@ -440,6 +440,9 @@
 \clearpage
 \input{front/epigraph}
 
+\clearpage
+\input{back/backbone}
+
 % ============================================================================
 % MAIN MATTER
 % ============================================================================
@@ -495,6 +498,42 @@
 \end{academicpaper}
 \end{blackpaper}
 
+% ============================================================================
+% DOUBLE-PAGE FIGURE — Acausal Correspondence
+% Inserted between The Black Paper and Chapter X.
+% The blackpaper environment has already restored pagecolor{white}.
+% This section occupies exactly two portrait pages, with no headers,
+% footers or page numbers: the landscape figure fills both pages.
+%
+% Mechanism: pdfpages with landscape=true on a 6x9 portrait book scales
+% the landscape PDF page to fill the physical page. Two consecutive calls
+% produce the left and right halves of the double spread.
+% pagecommand={} suppresses all active page styles for both pages,
+% including the document page counter.
+% ============================================================================
+\cleardoublepage
+\includepdf[
+    pages=1,
+    landscape=true,
+    fitpaper=false,
+    scale=1,
+    offset=0 0,
+    pagecommand={\thispagestyle{empty}}
+]{figures/figure-EN.pdf}
+\includepdf[
+    pages=1,
+    landscape=true,
+    fitpaper=false,
+    scale=1,
+    offset=0 0,
+    pagecommand={\thispagestyle{empty}}
+]{figures/figure-EN.pdf}
+
+\cleardoublepage
+\pagestyle{empty}
+\null\thispagestyle{empty}
+\clearpage
+
 % ——— Chapter X ———
 \clearpage
 \input{chapters/ch09_deep_sea_flashback}
@@ -516,9 +555,6 @@
 
 \clearpage
 \input{back/tracksources}
-
-\clearpage
-\input{back/backbone}
 
 % ============================================================================
 % BLANK PAGE BEFORE BACK COVER

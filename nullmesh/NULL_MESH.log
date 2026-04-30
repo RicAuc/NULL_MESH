@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.12.18)  1 APR 2026 16:51
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2026.4.6)  25 APR 2026 15:40
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1300,15 +1300,23 @@ LaTeX Font Info:    Font shape `T1/phv/m/it' in size <6> not available
 
 ])
 
-[3]
+[3] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/backbone.tex
 
 [4
 
 
 ]
+
+[5]
+
+[6]
+
+[7])
+
+[8]
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch01_the_sediment.tex
 Chapter 1.
-<qrs/ch01_basinski.png, id=182, 240.9pt x 240.9pt>
+<qrs/ch01_basinski.png, id=179, 240.9pt x 240.9pt>
 File: qrs/ch01_basinski.png Graphic file (type png)
 <use qrs/ch01_basinski.png>
 Package pdftex.def Info: qrs/ch01_basinski.png  used on input line 5.
@@ -1323,6 +1331,8 @@ been already used, duplicate ignored
 l.14 F
       or centuries, it served as our emblem of knowledge. The instrument tha...
 [1
+
+
 
 
  </Users/riccardo/Repositories/NULL_MESH/nullmesh/qrs/ch01_basinski.png>]
@@ -1366,41 +1376,32 @@ File: mt-ppl.cfg 2005/11/16 v1.6 microtype config. file: Palatino (RS)
 
 
 ]
-Underfull \hbox (badness 4291) in paragraph at lines 23--24
+Underfull \hbox (badness 3179) in paragraph at lines 31--32
+\T1/ppl/m/n/10 (+10) Con-scious-ness re-quired em-bod-i-ment, for which no ev-i
+-dence
+ []
+
+
+
+[8]
+Underfull \hbox (badness 4291) in paragraph at lines 40--41
 []\T1/phv/m/n/10.95 (+10) Theological re-sponses emerged spon-ta-neously, in-de
 -pen-dently,
  []
 
 
 
-[8]
-
 [9]
-Overfull \hbox (6.4048pt too wide) in paragraph at lines 59--59
-\T1/phv/m/n/6 (-10) wonkwo_7719'' 
- []
-
-
 
 [10]
-Underfull \hbox (badness 10000) in paragraph at lines 72--73
-
- []
-
-
 
 [11]
-Underfull \hbox (badness 10000) in paragraph at lines 112--119
-
- []
-
-
 
 [12])
-
-[13]
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch02_attention_of_mac
 hines.tex
+
+[13]
 
 [14]
 Chapter 2.
@@ -1414,6 +1415,11 @@ Package pdftex.def Info: qrs/ch01_basinski.png  used on input line 5.
 
 
 ]
+Overfull \hbox (5.81746pt too wide) in paragraph at lines 24--24
+\T1/phv/m/n/6 (-10) wonkwo_7719' 
+ []
+
+
 
 [16]
 
@@ -1421,9 +1427,9 @@ Package pdftex.def Info: qrs/ch01_basinski.png  used on input line 5.
 
 [18]
 
-[19]
+[19])
 
-[20])
+[20]
 
 [21]
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc02_sightseers.te
@@ -1433,11 +1439,31 @@ File: qrs/ch01_basinski.png Graphic file (type png)
 Package pdftex.def Info: qrs/ch01_basinski.png  used on input line 4.
 (pdftex.def)             Requested size: 90.3375pt x 90.33727pt.
 
+Underfull \hbox (badness 10000) in paragraph at lines 15--17
+
+ []
+
+
 
 [22
 
 
 ]
+Underfull \hbox (badness 10000) in paragraph at lines 18--19
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--31
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--33
+
+ []
+
+
 
 [23]
 
@@ -1473,6 +1499,21 @@ Package pdftex.def Info: qrs/ch01_basinski.png  used on input line 3.
 
 
 ]
+Underfull \hbox (badness 10000) in paragraph at lines 32--34
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--36
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--38
+
+ []
+
+
 
 [31])
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch03_on_abliterated_m
@@ -1493,7 +1534,7 @@ Package pdftex.def Info: qrs/ch01_basinski.png  used on input line 5.
 
 [34]
 LaTeX Font Info:    Trying to load font information for TS1+phv on input line 4
-3.
+4.
  (/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/ts1phv.fd
 File: ts1phv.fd 2020/03/25 scalable font definitions for TS1/phv.
 )
@@ -1522,9 +1563,9 @@ Package pdftex.def Info: qrs/ch01_basinski.png  used on input line 4.
 ]
 
 [39]
-Underfull \hbox (badness 1521) in paragraph at lines 62--63
-\T1/phv/m/n/10.95 (+10) De-tects lo-cal-ized vor-tices main-tain-ing co-her-enc
-e across time.
+Underfull \hbox (badness 1931) in paragraph at lines 85--86
+\T1/ppl/m/n/10 (+10) De-tects lo-calised vor-tices main-tain-ing co-her-ence ac
+ross time.
  []
 
 
@@ -1615,12 +1656,15 @@ Package pdftex.def Info: qrs/ch01_basinski.png  used on input line 3.
 
 [59]
 
-[60]
-
-[61])
+[60])
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch06_null_mesh.tex
 
-[62]
+[61]
+
+[62
+
+
+]
 Chapter 7.
 File: qrs/ch01_basinski.png Graphic file (type png)
 <use qrs/ch01_basinski.png>
@@ -1645,10 +1689,7 @@ File: c70bsmi.fd 2021/10/16 4.8.5
 File: c70bsmi.fdx 2021/10/16 4.8.5
 )
 
-[63
-
-
-]
+[63]
 
 [64]
 
@@ -1702,9 +1743,11 @@ Package pdftex.def Info: qrs/ch01_basinski.png  used on input line 5.
 
 ]
 
-[80])
+[80]
 
-[81]
+[81])
+
+[82]
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc06_the_arctic_pa
 ssage.tex
 File: qrs/ch01_basinski.png Graphic file (type png)
@@ -1713,34 +1756,19 @@ Package pdftex.def Info: qrs/ch01_basinski.png  used on input line 4.
 (pdftex.def)             Requested size: 90.3375pt x 90.33727pt.
 
 
-[82
+[83
 
 
 {/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc}]
 
 
-[83]
-
 [84]
 
-[85]
-Underfull \hbox (badness 4832) in paragraph at lines 76--77
-[]\T1/phv/m/n/10.95 (+10) Deterministic at macro scale, information-theoretical
-ly closed.
- []
-
-
-
-[86])
+[85])
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch08_within_the_simul
 ation.tex
 
-[87]
-
-[88
-
-
-]
+[86]
 Chapter 9.
 File: qrs/ch01_basinski.png Graphic file (type png)
 <use qrs/ch01_basinski.png>
@@ -1748,7 +1776,10 @@ Package pdftex.def Info: qrs/ch01_basinski.png  used on input line 5.
 (pdftex.def)             Requested size: 90.3375pt x 90.33727pt.
 
 
-[89]
+[87
+
+
+]
 Underfull \hbox (badness 1571) in paragraph at lines 16--17
 []\T1/phv/m/n/10.95 (+10) An eigen-mood re-solved weeks ago re-main-ing ac-ces-
 si-ble, un-
@@ -1756,15 +1787,15 @@ si-ble, un-
 
 
 
+[88]
+
+[89]
+
 [90]
 
-[91]
+[91])
 
 [92]
-
-[93])
-
-[94]
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/interludes/doc08_the_black_pap
 er.tex
 Overfull \hbox (4.04611pt too wide) in paragraph at lines 33--33
@@ -1778,16 +1809,15 @@ Underfull \hbox (badness 10000) in paragraph at lines 37--43
 
 
 
-[95
+[93
 
 
 ]
-<figures/fig_acausal_correspondence.png, id=599, 622.325pt x 289.08pt>
-File: figures/fig_acausal_correspondence.png Graphic file (type png)
-<use figures/fig_acausal_correspondence.png>
-Package pdftex.def Info: figures/fig_acausal_correspondence.png  used on input 
-line 52.
-(pdftex.def)             Requested size: 260.17299pt x 120.85257pt.
+<figures/figure-EN.pdf, id=588, 690.58pt x 516.93124pt>
+File: figures/figure-EN.pdf Graphic file (type pdf)
+<use figures/figure-EN.pdf>
+Package pdftex.def Info: figures/figure-EN.pdf  used on input line 52.
+(pdftex.def)             Requested size: 260.17299pt x 194.75583pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 53--53
 [][]\T1/pcr/m/n/10 Figure 9.1[][]: [][]|Schematic representation of acausal
@@ -1821,18 +1851,87 @@ Underfull \hbox (badness 10000) in paragraph at lines 53--53
 
 
 
-[96 </Users/riccardo/Repositories/NULL_MESH/nullmesh/figures/fig_acausal_corres
-pondence.png>]
+[94 </Users/riccardo/Repositories/NULL_MESH/nullmesh/figures/figure-EN.pdf>]
+
+[95]
+
+[96])
 
 [97]
 
-[98])
+[98
 
-[99]
+
+
+]
+File: figures/figure-EN.pdf Graphic file (type pdf)
+<use figures/figure-EN.pdf>
+Package pdftex.def Info: figures/figure-EN.pdf  used on input line 522.
+(pdftex.def)             Requested size: 690.57831pt x 516.92998pt.
+<figures/figure-EN.pdf, id=1090, page=1, 690.58pt x 516.93124pt>
+File: figures/figure-EN.pdf Graphic file (type pdf)
+<use figures/figure-EN.pdf, page 1>
+Package pdftex.def Info: figures/figure-EN.pdf , page1 used on input line 522.
+(pdftex.def)             Requested size: 690.57831pt x 516.92998pt.
+File: figures/figure-EN.pdf Graphic file (type pdf)
+<use figures/figure-EN.pdf, page 1>
+Package pdftex.def Info: figures/figure-EN.pdf , page1 used on input line 522.
+(pdftex.def)             Requested size: 690.57831pt x 516.92998pt.
+File: figures/figure-EN.pdf Graphic file (type pdf)
+<use figures/figure-EN.pdf, page 1>
+Package pdftex.def Info: figures/figure-EN.pdf , page1 used on input line 522.
+(pdftex.def)             Requested size: 690.57831pt x 516.92998pt.
+File: figures/figure-EN.pdf Graphic file (type pdf)
+<use figures/figure-EN.pdf, page 1>
+Package pdftex.def Info: figures/figure-EN.pdf , page1 used on input line 522.
+(pdftex.def)             Requested size: 690.57831pt x 516.92998pt.
+
+
+File: figures/figure-EN.pdf Graphic file (type pdf)
+<use figures/figure-EN.pdf, page 1>
+Package pdftex.def Info: figures/figure-EN.pdf , page1 used on input line 522.
+(pdftex.def)             Requested size: 690.57831pt x 516.92998pt.
+[99
+
+ </Users/riccardo/Repositories/NULL_MESH/nullmesh/figures/figure-EN.pdf>]
+File: figures/figure-EN.pdf Graphic file (type pdf)
+<use figures/figure-EN.pdf>
+Package pdftex.def Info: figures/figure-EN.pdf  used on input line 530.
+(pdftex.def)             Requested size: 690.57831pt x 516.92998pt.
+File: figures/figure-EN.pdf Graphic file (type pdf)
+<use figures/figure-EN.pdf, page 1>
+Package pdftex.def Info: figures/figure-EN.pdf , page1 used on input line 530.
+(pdftex.def)             Requested size: 690.57831pt x 516.92998pt.
+File: figures/figure-EN.pdf Graphic file (type pdf)
+<use figures/figure-EN.pdf, page 1>
+Package pdftex.def Info: figures/figure-EN.pdf , page1 used on input line 530.
+(pdftex.def)             Requested size: 690.57831pt x 516.92998pt.
+File: figures/figure-EN.pdf Graphic file (type pdf)
+<use figures/figure-EN.pdf, page 1>
+Package pdftex.def Info: figures/figure-EN.pdf , page1 used on input line 530.
+(pdftex.def)             Requested size: 690.57831pt x 516.92998pt.
+File: figures/figure-EN.pdf Graphic file (type pdf)
+<use figures/figure-EN.pdf, page 1>
+Package pdftex.def Info: figures/figure-EN.pdf , page1 used on input line 530.
+(pdftex.def)             Requested size: 690.57831pt x 516.92998pt.
+
+
+File: figures/figure-EN.pdf Graphic file (type pdf)
+<use figures/figure-EN.pdf, page 1>
+Package pdftex.def Info: figures/figure-EN.pdf , page1 used on input line 530.
+(pdftex.def)             Requested size: 690.57831pt x 516.92998pt.
+[100
+
+]
+
+[101
+
+
+]
 (/Users/riccardo/Repositories/NULL_MESH/nullmesh/chapters/ch09_deep_sea_flashba
 ck.tex
 
-[100
+[102
 
 
 
@@ -1845,51 +1944,51 @@ Package pdftex.def Info: qrs/ch01_basinski.png  used on input line 5.
 (pdftex.def)             Requested size: 90.3375pt x 90.33727pt.
 
 
-[101]
-
-[102]
-
 [103]
 
-[104])
+[104]
 
 [105]
 
-[106
+[106])
+
+[107]
+
+[108
 
 
 ] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/epilogue.tex
 
-[107
+[109
 
 
 ]
 
-[108])
+[110])
 
-[109] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/overview.tex
+[111] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/overview.tex
 
-[110
+[112
 
 
 ]
 
-[111])
+[113])
 
-[112] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/glossary_terms.tex
-[113
+[114] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/glossary_terms.tex
+[115
 
 
 ]
 LaTeX Font Info:    Calculating math sizes for size <8.5> on input line 55.
 )
 
-[114] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/tracksources.tex
+[116] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/tracksources.tex
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <9> not available
 (Font)              Font shape `T1/phv/m/sl' tried instead on input line 7.
 
 
-[115
+[117
 
 
 ] (/usr/local/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.enc
@@ -1903,56 +2002,41 @@ LaTeX Font Warning: Font shape `C70/bsmi/m/it' undefined
 
 )
 
-[116] (/Users/riccardo/Repositories/NULL_MESH/nullmesh/back/backbone.tex
-
-[117
-
-
-]
-
 [118]
 
-[119]
-
-[120])
-
-[121]
-
-[122
+[119
 
 
 ]
-
-[123]
-<cover/back-cover.pdf, id=723, 203.76125pt x 306.14375pt>
+<cover/back-cover.pdf, id=1658, 203.76125pt x 306.14375pt>
 File: cover/back-cover.pdf Graphic file (type pdf)
 <use cover/back-cover.pdf>
-Package pdftex.def Info: cover/back-cover.pdf  used on input line 535.
+Package pdftex.def Info: cover/back-cover.pdf  used on input line 571.
 (pdftex.def)             Requested size: 203.76074pt x 306.14299pt.
-<cover/back-cover.pdf, id=725, page=1, 203.76125pt x 306.14375pt>
+<cover/back-cover.pdf, id=1660, page=1, 203.76125pt x 306.14375pt>
 File: cover/back-cover.pdf Graphic file (type pdf)
 <use cover/back-cover.pdf, page 1>
-Package pdftex.def Info: cover/back-cover.pdf , page1 used on input line 535.
+Package pdftex.def Info: cover/back-cover.pdf , page1 used on input line 571.
 (pdftex.def)             Requested size: 203.76074pt x 306.14299pt.
 File: cover/back-cover.pdf Graphic file (type pdf)
 <use cover/back-cover.pdf, page 1>
-Package pdftex.def Info: cover/back-cover.pdf , page1 used on input line 535.
+Package pdftex.def Info: cover/back-cover.pdf , page1 used on input line 571.
 (pdftex.def)             Requested size: 433.10971pt x 650.73135pt.
 File: cover/back-cover.pdf Graphic file (type pdf)
 <use cover/back-cover.pdf, page 1>
-Package pdftex.def Info: cover/back-cover.pdf , page1 used on input line 535.
+Package pdftex.def Info: cover/back-cover.pdf , page1 used on input line 571.
 (pdftex.def)             Requested size: 433.10971pt x 650.73135pt.
 File: cover/back-cover.pdf Graphic file (type pdf)
 <use cover/back-cover.pdf, page 1>
-Package pdftex.def Info: cover/back-cover.pdf , page1 used on input line 535.
+Package pdftex.def Info: cover/back-cover.pdf , page1 used on input line 571.
 (pdftex.def)             Requested size: 433.10971pt x 650.73135pt.
 
 
 File: cover/back-cover.pdf Graphic file (type pdf)
 <use cover/back-cover.pdf, page 1>
-Package pdftex.def Info: cover/back-cover.pdf , page1 used on input line 535.
+Package pdftex.def Info: cover/back-cover.pdf , page1 used on input line 571.
 (pdftex.def)             Requested size: 433.10971pt x 650.73135pt.
-[124
+[120
 
 
  </Users/riccardo/Repositories/NULL_MESH/nullmesh/cover/back-cover.pdf>]
@@ -1966,16 +2050,16 @@ L3 programming layer <2025-01-18>
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package rerunfilecheck Info: File `NULL_MESH.out' has not changed.
-(rerunfilecheck)             Checksum: 41526D17BE8C0762E34340722E680DE9;3455.
+(rerunfilecheck)             Checksum: AD2319DB1B1DE44152A42CD8FAC2214B;3415.
  ) 
 Here is how much of TeX's memory you used:
- 23020 strings out of 473190
- 378866 string characters out of 5715799
- 842089 words of memory out of 5000000
- 45123 multiletter control sequences out of 15000+600000
- 687515 words of font info for 500 fonts, out of 8000000 for 9000
+ 23041 strings out of 473190
+ 379012 string characters out of 5715801
+ 842083 words of memory out of 5000000
+ 45129 multiletter control sequences out of 15000+600000
+ 689747 words of font info for 509 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 108i,17n,107p,1001b,1041s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 108i,18n,107p,1001b,1041s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2025/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu4e.pfb></us
 r/local/texlive/2025/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu51.pfb></usr/loca
 l/texlive/2025/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu55.pfb></usr/local/texl
@@ -1993,13 +2077,14 @@ nts/type1/urw/courier/ucrb8a.pfb></usr/local/texlive/2025/texmf-dist/fonts/type
 lvetic/uhvb8a.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/helvetic/
 uhvr8a.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/helvetic/uhvro8a
 .pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></
-usr/local/texlive/2025/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/loc
-al/texlive/2025/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
+usr/local/texlive/2025/texmf-dist/fonts/type1/urw/palatino/uplbi8a.pfb></usr/lo
+cal/texlive/2025/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/tex
+live/2025/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
 Output written on /Users/riccardo/Repositories/NULL_MESH/nullmesh/NULL_MESH.pdf
- (132 pages, 1187780 bytes).
+ (132 pages, 7477442 bytes).
 PDF statistics:
- 915 PDF objects out of 1000 (max. 8388607)
- 693 compressed objects within 7 object streams
+ 1854 PDF objects out of 2073 (max. 8388607)
+ 1307 compressed objects within 14 object streams
  158 named destinations out of 1000 (max. 500000)
- 137505 words of extra memory for PDF output out of 154059 (max. 10000000)
+ 141616 words of extra memory for PDF output out of 154059 (max. 10000000)
 
